@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCMEMNYGL4TDNR.jpg": {
+      "referenceImageId": "REFIMGCMEMNYGL4TDNR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "H\u0026A Farmhouse Wall Mirror, Rustic Wood Framed Wall Decor Mirror, Barn Door-Inspired Rustic Mirrors for Living Room, Bathroom Vanity, black"
+    },
+    "REFIMGCMGVWYBY3BDWV.jpg": {
+      "referenceImageId": "REFIMGCMGVWYBY3BDWV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6ANCTQQ8LZZM.jpg": {
+      "referenceImageId": "REFIMGC6ANCTQQ8LZZM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimension taken from this Image"
+    },
+    "REFIMGC9JNXRXR1HNT4.jpg": {
+      "referenceImageId": "REFIMGC9JNXRXR1HNT4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUEQHBJ53ZBTE.jpg": {
+      "referenceImageId": "REFIMGCUEQHBJ53ZBTE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ63FAJX3G3UQ.jpg": {
+      "referenceImageId": "REFIMGCZ63FAJX3G3UQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY1WG1Q2FBXMM.jpg": {
+      "referenceImageId": "REFIMGCY1WG1Q2FBXMM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNQ6BPYP15PBG.jpg": {
+      "referenceImageId": "REFIMGCNQ6BPYP15PBG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTWTU3LUJ4TNU.jpg": {
+      "referenceImageId": "REFIMGCTWTU3LUJ4TNU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09G5TNFGG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC33122YE337PM",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 5.08,
+      "widthInCms": 55.12,
+      "heightInCms": 71.12
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 40.0
+}

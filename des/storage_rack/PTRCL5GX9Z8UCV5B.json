@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCBKFR4CM91R8Z.jpg": {
+      "referenceImageId": "REFIMGCBKFR4CM91R8Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYRZVZPK5LC1Z.jpg": {
+      "referenceImageId": "REFIMGCYRZVZPK5LC1Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHEARXDRJD7T1.jpg": {
+      "referenceImageId": "REFIMGCHEARXDRJD7T1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTVMF3H9LKWXA.jpg": {
+      "referenceImageId": "REFIMGCTVMF3H9LKWXA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFN9VZP3JYH5A.jpg": {
+      "referenceImageId": "REFIMGCFN9VZP3JYH5A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVJ8G1V5NP7AY.jpg": {
+      "referenceImageId": "REFIMGCVJ8G1V5NP7AY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "UMDONX Spice Rack 2 Tier Kitchen Countertop Standing Storage Organizer Stainless Steel Spice Bottle Jars Rack Holder with 8 Hooks"
+    }
+  },
+  "asin": "B08Y6ZD44D",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCL5GX9Z8UCV5B",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 25.4,
+      "widthInCms": 42.4,
+      "heightInCms": 45.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 70.0
+}

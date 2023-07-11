@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGC6RR5HL5HTATE.jpg": {
+      "referenceImageId": "REFIMGC6RR5HL5HTATE",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV11UEFUA6KNA.jpg": {
+      "referenceImageId": "REFIMGCV11UEFUA6KNA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUCKBCAAFR23D.jpg": {
+      "referenceImageId": "REFIMGCUCKBCAAFR23D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU6Z9MH6AHJ8H.jpg": {
+      "referenceImageId": "REFIMGCU6Z9MH6AHJ8H",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4DWV0HN7GMUA.jpg": {
+      "referenceImageId": "REFIMGC4DWV0HN7GMUA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8N5GWLZ1F52R.jpg": {
+      "referenceImageId": "REFIMGC8N5GWLZ1F52R",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLN0ZB1CD70NH.jpg": {
+      "referenceImageId": "REFIMGCLN0ZB1CD70NH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Plus desk stand bookstand H type with drawer frontage 65cm white 89-265"
+    },
+    "REFIMGCTA20KNMXTPZX.jpg": {
+      "referenceImageId": "REFIMGCTA20KNMXTPZX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01CU2C0RG",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC7MGFTBE7XMAJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 24.99,
+      "widthInCms": 64.99,
+      "heightInCms": 32.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BOOK_DOCUMENT_STAND",
+  "focalLength": 70.0
+}

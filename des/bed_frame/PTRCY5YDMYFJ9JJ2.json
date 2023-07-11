@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGCAM7D88K3PGHL.jpg": {
+      "referenceImageId": "REFIMGCAM7D88K3PGHL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0TAW06EPP2TB.jpg": {
+      "referenceImageId": "REFIMGC0TAW06EPP2TB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG9GDFH0AWH88.jpg": {
+      "referenceImageId": "REFIMGCG9GDFH0AWH88",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAYBRY5UTCVGV.jpg": {
+      "referenceImageId": "REFIMGCAYBRY5UTCVGV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCR3QW39FLWLE2.jpg": {
+      "referenceImageId": "REFIMGCR3QW39FLWLE2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Harper \u0026 Bright Designs Upholstered Full Platform Bed with LED Headboard, Bluetooth Player and USB Charging, Velvet Fabric Full Size Bed with Lift Up Storage, No Box Spring Needed (Beige) "
+    },
+    "REFIMGCFMZAJMHQDURT.jpg": {
+      "referenceImageId": "REFIMGCFMZAJMHQDURT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCK82M7L3FK2Y0.jpg": {
+      "referenceImageId": "REFIMGCK82M7L3FK2Y0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCB525C50T4N1Y.jpg": {
+      "referenceImageId": "REFIMGCB525C50T4N1Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ08Y7X09D7L2.jpg": {
+      "referenceImageId": "REFIMGCQ08Y7X09D7L2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BQM2TMC1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCY5YDMYFJ9JJ2",
+  "productDimensionList": [
+    {
+      "productCategory": "Bed",
+      "lengthInCms": 194.0,
+      "widthInCms": 137.0,
+      "heightInCms": 109.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BED_FRAME",
+  "focalLength": 45.0
+}

@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGC8NFZQR8JL41R.jpg": {
+      "referenceImageId": "REFIMGC8NFZQR8JL41R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLWTCX63DGZC8.jpg": {
+      "referenceImageId": "REFIMGCLWTCX63DGZC8",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Use this for depth"
+    },
+    "REFIMGC2BF1KY6T035B.jpg": {
+      "referenceImageId": "REFIMGC2BF1KY6T035B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL122KC8X2YWV.jpg": {
+      "referenceImageId": "REFIMGCL122KC8X2YWV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Motorola moto g 5G (tripla cam 48 MP, batteria 5000 mAH, 5G, 6/128 GB, Display 6.7\" Max Vision Full HD+, Dual SIM, Android 10), Volcanic Grey"
+    },
+    "REFIMGCDLML4ADBEA2E.jpg": {
+      "referenceImageId": "REFIMGCDLML4ADBEA2E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07KVWTS8V",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCNKXKA4L2R5EP",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 0.9,
+      "widthInCms": 7.7,
+      "heightInCms": 16.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 110.0
+}

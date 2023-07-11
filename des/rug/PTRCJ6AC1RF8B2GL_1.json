@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCHDLCU0ZRF19H.jpg": {
+      "referenceImageId": "REFIMGCHDLCU0ZRF19H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW2XNQN182FFA.jpg": {
+      "referenceImageId": "REFIMGCW2XNQN182FFA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Gertmenian Indoor Outdoor Area Rug, Classic Flatweave, Washable, Stain \u0026 UV Resistant Carpet, Deck"
+    },
+    "REFIMGCRWNJDAA52Y2E.jpg": {
+      "referenceImageId": "REFIMGCRWNJDAA52Y2E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAMB7GVHX329L.jpg": {
+      "referenceImageId": "REFIMGCAMB7GVHX329L",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WXVTP91",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJ6AC1RF8B2GL",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 209.0,
+      "widthInCms": 265.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 75.0
+}

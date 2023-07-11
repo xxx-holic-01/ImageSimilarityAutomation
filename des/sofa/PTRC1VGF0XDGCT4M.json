@@ -1,0 +1,70 @@
+{
+  "images": {
+    "REFIMGC7NFZ2VDDXWTC.jpg": {
+      "referenceImageId": "REFIMGC7NFZ2VDDXWTC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBJZYVTZ0Y33F.jpg": {
+      "referenceImageId": "REFIMGCBJZYVTZ0Y33F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLREXR0VRC283.jpg": {
+      "referenceImageId": "REFIMGCLREXR0VRC283",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ6NBJCEWMAZ6.jpg": {
+      "referenceImageId": "REFIMGCQ6NBJCEWMAZ6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY32BWK1XMGKQ.jpg": {
+      "referenceImageId": "REFIMGCY32BWK1XMGKQ",
+      "labels": [],
+      "primary": true,
+      "comment": "WIN FORCE Beige White Velvet Convertible Futon Sofa Bed, Modern Folding Sleeper Sofa Couches with Adjustable Backrest, 3-Seater Loveseat W/Foldable Storage Armrests for Small Living Room , Color  : Beige White"
+    },
+    "REFIMGC8DG6BY5XXKE1.jpg": {
+      "referenceImageId": "REFIMGC8DG6BY5XXKE1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BNQ55ZKJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1VGF0XDGCT4M",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 83.8,
+      "widthInCms": 204.0,
+      "heightInCms": 81.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 45.0
+}

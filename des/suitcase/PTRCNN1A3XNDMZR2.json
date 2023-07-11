@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGCG66HRKVF8DVN.jpg": {
+      "referenceImageId": "REFIMGCG66HRKVF8DVN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Cabin Max Metz 30 Litre Travel Hand Luggage Backpack – Easyjet Underseat  (RPET Recycled Edition Navajo Blue) "
+    },
+    "REFIMGCU3AD30WFBRBY.jpg": {
+      "referenceImageId": "REFIMGCU3AD30WFBRBY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV889M2JNZ5D1.jpg": {
+      "referenceImageId": "REFIMGCV889M2JNZ5D1",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKZQCEHFZ3CUC.jpg": {
+      "referenceImageId": "REFIMGCKZQCEHFZ3CUC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09DKTCDGT",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCNN1A3XNDMZR2",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 30.0,
+      "widthInCms": 36.0,
+      "heightInCms": 55.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 70.0
+}

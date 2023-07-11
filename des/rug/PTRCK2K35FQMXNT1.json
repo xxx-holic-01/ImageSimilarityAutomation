@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGCE29PGA7R32XP.jpg": {
+      "referenceImageId": "REFIMGCE29PGA7R32XP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKTCGQ9GA8R75.jpg": {
+      "referenceImageId": "REFIMGCKTCGQ9GA8R75",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ8WBYQ711BLR.jpg": {
+      "referenceImageId": "REFIMGCZ8WBYQ711BLR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC41VPL342QD4A.jpg": {
+      "referenceImageId": "REFIMGC41VPL342QD4A",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "6Ft Educational Nursery Rug"
+    },
+    "REFIMGCK87K6HF8TAR1.jpg": {
+      "referenceImageId": "REFIMGCK87K6HF8TAR1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0UPM35M807DW.jpg": {
+      "referenceImageId": "REFIMGC0UPM35M807DW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC00M6DRKWW3J0.jpg": {
+      "referenceImageId": "REFIMGC00M6DRKWW3J0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09ZTM4L75",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCK2K35FQMXNT1",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 180.34,
+      "widthInCms": 180.34,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

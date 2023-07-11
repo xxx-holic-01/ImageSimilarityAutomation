@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCLTL751GYYYVM.jpg": {
+      "referenceImageId": "REFIMGCLTL751GYYYVM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX0KQHZ9LHJYN.jpg": {
+      "referenceImageId": "REFIMGCX0KQHZ9LHJYN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCK7VCQVT7PG4H.jpg": {
+      "referenceImageId": "REFIMGCK7VCQVT7PG4H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8DPZTQTWPW51.jpg": {
+      "referenceImageId": "REFIMGC8DPZTQTWPW51",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDR6668243522.jpg": {
+      "referenceImageId": "REFIMGCDR6668243522",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8LM4VHPN74YR.jpg": {
+      "referenceImageId": "REFIMGC8LM4VHPN74YR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "nuLOOM Maryanne Medallion Area Rug 3\u0027 x 5\u0027 Grey"
+    }
+  },
+  "asin": "B0851J5CTN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8Y0THLTLAGHX",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 100.25,
+      "widthInCms": 146.34,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

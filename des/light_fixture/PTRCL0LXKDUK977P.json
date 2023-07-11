@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGC31U9HNV8PDFV.jpg": {
+      "referenceImageId": "REFIMGC31U9HNV8PDFV",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7LTJVYYJYF69.jpg": {
+      "referenceImageId": "REFIMGC7LTJVYYJYF69",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCJ2XVXFNQWPXE.jpg": {
+      "referenceImageId": "REFIMGCJ2XVXFNQWPXE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09TZYD7KP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCL0LXKDUK977P",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.1,
+      "widthInCms": 74.9,
+      "heightInCms": 21.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

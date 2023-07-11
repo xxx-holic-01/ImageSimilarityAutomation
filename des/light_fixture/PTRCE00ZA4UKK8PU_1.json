@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGCJX2JR1L8L32W.jpg": {
+      "referenceImageId": "REFIMGCJX2JR1L8L32W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC97EHECHZH5VM.jpg": {
+      "referenceImageId": "REFIMGC97EHECHZH5VM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Energetic 12 Pack 6 Inch Slim LED Recessed Lighting with Junction Box, 900LM, 3000K Warm White Canless Downlight, 12W\u003d120W Eqv, Dimmable LED Ceiling Lights, ETL Certified (1st lamp used to DA)"
+    },
+    "REFIMGCMYAF7Q3TNTNQ.jpg": {
+      "referenceImageId": "REFIMGCMYAF7Q3TNTNQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08MT9GXX6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCE00ZA4UKK8PU",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 17.5,
+      "widthInCms": 17.5,
+      "heightInCms": 1.19
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

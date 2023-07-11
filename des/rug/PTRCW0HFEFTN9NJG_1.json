@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGCVJPTJQNZD5LY.jpg": {
+      "referenceImageId": "REFIMGCVJPTJQNZD5LY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": "Well Woven Barclay Medallion Kashan Red Traditional Area Rug Oval"
+    },
+    "REFIMGCN2VB5AW6FTD8.jpg": {
+      "referenceImageId": "REFIMGCN2VB5AW6FTD8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3YA1DB74ED6A.jpg": {
+      "referenceImageId": "REFIMGC3YA1DB74ED6A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTBVE1ZE92E4E.jpg": {
+      "referenceImageId": "REFIMGCTBVE1ZE92E4E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDPC0A143YKPZ.jpg": {
+      "referenceImageId": "REFIMGCDPC0A143YKPZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0185SM9CK",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW0HFEFTN9NJG",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 212.0,
+      "widthInCms": 292.61,
+      "heightInCms": 0.76
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

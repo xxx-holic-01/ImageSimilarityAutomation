@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCRMAGPHBQZXQ7.jpg": {
+      "referenceImageId": "REFIMGCRMAGPHBQZXQ7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCB677XCEF5FUG.jpg": {
+      "referenceImageId": "REFIMGCB677XCEF5FUG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC01X22M2137KH.jpg": {
+      "referenceImageId": "REFIMGC01X22M2137KH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVL87BD6P44Y1.jpg": {
+      "referenceImageId": "REFIMGCVL87BD6P44Y1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAHGMXBDLGLKH.jpg": {
+      "referenceImageId": "REFIMGCAHGMXBDLGLKH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC456BNHEGGMVE.jpg": {
+      "referenceImageId": "REFIMGC456BNHEGGMVE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Silver Indoor and Outdoor Galvanized Metal Garden Incinerator Can for Yard Home Patio and Backyard"
+    },
+    "REFIMGCUMTV6UXEC272.jpg": {
+      "referenceImageId": "REFIMGCUMTV6UXEC272",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHFCT4P4L2EZJ.jpg": {
+      "referenceImageId": "REFIMGCHFCT4P4L2EZJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3TG00N4LCZUP.jpg": {
+      "referenceImageId": "REFIMGC3TG00N4LCZUP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BDGGM9BT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC91WFV8H3LHQA",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 45.08,
+      "widthInCms": 45.08,
+      "heightInCms": 77.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 100.0
+}

@@ -1,0 +1,54 @@
+{
+  "images": {
+    "REFIMGCGVV70RFT8L0X.jpg": {
+      "referenceImageId": "REFIMGCGVV70RFT8L0X",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2DHMDR7KCWAF.jpg": {
+      "referenceImageId": "REFIMGC2DHMDR7KCWAF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP7GTLGNWMFH8.jpg": {
+      "referenceImageId": "REFIMGCP7GTLGNWMFH8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB0TWLBREA61B.jpg": {
+      "referenceImageId": "REFIMGCB0TWLBREA61B",
+      "labels": [
+        "COLOR",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TREK BUDDY CARRY ON CABIN HAND LUGGAGE SUITCASE, Lightweight"
+    }
+  },
+  "asin": "B008GN26F0",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCDYGH4UHV8YLJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 27.3,
+      "widthInCms": 33.5,
+      "heightInCms": 61.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 100.0
+}

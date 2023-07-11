@@ -1,0 +1,21 @@
+{
+  "images": {
+    "REFIMGCT9HMUGY25C5N.jpg": {
+      "referenceImageId": "REFIMGCT9HMUGY25C5N",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    }
+  },
+  "asin": "B07PTR8F11",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCE9C9YALNUXH3",
+  "modelWorkflowType": "Texture",
+  "productType": "SHOES"
+}

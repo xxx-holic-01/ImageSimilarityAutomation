@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGC647NUX85T4BT.jpg": {
+      "referenceImageId": "REFIMGC647NUX85T4BT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLYMP8L5URM78.jpg": {
+      "referenceImageId": "REFIMGCLYMP8L5URM78",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "use light off image for modeling -  3 Lights Bathroom Vanity Light,Black and Gold Wall Sconces Lighting Fixtures,Modern Wall Mount Lighting with Glass Shade for Kitchen, Dressing Room, Vanity Table, Powder Room.E26 "
+    },
+    "REFIMGCXQJEHJ0G3P00.jpg": {
+      "referenceImageId": "REFIMGCXQJEHJ0G3P00",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Lioghjt should be in off state "
+    },
+    "REFIMGCU0386815PQDE.jpg": {
+      "referenceImageId": "REFIMGCU0386815PQDE",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09B51VDCZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQUEW3515LZ4R",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.04,
+      "widthInCms": 52.06,
+      "heightInCms": 24.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 65.0
+}

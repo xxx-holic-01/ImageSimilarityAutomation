@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCNCMQANPNCH07.jpg": {
+      "referenceImageId": "REFIMGCNCMQANPNCH07",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLTLR89W7TNRM.jpg": {
+      "referenceImageId": "REFIMGCLTLR89W7TNRM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC600MKTPKFJPN.jpg": {
+      "referenceImageId": "REFIMGC600MKTPKFJPN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJEP0DQ8TK5PH.jpg": {
+      "referenceImageId": "REFIMGCJEP0DQ8TK5PH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC4KRPEBA4X3V.jpg": {
+      "referenceImageId": "REFIMGCC4KRPEBA4X3V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNY5CRV121HR4.jpg": {
+      "referenceImageId": "REFIMGCNY5CRV121HR4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC237E0HN7866F.jpg": {
+      "referenceImageId": "REFIMGC237E0HN7866F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Lintem Porch Lights with GFCI Outlet, Industrial Outdoor Wall Mount Light Fixture Exterior with Rustic Wood Finish Dusk to Dawn Waterproof Wall Lantern for House Garage Doorway, Bulb Not Included"
+    }
+  },
+  "asin": "B0B5X28SHY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8GD6E8T8XCYV",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.5,
+      "widthInCms": 14.5,
+      "heightInCms": 35.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 75.0
+}

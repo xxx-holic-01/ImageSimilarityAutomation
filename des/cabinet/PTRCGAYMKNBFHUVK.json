@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGC2YEVRNEC6R9U.jpg": {
+      "referenceImageId": "REFIMGC2YEVRNEC6R9U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCGUZFTNGK368D.jpg": {
+      "referenceImageId": "REFIMGCGUZFTNGK368D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLFDG3UHMDZEW.jpg": {
+      "referenceImageId": "REFIMGCLFDG3UHMDZEW",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01NBYZ5AY",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCGAYMKNBFHUVK",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 50.0,
+      "widthInCms": 14.0,
+      "heightInCms": 105.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "CABINET",
+  "focalLength": 50.0
+}

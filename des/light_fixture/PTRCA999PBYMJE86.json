@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCYG33XTH39C18.jpg": {
+      "referenceImageId": "REFIMGCYG33XTH39C18",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXVYUWCRHNJW4.jpg": {
+      "referenceImageId": "REFIMGCXVYUWCRHNJW4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC81U5ZJKCEG11.jpg": {
+      "referenceImageId": "REFIMGC81U5ZJKCEG11",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUW9CDBR3TMLA.jpg": {
+      "referenceImageId": "REFIMGCUW9CDBR3TMLA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC51YX0AM3ZTGT.jpg": {
+      "referenceImageId": "REFIMGC51YX0AM3ZTGT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "BOKT Mid Century Wall Sconces Plug in Wall Mounted Light Vintage Wall Sconce with Long Tube Glass Shade Vanity Light Fixture for Bedroom Bedside Bathroom (Dark Green Plug in)"
+    },
+    "REFIMGCHQC5ZXXGT219.jpg": {
+      "referenceImageId": "REFIMGCHQC5ZXXGT219",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZY423TVXAGPH.jpg": {
+      "referenceImageId": "REFIMGCZY423TVXAGPH",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B089D9SVGP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCA999PBYMJE86",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.0,
+      "widthInCms": 10.0,
+      "heightInCms": 78.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCCYFMTF9MM2FQ.jpg": {
+      "referenceImageId": "REFIMGCCYFMTF9MM2FQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD0CELFXV43H7.jpg": {
+      "referenceImageId": "REFIMGCD0CELFXV43H7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFRPRDAVCQR5X.jpg": {
+      "referenceImageId": "REFIMGCFRPRDAVCQR5X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTLTQYL1CW9Z5.jpg": {
+      "referenceImageId": "REFIMGCTLTQYL1CW9Z5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL8EHJJGM5T0G.jpg": {
+      "referenceImageId": "REFIMGCL8EHJJGM5T0G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9KFU4CXNBGLM.jpg": {
+      "referenceImageId": "REFIMGC9KFU4CXNBGLM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Acrylic Stackable Organiser Drawers ,Storage Organiser for Makeup"
+    }
+  },
+  "asin": "B09MTDJLM6",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCW9WPWUK2E7XQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 20.0,
+      "widthInCms": 15.0,
+      "heightInCms": 11.16
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CADDY",
+  "focalLength": 85.0
+}

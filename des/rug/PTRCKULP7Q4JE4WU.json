@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGC9JMXC66MQ3T4.jpg": {
+      "referenceImageId": "REFIMGC9JMXC66MQ3T4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTCX9R0LBRQKY.jpg": {
+      "referenceImageId": "REFIMGCTCX9R0LBRQKY",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC757FA92M8VVN.jpg": {
+      "referenceImageId": "REFIMGC757FA92M8VVN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB8UCNLQU1M2G.jpg": {
+      "referenceImageId": "REFIMGCB8UCNLQU1M2G",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFD1F2L1668GN.jpg": {
+      "referenceImageId": "REFIMGCFD1F2L1668GN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Topotdor Round Kids Play Rug Alphabet Nursery Area Rug Extra Large Soft Crawling Play Mat for Children Toddlers Bedroom (63 inch, Beige) "
+    },
+    "REFIMGC1GU5PT1E21XK.jpg": {
+      "referenceImageId": "REFIMGC1GU5PT1E21XK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0888FTV12",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKULP7Q4JE4WU",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 160.02,
+      "widthInCms": 160.02,
+      "heightInCms": 1.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 90.0
+}

@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCEGJUK4LKQREQ.jpg": {
+      "referenceImageId": "REFIMGCEGJUK4LKQREQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRP6349NTX2HA.jpg": {
+      "referenceImageId": "REFIMGCRP6349NTX2HA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDN8JJK3JWKPF.jpg": {
+      "referenceImageId": "REFIMGCDN8JJK3JWKPF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5W2CRBR3UAV5.jpg": {
+      "referenceImageId": "REFIMGC5W2CRBR3UAV5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "3 in 1 Wheeled Cabin Approved Trolley Travel Bag Flight Backpack Hand Luggage Suitcase Holdall Laptop Bag "
+    },
+    "REFIMGCMA4WF6CEY7HQ.jpg": {
+      "referenceImageId": "REFIMGCMA4WF6CEY7HQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY10T7V24LCNM.jpg": {
+      "referenceImageId": "REFIMGCY10T7V24LCNM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFMLNK1GA8T7T.jpg": {
+      "referenceImageId": "REFIMGCFMLNK1GA8T7T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4B966EP44H89.jpg": {
+      "referenceImageId": "REFIMGC4B966EP44H89",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJFDYKCEWC240.jpg": {
+      "referenceImageId": "REFIMGCJFDYKCEWC240",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07BK79GBZ",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCA2NY1240EB96",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 50.8,
+      "widthInCms": 96.46,
+      "heightInCms": 121.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 60.0
+}

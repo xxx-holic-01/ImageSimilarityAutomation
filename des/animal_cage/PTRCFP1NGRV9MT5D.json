@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCHW20G1VXL4DX.jpg": {
+      "referenceImageId": "REFIMGCHW20G1VXL4DX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRE77KZTKH33J.jpg": {
+      "referenceImageId": "REFIMGCRE77KZTKH33J",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "AllPetSolutions Dog Crate - Heavy-Duty Metal Wire Dog Cage - Foldable Portable Kennel - 2 Front \u0026 Side Gate Doors with Sliding Locks Removable Tray - Pet Carrier for Crate Training Travel - Black"
+    },
+    "REFIMGCK3CVVL712MUD.jpg": {
+      "referenceImageId": "REFIMGCK3CVVL712MUD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4LFLB2LQ9MXY.jpg": {
+      "referenceImageId": "REFIMGC4LFLB2LQ9MXY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR41CD9ZE3NKK.jpg": {
+      "referenceImageId": "REFIMGCR41CD9ZE3NKK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXKU9ZXG4QP5C.jpg": {
+      "referenceImageId": "REFIMGCXKU9ZXG4QP5C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB688AHQDBVCG.jpg": {
+      "referenceImageId": "REFIMGCB688AHQDBVCG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08W9RF338",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCFP1NGRV9MT5D",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 61.0,
+      "widthInCms": 91.0,
+      "heightInCms": 71.53
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ANIMAL_CAGE",
+  "focalLength": 60.0
+}

@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGC7EJ91ERU77J5.jpg": {
+      "referenceImageId": "REFIMGC7EJ91ERU77J5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B079S8QDT3",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC7L4UVQ6P7GQB",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 26.2,
+      "widthInCms": 50.0,
+      "heightInCms": 13.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 60.0
+}

@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCCH3GXRK4K3NC.jpg": {
+      "referenceImageId": "REFIMGCCH3GXRK4K3NC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "2-Slice Toaster, White,   More reference can be seen in product video and costumer images"
+    },
+    "REFIMGCX2445XFY9NLR.jpg": {
+      "referenceImageId": "REFIMGCX2445XFY9NLR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ77WLYUBR811.jpg": {
+      "referenceImageId": "REFIMGCJ77WLYUBR811",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW855UJKPLD8D.jpg": {
+      "referenceImageId": "REFIMGCW855UJKPLD8D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYNH9RJ034Q3C.jpg": {
+      "referenceImageId": "REFIMGCYNH9RJ034Q3C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF8V3HRAKTZBA.jpg": {
+      "referenceImageId": "REFIMGCF8V3HRAKTZBA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01A84QLK0",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCF3WMT7ANKMM8",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 27.8,
+      "widthInCms": 18.2,
+      "heightInCms": 20.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOASTER",
+  "focalLength": 80.0
+}

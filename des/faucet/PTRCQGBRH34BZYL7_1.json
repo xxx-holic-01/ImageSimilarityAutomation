@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCFB6E8XPT81UK.jpg": {
+      "referenceImageId": "REFIMGCFB6E8XPT81UK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6ULWWEBN7CGJ.jpg": {
+      "referenceImageId": "REFIMGC6ULWWEBN7CGJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGH2JRA3NTAQ6.jpg": {
+      "referenceImageId": "REFIMGCGH2JRA3NTAQ6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPV7U5997JDE0.jpg": {
+      "referenceImageId": "REFIMGCPV7U5997JDE0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHJAAG7Z6LQW5.jpg": {
+      "referenceImageId": "REFIMGCHJAAG7Z6LQW5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC499B3JC0XC0F.jpg": {
+      "referenceImageId": "REFIMGC499B3JC0XC0F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Double Handle Waterfall Bathroom Faucets - Brushed Nickel 4 Inch Centerset Sink Faucet, Bathroom Faucets for Sink 2 or 3 Hole, Lavatory Vanity Faucet with Supply, Washbasin Faucet "
+    }
+  },
+  "asin": "B09YGD8PQR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQGBRH34BZYL7",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 17.1,
+      "widthInCms": 23.0,
+      "heightInCms": 15.38
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 80.0
+}

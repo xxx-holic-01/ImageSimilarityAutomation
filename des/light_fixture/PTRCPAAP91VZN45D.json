@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGC9VTFYGYAKR1C.jpg": {
+      "referenceImageId": "REFIMGC9VTFYGYAKR1C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUAKGWWQ97W3A.jpg": {
+      "referenceImageId": "REFIMGCUAKGWWQ97W3A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHG4LYBMWQ1J2.jpg": {
+      "referenceImageId": "REFIMGCHG4LYBMWQ1J2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJRLBMKEQRRA9.jpg": {
+      "referenceImageId": "REFIMGCJRLBMKEQRRA9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCULEZBQQ4Q77J.jpg": {
+      "referenceImageId": "REFIMGCULEZBQQ4Q77J",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wall lights, Bulbs not included, lights should be in off state"
+    }
+  },
+  "asin": "B09BC86LTY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPAAP91VZN45D",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 21.08,
+      "widthInCms": 38.1,
+      "heightInCms": 26.67
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 55.0
+}

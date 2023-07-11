@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCBF40XFJAL3PW.jpg": {
+      "referenceImageId": "REFIMGCBF40XFJAL3PW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH8TCT9VV2D95.jpg": {
+      "referenceImageId": "REFIMGCH8TCT9VV2D95",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB8YKP8XXLN9G.jpg": {
+      "referenceImageId": "REFIMGCB8YKP8XXLN9G",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFMJEBGPDW4DU.jpg": {
+      "referenceImageId": "REFIMGCFMJEBGPDW4DU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "kadision 200W Parking Lot Lights- model in off state"
+    },
+    "REFIMGC6KMR55N653QA.jpg": {
+      "referenceImageId": "REFIMGC6KMR55N653QA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC69CJ8PZQ8XYD.jpg": {
+      "referenceImageId": "REFIMGC69CJ8PZQ8XYD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08TLRGRN1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLA0EVY81J1JJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 9.0,
+      "widthInCms": 31.5,
+      "heightInCms": 28.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 72.0
+}

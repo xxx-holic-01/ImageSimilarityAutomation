@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGC2F5EX5LMKMXF.jpg": {
+      "referenceImageId": "REFIMGC2F5EX5LMKMXF",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF18FWYAPJXQK.jpg": {
+      "referenceImageId": "REFIMGCF18FWYAPJXQK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC95FQK7KAXXZL.jpg": {
+      "referenceImageId": "REFIMGC95FQK7KAXXZL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wenko Barcelona Bathroom Box / Storage Basket with Lid, Completely Unbreakable"
+    },
+    "REFIMGCY6JKLTC3Q498.jpg": {
+      "referenceImageId": "REFIMGCY6JKLTC3Q498",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07PJCRJK2",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCC72UJTPFGG9U",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 16.0,
+      "widthInCms": 19.5,
+      "heightInCms": 11.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "STORAGE_BOX",
+  "focalLength": 80.0
+}

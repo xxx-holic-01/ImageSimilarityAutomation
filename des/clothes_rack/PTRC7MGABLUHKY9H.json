@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCKRKRNTZTVV0M.jpg": {
+      "referenceImageId": "REFIMGCKRKRNTZTVV0M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVB4Z23MFAGAA.jpg": {
+      "referenceImageId": "REFIMGCVB4Z23MFAGAA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU3P5QJL9YLBY.jpg": {
+      "referenceImageId": "REFIMGCU3P5QJL9YLBY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Meerveil Attaccapanni da Terra, Appendiabiti con 3 Scarpiera, Attaccapanni da Mobile Ingresso con Struttura Metallo, Scaffale per Soggiorno, Corridoio, Guardaroba e Ingresso, Nero "
+    },
+    "REFIMGCE876MT2DMAVU.jpg": {
+      "referenceImageId": "REFIMGCE876MT2DMAVU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08D913XK4",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRC7MGABLUHKY9H",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 35.21,
+      "widthInCms": 68.8,
+      "heightInCms": 182.28
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 45.0
+}

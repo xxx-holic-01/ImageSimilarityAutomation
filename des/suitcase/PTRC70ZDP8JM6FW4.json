@@ -1,0 +1,94 @@
+{
+  "images": {
+    "REFIMGCA4ETAXHGBPB0.jpg": {
+      "referenceImageId": "REFIMGCA4ETAXHGBPB0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0L8XB0PUU9U7.jpg": {
+      "referenceImageId": "REFIMGC0L8XB0PUU9U7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5X7KFVEFB5JN.jpg": {
+      "referenceImageId": "REFIMGC5X7KFVEFB5JN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8YPJ7JH2319G.jpg": {
+      "referenceImageId": "REFIMGC8YPJ7JH2319G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC764857YTXE58.jpg": {
+      "referenceImageId": "REFIMGC764857YTXE58",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCRJ603PZ963K.jpg": {
+      "referenceImageId": "REFIMGCCRJ603PZ963K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC4DYMZH5QDTV.jpg": {
+      "referenceImageId": "REFIMGCC4DYMZH5QDTV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "CMY Suitcase Trolley Carry On Hand Cabin Luggage Hard Shell Travel Bag Lightweight Durable 4 Spinner Wheels"
+    },
+    "REFIMGCNKFKYK0T8HTV.jpg": {
+      "referenceImageId": "REFIMGCNKFKYK0T8HTV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07WJ6MF9Z",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC70ZDP8JM6FW4",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 27.0,
+      "widthInCms": 43.0,
+      "heightInCms": 85.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 50.0
+}

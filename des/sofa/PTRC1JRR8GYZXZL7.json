@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGC49T108YWF11E.jpg": {
+      "referenceImageId": "REFIMGC49T108YWF11E",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC52WDE4QG1ZP9.jpg": {
+      "referenceImageId": "REFIMGC52WDE4QG1ZP9",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK4ZAY928AK6W.jpg": {
+      "referenceImageId": "REFIMGCK4ZAY928AK6W",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYKLMHLKXPQPR.jpg": {
+      "referenceImageId": "REFIMGCYKLMHLKXPQPR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC48EHYDKQ90BY.jpg": {
+      "referenceImageId": "REFIMGC48EHYDKQ90BY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HOOOWOOO Small Modern Sectional Sofa Couch L-Shape Sofa "
+    },
+    "REFIMGCHE45A1LJT7A1.jpg": {
+      "referenceImageId": "REFIMGCHE45A1LJT7A1",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTH2DN9QLBWKJ.jpg": {
+      "referenceImageId": "REFIMGCTH2DN9QLBWKJ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFU02G422144X.jpg": {
+      "referenceImageId": "REFIMGCFU02G422144X",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BMQDY2LY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1JRR8GYZXZL7",
+  "productDimensionList": [
+    {
+      "productCategory": "Cushion",
+      "lengthInCms": 127.0,
+      "widthInCms": 218.71,
+      "heightInCms": 80.01
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 80.0
+}

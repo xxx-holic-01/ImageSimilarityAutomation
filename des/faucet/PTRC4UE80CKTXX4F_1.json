@@ -1,0 +1,63 @@
+{
+  "images": {
+    "REFIMGCA3TJAKR11QUG.jpg": {
+      "referenceImageId": "REFIMGCA3TJAKR11QUG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4JE8LTEFURKY.jpg": {
+      "referenceImageId": "REFIMGC4JE8LTEFURKY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMHRLKTQ4XK1C.jpg": {
+      "referenceImageId": "REFIMGCMHRLKTQ4XK1C",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC08FJMD2KP267.jpg": {
+      "referenceImageId": "REFIMGC08FJMD2KP267",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDAKP484H4JK7.jpg": {
+      "referenceImageId": "REFIMGCDAKP484H4JK7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B075QBLX6Y",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4UE80CKTXX4F",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.32,
+      "widthInCms": 30.48,
+      "heightInCms": 20.32
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 50.0
+}

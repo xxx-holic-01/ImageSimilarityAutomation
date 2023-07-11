@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCBEBNM8TYM0TC.jpg": {
+      "referenceImageId": "REFIMGCBEBNM8TYM0TC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBJ62X52N7CGG.jpg": {
+      "referenceImageId": "REFIMGCBJ62X52N7CGG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUJ8FCKKYL6GJ.jpg": {
+      "referenceImageId": "REFIMGCUJ8FCKKYL6GJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYRPJUWQKB22Z.jpg": {
+      "referenceImageId": "REFIMGCYRPJUWQKB22Z",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR6WKN8GV1UYN.jpg": {
+      "referenceImageId": "REFIMGCR6WKN8GV1UYN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Christopher Knight Home Hardt Antique Gold + Mirror"
+    },
+    "REFIMGCDB55T6ECKXYP.jpg": {
+      "referenceImageId": "REFIMGCDB55T6ECKXYP",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPP9LQDR69QEC.jpg": {
+      "referenceImageId": "REFIMGCPP9LQDR69QEC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUZR41253T5JU.jpg": {
+      "referenceImageId": "REFIMGCUZR41253T5JU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0924G6GX2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCE8ZZGZV0Q7VY",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 3.81,
+      "widthInCms": 91.44,
+      "heightInCms": 166.14
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 30.0
+}

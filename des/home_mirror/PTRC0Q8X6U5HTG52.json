@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGC7DRQF8DBV81M.jpg": {
+      "referenceImageId": "REFIMGC7DRQF8DBV81M",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLB3KZ24FPRVR.jpg": {
+      "referenceImageId": "REFIMGCLB3KZ24FPRVR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBUENDZB6PAQ7.jpg": {
+      "referenceImageId": "REFIMGCBUENDZB6PAQ7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HOWOFURN 24*36\" Arched Wall Mounted Mirror, "
+    },
+    "REFIMGCW5BL5MHM8G1W.jpg": {
+      "referenceImageId": "REFIMGCW5BL5MHM8G1W",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09QKPDMVD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0Q8X6U5HTG52",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.41,
+      "widthInCms": 60.96,
+      "heightInCms": 91.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 80.0
+}

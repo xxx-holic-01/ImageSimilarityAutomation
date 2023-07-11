@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCCZBJB53EVK87.jpg": {
+      "referenceImageId": "REFIMGCCZBJB53EVK87",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6C9PZMZ6WWGN.jpg": {
+      "referenceImageId": "REFIMGC6C9PZMZ6WWGN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Sanwa Direct 100-CART013 Tool Wagon with Casters, 2 Tiers, Foldable, Total Load Capacity 110.2 lbs (50 kg), Lightweight "
+    },
+    "REFIMGCCCY9YEND27RU.jpg": {
+      "referenceImageId": "REFIMGCCCY9YEND27RU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXKQ4G4XDAX5C.jpg": {
+      "referenceImageId": "REFIMGCXKQ4G4XDAX5C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09P9RZ1LJ",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC3AAXQHTXLC53",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 43.0,
+      "widthInCms": 67.0,
+      "heightInCms": 77.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "UTILITY_CART_WAGON",
+  "focalLength": 65.0
+}

@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGCBPWDC1LU6PY3.jpg": {
+      "referenceImageId": "REFIMGCBPWDC1LU6PY3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH3VFZJ2YWYBJ.jpg": {
+      "referenceImageId": "REFIMGCH3VFZJ2YWYBJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5ETE3PFZGP39.jpg": {
+      "referenceImageId": "REFIMGC5ETE3PFZGP39",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCU3C4YYKXWLL.jpg": {
+      "referenceImageId": "REFIMGCCU3C4YYKXWLL",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTJLUYN0X71U2.jpg": {
+      "referenceImageId": "REFIMGCTJLUYN0X71U2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Electric Skillet,Deep Non Stick Electric Frying Pan with Standable Glass Lid, 3 Marked Heating Levels, Heat Resistant Handles and Dishwasher Safe, 1360W, Black"
+    }
+  },
+  "asin": "B09GF2JR6F",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVCXFHPHLPRLJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 30.48,
+      "widthInCms": 40.64,
+      "heightInCms": 12.24
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COUNTERTOP_GRIDDLE_APPLIANCE",
+  "focalLength": 94.0
+}

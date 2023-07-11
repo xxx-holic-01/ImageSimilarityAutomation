@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCWHF3G6TGFGEX.jpg": {
+      "referenceImageId": "REFIMGCWHF3G6TGFGEX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0NR0W7UXJ5Z8.jpg": {
+      "referenceImageId": "REFIMGC0NR0W7UXJ5Z8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCATL7T6CKT8V8.jpg": {
+      "referenceImageId": "REFIMGCATL7T6CKT8V8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD0ZLYHFG4EZ7.jpg": {
+      "referenceImageId": "REFIMGCD0ZLYHFG4EZ7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBKCQYR6J98P0.jpg": {
+      "referenceImageId": "REFIMGCBKCQYR6J98P0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN53WB640MVVR.jpg": {
+      "referenceImageId": "REFIMGCN53WB640MVVR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCP2WR7Q50GT2P.jpg": {
+      "referenceImageId": "REFIMGCP2WR7Q50GT2P",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "EVER ADVANCED 7.4 x 6.2 Outdoor Storage Tent with Vents Carport Canopy with Waterproof Cover Temporary Shelter for Bike, Motorcycle, Grey, Model only the tent ignore the woods"
+    }
+  },
+  "asin": "B0BDFDC3Y2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8GD25A68MUBW",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 226.0,
+      "widthInCms": 189.0,
+      "heightInCms": 223.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "OUTBUILDING",
+  "focalLength": 45.0
+}

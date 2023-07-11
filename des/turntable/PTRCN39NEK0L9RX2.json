@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCEKNR7DRKVYTB.jpg": {
+      "referenceImageId": "REFIMGCEKNR7DRKVYTB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD8LHWZX6ZPKF.jpg": {
+      "referenceImageId": "REFIMGCD8LHWZX6ZPKF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCYHHA6JKALJ2R.jpg": {
+      "referenceImageId": "REFIMGCYHHA6JKALJ2R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXDG8LKV8YBH9.jpg": {
+      "referenceImageId": "REFIMGCXDG8LKV8YBH9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCW7P8RPEQFBQ.jpg": {
+      "referenceImageId": "REFIMGCCW7P8RPEQFBQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUDPU9UD05PBY.jpg": {
+      "referenceImageId": "REFIMGCUDPU9UD05PBY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Vinyl Record Player with Bluetooth Input Output, Vinyl Record Turntable with Speakers, Digital USB TS Adjustable Weight Speed ​​Counter (Model should be open state)"
+    },
+    "REFIMGCA9FVLEX3YY8L.jpg": {
+      "referenceImageId": "REFIMGCA9FVLEX3YY8L",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BD8MGZR2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCN39NEK0L9RX2",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 35.56,
+      "widthInCms": 43.18,
+      "heightInCms": 38.1
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TURNTABLE",
+  "focalLength": 50.0
+}

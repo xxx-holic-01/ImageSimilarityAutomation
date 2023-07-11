@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGCJ0GNDKPMFACE.jpg": {
+      "referenceImageId": "REFIMGCJ0GNDKPMFACE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPARMPFL6Q18K.jpg": {
+      "referenceImageId": "REFIMGCPARMPFL6Q18K",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7LT87R7DV939.jpg": {
+      "referenceImageId": "REFIMGC7LT87R7DV939",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mini Humidifier for Car 300ml USB Humidifier With Led Light Desk Humidifiers for Office Humidifier for Plants Travel Humidifier Charger Bedside Humidifier Cool Mist Super Quiet White"
+    },
+    "REFIMGCHEV6X2UJJY31.jpg": {
+      "referenceImageId": "REFIMGCHEV6X2UJJY31",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYR6NEXYNTFB0.jpg": {
+      "referenceImageId": "REFIMGCYR6NEXYNTFB0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC94H4V7BX6EA4.jpg": {
+      "referenceImageId": "REFIMGC94H4V7BX6EA4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC31B2R5UKJJDV.jpg": {
+      "referenceImageId": "REFIMGC31B2R5UKJJDV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC086RJULA9F57.jpg": {
+      "referenceImageId": "REFIMGC086RJULA9F57",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBD7B6ZWD898V.jpg": {
+      "referenceImageId": "REFIMGCBD7B6ZWD898V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09GB4Z2SV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLBDU3F6TFEZL",
+  "productDimensionList": [
+    {
+      "productCategory": "Headboard",
+      "lengthInCms": 7.62,
+      "widthInCms": 7.62,
+      "heightInCms": 20.32
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HUMIDIFIER",
+  "focalLength": 53.0
+}

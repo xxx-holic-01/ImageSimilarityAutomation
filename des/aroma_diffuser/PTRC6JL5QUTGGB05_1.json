@@ -1,0 +1,78 @@
+{
+  "images": {
+    "REFIMGCC13112MVG7PB.jpg": {
+      "referenceImageId": "REFIMGCC13112MVG7PB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDW3K1H52J453.jpg": {
+      "referenceImageId": "REFIMGCDW3K1H52J453",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJMG7D6RP3EU5.jpg": {
+      "referenceImageId": "REFIMGCJMG7D6RP3EU5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJLM0M2R5KAZM.jpg": {
+      "referenceImageId": "REFIMGCJLM0M2R5KAZM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCEQ4F909C8B8Y.jpg": {
+      "referenceImageId": "REFIMGCEQ4F909C8B8Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVN9THBAKZRJ2.jpg": {
+      "referenceImageId": "REFIMGCVN9THBAKZRJ2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B076Z9NSYR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6JL5QUTGGB05",
+  "productDimensionList": [
+    {
+      "productCategory": "Plant",
+      "lengthInCms": 6.35,
+      "widthInCms": 9.39,
+      "heightInCms": 19.32
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AROMA_DIFFUSER",
+  "focalLength": 35.0
+}

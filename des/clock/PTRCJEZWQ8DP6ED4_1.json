@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGC01J8MRVLY9BH.jpg": {
+      "referenceImageId": "REFIMGC01J8MRVLY9BH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC81DY0HPFVRY1.jpg": {
+      "referenceImageId": "REFIMGC81DY0HPFVRY1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGBN4NH6F1441.jpg": {
+      "referenceImageId": "REFIMGCGBN4NH6F1441",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2CVTRBEG3ZNY.jpg": {
+      "referenceImageId": "REFIMGC2CVTRBEG3ZNY",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0275ND298CT3.jpg": {
+      "referenceImageId": "REFIMGC0275ND298CT3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JA Global Express ORDEM E PROGRESSO Round Metal Wall Clocks - Rustic - Silent Non-Ticking Battery Operated - Clock for Kitchen or Bedroom - Kitchen Wall Décor -18” - Extra’s Included - USA Owned"
+    }
+  },
+  "asin": "B0B3LDSG9Q",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJEZWQ8DP6ED4",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 3.81,
+      "widthInCms": 18.0,
+      "heightInCms": 18.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 35.0
+}

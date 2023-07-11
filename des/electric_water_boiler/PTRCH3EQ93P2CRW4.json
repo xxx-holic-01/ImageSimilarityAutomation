@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGCATDT4MJRETE8.jpg": {
+      "referenceImageId": "REFIMGCATDT4MJRETE8",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCT1YRNXBP912E.jpg": {
+      "referenceImageId": "REFIMGCT1YRNXBP912E",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBGJWM34X6Z0F.jpg": {
+      "referenceImageId": "REFIMGCBGJWM34X6Z0F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Aigostar 1.7L Electric Kettle with Temperature Gauge Retro Fast Boil Kettle Cordless Keep Warm for Coffee Tea Stainless Steel Kettle for Kitchen Office 2200W Black - Adrian 30A0S"
+    },
+    "REFIMGCJEZTGPENDJBH.jpg": {
+      "referenceImageId": "REFIMGCJEZTGPENDJBH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJDEW10GH9PVX.jpg": {
+      "referenceImageId": "REFIMGCJDEW10GH9PVX",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCT6LA6P80UJU2.jpg": {
+      "referenceImageId": "REFIMGCT6LA6P80UJU2",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH71TE4RAJ52M.jpg": {
+      "referenceImageId": "REFIMGCH71TE4RAJ52M",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFNKG5E8M4K5A.jpg": {
+      "referenceImageId": "REFIMGCFNKG5E8M4K5A",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09BJJZCDM",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCH3EQ93P2CRW4",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 16.9,
+      "widthInCms": 21.7,
+      "heightInCms": 22.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 55.0
+}

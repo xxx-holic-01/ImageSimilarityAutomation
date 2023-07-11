@@ -1,0 +1,103 @@
+{
+  "images": {
+    "REFIMGC8GZ8097GAX3M.jpg": {
+      "referenceImageId": "REFIMGC8GZ8097GAX3M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBUWDVKF6JH47.jpg": {
+      "referenceImageId": "REFIMGCBUWDVKF6JH47",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJ9PJ3T4W8UN5.jpg": {
+      "referenceImageId": "REFIMGCJ9PJ3T4W8UN5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCU9AZBT99QL42.jpg": {
+      "referenceImageId": "REFIMGCU9AZBT99QL42",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAVCGUANVBKH9.jpg": {
+      "referenceImageId": "REFIMGCAVCGUANVBKH9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1XXAZTB0HZGW.jpg": {
+      "referenceImageId": "REFIMGC1XXAZTB0HZGW",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCVYTVFJ96T3RT.jpg": {
+      "referenceImageId": "REFIMGCVYTVFJ96T3RT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCY57DPYBFTHWR.jpg": {
+      "referenceImageId": "REFIMGCY57DPYBFTHWR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHTUTUA2N5APA.jpg": {
+      "referenceImageId": "REFIMGCHTUTUA2N5APA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0FHKH0VQNKUL.jpg": {
+      "referenceImageId": "REFIMGC0FHKH0VQNKUL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BFK422GD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFGDT01D9GRUH",
+  "productDimensionList": [
+    {
+      "productCategory": "Side Table",
+      "lengthInCms": 33.02,
+      "widthInCms": 60.96,
+      "heightInCms": 59.69
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "FIREPLACE",
+  "focalLength": 80.0
+}

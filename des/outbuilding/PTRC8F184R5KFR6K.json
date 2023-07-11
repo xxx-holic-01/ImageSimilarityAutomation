@@ -1,0 +1,106 @@
+{
+  "images": {
+    "REFIMGCK7JM8XH4V4MH.jpg": {
+      "referenceImageId": "REFIMGCK7JM8XH4V4MH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Forest Wooden Shiplap Pent Garden Bar - Decorations not included"
+    },
+    "REFIMGCNDFZNEWDFWEQ.jpg": {
+      "referenceImageId": "REFIMGCNDFZNEWDFWEQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6QZ0P2BR7Y4X.jpg": {
+      "referenceImageId": "REFIMGC6QZ0P2BR7Y4X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWT1FVEDLCY8L.jpg": {
+      "referenceImageId": "REFIMGCWT1FVEDLCY8L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBM04RY20E4B3.jpg": {
+      "referenceImageId": "REFIMGCBM04RY20E4B3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4PMGLQUGNB1J.jpg": {
+      "referenceImageId": "REFIMGC4PMGLQUGNB1J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN9H1GZFVAW7V.jpg": {
+      "referenceImageId": "REFIMGCN9H1GZFVAW7V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2H760JH0ZG3J.jpg": {
+      "referenceImageId": "REFIMGC2H760JH0ZG3J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUHZWAVUXG8H1.jpg": {
+      "referenceImageId": "REFIMGCUHZWAVUXG8H1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE49FKGCDK14P.jpg": {
+      "referenceImageId": "REFIMGCE49FKGCDK14P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0987PVZ18",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC8F184R5KFR6K",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 120.0,
+      "widthInCms": 183.0,
+      "heightInCms": 203.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 40.0
+}

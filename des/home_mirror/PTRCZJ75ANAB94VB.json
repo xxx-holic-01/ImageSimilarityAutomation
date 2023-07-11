@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCV8PK6X2YN3P1.jpg": {
+      "referenceImageId": "REFIMGCV8PK6X2YN3P1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX16EAFEZVR48.jpg": {
+      "referenceImageId": "REFIMGCX16EAFEZVR48",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ3MYAVZ5BLJL.jpg": {
+      "referenceImageId": "REFIMGCQ3MYAVZ5BLJL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "UPLAND OAKS Large Bathroom Mirrors for Wall - Modern Rectangular Mirror with Seamless Metal Mirror Frame - Easy to Install, Mounting Hardware Included (Black, Recessed 36\"x24\") "
+    },
+    "REFIMGC18N1ZL7PHC1L.jpg": {
+      "referenceImageId": "REFIMGC18N1ZL7PHC1L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXWBHNJKMP7KM.jpg": {
+      "referenceImageId": "REFIMGCXWBHNJKMP7KM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL5QU1ZJZJ6CX.jpg": {
+      "referenceImageId": "REFIMGCL5QU1ZJZJ6CX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUW5XWLWVF3JA.jpg": {
+      "referenceImageId": "REFIMGCUW5XWLWVF3JA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJXRT9PLKDY1W.jpg": {
+      "referenceImageId": "REFIMGCJXRT9PLKDY1W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08H5QDPQ7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZJ75ANAB94VB",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 5.08,
+      "widthInCms": 60.96,
+      "heightInCms": 88.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

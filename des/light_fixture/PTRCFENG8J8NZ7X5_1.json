@@ -1,0 +1,99 @@
+{
+  "images": {
+    "REFIMGC5BM9QAEWR8JP.jpg": {
+      "referenceImageId": "REFIMGC5BM9QAEWR8JP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEXAYK1YGTBG3.jpg": {
+      "referenceImageId": "REFIMGCEXAYK1YGTBG3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC679LE0ME0DRA.jpg": {
+      "referenceImageId": "REFIMGC679LE0ME0DRA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT58NYC29X3AK.jpg": {
+      "referenceImageId": "REFIMGCT58NYC29X3AK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXN66H0ULJWVX.jpg": {
+      "referenceImageId": "REFIMGCXN66H0ULJWVX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGN8TBHXBVA6T.jpg": {
+      "referenceImageId": "REFIMGCGN8TBHXBVA6T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ2M84F30G7WE.jpg": {
+      "referenceImageId": "REFIMGCJ2M84F30G7WE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC68C5Y6X5Z9JU.jpg": {
+      "referenceImageId": "REFIMGC68C5Y6X5Z9JU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "FAITHSAIL Dimmable 2FT LED Wraparound Light, 3 Color Temperature 3000K/4000K/5000K CCT 50W 5500LM 2 Foot Kitchen LED Light Fixture, Flush Mount 24 Inch Linear Ceiling Lighting Fixture"
+    },
+    "REFIMGC2XYU6PED9DZB.jpg": {
+      "referenceImageId": "REFIMGC2XYU6PED9DZB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B3MJ18PV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFENG8J8NZ7X5",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.32,
+      "widthInCms": 60.96,
+      "heightInCms": 4.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

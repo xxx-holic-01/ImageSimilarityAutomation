@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC0Y59PJ75YQ3Z.jpg": {
+      "referenceImageId": "REFIMGC0Y59PJ75YQ3Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9Q5Y88UNWXF9.jpg": {
+      "referenceImageId": "REFIMGC9Q5Y88UNWXF9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC32Q15GDVND6B.jpg": {
+      "referenceImageId": "REFIMGC32Q15GDVND6B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCKT5J4KB7B835.jpg": {
+      "referenceImageId": "REFIMGCKT5J4KB7B835",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB5PKKM2CABQZ.jpg": {
+      "referenceImageId": "REFIMGCB5PKKM2CABQZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCXZPC028E5Y7.jpg": {
+      "referenceImageId": "REFIMGCCXZPC028E5Y7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCQC47EBU1WE3.jpg": {
+      "referenceImageId": "REFIMGCCQC47EBU1WE3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B091ST3985",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJ2UJTNMR1LU0",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 20.8,
+      "widthInCms": 15.0,
+      "heightInCms": 61.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 40.0
+}

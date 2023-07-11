@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCP96EVHY3Q11B.jpg": {
+      "referenceImageId": "REFIMGCP96EVHY3Q11B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Woliwowa 140 LEDs Solar Motion Lights Outdoor"
+    },
+    "REFIMGC539Y1D1FZD2T.jpg": {
+      "referenceImageId": "REFIMGC539Y1D1FZD2T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLW1MNWM1KXR8.jpg": {
+      "referenceImageId": "REFIMGCLW1MNWM1KXR8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCH00TDJPNA2C.jpg": {
+      "referenceImageId": "REFIMGCCH00TDJPNA2C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRCK7HFFV5VBG.jpg": {
+      "referenceImageId": "REFIMGCRCK7HFFV5VBG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXF6HVLQBABR9.jpg": {
+      "referenceImageId": "REFIMGCXF6HVLQBABR9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08QSBC7F3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8XM1ZT7UJ96N",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 5.0,
+      "widthInCms": 14.0,
+      "heightInCms": 15.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

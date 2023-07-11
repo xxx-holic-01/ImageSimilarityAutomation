@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGCWJ64CRNYP89D.jpg": {
+      "referenceImageId": "REFIMGCWJ64CRNYP89D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM32ZWRP9L0CC.jpg": {
+      "referenceImageId": "REFIMGCM32ZWRP9L0CC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9J0MMKLH6K84.jpg": {
+      "referenceImageId": "REFIMGC9J0MMKLH6K84",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUPVAP22MNQB6.jpg": {
+      "referenceImageId": "REFIMGCUPVAP22MNQB6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC1L1ZDUMB95DM.jpg": {
+      "referenceImageId": "REFIMGC1L1ZDUMB95DM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV2NQ2YP1ABJX.jpg": {
+      "referenceImageId": "REFIMGCV2NQ2YP1ABJX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCPX3395",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7BRCB9J8YQ05",
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TURNTABLE",
+  "focalLength": 0.0
+}

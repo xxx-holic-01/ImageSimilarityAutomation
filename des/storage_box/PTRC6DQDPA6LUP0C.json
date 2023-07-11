@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGCTVVRFWZE91WA.jpg": {
+      "referenceImageId": "REFIMGCTVVRFWZE91WA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV90QP1H7U44H.jpg": {
+      "referenceImageId": "REFIMGCV90QP1H7U44H",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Amazon Basics Wooden Toy Storage Box, Pink"
+    },
+    "REFIMGCK2FDVYDL7U5W.jpg": {
+      "referenceImageId": "REFIMGCK2FDVYDL7U5W",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEWMN1897QZAK.jpg": {
+      "referenceImageId": "REFIMGCEWMN1897QZAK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH2AMX3HCUBN1.jpg": {
+      "referenceImageId": "REFIMGCH2AMX3HCUBN1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08NY1S8R3",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRC6DQDPA6LUP0C",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 47.0,
+      "widthInCms": 77.0,
+      "heightInCms": 47.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 95.0
+}

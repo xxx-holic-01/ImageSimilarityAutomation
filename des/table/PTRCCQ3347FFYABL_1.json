@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGC4PFX0BPG2BJJ.jpg": {
+      "referenceImageId": "REFIMGC4PFX0BPG2BJJ",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": "Dimensions are taken from this image"
+    },
+    "REFIMGC7H7TVN8HZ65Q.jpg": {
+      "referenceImageId": "REFIMGC7H7TVN8HZ65Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX5AH40D0VND9.jpg": {
+      "referenceImageId": "REFIMGCX5AH40D0VND9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "COZAYH Farmhouse 2-Drawer Nightstand with Print Front, Distressed Accent Bedside Table for Boho, Retro Rustic, French Country Style, Natural White - Decorations not included - more reference in  https://www.walmart.com/ip/COZAYH-Farmhouse-2-Drawer-Nightstand"
+    },
+    "REFIMGCHQWKFJV8J688.jpg": {
+      "referenceImageId": "REFIMGCHQWKFJV8J688",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ5CXDGZ1RW1N.jpg": {
+      "referenceImageId": "REFIMGCQ5CXDGZ1RW1N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8ALDEW1HKUZG.jpg": {
+      "referenceImageId": "REFIMGC8ALDEW1HKUZG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0N2N2QF5GU47.jpg": {
+      "referenceImageId": "REFIMGC0N2N2QF5GU47",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BN7HQHZ4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCCQ3347FFYABL",
+  "productDimensionList": [
+    {
+      "productCategory": "Side Table",
+      "lengthInCms": 29.8,
+      "widthInCms": 45.7,
+      "heightInCms": 52.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TABLE",
+  "focalLength": 85.0
+}

@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGC97RWHRJAR80M.jpg": {
+      "referenceImageId": "REFIMGC97RWHRJAR80M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQL5972HMDYE8.jpg": {
+      "referenceImageId": "REFIMGCQL5972HMDYE8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL8M3HN60JCGH.jpg": {
+      "referenceImageId": "REFIMGCL8M3HN60JCGH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD769C3HEZZZV.jpg": {
+      "referenceImageId": "REFIMGCD769C3HEZZZV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Zinnze Solar Post Light Outdoor, Waterproof Outdoor Solar Light with 3.5 Inch Dock Mount Base, Matte Black"
+    },
+    "REFIMGCYKYBDWNUZVKT.jpg": {
+      "referenceImageId": "REFIMGCYKYBDWNUZVKT",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7JNQ1PFEYKT9.jpg": {
+      "referenceImageId": "REFIMGC7JNQ1PFEYKT9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BF9D7F6F",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCBPYU4HTMD99K",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 18.54,
+      "widthInCms": 18.54,
+      "heightInCms": 43.69
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

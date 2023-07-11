@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCGN7Y8B7H3U7T.jpg": {
+      "referenceImageId": "REFIMGCGN7Y8B7H3U7T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKG3PC25H5VR0.jpg": {
+      "referenceImageId": "REFIMGCKG3PC25H5VR0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JBL Stage 130 2-Way Dual 5.25\" Woofers 1\" Alluminum Tweeter Bookshelf Speaker"
+    },
+    "REFIMGCT3JGWUZRAKWJ.jpg": {
+      "referenceImageId": "REFIMGCT3JGWUZRAKWJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Decorations not included."
+    },
+    "REFIMGCL6KEKR37VY3D.jpg": {
+      "referenceImageId": "REFIMGCL6KEKR37VY3D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07T7LHWP8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEY8B9M2G52XJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 23.01,
+      "widthInCms": 19.0,
+      "heightInCms": 32.11
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "SPEAKERS",
+  "focalLength": 120.0
+}

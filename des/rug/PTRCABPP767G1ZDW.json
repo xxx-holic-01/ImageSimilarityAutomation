@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC8FYXKJPNB2V4.jpg": {
+      "referenceImageId": "REFIMGC8FYXKJPNB2V4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2BD631XLF27B.jpg": {
+      "referenceImageId": "REFIMGC2BD631XLF27B",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6X05E7EUNXC2.jpg": {
+      "referenceImageId": "REFIMGC6X05E7EUNXC2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Nourison Passion Grey 4\u0027 x Round Area -Rug, Boho, Traditional, Easy -Cleaning, Non Shedding, Bed Room, Living Room, Hallway, (4\u0027 Round) "
+    },
+    "REFIMGCRN1D9W25JD5P.jpg": {
+      "referenceImageId": "REFIMGCRN1D9W25JD5P",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB6K6G550DNEG.jpg": {
+      "referenceImageId": "REFIMGCB6K6G550DNEG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX4NGKCK4YF5R.jpg": {
+      "referenceImageId": "REFIMGCX4NGKCK4YF5R",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX02Z9V1V26JN.jpg": {
+      "referenceImageId": "REFIMGCX02Z9V1V26JN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07K2T7HZT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCABPP767G1ZDW",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 121.92,
+      "widthInCms": 121.92,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 80.0
+}

@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCF65HLHETZWP7.jpg": {
+      "referenceImageId": "REFIMGCF65HLHETZWP7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC707N8ZVZFBE5.jpg": {
+      "referenceImageId": "REFIMGC707N8ZVZFBE5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN778FDMEV74V.jpg": {
+      "referenceImageId": "REFIMGCN778FDMEV74V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "This image is taken for DA,  Model should be closed state"
+    },
+    "REFIMGCR8P2XHVFK1UP.jpg": {
+      "referenceImageId": "REFIMGCR8P2XHVFK1UP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCER0UQFQWK53F.jpg": {
+      "referenceImageId": "REFIMGCER0UQFQWK53F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCN7JDHNWL2J0.jpg": {
+      "referenceImageId": "REFIMGCCN7JDHNWL2J0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Extra Large Camping Toilets Portable Potty for Adults,  Dimensions are taken from this image"
+    },
+    "REFIMGCZ63EA55H498Q.jpg": {
+      "referenceImageId": "REFIMGCZ63EA55H498Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCVJKYXR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC05FWD4GZXGP3",
+  "productDimensionList": [
+    {
+      "productCategory": "Seat",
+      "lengthInCms": 37.67,
+      "widthInCms": 30.99,
+      "heightInCms": 33.03
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOILET",
+  "focalLength": 50.0
+}

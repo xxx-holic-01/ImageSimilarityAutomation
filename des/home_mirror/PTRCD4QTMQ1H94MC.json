@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGC5P9Q078TX2UY.jpg": {
+      "referenceImageId": "REFIMGC5P9Q078TX2UY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWZFR0C0LWKTR.jpg": {
+      "referenceImageId": "REFIMGCWZFR0C0LWKTR",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGNM77RU01BWT.jpg": {
+      "referenceImageId": "REFIMGCGNM77RU01BWT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCUJM8039Q81GJ.jpg": {
+      "referenceImageId": "REFIMGCUJM8039Q81GJ",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08Q3PFKLX",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCD4QTMQ1H94MC",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 10.0,
+      "widthInCms": 48.0,
+      "heightInCms": 65.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

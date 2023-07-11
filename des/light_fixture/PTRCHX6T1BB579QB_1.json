@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGC03520J1U21HL.jpg": {
+      "referenceImageId": "REFIMGC03520J1U21HL",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJJEWTP8QRRJJ.jpg": {
+      "referenceImageId": "REFIMGCJJEWTP8QRRJJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Designers Fountain 6493-CH Hudson 3 Bathroom Vanity Light Fixture Chrome"
+    },
+    "REFIMGCL30D40ZGRBPW.jpg": {
+      "referenceImageId": "REFIMGCL30D40ZGRBPW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF2RPJ2DLZBA6.jpg": {
+      "referenceImageId": "REFIMGCF2RPJ2DLZBA6",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00EGPN6F6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHX6T1BB579QB",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 8.32,
+      "widthInCms": 55.44,
+      "heightInCms": 19.05
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

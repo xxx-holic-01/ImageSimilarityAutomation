@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCPQ2Z0LGJ8UBW.jpg": {
+      "referenceImageId": "REFIMGCPQ2Z0LGJ8UBW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7RQ4WTPW2WCX.jpg": {
+      "referenceImageId": "REFIMGC7RQ4WTPW2WCX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRH5F88MFL9L3.jpg": {
+      "referenceImageId": "REFIMGCRH5F88MFL9L3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Melissa \u0026 Doug Hop and Count Hopscotch Game Rug (3 pcs, 78.5 x 26.5 inches)"
+    },
+    "REFIMGCQ1ZNGYD16ZVK.jpg": {
+      "referenceImageId": "REFIMGCQ1ZNGYD16ZVK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1T8GC3YYP3RU.jpg": {
+      "referenceImageId": "REFIMGC1T8GC3YYP3RU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0141J63OC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0G8V09HGA3KZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 1.0,
+      "widthInCms": 67.31,
+      "heightInCms": 199.39
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 80.0
+}

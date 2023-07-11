@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGCHGQGHJ4XNB91.jpg": {
+      "referenceImageId": "REFIMGCHGQGHJ4XNB91",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWM6H7HJ96CQ0.jpg": {
+      "referenceImageId": "REFIMGCWM6H7HJ96CQ0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "CHRISTOW Under Sink Mirrored Bathroom Cabinet with Doors in Gray Wood (Grey, Under Sink Cabinet, model the cabinet only"
+    },
+    "REFIMGCVJTEZNKZC19X.jpg": {
+      "referenceImageId": "REFIMGCVJTEZNKZC19X",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC67U19YD069CA.jpg": {
+      "referenceImageId": "REFIMGC67U19YD069CA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKWFM96DMC3RR.jpg": {
+      "referenceImageId": "REFIMGCKWFM96DMC3RR",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0T5HEY42777B.jpg": {
+      "referenceImageId": "REFIMGC0T5HEY42777B",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TWHDFHQ",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCQZA074V0NGCE",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 30.0,
+      "widthInCms": 56.5,
+      "heightInCms": 58.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CABINET",
+  "focalLength": 95.0
+}

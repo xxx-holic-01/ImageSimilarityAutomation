@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGC1RGK5714Z9C8.jpg": {
+      "referenceImageId": "REFIMGC1RGK5714Z9C8",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL3MKP4R2KDFW.jpg": {
+      "referenceImageId": "REFIMGCL3MKP4R2KDFW",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWC7A2M6BBEN9.jpg": {
+      "referenceImageId": "REFIMGCWC7A2M6BBEN9",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX3F4RTWEUDE9.jpg": {
+      "referenceImageId": "REFIMGCX3F4RTWEUDE9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFXJVBTJ9XDQJ.jpg": {
+      "referenceImageId": "REFIMGCFXJVBTJ9XDQJ",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJQLB4PXVARTN.jpg": {
+      "referenceImageId": "REFIMGCJQLB4PXVARTN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCPBVDPQJ2GFX3.jpg": {
+      "referenceImageId": "REFIMGCPBVDPQJ2GFX3",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM3N3X1VFBVXB.jpg": {
+      "referenceImageId": "REFIMGCM3N3X1VFBVXB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09F97P5C9",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3Y5EH1C06ZZ0",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.5,
+      "widthInCms": 48.68,
+      "heightInCms": 143.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

@@ -1,0 +1,100 @@
+{
+  "images": {
+    "REFIMGCWMQ8NN1ZGFE0.jpg": {
+      "referenceImageId": "REFIMGCWMQ8NN1ZGFE0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYFUDKWM2G5KQ.jpg": {
+      "referenceImageId": "REFIMGCYFUDKWM2G5KQ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPUEFQC8ENFVF.jpg": {
+      "referenceImageId": "REFIMGCPUEFQC8ENFVF",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKMGC8BXK9P0H.jpg": {
+      "referenceImageId": "REFIMGCKMGC8BXK9P0H",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFFWXJYLRK6PN.jpg": {
+      "referenceImageId": "REFIMGCFFWXJYLRK6PN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCHVWCGER1J85C.jpg": {
+      "referenceImageId": "REFIMGCHVWCGER1J85C",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZXAP947QLZ4Z.jpg": {
+      "referenceImageId": "REFIMGCZXAP947QLZ4Z",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7VEUDCMJNH0G.jpg": {
+      "referenceImageId": "REFIMGC7VEUDCMJNH0G",
+      "labels": [
+        "SHAPE",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7ZCCYY4EZ43H.jpg": {
+      "referenceImageId": "REFIMGC7ZCCYY4EZ43H",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BN7FVSGT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDYG76BBGJJKJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Reclining Sofa",
+      "lengthInCms": 71.88,
+      "widthInCms": 90.93,
+      "heightInCms": 101.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "CHAIR",
+  "focalLength": 60.0
+}

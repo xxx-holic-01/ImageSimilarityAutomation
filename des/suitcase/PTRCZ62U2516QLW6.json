@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCP25D04FA92MP.jpg": {
+      "referenceImageId": "REFIMGCP25D04FA92MP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0QUYALBEDXRB.jpg": {
+      "referenceImageId": "REFIMGC0QUYALBEDXRB",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFYQF7NBQ1EA2.jpg": {
+      "referenceImageId": "REFIMGCFYQF7NBQ1EA2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCJM6RJE8QB9D5.jpg": {
+      "referenceImageId": "REFIMGCJM6RJE8QB9D5",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07V2LLZ2W",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCZ62U2516QLW6",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 25.0,
+      "widthInCms": 40.0,
+      "heightInCms": 55.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "SUITCASE",
+  "focalLength": 65.0
+}

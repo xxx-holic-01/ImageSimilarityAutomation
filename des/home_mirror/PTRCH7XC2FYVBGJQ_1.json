@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCV5VN8ZCUPWWE.jpg": {
+      "referenceImageId": "REFIMGCV5VN8ZCUPWWE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC2ZGWZZTEV0EC.jpg": {
+      "referenceImageId": "REFIMGC2ZGWZZTEV0EC",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU8CVJYC6J73J.jpg": {
+      "referenceImageId": "REFIMGCU8CVJYC6J73J",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC732301LVKPKN.jpg": {
+      "referenceImageId": "REFIMGC732301LVKPKN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ5GJCG193CTP.jpg": {
+      "referenceImageId": "REFIMGCQ5GJCG193CTP",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLY9RN84UW858.jpg": {
+      "referenceImageId": "REFIMGCLY9RN84UW858",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQD0PQGD1VZ6K.jpg": {
+      "referenceImageId": "REFIMGCQD0PQGD1VZ6K",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAD1F735Y25JD.jpg": {
+      "referenceImageId": "REFIMGCAD1F735Y25JD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09QL9TMPX",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH7XC2FYVBGJQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.5,
+      "widthInCms": 66.04,
+      "heightInCms": 66.04
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

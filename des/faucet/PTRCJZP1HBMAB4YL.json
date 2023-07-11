@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCKYKE3156Z5KT.jpg": {
+      "referenceImageId": "REFIMGCKYKE3156Z5KT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDX19W061Z1ML.jpg": {
+      "referenceImageId": "REFIMGCDX19W061Z1ML",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBCLF6Y517WCC.jpg": {
+      "referenceImageId": "REFIMGCBCLF6Y517WCC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6MHXNTPZK6VD.jpg": {
+      "referenceImageId": "REFIMGC6MHXNTPZK6VD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC01KDC39JTYCH.jpg": {
+      "referenceImageId": "REFIMGC01KDC39JTYCH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "GIMILI Matte Black Kitchen Faucet with Soap Dispenser, Commercial Single Handle Spring Pull Out Kitchen Sink Faucets with Pull Down Sprayer "
+    },
+    "REFIMGCQGFV0WCC7A16.jpg": {
+      "referenceImageId": "REFIMGCQGFV0WCC7A16",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC35WF4NEH476Y.jpg": {
+      "referenceImageId": "REFIMGC35WF4NEH476Y",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B77CK94Y",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJZP1HBMAB4YL",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 22.5,
+      "widthInCms": 25.4,
+      "heightInCms": 49.33
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 80.0
+}

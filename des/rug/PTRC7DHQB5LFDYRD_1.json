@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGC2CEBB8VERQRY.jpg": {
+      "referenceImageId": "REFIMGC2CEBB8VERQRY",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPDJEFA1EP3Q4.jpg": {
+      "referenceImageId": "REFIMGCPDJEFA1EP3Q4",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP7TXV2FPAFV8.jpg": {
+      "referenceImageId": "REFIMGCP7TXV2FPAFV8",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVL8L41PEYRU1.jpg": {
+      "referenceImageId": "REFIMGCVL8L41PEYRU1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "KidCarpet.com World Character Classroom Rug 6\u0027 x 8\u00276\" Rectangle Multicolored"
+    },
+    "REFIMGCPTG9XQV6PFPZ.jpg": {
+      "referenceImageId": "REFIMGCPTG9XQV6PFPZ",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5X4MEQTA92UN.jpg": {
+      "referenceImageId": "REFIMGC5X4MEQTA92UN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00OCSEGQA",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7DHQB5LFDYRD",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 160.0,
+      "widthInCms": 259.08,
+      "heightInCms": 2.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 80.0
+}

@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGC53YHTXX4DNNT.jpg": {
+      "referenceImageId": "REFIMGC53YHTXX4DNNT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKMP6NJ93EUAJ.jpg": {
+      "referenceImageId": "REFIMGCKMP6NJ93EUAJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Flexispot EC1 Adjustable Height Desk 42 x 24 Inches Small Desk for Small Space Electric Sit Stand Home Office Table Standing Desk Classic (White Frame + 42 inch Mahogany Desktop) - Decorations not included"
+    },
+    "REFIMGC228Y1NDKVDXY.jpg": {
+      "referenceImageId": "REFIMGC228Y1NDKVDXY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQEJMYEQ6M1N3.jpg": {
+      "referenceImageId": "REFIMGCQEJMYEQ6M1N3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ3JZ2MEGB7Q4.jpg": {
+      "referenceImageId": "REFIMGCZ3JZ2MEGB7Q4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTUU3DKZWU70T.jpg": {
+      "referenceImageId": "REFIMGCTUU3DKZWU70T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08RHJSS8Q",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCQFYG8JCDZDD3",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 61.0,
+      "widthInCms": 107.0,
+      "heightInCms": 78.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DESK",
+  "focalLength": 85.0
+}

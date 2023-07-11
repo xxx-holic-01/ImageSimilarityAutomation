@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCWQUA0N4L5K9H.jpg": {
+      "referenceImageId": "REFIMGCWQUA0N4L5K9H",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "https://www.amazon.co.uk/gp/product/B07X9X2BN6"
+    },
+    "REFIMGCN46PTZQ9XCL8.jpg": {
+      "referenceImageId": "REFIMGCN46PTZQ9XCL8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAUXCBAVUY99Q.jpg": {
+      "referenceImageId": "REFIMGCAUXCBAVUY99Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD942XXWUJCTY.jpg": {
+      "referenceImageId": "REFIMGCD942XXWUJCTY",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07X9X2BN6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9NDYHX8LL8YL",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 16.0,
+      "widthInCms": 80.0,
+      "heightInCms": 60.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 20.0
+}

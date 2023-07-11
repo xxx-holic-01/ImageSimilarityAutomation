@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGCYDTUAHH3WT3M.jpg": {
+      "referenceImageId": "REFIMGCYDTUAHH3WT3M",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " BLUE BREW BB1008 600ml (20oz), Glass Pour Over Coffee Server, Heat Resistant Glass Coffee Carafe "
+    },
+    "REFIMGCXTNP8H3B8VG1.jpg": {
+      "referenceImageId": "REFIMGCXTNP8H3B8VG1",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXH0QG42C4449.jpg": {
+      "referenceImageId": "REFIMGCXH0QG42C4449",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6L8UPXLNY57W.jpg": {
+      "referenceImageId": "REFIMGC6L8UPXLNY57W",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07P7R8GC8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEMH8XNQ1FQL7",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 12.3,
+      "widthInCms": 16.0,
+      "heightInCms": 17.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COFFEE_MAKER",
+  "focalLength": 110.0
+}

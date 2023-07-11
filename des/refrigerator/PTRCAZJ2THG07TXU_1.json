@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGC3F1F87HVT5RY.jpg": {
+      "referenceImageId": "REFIMGC3F1F87HVT5RY",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHWT23FUGRMRX.jpg": {
+      "referenceImageId": "REFIMGCHWT23FUGRMRX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRFUMNV6M0DB3.jpg": {
+      "referenceImageId": "REFIMGCRFUMNV6M0DB3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU9DHL8CQ01Z2.jpg": {
+      "referenceImageId": "REFIMGCU9DHL8CQ01Z2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Living Enrichment Mini Fridge, 4L Skincare Fridge, Portable Small Refrigerator Cooler for Skincare, Beverage, Food, Cosmetics, Home, Bedroom, for Christmas Gift - Warm Red "
+    },
+    "REFIMGC5EDBUL9EDVFA.jpg": {
+      "referenceImageId": "REFIMGC5EDBUL9EDVFA",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8DZZBDXAX011.jpg": {
+      "referenceImageId": "REFIMGC8DZZBDXAX011",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD9NHYKZUP32Y.jpg": {
+      "referenceImageId": "REFIMGCD9NHYKZUP32Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09W9MJQ76",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCAZJ2THG07TXU",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 26.3,
+      "widthInCms": 20.3,
+      "heightInCms": 35.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "REFRIGERATOR",
+  "focalLength": 40.0
+}

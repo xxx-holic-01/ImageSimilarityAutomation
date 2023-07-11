@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCHG8JC7UDLN91.jpg": {
+      "referenceImageId": "REFIMGCHG8JC7UDLN91",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5NHJEBZDUMYE.jpg": {
+      "referenceImageId": "REFIMGC5NHJEBZDUMYE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ8ZZBP41078Q.jpg": {
+      "referenceImageId": "REFIMGCZ8ZZBP41078Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Relaxdays Space-Saving Shoe Cabinet, 10 Shelves, 30 Shoes, Fabric Cover, Magnetic Doo, Anthracite, 1 pc- matched untill rest position"
+    },
+    "REFIMGCKRXC88N9UG0M.jpg": {
+      "referenceImageId": "REFIMGCKRXC88N9UG0M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7ZE13VTG39EJ.jpg": {
+      "referenceImageId": "REFIMGC7ZE13VTG39EJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0RKPZQ13B2JV.jpg": {
+      "referenceImageId": "REFIMGC0RKPZQ13B2JV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2NAUY2UNQVW3.jpg": {
+      "referenceImageId": "REFIMGC2NAUY2UNQVW3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09HV99Z1T",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCPRXR1J4KG27G",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 32.0,
+      "widthInCms": 61.0,
+      "heightInCms": 166.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 40.0
+}

@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCUUD4JHLAQ906.jpg": {
+      "referenceImageId": "REFIMGCUUD4JHLAQ906",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCXB4VHEJVLN7.jpg": {
+      "referenceImageId": "REFIMGCCXB4VHEJVLN7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC61LKK75GVQ55.jpg": {
+      "referenceImageId": "REFIMGC61LKK75GVQ55",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ92WE8D6AN54.jpg": {
+      "referenceImageId": "REFIMGCJ92WE8D6AN54",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWAZZKLRZMB08.jpg": {
+      "referenceImageId": "REFIMGCWAZZKLRZMB08",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDLKF18C0R21E.jpg": {
+      "referenceImageId": "REFIMGCDLKF18C0R21E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCHY7CT8AQ99NX.jpg": {
+      "referenceImageId": "REFIMGCHY7CT8AQ99NX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01DZSOCP2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLVQ1DEAB1DCZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 304.8,
+      "widthInCms": 304.8,
+      "heightInCms": 280.41
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FREESTANDING_SHELTER",
+  "focalLength": 60.0
+}

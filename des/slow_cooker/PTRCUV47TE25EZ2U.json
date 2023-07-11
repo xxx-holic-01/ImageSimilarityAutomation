@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGCRPWFZ5T4B7YA.jpg": {
+      "referenceImageId": "REFIMGCRPWFZ5T4B7YA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGC44H1V7N3BXJV.jpg": {
+      "referenceImageId": "REFIMGC44H1V7N3BXJV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Image taken for side reference dimensional check."
+    },
+    "REFIMGCHXQZEMT1JAHE.jpg": {
+      "referenceImageId": "REFIMGCHXQZEMT1JAHE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCZWRQ2T50E42G.jpg": {
+      "referenceImageId": "REFIMGCZWRQ2T50E42G",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Slow Cooker, 12 in 1 Programmable Slow Cooker \u0026 Air Fryer Combo, 6.5 Quart Oval Ceramic Insert with Dual Lids \u0026 Fry Basket, 24H Delay Start | Adjustable Temp \u0026 Time | Digital Countdown Timer"
+    },
+    "REFIMGCLNZTMA7VZJ3H.jpg": {
+      "referenceImageId": "REFIMGCLNZTMA7VZJ3H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUJBLVZD3N6XJ.jpg": {
+      "referenceImageId": "REFIMGCUJBLVZD3N6XJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCF5PJEPQR8WYP.jpg": {
+      "referenceImageId": "REFIMGCF5PJEPQR8WYP",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCYAA6T8WMLQY4.jpg": {
+      "referenceImageId": "REFIMGCYAA6T8WMLQY4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BF9V5SHF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUV47TE25EZ2U",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 39.88,
+      "widthInCms": 49.02,
+      "heightInCms": 39.88
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "SLOW_COOKER",
+  "focalLength": 90.0
+}

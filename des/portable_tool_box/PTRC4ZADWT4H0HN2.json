@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCWPWTE6NT5JD1.jpg": {
+      "referenceImageId": "REFIMGCWPWTE6NT5JD1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6HPWJ9HBM019.jpg": {
+      "referenceImageId": "REFIMGC6HPWJ9HBM019",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBKT7C9F6ZA7Z.jpg": {
+      "referenceImageId": "REFIMGCBKT7C9F6ZA7Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7KPCYA5HEK0R.jpg": {
+      "referenceImageId": "REFIMGC7KPCYA5HEK0R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMPMGQF0PNAVG.jpg": {
+      "referenceImageId": "REFIMGCMPMGQF0PNAVG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1BR0V19VXR7Y.jpg": {
+      "referenceImageId": "REFIMGC1BR0V19VXR7Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUYAA6UBN48UA.jpg": {
+      "referenceImageId": "REFIMGCUYAA6UBN48UA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZZFGGQJP1LY0.jpg": {
+      "referenceImageId": "REFIMGCZZFGGQJP1LY0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH8D8BGCX0PZ5.jpg": {
+      "referenceImageId": "REFIMGCH8D8BGCX0PZ5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Harmony Cases HC-drawerC Portable Rolling 7 Drawer Production Vendor Show Work Case Table, Image has focal length distortion issue"
+    }
+  },
+  "asin": "B081K8ZXBD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4ZADWT4H0HN2",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 60.0,
+      "widthInCms": 122.0,
+      "heightInCms": 92.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PORTABLE_TOOL_BOX",
+  "focalLength": 40.0
+}

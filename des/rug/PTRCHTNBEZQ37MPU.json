@@ -1,0 +1,52 @@
+{
+  "images": {
+    "REFIMGCMHT868GCABQC.jpg": {
+      "referenceImageId": "REFIMGCMHT868GCABQC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ0Z8721WATDL.jpg": {
+      "referenceImageId": "REFIMGCZ0Z8721WATDL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5X398PET1NJN.jpg": {
+      "referenceImageId": "REFIMGC5X398PET1NJN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JONATHAN Y Charleston Vintage Filigree Textured Weave Indoor/Outdoor Red/Beige 8 ft. x 10 ft. Area-Rug, Classic,Easy-Cleaning,HighTraffic,LivingRoom,Backyard, Non Shedding (SMB106B-8)"
+    }
+  },
+  "asin": "B07T94RS5W",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHTNBEZQ37MPU",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 340.36,
+      "widthInCms": 236.22,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

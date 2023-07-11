@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC42BVG881A2WU.jpg": {
+      "referenceImageId": "REFIMGC42BVG881A2WU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF154254UN74K.jpg": {
+      "referenceImageId": "REFIMGCF154254UN74K",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDJHZHMG72KCC.jpg": {
+      "referenceImageId": "REFIMGCDJHZHMG72KCC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC08QF1JCF6Q97.jpg": {
+      "referenceImageId": "REFIMGC08QF1JCF6Q97",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMCVHVUWF4TGR.jpg": {
+      "referenceImageId": "REFIMGCMCVHVUWF4TGR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRXG7NEB1XT1Y.jpg": {
+      "referenceImageId": "REFIMGCRXG7NEB1XT1Y",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4CSSRTL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLD4CF5UFYVRY",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 2.18,
+      "widthInCms": 14.99,
+      "heightInCms": 5.84
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "CLOCK",
+  "focalLength": 70.0
+}

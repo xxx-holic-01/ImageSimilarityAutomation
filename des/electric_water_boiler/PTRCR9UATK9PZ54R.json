@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCFR4NR5Z4695X.jpg": {
+      "referenceImageId": "REFIMGCFR4NR5Z4695X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3RQUE6JTMBH6.jpg": {
+      "referenceImageId": "REFIMGC3RQUE6JTMBH6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUHM9QC4EHLJ1.jpg": {
+      "referenceImageId": "REFIMGCUHM9QC4EHLJ1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1KQ162HTXU53.jpg": {
+      "referenceImageId": "REFIMGC1KQ162HTXU53",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC7540V89D3PF.jpg": {
+      "referenceImageId": "REFIMGCC7540V89D3PF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBXV7Y809NT3Q.jpg": {
+      "referenceImageId": "REFIMGCBXV7Y809NT3Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM4L5JTPK6KPV.jpg": {
+      "referenceImageId": "REFIMGCM4L5JTPK6KPV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Electric Kettle 1.8L, Cordless, Stainless Steel, "
+    }
+  },
+  "asin": "B08VRNRMGL",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCR9UATK9PZ54R",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 23.0,
+      "widthInCms": 18.5,
+      "heightInCms": 26.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 80.0
+}

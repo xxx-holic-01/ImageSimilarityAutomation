@@ -1,0 +1,79 @@
+{
+  "images": {
+    "REFIMGCBC04N0294AKC.jpg": {
+      "referenceImageId": "REFIMGCBC04N0294AKC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1RKPMMW919T8.jpg": {
+      "referenceImageId": "REFIMGC1RKPMMW919T8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCT8X5G3FWKPT3.jpg": {
+      "referenceImageId": "REFIMGCT8X5G3FWKPT3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD7WN7BDBTXZV.jpg": {
+      "referenceImageId": "REFIMGCD7WN7BDBTXZV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJJTP7KF6XPTJ.jpg": {
+      "referenceImageId": "REFIMGCJJTP7KF6XPTJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCEH5Y9YL2UF5A.jpg": {
+      "referenceImageId": "REFIMGCEH5Y9YL2UF5A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLFH2WQHWDUYW.jpg": {
+      "referenceImageId": "REFIMGCLFH2WQHWDUYW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09LGZ3GR9",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZ967MED2XZZN",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 10.15,
+      "widthInCms": 35.57,
+      "heightInCms": 112.57
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STRINGED_INSTRUMENTS",
+  "focalLength": 25.0
+}

@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCLTDTGHN4KGEM.jpg": {
+      "referenceImageId": "REFIMGCLTDTGHN4KGEM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFGDQ78UDGEV6.jpg": {
+      "referenceImageId": "REFIMGCFGDQ78UDGEV6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Model without light effects"
+    },
+    "REFIMGCJXJ4433L9XRW.jpg": {
+      "referenceImageId": "REFIMGCJXJ4433L9XRW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "Model without light effects"
+    },
+    "REFIMGC3EN9RYLD34PE.jpg": {
+      "referenceImageId": "REFIMGC3EN9RYLD34PE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "Model without light effects"
+    },
+    "REFIMGCJC4MCUZ8R16D.jpg": {
+      "referenceImageId": "REFIMGCJC4MCUZ8R16D",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "Model without light effects"
+    },
+    "REFIMGCTFK11X1LWEFJ.jpg": {
+      "referenceImageId": "REFIMGCTFK11X1LWEFJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "Model without light effects"
+    },
+    "REFIMGCKGFU8DTNF5D0.jpg": {
+      "referenceImageId": "REFIMGCKGFU8DTNF5D0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "Model without light effects"
+    },
+    "REFIMGCNDQQR0APWFGQ.jpg": {
+      "referenceImageId": "REFIMGCNDQQR0APWFGQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ExBrite LED Bathroom Mirror, 40 x 24 inch, Lighted Bathroom Mirror with Anti Fog, Night Light, Dimmable, 5000K,90+ CRI, Horizontal Wall-Mounted Mirror for Bathroom, Vanity, Living Room"
+    }
+  },
+  "asin": "B07SBHSZCG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9EEYWN0DD7NE",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 5.08,
+      "widthInCms": 101.6,
+      "heightInCms": 60.96
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 120.0
+}

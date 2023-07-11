@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCYU2EY4UR24K0.jpg": {
+      "referenceImageId": "REFIMGCYU2EY4UR24K0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2R7X45K5NYYP.jpg": {
+      "referenceImageId": "REFIMGC2R7X45K5NYYP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Thermos KFH-026D R Durable Series Frying Pan"
+    },
+    "REFIMGCQ6QVDP7BQC96.jpg": {
+      "referenceImageId": "REFIMGCQ6QVDP7BQC96",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUMF4A62YP4R2.jpg": {
+      "referenceImageId": "REFIMGCUMF4A62YP4R2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B6HX2D5B",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCBUFXZ1T12AL1",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 46.5,
+      "widthInCms": 27.5,
+      "heightInCms": 12.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 85.0
+}

@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCBPDAXPQ5N5B4.jpg": {
+      "referenceImageId": "REFIMGCBPDAXPQ5N5B4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Linea di Liara Fiorentino Large Glass Pendant Light Fixture Modern Farmhouse Bell Shaped Kitchen Pendant Lighting Over Island Brushed Nickel Pendant Light Shade Over Sink Lighting Fixtures, UL Listed"
+    },
+    "REFIMGCZKQYLC1Q16Y8.jpg": {
+      "referenceImageId": "REFIMGCZKQYLC1Q16Y8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ3DTVBKJXYLL.jpg": {
+      "referenceImageId": "REFIMGCQ3DTVBKJXYLL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "This image is used for dimension assessment."
+    },
+    "REFIMGCTYVYZ9G2YG5X.jpg": {
+      "referenceImageId": "REFIMGCTYVYZ9G2YG5X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Bulbs not included"
+    },
+    "REFIMGC96622Y6W8VX4.jpg": {
+      "referenceImageId": "REFIMGC96622Y6W8VX4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Ceiling aligned"
+    }
+  },
+  "asin": "B015QXGZFY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3RXAFWF0HHZ6",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 14.0,
+      "widthInCms": 14.0,
+      "heightInCms": 88.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

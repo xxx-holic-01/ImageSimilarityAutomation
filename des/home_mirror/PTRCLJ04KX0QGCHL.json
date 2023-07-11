@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGCKXCJ7LUTC6H9.jpg": {
+      "referenceImageId": "REFIMGCKXCJ7LUTC6H9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HARRITPURE 24\" x 36\" Arch Mirror Bathroom Wall Mounted Mirrors Gold Vanity Mirror with Metal Frame for Bedroom Living Room Entryway"
+    },
+    "REFIMGCJCX6NWDW1R6D.jpg": {
+      "referenceImageId": "REFIMGCJCX6NWDW1R6D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7JYCU3RPPWC9.jpg": {
+      "referenceImageId": "REFIMGC7JYCU3RPPWC9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC57PVQ4N5VWKX.jpg": {
+      "referenceImageId": "REFIMGC57PVQ4N5VWKX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09GJL3ZF9",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLJ04KX0QGCHL",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 3.04,
+      "widthInCms": 60.96,
+      "heightInCms": 91.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

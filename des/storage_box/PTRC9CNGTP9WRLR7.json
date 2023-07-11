@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCJ4WT5LF3ARQH.jpg": {
+      "referenceImageId": "REFIMGCJ4WT5LF3ARQH",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Used this for assessment"
+    },
+    "REFIMGCV9XQHUU2EE6H.jpg": {
+      "referenceImageId": "REFIMGCV9XQHUU2EE6H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKMPB044NGXBJ.jpg": {
+      "referenceImageId": "REFIMGCKMPB044NGXBJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Dustproof Closet Clothes Storage Boxes with Zippered Lid, Breathable Fabric and Collagen Design for Seasonal Garment Organization, Light Grey, 2 Pieces"
+    },
+    "REFIMGCVK56QB88MBUH.jpg": {
+      "referenceImageId": "REFIMGCVK56QB88MBUH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B078W5964D",
+  "marketplace": 44551,
+  "partnerOrderId": "PTRC9CNGTP9WRLR7",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 35.0,
+      "widthInCms": 45.0,
+      "heightInCms": 25.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 40.0
+}

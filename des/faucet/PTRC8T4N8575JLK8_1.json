@@ -1,0 +1,112 @@
+{
+  "images": {
+    "REFIMGCU7NV7643ENF2.jpg": {
+      "referenceImageId": "REFIMGCU7NV7643ENF2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT6V9A81GVA52.jpg": {
+      "referenceImageId": "REFIMGCT6V9A81GVA52",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6105XR951PJ6.jpg": {
+      "referenceImageId": "REFIMGC6105XR951PJ6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5B8MDCKM6FLP.jpg": {
+      "referenceImageId": "REFIMGC5B8MDCKM6FLP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXLGA3LG80HGX.jpg": {
+      "referenceImageId": "REFIMGCXLGA3LG80HGX",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC836UWVBZ3K94.jpg": {
+      "referenceImageId": "REFIMGC836UWVBZ3K94",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0ACWDT0Q9V8Z.jpg": {
+      "referenceImageId": "REFIMGC0ACWDT0Q9V8Z",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTP0BXUTUKEPP.jpg": {
+      "referenceImageId": "REFIMGCTP0BXUTUKEPP",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKH6RZGVJ0FGH.jpg": {
+      "referenceImageId": "REFIMGCKH6RZGVJ0FGH",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC01ADUE64KUGH.jpg": {
+      "referenceImageId": "REFIMGC01ADUE64KUGH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SOKA Kitchen Faucet Oil Rubbed Bronze Commercial Kitchen Sink Faucet with Pull Down Sprayer Kitchen Faucet Bronze with Deck Plate Single Handle Modern Rv Kitchen Faucet ORB 3 Function Laundry Faucet"
+    }
+  },
+  "asin": "B0835JGDS8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8T4N8575JLK8",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 26.42,
+      "widthInCms": 20.32,
+      "heightInCms": 49.78
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 100.0
+}

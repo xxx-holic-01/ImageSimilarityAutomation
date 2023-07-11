@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCLHV87DTUEHJX.jpg": {
+      "referenceImageId": "REFIMGCLHV87DTUEHJX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPGVP2K1E3NNQ.jpg": {
+      "referenceImageId": "REFIMGCPGVP2K1E3NNQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Protec MX044 4/4 Violin Shaped MAX Case Black"
+    },
+    "REFIMGC142P8UWKDR1K.jpg": {
+      "referenceImageId": "REFIMGC142P8UWKDR1K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHH3XNMAHGN5M.jpg": {
+      "referenceImageId": "REFIMGCHH3XNMAHGN5M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVLADFF61RCZ1.jpg": {
+      "referenceImageId": "REFIMGCVLADFF61RCZ1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2Z2VFMV3M1LC.jpg": {
+      "referenceImageId": "REFIMGC2Z2VFMV3M1LC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAPAY6WCKDNYM.jpg": {
+      "referenceImageId": "REFIMGCAPAY6WCKDNYM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTFWFXNKKMLVJ.jpg": {
+      "referenceImageId": "REFIMGCTFWFXNKKMLVJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B001BAJO3C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC58ETVVWQUMHD",
+  "productDimensionList": [
+    {
+      "productCategory": "Cupboard",
+      "lengthInCms": 20.0,
+      "widthInCms": 81.28,
+      "heightInCms": 33.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STRINGED_INSTRUMENTS",
+  "focalLength": 75.0
+}

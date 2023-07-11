@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGCAP2BU13T6HGM.jpg": {
+      "referenceImageId": "REFIMGCAP2BU13T6HGM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCYGCH835794R8.jpg": {
+      "referenceImageId": "REFIMGCYGCH835794R8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY1XMQ2GE6JNM.jpg": {
+      "referenceImageId": "REFIMGCY1XMQ2GE6JNM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07SZWNCVP",
+  "marketplace": 5,
+  "partnerOrderId": "PTRCHFKYYRV080V8",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 28.0,
+      "widthInCms": 36.0,
+      "heightInCms": 17.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 77.0
+}

@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC9A6PEQ02WU1Z.jpg": {
+      "referenceImageId": "REFIMGC9A6PEQ02WU1Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG9JNVR4M61P9.jpg": {
+      "referenceImageId": "REFIMGCG9JNVR4M61P9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHHXT00R70YRM.jpg": {
+      "referenceImageId": "REFIMGCHHXT00R70YRM",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXCH04T8QA31Q.jpg": {
+      "referenceImageId": "REFIMGCXCH04T8QA31Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMG6MUDH5C4WV.jpg": {
+      "referenceImageId": "REFIMGCMG6MUDH5C4WV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Genteele Bath Mats for Bathroom Non Slip - Teal 17\" x 24\" Memory Foam Bathroom Rugs - Quick Dry Bath Mat"
+    },
+    "REFIMGCMU316BR2WCQL.jpg": {
+      "referenceImageId": "REFIMGCMU316BR2WCQL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGJBHE01ZR1WN.jpg": {
+      "referenceImageId": "REFIMGCGJBHE01ZR1WN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKWNDKAQ56HVR.jpg": {
+      "referenceImageId": "REFIMGCKWNDKAQ56HVR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07692DFBP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJKUAFK8V5YHV",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 43.18,
+      "widthInCms": 60.95,
+      "heightInCms": 2.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 55.0
+}

@@ -1,0 +1,107 @@
+{
+  "images": {
+    "REFIMGCLX1LTA8FRAMQ.jpg": {
+      "referenceImageId": "REFIMGCLX1LTA8FRAMQ",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4VU5YZXEXRX5.jpg": {
+      "referenceImageId": "REFIMGC4VU5YZXEXRX5",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUR081XNAKE35.jpg": {
+      "referenceImageId": "REFIMGCUR081XNAKE35",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9C43Y57RBUZZ.jpg": {
+      "referenceImageId": "REFIMGC9C43Y57RBUZZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBEXLZ6H6G6AC.jpg": {
+      "referenceImageId": "REFIMGCBEXLZ6H6G6AC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYP49XF9K8CCW.jpg": {
+      "referenceImageId": "REFIMGCYP49XF9K8CCW",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC977JNZ0EPR3L.jpg": {
+      "referenceImageId": "REFIMGC977JNZ0EPR3L",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC46D8CM60HKUX.jpg": {
+      "referenceImageId": "REFIMGC46D8CM60HKUX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Multi-Functional Loft Bed Twin Size with Built-in Wardrobe and Desk, Solid Wood Loft Bed Frame with Storage Drawers and Safety Guardrail for Kids Teens Adults, Maximized Space (Espresso-Wardrobe) "
+    },
+    "REFIMGCMZPDFDBMVTT7.jpg": {
+      "referenceImageId": "REFIMGCMZPDFDBMVTT7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BKLLP5GC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVKH9DQCP6LYH",
+  "productDimensionList": [
+    {
+      "productCategory": "Bed",
+      "lengthInCms": 112.0,
+      "widthInCms": 218.0,
+      "heightInCms": 165.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BED_FRAME",
+  "focalLength": 40.0
+}

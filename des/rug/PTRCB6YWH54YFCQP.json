@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC2QABUXX4R186.jpg": {
+      "referenceImageId": "REFIMGC2QABUXX4R186",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCB6G25L5CHE8.jpg": {
+      "referenceImageId": "REFIMGCCB6G25L5CHE8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Rugshop Modern Floral Circles Design Easy Cleaning for Living Room,Bedroom,Home Office,Kitchen Non Shedding Runner Rug "
+    },
+    "REFIMGCF9X7WJG75MAU.jpg": {
+      "referenceImageId": "REFIMGCF9X7WJG75MAU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC24GL4WJ3LNMZ.jpg": {
+      "referenceImageId": "REFIMGC24GL4WJ3LNMZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC61JWDXRWBT85.jpg": {
+      "referenceImageId": "REFIMGC61JWDXRWBT85",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0791K6T9G",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCB6YWH54YFCQP",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 61.0,
+      "widthInCms": 213.36,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 80.0
+}

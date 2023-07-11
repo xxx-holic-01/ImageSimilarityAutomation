@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCLR98JKU0T1L4.jpg": {
+      "referenceImageId": "REFIMGCLR98JKU0T1L4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL0GX9V28C1K9.jpg": {
+      "referenceImageId": "REFIMGCL0GX9V28C1K9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRJEQRVYW0YVN.jpg": {
+      "referenceImageId": "REFIMGCRJEQRVYW0YVN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUBVK3W54KGAX.jpg": {
+      "referenceImageId": "REFIMGCUBVK3W54KGAX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "OLANLY Memory Foam Bath Mat Rug, Ultra Soft Non Slip and Absorbent Bathroom Rug, white, DA done in first 17\" x 24\" mat image ignore rest mats model only the first one"
+    },
+    "REFIMGCT3BH41QN3CJJ.jpg": {
+      "referenceImageId": "REFIMGCT3BH41QN3CJJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRXA8ADNAH6NY.jpg": {
+      "referenceImageId": "REFIMGCRXA8ADNAH6NY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL88BWH7RAA2G.jpg": {
+      "referenceImageId": "REFIMGCL88BWH7RAA2G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKXWL29H99GJ9.jpg": {
+      "referenceImageId": "REFIMGCKXWL29H99GJ9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGVJR5L683M1X.jpg": {
+      "referenceImageId": "REFIMGCGVJR5L683M1X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09Q65K8SS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0UCN9JP200WG",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 43.18,
+      "widthInCms": 60.96,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

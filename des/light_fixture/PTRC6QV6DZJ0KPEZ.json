@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCRJ5L2P1W3C6N.jpg": {
+      "referenceImageId": "REFIMGCRJ5L2P1W3C6N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP0QDPT37GVTL.jpg": {
+      "referenceImageId": "REFIMGCP0QDPT37GVTL",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHF1PMGUEYHWJ.jpg": {
+      "referenceImageId": "REFIMGCHF1PMGUEYHWJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAQC6YAPB7B97.jpg": {
+      "referenceImageId": "REFIMGCAQC6YAPB7B97",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Inowel Outdoor Wall Light Dusk to Dawn White E26 Wall Mount Lights with Photocell for Porch Front Door Garage Garden IP44 Waterproof Max 28W, Light need to be in Turned OFF state. "
+    },
+    "REFIMGCANQ6W6257X24.jpg": {
+      "referenceImageId": "REFIMGCANQ6W6257X24",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHTFKMRAJ6QKA.jpg": {
+      "referenceImageId": "REFIMGCHTFKMRAJ6QKA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFAVP34YEGWV2.jpg": {
+      "referenceImageId": "REFIMGCFAVP34YEGWV2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0927J7ZFJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6QV6DZJ0KPEZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 16.0,
+      "widthInCms": 12.07,
+      "heightInCms": 33.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 65.0
+}

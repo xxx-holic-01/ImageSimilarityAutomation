@@ -1,0 +1,41 @@
+{
+  "images": {
+    "REFIMGCPB347V3H6LA3.jpg": {
+      "referenceImageId": "REFIMGCPB347V3H6LA3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3RFG4MDTD6W5.jpg": {
+      "referenceImageId": "REFIMGC3RFG4MDTD6W5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B0BN39CLX6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9JXG902PTUR0",
+  "productDimensionList": [
+    {
+      "productCategory": "Stool",
+      "lengthInCms": 54.0,
+      "widthInCms": 47.0,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STOOL_SEATING",
+  "focalLength": 55.0
+}

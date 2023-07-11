@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC63G5061E19T9.jpg": {
+      "referenceImageId": "REFIMGC63G5061E19T9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5N9BZEU7Z6EF.jpg": {
+      "referenceImageId": "REFIMGC5N9BZEU7Z6EF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7JC4VZABRHT9.jpg": {
+      "referenceImageId": "REFIMGC7JC4VZABRHT9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Portable Scanner Photo Scanner for A4 Documents Handheld Scanner for Business Photo Picture Receipts Books JPG/PDF Format Selection UP to 900 DPI with 16G SD Car"
+    },
+    "REFIMGCVCRP5WB2NJKU.jpg": {
+      "referenceImageId": "REFIMGCVCRP5WB2NJKU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQKC38ENVGYJQ.jpg": {
+      "referenceImageId": "REFIMGCQKC38ENVGYJQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUG121QMUMAPF.jpg": {
+      "referenceImageId": "REFIMGCUG121QMUMAPF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BBVQ2HN5",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC03QFH6E0TRXR",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 3.0,
+      "widthInCms": 24.99,
+      "heightInCms": 2.49
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "SCANNER",
+  "focalLength": 60.0
+}

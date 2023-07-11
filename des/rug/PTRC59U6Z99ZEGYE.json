@@ -1,0 +1,112 @@
+{
+  "images": {
+    "REFIMGCWRKLQ27KZFZ1.jpg": {
+      "referenceImageId": "REFIMGCWRKLQ27KZFZ1",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD6B9XY40WQQB.jpg": {
+      "referenceImageId": "REFIMGCD6B9XY40WQQB",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU4TN9QW0YG5E.jpg": {
+      "referenceImageId": "REFIMGCU4TN9QW0YG5E",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEJ866CX73YFU.jpg": {
+      "referenceImageId": "REFIMGCEJ866CX73YFU",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGM6LULNP4ZZ9.jpg": {
+      "referenceImageId": "REFIMGCGM6LULNP4ZZ9",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWPHG3442FJG1.jpg": {
+      "referenceImageId": "REFIMGCWPHG3442FJG1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mark\u0026Day Area Rugs, 7x7 Neerbosch Modern Light Gray Square Area Rug, Gray/Black/White Carpet for Living Room, Bedroom or Kitchen ,(6\u00277\" Square) ,Color: Light Gray,Pattern \tAbstract Shape \tRectangular Special Feature \tStain Resistant Material \tFaux Fur,brand: MARK \u0026 DAY Store"
+    },
+    "REFIMGC13P1LN1VUWA0.jpg": {
+      "referenceImageId": "REFIMGC13P1LN1VUWA0",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8298J0DHKG5L.jpg": {
+      "referenceImageId": "REFIMGC8298J0DHKG5L",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNTKMZKXAH0PG.jpg": {
+      "referenceImageId": "REFIMGCNTKMZKXAH0PG",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09JSW35L3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC59U6Z99ZEGYE",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 213.3,
+      "widthInCms": 213.3,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 90.0
+}

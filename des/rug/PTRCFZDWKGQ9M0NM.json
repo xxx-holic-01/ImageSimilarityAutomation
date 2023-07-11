@@ -1,0 +1,100 @@
+{
+  "images": {
+    "REFIMGCAZ8R6RCZ17PC.jpg": {
+      "referenceImageId": "REFIMGCAZ8R6RCZ17PC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH8L0MKNEV515.jpg": {
+      "referenceImageId": "REFIMGCH8L0MKNEV515",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNZ227KHNNW8L.jpg": {
+      "referenceImageId": "REFIMGCNZ227KHNNW8L",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8NRWHN4TWC4R.jpg": {
+      "referenceImageId": "REFIMGC8NRWHN4TWC4R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVA9CJB46ZPKT.jpg": {
+      "referenceImageId": "REFIMGCVA9CJB46ZPKT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Nourison Positano Indoor/Outdoor Aqua 6\u0027 x 9\u0027 Area Rug, Easy Cleaning, Non Shedding, Bed Room, Living Room, Dining Room, Backyard, Deck, Patio"
+    },
+    "REFIMGCGYV62G2UJB0H.jpg": {
+      "referenceImageId": "REFIMGCGYV62G2UJB0H",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQZUJNTLCACEK.jpg": {
+      "referenceImageId": "REFIMGCQZUJNTLCACEK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDDQCAT8B05EQ.jpg": {
+      "referenceImageId": "REFIMGCDDQCAT8B05EQ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6JQT2M70UCRT.jpg": {
+      "referenceImageId": "REFIMGC6JQT2M70UCRT",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0876VXBQ4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFZDWKGQ9M0NM",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 0.5,
+      "widthInCms": 272.76,
+      "heightInCms": 274.32
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

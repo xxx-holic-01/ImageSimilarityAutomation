@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCHLLQW7BXLDB6.jpg": {
+      "referenceImageId": "REFIMGCHLLQW7BXLDB6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJP9DNYJC4N75.jpg": {
+      "referenceImageId": "REFIMGCJP9DNYJC4N75",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBB45Z75GL5JV.jpg": {
+      "referenceImageId": "REFIMGCBB45Z75GL5JV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Kira Home Pennington Light Large Modern Chandelier + Curved Arms, Adjustable Hanging Height, Warm White Candle Accents + Black Finish "
+    },
+    "REFIMGCBJPC8GQQHFRG.jpg": {
+      "referenceImageId": "REFIMGCBJPC8GQQHFRG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWZREB76PDA1R.jpg": {
+      "referenceImageId": "REFIMGCWZREB76PDA1R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0V5VQ20DHR0C.jpg": {
+      "referenceImageId": "REFIMGC0V5VQ20DHR0C",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGJVMERUF104N.jpg": {
+      "referenceImageId": "REFIMGCGJVMERUF104N",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WW3H1SS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUH05M1XAEEFA",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 106.68,
+      "widthInCms": 106.68,
+      "heightInCms": 103.28
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 30.0
+}

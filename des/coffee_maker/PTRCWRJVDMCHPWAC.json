@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCX8KWMC81Q67W.jpg": {
+      "referenceImageId": "REFIMGCX8KWMC81Q67W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZNG0NNWANTVV.jpg": {
+      "referenceImageId": "REFIMGCZNG0NNWANTVV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC880FHVWRCDRR.jpg": {
+      "referenceImageId": "REFIMGC880FHVWRCDRR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B13YPK89",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWRJVDMCHPWAC",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 12.67,
+      "widthInCms": 35.99,
+      "heightInCms": 26.26
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COFFEE_MAKER",
+  "focalLength": 65.0
+}

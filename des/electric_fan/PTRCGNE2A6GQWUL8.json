@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGC300J3ERCJX8A.jpg": {
+      "referenceImageId": "REFIMGC300J3ERCJX8A",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZVPJJXXCQTWZ.jpg": {
+      "referenceImageId": "REFIMGCZVPJJXXCQTWZ",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ521PAKPUTT7.jpg": {
+      "referenceImageId": "REFIMGCZ521PAKPUTT7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBTT2LCTK0HXP.jpg": {
+      "referenceImageId": "REFIMGCBTT2LCTK0HXP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B099NCBY9G",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCGNE2A6GQWUL8",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 5.0,
+      "widthInCms": 10.0,
+      "heightInCms": 20.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "ELECTRIC_FAN",
+  "focalLength": 50.0
+}

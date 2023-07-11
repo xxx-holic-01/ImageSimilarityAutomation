@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCJ9QY867ZV1H5.jpg": {
+      "referenceImageId": "REFIMGCJ9QY867ZV1H5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC49CXB1FE6TVF.jpg": {
+      "referenceImageId": "REFIMGC49CXB1FE6TVF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV5MCWMN00PXE.jpg": {
+      "referenceImageId": "REFIMGCV5MCWMN00PXE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPJQZMNK8U98Q.jpg": {
+      "referenceImageId": "REFIMGCPJQZMNK8U98Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6K0U14JR3KUA.jpg": {
+      "referenceImageId": "REFIMGC6K0U14JR3KUA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Nature\u0026#39;s Taste 3.3Qt 5-Ply Stainless Steel Low-Pressure Vacuum Cooking Pot with Transparent Tempered Glass Vacuum Seal Lid - Dishwasher Safe, Safe for All Stovetops, Cook Faster and Keep Fresh Longer, Great for Soups and Stews"
+    },
+    "REFIMGCH90QKVJJ7F0N.jpg": {
+      "referenceImageId": "REFIMGCH90QKVJJ7F0N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TCX2GWC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZLZLEM1UWQTJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 20.0,
+      "widthInCms": 30.5,
+      "heightInCms": 17.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PRESSURE_COOKER",
+  "focalLength": 120.0
+}

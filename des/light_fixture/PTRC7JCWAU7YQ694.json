@@ -1,0 +1,122 @@
+{
+  "images": {
+    "REFIMGC77VZE8BJP7CT.jpg": {
+      "referenceImageId": "REFIMGC77VZE8BJP7CT",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK020DUDR53ZW.jpg": {
+      "referenceImageId": "REFIMGCK020DUDR53ZW",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCURVKV3WZLLW6.jpg": {
+      "referenceImageId": "REFIMGCURVKV3WZLLW6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCL5CCDC5NU2EX.jpg": {
+      "referenceImageId": "REFIMGCL5CCDC5NU2EX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4L3GFP0KZC9Y.jpg": {
+      "referenceImageId": "REFIMGC4L3GFP0KZC9Y",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMGW83BAMKT5V.jpg": {
+      "referenceImageId": "REFIMGCMGW83BAMKT5V",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBUEWVM9Q31Z7.jpg": {
+      "referenceImageId": "REFIMGCBUEWVM9Q31Z7",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQWK9UZQ4GXFZ.jpg": {
+      "referenceImageId": "REFIMGCQWK9UZQ4GXFZ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1UW7EWMJ351B.jpg": {
+      "referenceImageId": "REFIMGC1UW7EWMJ351B",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BCKHHCVS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7JCWAU7YQ694",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.02,
+      "widthInCms": 20.02,
+      "heightInCms": 74.21
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 85.0
+}

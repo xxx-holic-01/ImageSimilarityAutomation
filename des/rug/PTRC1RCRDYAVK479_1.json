@@ -1,0 +1,106 @@
+{
+  "images": {
+    "REFIMGCMMJWRM0HVQPG.jpg": {
+      "referenceImageId": "REFIMGCMMJWRM0HVQPG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5GE2948V9J3A.jpg": {
+      "referenceImageId": "REFIMGC5GE2948V9J3A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXR5P978JXQRH.jpg": {
+      "referenceImageId": "REFIMGCXR5P978JXQRH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7RJB0175M7PX.jpg": {
+      "referenceImageId": "REFIMGC7RJB0175M7PX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH695256L89Q5.jpg": {
+      "referenceImageId": "REFIMGCH695256L89Q5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW0C60M2GCLW9.jpg": {
+      "referenceImageId": "REFIMGCW0C60M2GCLW9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGHMBT96R7KM6.jpg": {
+      "referenceImageId": "REFIMGCGHMBT96R7KM6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SUPERIOR Indoor/Outdoor Area Rug for Patio, Terrace, Veranda, Bedroom, Kitchen, Laundry Room, Entryway, Home and Office, Artistic Abstract Floor Cover, Modern Casual Geometric, 6\u0027 x 8\u0027 10\", Cream "
+    },
+    "REFIMGCYTWZCUXW061G.jpg": {
+      "referenceImageId": "REFIMGCYTWZCUXW061G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXHPK84H02B89.jpg": {
+      "referenceImageId": "REFIMGCXHPK84H02B89",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPR6KBTQ72GYF.jpg": {
+      "referenceImageId": "REFIMGCPR6KBTQ72GYF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09LHK3PTJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1RCRDYAVK479",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 269.24,
+      "widthInCms": 170.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 45.0
+}

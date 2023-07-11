@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGC0AN3TVL4MAD0.jpg": {
+      "referenceImageId": "REFIMGC0AN3TVL4MAD0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGC92BEBZ80XYD1.jpg": {
+      "referenceImageId": "REFIMGC92BEBZ80XYD1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5J4MC3F31GDE.jpg": {
+      "referenceImageId": "REFIMGC5J4MC3F31GDE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCRMWPM81HJGR7.jpg": {
+      "referenceImageId": "REFIMGCRMWPM81HJGR7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD26K8JHBK4B8.jpg": {
+      "referenceImageId": "REFIMGCD26K8JHBK4B8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCB0X0GG5Y5QFC.jpg": {
+      "referenceImageId": "REFIMGCB0X0GG5Y5QFC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCZJ6PT8YE5YDR.jpg": {
+      "referenceImageId": "REFIMGCZJ6PT8YE5YDR",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGC23B2TUD1MV9F.jpg": {
+      "referenceImageId": "REFIMGC23B2TUD1MV9F",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC16MN9B1E2FPL.jpg": {
+      "referenceImageId": "REFIMGC16MN9B1E2FPL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wall mirror- model mirror only"
+    }
+  },
+  "asin": "B0B65HJH7C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1PMRPD37EC3Y",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.54,
+      "widthInCms": 46.85,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCF6WER2XXG9X6.jpg": {
+      "referenceImageId": "REFIMGCF6WER2XXG9X6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Naomi Home Glider and Ottoman Set, Nursery Glider with Ottoman, Wood Nursery Chair for Baby Room, Upholstered Nursing Chairs for Mom and Baby with Padded Arms Espresso, Dark Grey Cushion "
+    },
+    "REFIMGC0N0460X31Y87.jpg": {
+      "referenceImageId": "REFIMGC0N0460X31Y87",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD71M1BXTUX8U.jpg": {
+      "referenceImageId": "REFIMGCD71M1BXTUX8U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFPABKB6H0LRU.jpg": {
+      "referenceImageId": "REFIMGCFPABKB6H0LRU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4YDMBGMW5MEP.jpg": {
+      "referenceImageId": "REFIMGC4YDMBGMW5MEP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPPHQ1T3TDR4B.jpg": {
+      "referenceImageId": "REFIMGCPPHQ1T3TDR4B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0KKQYA4J4JXP.jpg": {
+      "referenceImageId": "REFIMGC0KKQYA4J4JXP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BH4QR6YV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVP1VLY2XUH02",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 66.0,
+      "widthInCms": 60.0,
+      "heightInCms": 103.0
+    },
+    {
+      "productCategory": "Ottomon",
+      "lengthInCms": 40.0,
+      "widthInCms": 52.0,
+      "heightInCms": 38.0
+    }
+  ],
+  "multiDimensionProduct": true,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 35.0
+}

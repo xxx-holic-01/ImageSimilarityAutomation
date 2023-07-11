@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGCEKTMG6W3CY9A.jpg": {
+      "referenceImageId": "REFIMGCEKTMG6W3CY9A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAAZXCPAEPH1V.jpg": {
+      "referenceImageId": "REFIMGCAAZXCPAEPH1V",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "BOKQTTN Lazy Susan Turntable Cupboard Organizer, Multi-Functional Spice Rack Rotating Spice Rack for Kitchen Storage, Revolving Condiment Holder, Non-Slip Storage Racks, Silver \u0026 White"
+    },
+    "REFIMGC11ZXAW6H47NZ.jpg": {
+      "referenceImageId": "REFIMGC11ZXAW6H47NZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVNF5GB6J8531.jpg": {
+      "referenceImageId": "REFIMGCVNF5GB6J8531",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ6DY5N6LM2TQ.jpg": {
+      "referenceImageId": "REFIMGCZ6DY5N6LM2TQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMBYYHZY0KPC8.jpg": {
+      "referenceImageId": "REFIMGCMBYYHZY0KPC8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJCTQ65HMP74D.jpg": {
+      "referenceImageId": "REFIMGCJCTQ65HMP74D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B097N4BHGD",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCQLUE1W31YRKR",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 23.0,
+      "widthInCms": 23.0,
+      "heightInCms": 7.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 45.0
+}

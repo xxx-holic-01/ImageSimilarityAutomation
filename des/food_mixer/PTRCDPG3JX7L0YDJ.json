@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGCBLEJPDM2JRLH.jpg": {
+      "referenceImageId": "REFIMGCBLEJPDM2JRLH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCE3X2TU371AX7.jpg": {
+      "referenceImageId": "REFIMGCE3X2TU371AX7",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDA1736AZK1P7.jpg": {
+      "referenceImageId": "REFIMGCDA1736AZK1P7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Stand Mixer, 6 Quart Tilt-Head Food Mixer, 600W Electric Kitchen Mixer, 6-Speed ​​Tilt-Head Food Mixer with Dough Hook, Wire Whip and Beater, Gray (Model in closed state)"
+    },
+    "REFIMGC8DMZ08M43Q61.jpg": {
+      "referenceImageId": "REFIMGC8DMZ08M43Q61",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEPAB2QX7VELF.jpg": {
+      "referenceImageId": "REFIMGCEPAB2QX7VELF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPKUE9GDZU9UB.jpg": {
+      "referenceImageId": "REFIMGCPKUE9GDZU9UB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL2CKWBRR901C.jpg": {
+      "referenceImageId": "REFIMGCL2CKWBRR901C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBZZ35A6DC3PV.jpg": {
+      "referenceImageId": "REFIMGCBZZ35A6DC3PV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B3D5S1BM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDPG3JX7L0YDJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 22.86,
+      "widthInCms": 38.1,
+      "heightInCms": 33.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_MIXER",
+  "focalLength": 30.0
+}

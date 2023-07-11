@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGCA310C8WTKKUG.jpg": {
+      "referenceImageId": "REFIMGCA310C8WTKKUG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK5GEFHM1MRCH.jpg": {
+      "referenceImageId": "REFIMGCK5GEFHM1MRCH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH2AAAJ2MBC11.jpg": {
+      "referenceImageId": "REFIMGCH2AAAJ2MBC11",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "mark the dimension from the imagr"
+    },
+    "REFIMGCDCRCEDXVNGX7.jpg": {
+      "referenceImageId": "REFIMGCDCRCEDXVNGX7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1R7A5G9J1LN8.jpg": {
+      "referenceImageId": "REFIMGC1R7A5G9J1LN8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXC8Q42F6BEBR.jpg": {
+      "referenceImageId": "REFIMGCXC8Q42F6BEBR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK3A7UDWEXB5D.jpg": {
+      "referenceImageId": "REFIMGCK3A7UDWEXB5D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV13GLCGCAR0A.jpg": {
+      "referenceImageId": "REFIMGCV13GLCGCAR0A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0885YZJNV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCCAVD7VD5BGTT",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 11.48,
+      "widthInCms": 55.85,
+      "heightInCms": 19.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

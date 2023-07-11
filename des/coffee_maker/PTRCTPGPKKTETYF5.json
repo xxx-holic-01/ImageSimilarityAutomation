@@ -1,0 +1,78 @@
+{
+  "images": {
+    "REFIMGCXH319GHNL159.jpg": {
+      "referenceImageId": "REFIMGCXH319GHNL159",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTUL5TG27JWBU.jpg": {
+      "referenceImageId": "REFIMGCTUL5TG27JWBU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9F4CJMJVZZ4H.jpg": {
+      "referenceImageId": "REFIMGC9F4CJMJVZZ4H",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-GROSCHE Melbourne French Press Coffee Maker with Bamboo \u0026 Cork "
+    },
+    "REFIMGCUKQZ0ZG2LNK2.jpg": {
+      "referenceImageId": "REFIMGCUKQZ0ZG2LNK2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6N3T92VYT0RX.jpg": {
+      "referenceImageId": "REFIMGC6N3T92VYT0RX",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT3XT7VHG0KTJ.jpg": {
+      "referenceImageId": "REFIMGCT3XT7VHG0KTJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0733NB7D6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCTPGPKKTETYF5",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 14.0,
+      "widthInCms": 17.5,
+      "heightInCms": 25.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COFFEE_MAKER",
+  "focalLength": 60.0
+}

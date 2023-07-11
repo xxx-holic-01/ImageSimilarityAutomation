@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCZAEA7ZJGLGHH.jpg": {
+      "referenceImageId": "REFIMGCZAEA7ZJGLGHH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQDFE1D6KRBYK.jpg": {
+      "referenceImageId": "REFIMGCQDFE1D6KRBYK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA9BQQ9GK3CVL.jpg": {
+      "referenceImageId": "REFIMGCA9BQQ9GK3CVL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3QB4DWD4W37K.jpg": {
+      "referenceImageId": "REFIMGC3QB4DWD4W37K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2RWFW9Q8QD0P.jpg": {
+      "referenceImageId": "REFIMGC2RWFW9Q8QD0P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXMVA3L7NQLVD.jpg": {
+      "referenceImageId": "REFIMGCXMVA3L7NQLVD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "NeuType Full Length Mirror Standing Hanging or Leaning Against Wall, Large Bedroom Mirror Floor Mirror Dressing Mirror Wall-Mounted Mirror, Aluminum Alloy Thin Frame, Brushed Matte Gold"
+    }
+  },
+  "asin": "B07X4DTLN9",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEXWDJN54029C",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.0,
+      "widthInCms": 62.0,
+      "heightInCms": 165.1
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 90.0
+}

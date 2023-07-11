@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGC2FE6ZBBCMEDG.jpg": {
+      "referenceImageId": "REFIMGC2FE6ZBBCMEDG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFE2TGCK153Q6.jpg": {
+      "referenceImageId": "REFIMGCFE2TGCK153Q6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Black Flush Mount Ceiling Lights, Dimension taken from this Image, Bulbs Not Included"
+    },
+    "REFIMGCL80VTFBFDNGH.jpg": {
+      "referenceImageId": "REFIMGCL80VTFBFDNGH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZB0EH3ZKXL83.jpg": {
+      "referenceImageId": "REFIMGCZB0EH3ZKXL83",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC246TM6TV0P1Z.jpg": {
+      "referenceImageId": "REFIMGC246TM6TV0P1Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5R2FKKA6Q0J2.jpg": {
+      "referenceImageId": "REFIMGC5R2FKKA6Q0J2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQM89X5QM8MXU.jpg": {
+      "referenceImageId": "REFIMGCQM89X5QM8MXU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF7XXQ4XAVZ6T.jpg": {
+      "referenceImageId": "REFIMGCF7XXQ4XAVZ6T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B6PNDV2P",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJZPKAKKVYBLM",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 50.0,
+      "widthInCms": 50.0,
+      "heightInCms": 28.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 25.0
+}

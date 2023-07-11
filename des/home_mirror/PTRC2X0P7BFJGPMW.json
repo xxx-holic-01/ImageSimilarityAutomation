@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCUW0J5M8T1DBA.jpg": {
+      "referenceImageId": "REFIMGCUW0J5M8T1DBA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "This image is used for dimension assessment."
+    },
+    "REFIMGCXWHRG2M285BM.jpg": {
+      "referenceImageId": "REFIMGCXWHRG2M285BM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC19Z9WY2HQL86.jpg": {
+      "referenceImageId": "REFIMGC19Z9WY2HQL86",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMABC53YTNGJQ.jpg": {
+      "referenceImageId": "REFIMGCMABC53YTNGJQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9P4CCFMP5HDR.jpg": {
+      "referenceImageId": "REFIMGC9P4CCFMP5HDR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Oizeir Makeup Mirror with Lights – Natural Soft Light, Adjust Brightness, 3X Magnification, USB or Battery Power, Tri-Fold and Rotation Design for Comfortable Viewing Angle. (White) "
+    },
+    "REFIMGC243UFCV9ZTMZ.jpg": {
+      "referenceImageId": "REFIMGC243UFCV9ZTMZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09Z362N7R",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2X0P7BFJGPMW",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 13.0,
+      "widthInCms": 34.3,
+      "heightInCms": 28.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

@@ -1,0 +1,53 @@
+{
+  "images": {
+    "REFIMGC4WW0VAPC53FP.jpg": {
+      "referenceImageId": "REFIMGC4WW0VAPC53FP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCC3KYQ90JEK6B.jpg": {
+      "referenceImageId": "REFIMGCC3KYQ90JEK6B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0XUR1EDDKADG.jpg": {
+      "referenceImageId": "REFIMGC0XUR1EDDKADG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNZUZX651JWJM.jpg": {
+      "referenceImageId": "REFIMGCNZUZX651JWJM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hillyard Cowhide Rug Medium Brindle Tricolor Grade A, Natural, Real Cowhide Rug Made from Sustainably Sourced, Premium Cowhide by Skilled Artisans - XL Extra Large Cut"
+    }
+  },
+  "asin": "B09QVB1YHL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCC8FF4EL6BRD0",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 216.98,
+      "widthInCms": 228.6,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCK2HHYLNCG9KX.jpg": {
+      "referenceImageId": "REFIMGCK2HHYLNCG9KX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH6ZVHLTN5DU5.jpg": {
+      "referenceImageId": "REFIMGCH6ZVHLTN5DU5",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZK2VT0FC4008.jpg": {
+      "referenceImageId": "REFIMGCZK2VT0FC4008",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9A1279YABUD0.jpg": {
+      "referenceImageId": "REFIMGC9A1279YABUD0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGCT3H7LAZV1J.jpg": {
+      "referenceImageId": "REFIMGCGCT3H7LAZV1J",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAZ146V6EW23C.jpg": {
+      "referenceImageId": "REFIMGCAZ146V6EW23C",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMRGEA8GE5BUH.jpg": {
+      "referenceImageId": "REFIMGCMRGEA8GE5BUH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "R.W.FLAME 14000BTU Portable Air Conditioner for Rooms up to 700 sq.ft3 in 1 Portable AC unit with Dehumidifier \u0026 FanRemote Control \u0026 Window Mount KitLED Display24H On/Off Timer"
+    }
+  },
+  "asin": "B09PG3NQJC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9JXCA1XXWZK2",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 40.49,
+      "widthInCms": 45.49,
+      "heightInCms": 92.37
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_CONDITIONER",
+  "focalLength": 60.0
+}

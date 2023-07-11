@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCJDVAGQA0756X.jpg": {
+      "referenceImageId": "REFIMGCJDVAGQA0756X",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6DNZZRH1Q4R6.jpg": {
+      "referenceImageId": "REFIMGC6DNZZRH1Q4R6",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP8GA76UFKDCV.jpg": {
+      "referenceImageId": "REFIMGCP8GA76UFKDCV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG7F93WF2DFV6.jpg": {
+      "referenceImageId": "REFIMGCG7F93WF2DFV6",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0ZVGHZCUF10G.jpg": {
+      "referenceImageId": "REFIMGC0ZVGHZCUF10G",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "6L Humidifiers for Bedroom Large Room, Cool Mist Humidifiers for Baby Nursery Plants with Essential Oils Diffuser, 360°Rotatable Double Spray Outlet Nozzle, Auto-Shut Off, Sleep Mode,"
+    },
+    "REFIMGCNBK6X2MRFMLM.jpg": {
+      "referenceImageId": "REFIMGCNBK6X2MRFMLM",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW6B6MQ575A4D.jpg": {
+      "referenceImageId": "REFIMGCW6B6MQ575A4D",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMTUQRD0LGU83.jpg": {
+      "referenceImageId": "REFIMGCMTUQRD0LGU83",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BH19HZXP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1HDR2LJUQTC5",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 17.78,
+      "widthInCms": 20.32,
+      "heightInCms": 33.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HUMIDIFIER",
+  "focalLength": 120.0
+}

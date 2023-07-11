@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCHMD35E38JG8N.jpg": {
+      "referenceImageId": "REFIMGCHMD35E38JG8N",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6H72P4CU7LHA.jpg": {
+      "referenceImageId": "REFIMGC6H72P4CU7LHA",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false
+    },
+    "REFIMGCRVQXE6P6MXUV.jpg": {
+      "referenceImageId": "REFIMGCRVQXE6P6MXUV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "DINVES Portable Toilet for Camping, Folding Toilet, Portable Potty for Adults, Travel Toilet with Storage Carry Bag, Outdoor Travel Toilet for Car, Traffic Jam, Hiking, Trips, Tent, Boat and Fishing"
+    },
+    "REFIMGCL8U86NFWDWEH.jpg": {
+      "referenceImageId": "REFIMGCL8U86NFWDWEH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3TRFG3URPCUP.jpg": {
+      "referenceImageId": "REFIMGC3TRFG3URPCUP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6C3C0M36LGYN.jpg": {
+      "referenceImageId": "REFIMGC6C3C0M36LGYN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9FELYP57BE9H.jpg": {
+      "referenceImageId": "REFIMGC9FELYP57BE9H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B2MT4YNF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCG5DLJJD5167H",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 27.94,
+      "widthInCms": 33.02,
+      "heightInCms": 33.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOILET",
+  "focalLength": 50.0
+}

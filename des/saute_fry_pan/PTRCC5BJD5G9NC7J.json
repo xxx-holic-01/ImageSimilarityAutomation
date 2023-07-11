@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGCCMG5QN09XFDG.jpg": {
+      "referenceImageId": "REFIMGCCMG5QN09XFDG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Flavored Stone Diamond Edition Extra Deep Pan, Non-Stick (Dark Navy) "
+    }
+  },
+  "asin": "B08LYQ8LVD",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCC5BJD5G9NC7J",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 23.5,
+      "widthInCms": 23.5,
+      "heightInCms": 7.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 60.0
+}

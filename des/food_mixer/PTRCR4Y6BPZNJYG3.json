@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCQVKVMGZ3L6DF.jpg": {
+      "referenceImageId": "REFIMGCQVKVMGZ3L6DF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNHQAB79WGT4U.jpg": {
+      "referenceImageId": "REFIMGCNHQAB79WGT4U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMT4NJPLE5VW3.jpg": {
+      "referenceImageId": "REFIMGCMT4NJPLE5VW3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTK0DKC1FJ9QK.jpg": {
+      "referenceImageId": "REFIMGCTK0DKC1FJ9QK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAXVER13NCA4B.jpg": {
+      "referenceImageId": "REFIMGCAXVER13NCA4B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2R1L5JFQTBZP.jpg": {
+      "referenceImageId": "REFIMGC2R1L5JFQTBZP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHCY387AHEN40.jpg": {
+      "referenceImageId": "REFIMGCHCY387AHEN40",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1H9ZK1VWQYM3.jpg": {
+      "referenceImageId": "REFIMGC1H9ZK1VWQYM3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDDDLEQNAZEEQ.jpg": {
+      "referenceImageId": "REFIMGCDDDLEQNAZEEQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VonShef Hand Mixer Electric Whisk – Food Mixer for Baking with 5 Speeds, 300W, 2 Stainless Steel Beaters, 2 Dough Hooks \u0026 Balloon Whisk, Easy Clean, Turbo Boost, Eject Button, Compact – Black"
+    }
+  },
+  "asin": "B008XJNEU8",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCR4Y6BPZNJYG3",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 18.5,
+      "widthInCms": 11.0,
+      "heightInCms": 18.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_MIXER",
+  "focalLength": 55.0
+}

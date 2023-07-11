@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGC89KF9LVAANF9.jpg": {
+      "referenceImageId": "REFIMGC89KF9LVAANF9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFMGGP3LMLMNU.jpg": {
+      "referenceImageId": "REFIMGCFMGGP3LMLMNU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV9456BNWTWLJ.jpg": {
+      "referenceImageId": "REFIMGCV9456BNWTWLJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV3WP3VV0MRDE.jpg": {
+      "referenceImageId": "REFIMGCV3WP3VV0MRDE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG0EZT1KJT51J.jpg": {
+      "referenceImageId": "REFIMGCG0EZT1KJT51J",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Framed Bevel Leaner Full Length Huge Floor Mirror XL Mirror Large Rectangle Standing Floor Mirror Huge Mirrors for Bedroom Oversize Mirrors for Floor XL Floor Mirror - Oil Rubbed Bronze, 66\" L x 32\" W "
+    },
+    "REFIMGCRACJVK44TC1F.jpg": {
+      "referenceImageId": "REFIMGCRACJVK44TC1F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4HDT15BGRNZE.jpg": {
+      "referenceImageId": "REFIMGC4HDT15BGRNZE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN3VVGAFT2Y8Q.jpg": {
+      "referenceImageId": "REFIMGCN3VVGAFT2Y8Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC29M4X4TYKGLL.jpg": {
+      "referenceImageId": "REFIMGC29M4X4TYKGLL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07L1828HQ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCL3Q0TTQ9N454",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 1.27,
+      "widthInCms": 81.28,
+      "heightInCms": 167.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

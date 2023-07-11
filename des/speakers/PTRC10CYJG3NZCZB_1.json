@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCVEAB9HFYUEHX.jpg": {
+      "referenceImageId": "REFIMGCVEAB9HFYUEHX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQWNEBTAVYPFZ.jpg": {
+      "referenceImageId": "REFIMGCQWNEBTAVYPFZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCHTDUW3QWY0C.jpg": {
+      "referenceImageId": "REFIMGCCHTDUW3QWY0C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGNPQ33LG4D6T.jpg": {
+      "referenceImageId": "REFIMGCGNPQ33LG4D6T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPJMU5V0HDG9Q.jpg": {
+      "referenceImageId": "REFIMGCPJMU5V0HDG9Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTH31E23P9MCK.jpg": {
+      "referenceImageId": "REFIMGCTH31E23P9MCK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPAW365FE3KAL.jpg": {
+      "referenceImageId": "REFIMGCPAW365FE3KAL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Makita ADRM08 Outdoor Adventure™ 18V LXT® Bluetooth® Speaker, Tool Only "
+    },
+    "REFIMGCDK2J40BNDN7V.jpg": {
+      "referenceImageId": "REFIMGCDK2J40BNDN7V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVLPJWMEK7VU1.jpg": {
+      "referenceImageId": "REFIMGCVLPJWMEK7VU1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BF3RWRWV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC10CYJG3NZCZB",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 20.0,
+      "widthInCms": 21.1,
+      "heightInCms": 27.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 75.0
+}

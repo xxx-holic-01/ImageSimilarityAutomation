@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCT2LTRLBUJWDZ.jpg": {
+      "referenceImageId": "REFIMGCT2LTRLBUJWDZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7PHX4NZWVN5W.jpg": {
+      "referenceImageId": "REFIMGC7PHX4NZWVN5W",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TALOYA LED Flush Mount Ceiling Light 5000k 12 Inch Round Black 24w\u003d240w(Equivalent) Simple Lamp for Bedroom Hallway Kitchen Gallery Low Ceilings Areas, ETL Listed, Light need to be in Turned OFF state."
+    },
+    "REFIMGCJQ05XBPN980N.jpg": {
+      "referenceImageId": "REFIMGCJQ05XBPN980N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8MVZK8PMW9B9.jpg": {
+      "referenceImageId": "REFIMGC8MVZK8PMW9B9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKHJ3AJD9NGDH.jpg": {
+      "referenceImageId": "REFIMGCKHJ3AJD9NGDH",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0DC8754GD73K.jpg": {
+      "referenceImageId": "REFIMGC0DC8754GD73K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG4ZJFJTLTQFN.jpg": {
+      "referenceImageId": "REFIMGCG4ZJFJTLTQFN",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0ZF9XN29NWXG.jpg": {
+      "referenceImageId": "REFIMGC0ZF9XN29NWXG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08GWXF31B",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZ8UKVXN2GDDH",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 30.48,
+      "widthInCms": 30.48,
+      "heightInCms": 2.39
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 55.0
+}

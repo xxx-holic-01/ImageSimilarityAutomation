@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCZVMCFF6FPRA0.jpg": {
+      "referenceImageId": "REFIMGCZVMCFF6FPRA0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": "Solar Post Lights Outdoor, Auto On/Off with Sunrise and Sunset, Solar Powered, Fits Most Posts "
+    },
+    "REFIMGCA3PJ4B2WM1VG.jpg": {
+      "referenceImageId": "REFIMGCA3PJ4B2WM1VG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCBBUVENRJH9LV.jpg": {
+      "referenceImageId": "REFIMGCBBUVENRJH9LV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGC1PZ644RRQ987.jpg": {
+      "referenceImageId": "REFIMGC1PZ644RRQ987",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPCL7GZART8XL.jpg": {
+      "referenceImageId": "REFIMGCPCL7GZART8XL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B085PTLWB5",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3RXFXL2NW7Z6",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.48,
+      "widthInCms": 19.48,
+      "heightInCms": 15.75
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 70.0
+}

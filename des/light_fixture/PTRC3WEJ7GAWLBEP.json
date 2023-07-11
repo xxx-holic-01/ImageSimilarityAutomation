@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCAE77LBEZJ25Z.jpg": {
+      "referenceImageId": "REFIMGCAE77LBEZJ25Z",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC794DFH5VWAVT.jpg": {
+      "referenceImageId": "REFIMGC794DFH5VWAVT",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNV5QJEHQJKDL.jpg": {
+      "referenceImageId": "REFIMGCNV5QJEHQJKDL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCF499JD6RECC.jpg": {
+      "referenceImageId": "REFIMGCCF499JD6RECC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8521AVURHJM5.jpg": {
+      "referenceImageId": "REFIMGC8521AVURHJM5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ZZ Joakoah® 3-Lights Bathroom Vanity Light Fixtures Matte Black Bathroom Wall Lights Modern Bathroom Lighting Fixtures with Clear Glass Shade Farmhouse Wall Sconces Lighting for Bathroom"
+    },
+    "REFIMGCR8URWADVN4PP.jpg": {
+      "referenceImageId": "REFIMGCR8URWADVN4PP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC26XY63ZQEY72.jpg": {
+      "referenceImageId": "REFIMGC26XY63ZQEY72",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08HKY8CC1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3WEJ7GAWLBEP",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 17.98,
+      "widthInCms": 54.99,
+      "heightInCms": 22.67
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

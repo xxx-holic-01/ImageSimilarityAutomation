@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCP19Z95YNUXM4.jpg": {
+      "referenceImageId": "REFIMGCP19Z95YNUXM4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6N4PHBMRW4YX.jpg": {
+      "referenceImageId": "REFIMGC6N4PHBMRW4YX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ7L1J51PM9HQ.jpg": {
+      "referenceImageId": "REFIMGCQ7L1J51PM9HQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LED Smart Recessed Lighting 4 Inch Recessed Light IC Rated ETL Certified Peteme Ceiling Light RGBCW Dimmable Color Changing Outdoor Soffit Downlight with J-Box Work with Alexa/Google 10W 800LM 12Pcs"
+    },
+    "REFIMGC6YA2QK3B1CDN.jpg": {
+      "referenceImageId": "REFIMGC6YA2QK3B1CDN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQAQ61V98GEE0.jpg": {
+      "referenceImageId": "REFIMGCQAQ61V98GEE0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXCXW3H3JL8GR.jpg": {
+      "referenceImageId": "REFIMGCXCXW3H3JL8GR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJZE23L6PJJQX.jpg": {
+      "referenceImageId": "REFIMGCJZE23L6PJJQX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BFKBJQDJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3AA7YXFGPGL5",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 8.6,
+      "widthInCms": 8.6,
+      "heightInCms": 16.17
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

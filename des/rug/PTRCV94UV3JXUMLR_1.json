@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGC9NUNR3R54R28.jpg": {
+      "referenceImageId": "REFIMGC9NUNR3R54R28",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJEF08TPR6KUH.jpg": {
+      "referenceImageId": "REFIMGCJEF08TPR6KUH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCK8LZ2DMBMJW1.jpg": {
+      "referenceImageId": "REFIMGCK8LZ2DMBMJW1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ6RUT11544N7.jpg": {
+      "referenceImageId": "REFIMGCQ6RUT11544N7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBGGVV78K71FG.jpg": {
+      "referenceImageId": "REFIMGCBGGVV78K71FG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFBCXH4PT6QVK.jpg": {
+      "referenceImageId": "REFIMGCFBCXH4PT6QVK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6AVT2H0N6VEN.jpg": {
+      "referenceImageId": "REFIMGC6AVT2H0N6VEN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC32Q3ALFV01DC.jpg": {
+      "referenceImageId": "REFIMGC32Q3ALFV01DC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZV4QHJ2PXPD0.jpg": {
+      "referenceImageId": "REFIMGCZV4QHJ2PXPD0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VK Living Washable Rug, 8\u0027x10\u0027 Stain Resistant Washable Rug,Machine Washable Rug with Non-Slip,Vintage Bohemian Area Rug for Living Room Bedroom Dining Home Office Area Rug (Blue, 8\u0027x10\u0027) "
+    }
+  },
+  "asin": "B0BBYSLSWZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCV94UV3JXUMLR",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 243.84,
+      "widthInCms": 364.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 85.0
+}

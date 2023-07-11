@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC35G02AFVKJ9Y.jpg": {
+      "referenceImageId": "REFIMGC35G02AFVKJ9Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JapanBargain 1794, Takoyaki Pan Cast Iron Takoyaki Maker Skillet Griddle Japanese Octopus Meat Ball Mold Maker, 14 Molds "
+    },
+    "REFIMGC4RZEGBEAYGTK.jpg": {
+      "referenceImageId": "REFIMGC4RZEGBEAYGTK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCU31GDGWEXZL.jpg": {
+      "referenceImageId": "REFIMGCCU31GDGWEXZL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJXRYKAG5E12W.jpg": {
+      "referenceImageId": "REFIMGCJXRYKAG5E12W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5RYDVHZM72C2.jpg": {
+      "referenceImageId": "REFIMGC5RYDVHZM72C2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0042IUDYY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRLKQPD6BLCNT",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 46.7,
+      "widthInCms": 20.3,
+      "heightInCms": 5.08
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COUNTERTOP_GRIDDLE_APPLIANCE",
+  "focalLength": 70.0
+}

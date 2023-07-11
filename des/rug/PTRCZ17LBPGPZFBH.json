@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGC1J0B3RFG3WKL.jpg": {
+      "referenceImageId": "REFIMGC1J0B3RFG3WKL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPBK5N0RGJT63.jpg": {
+      "referenceImageId": "REFIMGCPBK5N0RGJT63",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZVQCMNWL3F9Z.jpg": {
+      "referenceImageId": "REFIMGCZVQCMNWL3F9Z",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Unique Loom Chromatic Collection Modern Colorful \u0026 Vibrant Abstract Area Rug for Any Home Décor, Multi/Blue "
+    },
+    "REFIMGC5ZNVHK1XWRBP.jpg": {
+      "referenceImageId": "REFIMGC5ZNVHK1XWRBP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCD10YAWPEVVB.jpg": {
+      "referenceImageId": "REFIMGCCD10YAWPEVVB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07BYSDVGD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZ17LBPGPZFBH",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 182.88,
+      "widthInCms": 182.88,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 40.0
+}

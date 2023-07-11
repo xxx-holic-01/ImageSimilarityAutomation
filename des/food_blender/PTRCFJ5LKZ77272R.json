@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC6PTF08LAFKTE.jpg": {
+      "referenceImageId": "REFIMGC6PTF08LAFKTE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCW281U22KAKLA.jpg": {
+      "referenceImageId": "REFIMGCW281U22KAKLA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWX41GE2UL8YN.jpg": {
+      "referenceImageId": "REFIMGCWX41GE2UL8YN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9AE5G0D91VF0.jpg": {
+      "referenceImageId": "REFIMGC9AE5G0D91VF0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6HZRY13LQWJA.jpg": {
+      "referenceImageId": "REFIMGC6HZRY13LQWJA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC86TDUKECWGKN.jpg": {
+      "referenceImageId": "REFIMGC86TDUKECWGKN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4ZWQFZL9N9LA.jpg": {
+      "referenceImageId": "REFIMGC4ZWQFZL9N9LA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JOYAMI 56oz Multi-function Countertop Blender, Smoothies, Milk \u0026 Soup Maker - Soy Milk, Almond Milk, Nut Milk, Oat Milk, Cashew Milk, Hot Soups, Juices, Purées, Shakes, Crush Ice, Smart Wi-Fi Control, Self-Cleaning, 9 Speed, White "
+    }
+  },
+  "asin": "B0BCJR4VXN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFJ5LKZ77272R",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 22.2,
+      "widthInCms": 24.79,
+      "heightInCms": 48.18
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_BLENDER",
+  "focalLength": 65.0
+}

@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC62CP0LNB8P8N.jpg": {
+      "referenceImageId": "REFIMGC62CP0LNB8P8N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEY42TABN583K.jpg": {
+      "referenceImageId": "REFIMGCEY42TABN583K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEAJK379ACYCL.jpg": {
+      "referenceImageId": "REFIMGCEAJK379ACYCL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT65WGZ6K1C52.jpg": {
+      "referenceImageId": "REFIMGCT65WGZ6K1C52",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTM4NJ3PA167N.jpg": {
+      "referenceImageId": "REFIMGCTM4NJ3PA167N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD0F8FP0V3XW7.jpg": {
+      "referenceImageId": "REFIMGCD0F8FP0V3XW7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Acekool AD4 Air Purifiers for Home, Air Purifiers Air Cleaner For Smoke Pollen Dander Hair Smell Portable Air Purifier with Sleep Mode Speed Control, 24dB Quiet Air Purifier "
+    },
+    "REFIMGCZWWKB6JZKA0G.jpg": {
+      "referenceImageId": "REFIMGCZWWKB6JZKA0G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BVGGC23V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVCXGVZ7WF9QK",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 19.8,
+      "widthInCms": 19.8,
+      "heightInCms": 34.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "AIR_PURIFIER",
+  "focalLength": 50.0
+}

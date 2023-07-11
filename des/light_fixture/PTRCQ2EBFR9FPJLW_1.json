@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCGQ5057YH2UHU.jpg": {
+      "referenceImageId": "REFIMGCGQ5057YH2UHU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXH7651MRVD59.jpg": {
+      "referenceImageId": "REFIMGCXH7651MRVD59",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA6VBL29P6X60.jpg": {
+      "referenceImageId": "REFIMGCA6VBL29P6X60",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7YEQ7J5FWVV1.jpg": {
+      "referenceImageId": "REFIMGC7YEQ7J5FWVV1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5F4FVNYFC24T.jpg": {
+      "referenceImageId": "REFIMGC5F4FVNYFC24T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQRNMAXD2YMJV.jpg": {
+      "referenceImageId": "REFIMGCQRNMAXD2YMJV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "model 1. light must be in off state"
+    }
+  },
+  "asin": "B0B9BM1TYD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQ2EBFR9FPJLW",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 3.99,
+      "widthInCms": 13.77,
+      "heightInCms": 29.97
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGCJC4F2UC4B5KE.jpg": {
+      "referenceImageId": "REFIMGCJC4F2UC4B5KE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC687992YU1HNU.jpg": {
+      "referenceImageId": "REFIMGC687992YU1HNU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3NE76A32RRYK.jpg": {
+      "referenceImageId": "REFIMGC3NE76A32RRYK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNNCHUP54RQ8F.jpg": {
+      "referenceImageId": "REFIMGCNNCHUP54RQ8F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCC6X9WDNYYCBZ.jpg": {
+      "referenceImageId": "REFIMGCC6X9WDNYYCBZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMQ068KKWV870.jpg": {
+      "referenceImageId": "REFIMGCMQ068KKWV870",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPQTGJU1UHMTW.jpg": {
+      "referenceImageId": "REFIMGCPQTGJU1UHMTW",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7F7944QYG2WN.jpg": {
+      "referenceImageId": "REFIMGC7F7944QYG2WN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B3YBWWY4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRCLZCAX3B73N",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 9.5,
+      "widthInCms": 17.0,
+      "heightInCms": 9.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 40.0
+}

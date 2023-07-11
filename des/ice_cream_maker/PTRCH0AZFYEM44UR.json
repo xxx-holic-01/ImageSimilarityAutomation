@@ -1,0 +1,69 @@
+{
+  "images": {
+    "REFIMGCJ7FMADZN0FJ2.jpg": {
+      "referenceImageId": "REFIMGCJ7FMADZN0FJ2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ice Cream Maker Attachment Compatible with All Kitchenaid 4.5QT Stand Mixer, 2"
+    },
+    "REFIMGCCMHQCCADJLYG.jpg": {
+      "referenceImageId": "REFIMGCCMHQCCADJLYG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJHX392BJUC31.jpg": {
+      "referenceImageId": "REFIMGCJHX392BJUC31",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCA3CDGMY4TNZG.jpg": {
+      "referenceImageId": "REFIMGCA3CDGMY4TNZG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXY17TYAWTNCN.jpg": {
+      "referenceImageId": "REFIMGCXY17TYAWTNCN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH831332YK4G6.jpg": {
+      "referenceImageId": "REFIMGCH831332YK4G6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BF9JSZ4D",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH0AZFYEM44UR",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 27.83,
+      "widthInCms": 27.22,
+      "heightInCms": 35.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ICE_CREAM_MAKER",
+  "focalLength": 60.0
+}

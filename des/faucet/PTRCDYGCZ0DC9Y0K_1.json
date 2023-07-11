@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGC4J82YR5KZ8LY.jpg": {
+      "referenceImageId": "REFIMGC4J82YR5KZ8LY",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9EZLRWF7LEH1.jpg": {
+      "referenceImageId": "REFIMGC9EZLRWF7LEH1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9E4XBR18PFH1.jpg": {
+      "referenceImageId": "REFIMGC9E4XBR18PFH1",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJYB3MNA9DDUD.jpg": {
+      "referenceImageId": "REFIMGCJYB3MNA9DDUD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKB3VXY9VPX3C.jpg": {
+      "referenceImageId": "REFIMGCKB3VXY9VPX3C",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Danco 10316 Tub Spout, 6 Inches/Pull Up Diverter, Brushed Nickel "
+    },
+    "REFIMGCX52H4T6CEZ59.jpg": {
+      "referenceImageId": "REFIMGCX52H4T6CEZ59",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B004E0Z92Q",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDYGCZ0DC9Y0K",
+  "productDimensionList": [
+    {
+      "productCategory": "Baby Stroller",
+      "lengthInCms": 16.8,
+      "widthInCms": 8.3,
+      "heightInCms": 8.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

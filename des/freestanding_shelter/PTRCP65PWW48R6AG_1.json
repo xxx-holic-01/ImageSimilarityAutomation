@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCHYCUNA1R1L5X.jpg": {
+      "referenceImageId": "REFIMGCHYCUNA1R1L5X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDAMA52QKX2N7.jpg": {
+      "referenceImageId": "REFIMGCDAMA52QKX2N7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3N8W7PYMW5YK.jpg": {
+      "referenceImageId": "REFIMGC3N8W7PYMW5YK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0CK25G0539W0.jpg": {
+      "referenceImageId": "REFIMGC0CK25G0539W0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC124DM5VFBFXG.jpg": {
+      "referenceImageId": "REFIMGC124DM5VFBFXG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC959HXTKWNLFM.jpg": {
+      "referenceImageId": "REFIMGC959HXTKWNLFM",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCR5BBL03ZE1U3.jpg": {
+      "referenceImageId": "REFIMGCR5BBL03ZE1U3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    }
+  },
+  "asin": "B0BBV8XC2P",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCP65PWW48R6AG",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 399.0,
+      "widthInCms": 305.0,
+      "heightInCms": 280.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FREESTANDING_SHELTER",
+  "focalLength": 37.0
+}

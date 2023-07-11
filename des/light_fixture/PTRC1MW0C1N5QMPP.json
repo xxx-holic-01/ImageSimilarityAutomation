@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCJ5AFB530R6V1.jpg": {
+      "referenceImageId": "REFIMGCJ5AFB530R6V1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT2CMA4X637FZ.jpg": {
+      "referenceImageId": "REFIMGCT2CMA4X637FZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "light should be in off state "
+    },
+    "REFIMGC56EL7HDQF7BB.jpg": {
+      "referenceImageId": "REFIMGC56EL7HDQF7BB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0995QSP4G",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1MW0C1N5QMPP",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.0,
+      "widthInCms": 59.0,
+      "heightInCms": 22.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 65.0
+}

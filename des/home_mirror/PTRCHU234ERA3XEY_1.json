@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCN79DKFMRGF5V.jpg": {
+      "referenceImageId": "REFIMGCN79DKFMRGF5V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWDQU3TNV4FQT.jpg": {
+      "referenceImageId": "REFIMGCWDQU3TNV4FQT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCC1TK6XCBC8QB.jpg": {
+      "referenceImageId": "REFIMGCC1TK6XCBC8QB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQFY4DMY58TTL.jpg": {
+      "referenceImageId": "REFIMGCQFY4DMY58TTL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEHZG0RL2WR4A.jpg": {
+      "referenceImageId": "REFIMGCEHZG0RL2WR4A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUDUZ5CJ3D3AY.jpg": {
+      "referenceImageId": "REFIMGCUDUZ5CJ3D3AY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "NXHOME Rectangle Metal Frame Wall Mirror for Bathroom 18 x 28 Inch Wall Mounted Vanity Mirror Rounded Corner Black Frame Decorative Mirrors for Bedroom Living Room"
+    },
+    "REFIMGCMDXM7L23GGF9.jpg": {
+      "referenceImageId": "REFIMGCMDXM7L23GGF9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09N8Y3NFD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHU234ERA3XEY",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 25.3,
+      "widthInCms": 670.56,
+      "heightInCms": 1493.52
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 45.0
+}

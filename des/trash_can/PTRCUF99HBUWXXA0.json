@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCVV3GKJU8NFT6.jpg": {
+      "referenceImageId": "REFIMGCVV3GKJU8NFT6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0P4ZWUUTWETR.jpg": {
+      "referenceImageId": "REFIMGC0P4ZWUUTWETR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM3ER5JVPFADC.jpg": {
+      "referenceImageId": "REFIMGCM3ER5JVPFADC",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCGQBL6Z3UX9V.jpg": {
+      "referenceImageId": "REFIMGCCGQBL6Z3UX9V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNLZUHNU5910C.jpg": {
+      "referenceImageId": "REFIMGCNLZUHNU5910C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV9UJ1LHTLULJ.jpg": {
+      "referenceImageId": "REFIMGCV9UJ1LHTLULJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHQK7W6Y5PP69.jpg": {
+      "referenceImageId": "REFIMGCHQK7W6Y5PP69",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mbillion Lidless Trash Can, Stylish, 8L, Scandinavian Trash Can, Dust Box, Space Saving, For Toilet, Living Room, Kitchen, Bedroom"
+    }
+  },
+  "asin": "B0BC875DQ7",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCUF99HBUWXXA0",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 20.0,
+      "widthInCms": 20.0,
+      "heightInCms": 29.35
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TRASH_CAN",
+  "focalLength": 100.0
+}

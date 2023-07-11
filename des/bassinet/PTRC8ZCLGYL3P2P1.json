@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC5JFAYYX4DYYD.jpg": {
+      "referenceImageId": "REFIMGC5JFAYYX4DYYD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Maxi-Cosi Iora Co-Sleeper, Bedside Crib with Easy Slide Function, Suitable from Birth, 0 Months - 9 kg, Essential Blue "
+    },
+    "REFIMGCRE1XLCN5LG4J.jpg": {
+      "referenceImageId": "REFIMGCRE1XLCN5LG4J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Detail page link - https://www.amazon.co.uk/gp/product/B07V1YHY11?th\u003d1"
+    },
+    "REFIMGCBM7KFWMD6CC3.jpg": {
+      "referenceImageId": "REFIMGCBM7KFWMD6CC3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE6DDTY82L4AU.jpg": {
+      "referenceImageId": "REFIMGCE6DDTY82L4AU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBTBA6BY0RHYP.jpg": {
+      "referenceImageId": "REFIMGCBTBA6BY0RHYP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07V1YHY11",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC8ZCLGYL3P2P1",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 55.0,
+      "widthInCms": 93.0,
+      "heightInCms": 74.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BASSINET",
+  "focalLength": 60.0
+}

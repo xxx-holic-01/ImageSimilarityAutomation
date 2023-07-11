@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCYKNKAA8HJ9HT.jpg": {
+      "referenceImageId": "REFIMGCYKNKAA8HJ9HT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC36LZX0WNH95F.jpg": {
+      "referenceImageId": "REFIMGC36LZX0WNH95F",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX88VA8ZVYXCX.jpg": {
+      "referenceImageId": "REFIMGCX88VA8ZVYXCX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4FTTCTAPKURB.jpg": {
+      "referenceImageId": "REFIMGC4FTTCTAPKURB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVWUJF4NPY7MP.jpg": {
+      "referenceImageId": "REFIMGCVWUJF4NPY7MP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQVJU8BN5EUVF.jpg": {
+      "referenceImageId": "REFIMGCQVJU8BN5EUVF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF1BLCC5ULX5K.jpg": {
+      "referenceImageId": "REFIMGCF1BLCC5ULX5K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVPNTXNVU3LBK.jpg": {
+      "referenceImageId": "REFIMGCVPNTXNVU3LBK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Gold Vanity Sconce Wall Lighting,   Dimensions are taken from this image"
+    }
+  },
+  "asin": "B0B6FVVXDB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFW9EWLLX6Y39",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 7.5,
+      "widthInCms": 61.0,
+      "heightInCms": 13.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

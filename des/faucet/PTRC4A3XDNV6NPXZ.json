@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGCH414ZJXDBM51.jpg": {
+      "referenceImageId": "REFIMGCH414ZJXDBM51",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYEB8NBTHJP87.jpg": {
+      "referenceImageId": "REFIMGCYEB8NBTHJP87",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Bristan Echo Easy Fit Kitchen Sink Lever Handles Tall Swivel Spout Mixer Tap Faucet Chrome Plated (EC SNK EF C) "
+    },
+    "REFIMGCYD12XGQ91WUM.jpg": {
+      "referenceImageId": "REFIMGCYD12XGQ91WUM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8KD14NVAEVM8.jpg": {
+      "referenceImageId": "REFIMGC8KD14NVAEVM8",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00PW3MINC",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC4A3XDNV6NPXZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.0,
+      "widthInCms": 14.0,
+      "heightInCms": 35.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

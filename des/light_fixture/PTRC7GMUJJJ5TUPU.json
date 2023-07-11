@@ -1,0 +1,99 @@
+{
+  "images": {
+    "REFIMGCVM2UGE5KMBPJ.jpg": {
+      "referenceImageId": "REFIMGCVM2UGE5KMBPJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVRKM7VPV72CN.jpg": {
+      "referenceImageId": "REFIMGCVRKM7VPV72CN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Globe Electric Novogratz x 65866 Willow 1-Light Plug-in or Hardwire Wall Sconce, Sage Green, Matte Brass Accent "
+    },
+    "REFIMGCPXALNERZRUK3.jpg": {
+      "referenceImageId": "REFIMGCPXALNERZRUK3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGF5CYZR2YKY5.jpg": {
+      "referenceImageId": "REFIMGCGF5CYZR2YKY5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEV0KBHDCH4U2.jpg": {
+      "referenceImageId": "REFIMGCEV0KBHDCH4U2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTZDJKNCH9J0E.jpg": {
+      "referenceImageId": "REFIMGCTZDJKNCH9J0E",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Light need to be Turned OFF state"
+    },
+    "REFIMGCDDR12YB1ARTQ.jpg": {
+      "referenceImageId": "REFIMGCDDR12YB1ARTQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0N2AFT8VM1X8.jpg": {
+      "referenceImageId": "REFIMGC0N2AFT8VM1X8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMJLXGDJ845NW.jpg": {
+      "referenceImageId": "REFIMGCMJLXGDJ845NW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B6JT6D91",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7GMUJJJ5TUPU",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 25.4,
+      "widthInCms": 20.0,
+      "heightInCms": 23.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 55.0
+}

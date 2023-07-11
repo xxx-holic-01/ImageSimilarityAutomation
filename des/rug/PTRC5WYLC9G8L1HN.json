@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCUVREEENWVAFT.jpg": {
+      "referenceImageId": "REFIMGCUVREEENWVAFT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBEFZUCULYFUC.jpg": {
+      "referenceImageId": "REFIMGCBEFZUCULYFUC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "REFETONE Runner Rug for Hallway Rug Washable Runner Mat Non Slip for Entryway Entrance Kitchen Laundry Room Rug - Grey "
+    },
+    "REFIMGC2GCEY2RLX2RZ.jpg": {
+      "referenceImageId": "REFIMGC2GCEY2RLX2RZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM01GCFW41T2Q.jpg": {
+      "referenceImageId": "REFIMGCM01GCFW41T2Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXF3V9YGXCLE9.jpg": {
+      "referenceImageId": "REFIMGCXF3V9YGXCLE9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJERMEYKERFDH.jpg": {
+      "referenceImageId": "REFIMGCJERMEYKERFDH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08HLJV7RK",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC5WYLC9G8L1HN",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 58.28,
+      "widthInCms": 149.86,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

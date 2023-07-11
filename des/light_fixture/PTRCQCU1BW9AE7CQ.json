@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCGKFJETJU1D16.jpg": {
+      "referenceImageId": "REFIMGCGKFJETJU1D16",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3WPWECAT7EY7.jpg": {
+      "referenceImageId": "REFIMGC3WPWECAT7EY7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC58K9BN6MJBPE.jpg": {
+      "referenceImageId": "REFIMGC58K9BN6MJBPE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXE0ARCGL0X1R.jpg": {
+      "referenceImageId": "REFIMGCXE0ARCGL0X1R",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VGYVGYCC Outdoor Solar Garden Lights - 2 Pack Solar Large Metal Tulip Flowers Decorative Lights - Warm White LED Waterproof Solar Stake Lights for Garden Patio Yard Lawn Walkway Decoration(Red)"
+    },
+    "REFIMGC5CC6AAERZXD7.jpg": {
+      "referenceImageId": "REFIMGC5CC6AAERZXD7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLJDE55C4AWVG.jpg": {
+      "referenceImageId": "REFIMGCLJDE55C4AWVG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B3T9ZKCD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQCU1BW9AE7CQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 13.25,
+      "widthInCms": 13.32,
+      "heightInCms": 78.36
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 100.0
+}

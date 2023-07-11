@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGC05V4RH8RMGYL.jpg": {
+      "referenceImageId": "REFIMGC05V4RH8RMGYL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBRT48KBQW5L4.jpg": {
+      "referenceImageId": "REFIMGCBRT48KBQW5L4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4R7HTQRX1GGK.jpg": {
+      "referenceImageId": "REFIMGC4R7HTQRX1GGK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGZHMY8A80KR1.jpg": {
+      "referenceImageId": "REFIMGCGZHMY8A80KR1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Carpets for Kids 4034 Colorful Seating Rows Kids Rug 8ft 4in x 13ft 4in Rectangle "
+    },
+    "REFIMGC45Z29JF858EE.jpg": {
+      "referenceImageId": "REFIMGC45Z29JF858EE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00DVD3HAI",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC29G32Y4A58CK",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 406.4,
+      "widthInCms": 254.0,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 90.0
+}

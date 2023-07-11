@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGC8ZA2EYPPAUA1.jpg": {
+      "referenceImageId": "REFIMGC8ZA2EYPPAUA1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQXUP6C26R6DG.jpg": {
+      "referenceImageId": "REFIMGCQXUP6C26R6DG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8CWXQY791DBJ.jpg": {
+      "referenceImageId": "REFIMGC8CWXQY791DBJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKGCW794HD3N0.jpg": {
+      "referenceImageId": "REFIMGCKGCW794HD3N0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - Warmiehomy Round Wall Mounted Bathroom Mirror Makeup Dressing Mirror Frame Mirror for Bathroom Living Room Bedroom Black)  "
+    },
+    "REFIMGCMD268JAAC298.jpg": {
+      "referenceImageId": "REFIMGCMD268JAAC298",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCVKNJEJ4VDE7.jpg": {
+      "referenceImageId": "REFIMGCCVKNJEJ4VDE7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY0AE4FACP644.jpg": {
+      "referenceImageId": "REFIMGCY0AE4FACP644",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCED0J21D3M656.jpg": {
+      "referenceImageId": "REFIMGCED0J21D3M656",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08SQFM3WX",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHX6YG3XUK0RB",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 40.64,
+      "widthInCms": 40.64,
+      "heightInCms": 2.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

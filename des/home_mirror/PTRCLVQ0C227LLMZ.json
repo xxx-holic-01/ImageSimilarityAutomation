@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCBKRHLPMY9X9Z.jpg": {
+      "referenceImageId": "REFIMGCBKRHLPMY9X9Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Decorations not included"
+    },
+    "REFIMGCBJ2RQ120XXFG.jpg": {
+      "referenceImageId": "REFIMGCBJ2RQ120XXFG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "NeuType Round Mirror 36inch Circle Mirror Metal Framed Wall Mirror Large Vanity Hanging Decorative Mirrors for Wall Bathroom Bedroom Living Room (Gold, 36\" x 36\")"
+    },
+    "REFIMGCHX3X0DJLUG4D.jpg": {
+      "referenceImageId": "REFIMGCHX3X0DJLUG4D",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4B42SQR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLVQ0C227LLMZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 8.0,
+      "widthInCms": 91.44,
+      "heightInCms": 91.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

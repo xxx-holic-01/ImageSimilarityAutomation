@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGC10AMRPTPP2YF.jpg": {
+      "referenceImageId": "REFIMGC10AMRPTPP2YF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Tripp Ice Blue World Cabin 4 Wheel Suitcase "
+    },
+    "REFIMGC5KZUZG56KTKX.jpg": {
+      "referenceImageId": "REFIMGC5KZUZG56KTKX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLVXZ6LBCELYM.jpg": {
+      "referenceImageId": "REFIMGCLVXZ6LBCELYM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKPPY0F1P8HHM.jpg": {
+      "referenceImageId": "REFIMGCKPPY0F1P8HHM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07D3BS73S",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCN6DU2G60B2QD",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 21.0,
+      "widthInCms": 36.0,
+      "heightInCms": 55.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 50.0
+}

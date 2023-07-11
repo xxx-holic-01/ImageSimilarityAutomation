@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGC3KJ4M37HBUE2.jpg": {
+      "referenceImageId": "REFIMGC3KJ4M37HBUE2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC76KDDHLHK9D9.jpg": {
+      "referenceImageId": "REFIMGC76KDDHLHK9D9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR638TV0T5U7N.jpg": {
+      "referenceImageId": "REFIMGCR638TV0T5U7N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCB6PHVJQR8N8.jpg": {
+      "referenceImageId": "REFIMGCCB6PHVJQR8N8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ignore wire and model only ceiling light"
+    }
+  },
+  "asin": "B08NPHX5HL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKC0D37JN572R",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 12.0,
+      "widthInCms": 18.0,
+      "heightInCms": 23.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

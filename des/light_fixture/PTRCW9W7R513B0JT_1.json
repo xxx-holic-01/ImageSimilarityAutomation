@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCEMX3NF6YH1FC.jpg": {
+      "referenceImageId": "REFIMGCEMX3NF6YH1FC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD1FUZRMF1QZQ.jpg": {
+      "referenceImageId": "REFIMGCD1FUZRMF1QZQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAE4NCWAJAMA0.jpg": {
+      "referenceImageId": "REFIMGCAE4NCWAJAMA0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMTZMKL1YR7C4.jpg": {
+      "referenceImageId": "REFIMGCMTZMKL1YR7C4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Globe Electric 13064 Sophie 1-Light Plug-in or Hardwire Wall Sconce Chrome Gooseneck Matte Rose 6ft Clear Cord"
+    },
+    "REFIMGCWZJWGTURYK7R.jpg": {
+      "referenceImageId": "REFIMGCWZJWGTURYK7R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6LPULLDUJXFX.jpg": {
+      "referenceImageId": "REFIMGC6LPULLDUJXFX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM1892CEZYBB9.jpg": {
+      "referenceImageId": "REFIMGCM1892CEZYBB9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPJ6MY6L8BVER.jpg": {
+      "referenceImageId": "REFIMGCPJ6MY6L8BVER",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCYWYUUDHKG1M1.jpg": {
+      "referenceImageId": "REFIMGCYWYUUDHKG1M1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQDB84FAY45CL.jpg": {
+      "referenceImageId": "REFIMGCQDB84FAY45CL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07JH4P8SY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW9W7R513B0JT",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 29.46,
+      "widthInCms": 12.7,
+      "heightInCms": 32.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

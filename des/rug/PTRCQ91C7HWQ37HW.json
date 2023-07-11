@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGC85LUY2CG58J5.jpg": {
+      "referenceImageId": "REFIMGC85LUY2CG58J5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWD3NH3LVN7HT.jpg": {
+      "referenceImageId": "REFIMGCWD3NH3LVN7HT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Rug Shoes Scraper,black \u0026 white fibers"
+    },
+    "REFIMGCMM0BLG4YZJLG.jpg": {
+      "referenceImageId": "REFIMGCMM0BLG4YZJLG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC32YM50UTFR7B.jpg": {
+      "referenceImageId": "REFIMGC32YM50UTFR7B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZGNAMFCMY3LQ.jpg": {
+      "referenceImageId": "REFIMGCZGNAMFCMY3LQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP7LA99K4ANT8.jpg": {
+      "referenceImageId": "REFIMGCP7LA99K4ANT8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07QCNRG83",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQ91C7HWQ37HW",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 71.12,
+      "widthInCms": 110.86,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

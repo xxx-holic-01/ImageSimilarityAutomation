@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGC490UF2KV8ATF.jpg": {
+      "referenceImageId": "REFIMGC490UF2KV8ATF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXPEFNVJN5Z3G.jpg": {
+      "referenceImageId": "REFIMGCXPEFNVJN5Z3G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZW2ED13NBMWG.jpg": {
+      "referenceImageId": "REFIMGCZW2ED13NBMWG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3B49LXTGD6YU.jpg": {
+      "referenceImageId": "REFIMGC3B49LXTGD6YU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Solar Outdoor LED Light, Battery Operated Stainless Steel Path Walkway Lights for Landscape "
+    },
+    "REFIMGCWDNR57F36NHT.jpg": {
+      "referenceImageId": "REFIMGCWDNR57F36NHT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B073X2QWYJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQ0NYDH05VJ4M",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 6.35,
+      "widthInCms": 6.35,
+      "heightInCms": 43.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 30.0
+}

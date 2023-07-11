@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGC7YQ9767JQ9L1.jpg": {
+      "referenceImageId": "REFIMGC7YQ9767JQ9L1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC17R76NL47P23.jpg": {
+      "referenceImageId": "REFIMGC17R76NL47P23",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN68RHJCTEEVB.jpg": {
+      "referenceImageId": "REFIMGCN68RHJCTEEVB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7ZA1HXHZW0GJ.jpg": {
+      "referenceImageId": "REFIMGC7ZA1HXHZW0GJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "COZAYH Distressed Wood Frame Accent Mirror, Rustic Farmhouse Style Decorative Wall Mirror (Oval)"
+    },
+    "REFIMGC04KA9PULR043.jpg": {
+      "referenceImageId": "REFIMGC04KA9PULR043",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2W6Y7CLPMZPU.jpg": {
+      "referenceImageId": "REFIMGC2W6Y7CLPMZPU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08XKHBNWK",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCBZAZVLQ875YT",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.54,
+      "widthInCms": 50.8,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGC9AL6VUJ472YZ.jpg": {
+      "referenceImageId": "REFIMGC9AL6VUJ472YZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT3JN6TKXQFGJ.jpg": {
+      "referenceImageId": "REFIMGCT3JN6TKXQFGJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " FITUEYES DT104101WB Desk Stand, Wooden Monitor Stand, With Tray, Width 16.7 inches (425 mm), Desktop Storage, Black "
+    },
+    "REFIMGCG9UUP03ME9L9.jpg": {
+      "referenceImageId": "REFIMGCG9UUP03ME9L9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW2CY3U73UJ39.jpg": {
+      "referenceImageId": "REFIMGCW2CY3U73UJ39",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN1JAT3Y2D0BQ.jpg": {
+      "referenceImageId": "REFIMGCN1JAT3Y2D0BQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFV3PBHGUPAEF.jpg": {
+      "referenceImageId": "REFIMGCFV3PBHGUPAEF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3NZ54H8XUCGK.jpg": {
+      "referenceImageId": "REFIMGC3NZ54H8XUCGK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08M9B6F9G",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC3EUQB40H40NL",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 26.1,
+      "widthInCms": 42.5,
+      "heightInCms": 10.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 120.0
+}

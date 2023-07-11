@@ -1,0 +1,103 @@
+{
+  "images": {
+    "REFIMGCGCCCGB3NX7LJ.jpg": {
+      "referenceImageId": "REFIMGCGCCCGB3NX7LJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0BXMA5FB1UPG.jpg": {
+      "referenceImageId": "REFIMGC0BXMA5FB1UPG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY35V4MDTH4VQ.jpg": {
+      "referenceImageId": "REFIMGCY35V4MDTH4VQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8KVYW9JFPYM8.jpg": {
+      "referenceImageId": "REFIMGC8KVYW9JFPYM8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT1GVXAMJ0Y2E.jpg": {
+      "referenceImageId": "REFIMGCT1GVXAMJ0Y2E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK7V8DNN716MH.jpg": {
+      "referenceImageId": "REFIMGCK7V8DNN716MH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP6UQHDY6ZULQ.jpg": {
+      "referenceImageId": "REFIMGCP6UQHDY6ZULQ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVUHYKU4ZYLHN.jpg": {
+      "referenceImageId": "REFIMGCVUHYKU4ZYLHN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Storage Boxes with LidsCube Storage Box with HandlesCotton Fabric Collapsible Storage Box Storage Bins Baskets for Clothes Toys DVDs Art and Books CDsWashing Laundry Organization or More"
+    },
+    "REFIMGC1E0J2WJP3UNG.jpg": {
+      "referenceImageId": "REFIMGC1E0J2WJP3UNG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07DSY2TWX",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCNTHJHEB8XC3M",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 31.0,
+      "widthInCms": 48.0,
+      "heightInCms": 25.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 60.0
+}

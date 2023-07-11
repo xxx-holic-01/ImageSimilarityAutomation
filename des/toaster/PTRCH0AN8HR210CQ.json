@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGC7PV5XWW7DGVW.jpg": {
+      "referenceImageId": "REFIMGC7PV5XWW7DGVW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLKUWVDV1RCA0.jpg": {
+      "referenceImageId": "REFIMGCLKUWVDV1RCA0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJB2CPEY1B96W.jpg": {
+      "referenceImageId": "REFIMGCJB2CPEY1B96W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEEA16ALGXDNP.jpg": {
+      "referenceImageId": "REFIMGCEEA16ALGXDNP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B07R68NTSF",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCH0AN8HR210CQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 6.5,
+      "widthInCms": 10.9,
+      "heightInCms": 7.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "TOASTER",
+  "focalLength": 55.0
+}

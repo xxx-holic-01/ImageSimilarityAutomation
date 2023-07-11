@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGCTCZ8J30HZ2ZY.jpg": {
+      "referenceImageId": "REFIMGCTCZ8J30HZ2ZY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV9ZVLG3UPVLJ.jpg": {
+      "referenceImageId": "REFIMGCV9ZVLG3UPVLJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCMWQNDTJZN8PM.jpg": {
+      "referenceImageId": "REFIMGCMWQNDTJZN8PM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCY0MYHF78YCB5.jpg": {
+      "referenceImageId": "REFIMGCY0MYHF78YCB5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXC8GN0T1KWGR.jpg": {
+      "referenceImageId": "REFIMGCXC8GN0T1KWGR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKLEMTHVH9P01.jpg": {
+      "referenceImageId": "REFIMGCKLEMTHVH9P01",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCLKHE1KPMR4Z.jpg": {
+      "referenceImageId": "REFIMGCCLKHE1KPMR4Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ7Q6EP6TWMHQ.jpg": {
+      "referenceImageId": "REFIMGCQ7Q6EP6TWMHQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCFPJ2ND",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCP65JE5HKEGAG",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 17.1,
+      "widthInCms": 20.8,
+      "heightInCms": 35.76
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TURNTABLE",
+  "focalLength": 55.0
+}

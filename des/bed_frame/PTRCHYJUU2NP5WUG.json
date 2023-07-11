@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGCJKZR3NVFYQC4.jpg": {
+      "referenceImageId": "REFIMGCJKZR3NVFYQC4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ2NXRBLU8Q5D.jpg": {
+      "referenceImageId": "REFIMGCJ2NXRBLU8Q5D",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Twin Over Full Bunk Bed with Ladder, Gray (DECORATION NOT INCLUDED)"
+    },
+    "REFIMGCMW01JDWNQ5TL.jpg": {
+      "referenceImageId": "REFIMGCMW01JDWNQ5TL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC42WZQE11TJ1T.jpg": {
+      "referenceImageId": "REFIMGC42WZQE11TJ1T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAU9PNQ4303RQ.jpg": {
+      "referenceImageId": "REFIMGCAU9PNQ4303RQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9URH9DY6DJNV.jpg": {
+      "referenceImageId": "REFIMGC9URH9DY6DJNV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BPYB8SJM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHYJUU2NP5WUG",
+  "productDimensionList": [
+    {
+      "productCategory": "Bed",
+      "lengthInCms": 155.0,
+      "widthInCms": 183.0,
+      "heightInCms": 160.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BED_FRAME",
+  "focalLength": 55.0
+}

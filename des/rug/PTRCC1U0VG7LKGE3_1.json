@@ -1,0 +1,93 @@
+{
+  "images": {
+    "REFIMGCXYC3UGPGJV6M.jpg": {
+      "referenceImageId": "REFIMGCXYC3UGPGJV6M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC468J6TDPKRLY.jpg": {
+      "referenceImageId": "REFIMGC468J6TDPKRLY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUX6KYXWDXXEU.jpg": {
+      "referenceImageId": "REFIMGCUX6KYXWDXXEU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJJ8VE9UFZBMJ.jpg": {
+      "referenceImageId": "REFIMGCJJ8VE9UFZBMJ",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEN0E03VNVQKY.jpg": {
+      "referenceImageId": "REFIMGCEN0E03VNVQKY",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLHZTWLFMGHDX.jpg": {
+      "referenceImageId": "REFIMGCLHZTWLFMGHDX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCTYF105XN9H4X.jpg": {
+      "referenceImageId": "REFIMGCTYF105XN9H4X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF7LJ1FFCEF1T.jpg": {
+      "referenceImageId": "REFIMGCF7LJ1FFCEF1T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B078KCHCBD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCC1U0VG7LKGE3",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 198.12,
+      "widthInCms": 274.32,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

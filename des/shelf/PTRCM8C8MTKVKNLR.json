@@ -1,0 +1,41 @@
+{
+  "images": {
+    "REFIMGCCB31Y6AAVHC8.jpg": {
+      "referenceImageId": "REFIMGCCB31Y6AAVHC8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC9Z9DKTTRD1RG.jpg": {
+      "referenceImageId": "REFIMGC9Z9DKTTRD1RG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B099NT26TK",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCM8C8MTKVKNLR",
+  "productDimensionList": [
+    {
+      "productCategory": "Bookshelf",
+      "lengthInCms": 30.0,
+      "widthInCms": 90.2,
+      "heightInCms": 90.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SHELF",
+  "focalLength": 55.0
+}

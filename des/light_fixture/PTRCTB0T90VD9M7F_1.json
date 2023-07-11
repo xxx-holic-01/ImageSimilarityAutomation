@@ -1,0 +1,92 @@
+{
+  "images": {
+    "REFIMGCDWTHY1D97R23.jpg": {
+      "referenceImageId": "REFIMGCDWTHY1D97R23",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Otdair 12 Pack Solar Pathway Lights Outdoor, Decorative Solar Garden Lights, Waterproof Solar Lights for Garden, Patio, Yard, Landscape, Pathway, Driveway, Lawn (Warm Light) "
+    },
+    "REFIMGC4BUTHPMPBCKA.jpg": {
+      "referenceImageId": "REFIMGC4BUTHPMPBCKA",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPLCCGFQ4LBBV.jpg": {
+      "referenceImageId": "REFIMGCPLCCGFQ4LBBV",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCW8Y3KYY9J5P.jpg": {
+      "referenceImageId": "REFIMGCCW8Y3KYY9J5P",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC33KQ3GBN1CPY.jpg": {
+      "referenceImageId": "REFIMGC33KQ3GBN1CPY",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV33D8V3H5J8D.jpg": {
+      "referenceImageId": "REFIMGCV33D8V3H5J8D",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE6L774LLT7LU.jpg": {
+      "referenceImageId": "REFIMGCE6L774LLT7LU",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09TVTR3XF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCTB0T90VD9M7F",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.3,
+      "widthInCms": 19.3,
+      "heightInCms": 87.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 90.0
+}

@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCKY1MFULGCFNT.jpg": {
+      "referenceImageId": "REFIMGCKY1MFULGCFNT",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC09K7VXR9HL1Q.jpg": {
+      "referenceImageId": "REFIMGC09K7VXR9HL1Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPMJMQT1V8C9B.jpg": {
+      "referenceImageId": "REFIMGCPMJMQT1V8C9B",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXUXZ9BJVF2DJ.jpg": {
+      "referenceImageId": "REFIMGCXUXZ9BJVF2DJ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYVW5CCYM8LTH.jpg": {
+      "referenceImageId": "REFIMGCYVW5CCYM8LTH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCM7URH0F1WQDD.jpg": {
+      "referenceImageId": "REFIMGCM7URH0F1WQDD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B007RM1V8O",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCC4YU6R51NR1G",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 20.32,
+      "widthInCms": 45.72,
+      "heightInCms": 125.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 35.0
+}

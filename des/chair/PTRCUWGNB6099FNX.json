@@ -1,0 +1,92 @@
+{
+  "images": {
+    "REFIMGC6YXMP0KU89KM.jpg": {
+      "referenceImageId": "REFIMGC6YXMP0KU89KM",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEY96XWPP8BEK.jpg": {
+      "referenceImageId": "REFIMGCEY96XWPP8BEK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCYVWC5ART04P.jpg": {
+      "referenceImageId": "REFIMGCCYVWC5ART04P",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGV9LATYU87NX.jpg": {
+      "referenceImageId": "REFIMGCGV9LATYU87NX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB1KZ9RG7HWFV.jpg": {
+      "referenceImageId": "REFIMGCB1KZ9RG7HWFV",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKLH5W9LHKA70.jpg": {
+      "referenceImageId": "REFIMGCKLH5W9LHKA70",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCECH8PL332KPN.jpg": {
+      "referenceImageId": "REFIMGCECH8PL332KPN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B0BLY4HLXD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUWGNB6099FNX",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 47.0,
+      "widthInCms": 47.0,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 60.0
+}

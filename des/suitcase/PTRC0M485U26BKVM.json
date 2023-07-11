@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC6NT4Y8MV99HX.jpg": {
+      "referenceImageId": "REFIMGC6NT4Y8MV99HX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL2WU1Z2CM8MC.jpg": {
+      "referenceImageId": "REFIMGCL2WU1Z2CM8MC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9A8VHT0DJ21Z.jpg": {
+      "referenceImageId": "REFIMGC9A8VHT0DJ21Z",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2MUELV1JDN9K.jpg": {
+      "referenceImageId": "REFIMGC2MUELV1JDN9K",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFH5XT54TKVQP.jpg": {
+      "referenceImageId": "REFIMGCFH5XT54TKVQP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Travel Bag with Spinning Wheels, Cabin Bag"
+    },
+    "REFIMGC7PTFRKGLXHYW.jpg": {
+      "referenceImageId": "REFIMGC7PTFRKGLXHYW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BD9CFYXQ",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC0M485U26BKVM",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 20.0,
+      "widthInCms": 35.0,
+      "heightInCms": 50.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 125.0
+}

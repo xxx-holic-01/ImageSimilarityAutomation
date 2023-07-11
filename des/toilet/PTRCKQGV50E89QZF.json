@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCKMCJ4NU22CRJ.jpg": {
+      "referenceImageId": "REFIMGCKMCJ4NU22CRJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUMATQXRB8962.jpg": {
+      "referenceImageId": "REFIMGCUMATQXRB8962",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC60L6HEQXXVRN.jpg": {
+      "referenceImageId": "REFIMGC60L6HEQXXVRN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HEAO 3-in-1 Raised Toilet Seat, Adjustable Width/Height, Padded Seat with Splash Guard, Toilet Safety Frame, Shower Chair for Seniors, Handicap,Pregnant, 300 lbs "
+    },
+    "REFIMGCP3Z9QYERGNW7.jpg": {
+      "referenceImageId": "REFIMGCP3Z9QYERGNW7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC84963FR41C2M.jpg": {
+      "referenceImageId": "REFIMGC84963FR41C2M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCRGPAG8X5ZFL.jpg": {
+      "referenceImageId": "REFIMGCCRGPAG8X5ZFL",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAMRKTF9CQWDM.jpg": {
+      "referenceImageId": "REFIMGCAMRKTF9CQWDM",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BCFX4FW4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKQGV50E89QZF",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 51.05,
+      "widthInCms": 65.0,
+      "heightInCms": 68.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOILET",
+  "focalLength": 60.0
+}

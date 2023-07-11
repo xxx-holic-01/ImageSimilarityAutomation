@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCZ1XAWUW05H63.jpg": {
+      "referenceImageId": "REFIMGCZ1XAWUW05H63",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMVDKGQ0FG8E4.jpg": {
+      "referenceImageId": "REFIMGCMVDKGQ0FG8E4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWGE2NL0TKU8C.jpg": {
+      "referenceImageId": "REFIMGCWGE2NL0TKU8C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN6TVRYMM5AVB.jpg": {
+      "referenceImageId": "REFIMGCN6TVRYMM5AVB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC28U85AVGCXC3.jpg": {
+      "referenceImageId": "REFIMGC28U85AVGCXC3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXH64L70CQ6X9.jpg": {
+      "referenceImageId": "REFIMGCXH64L70CQ6X9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "BYECOLD Vertical Bathroom Mirror with Adjustable LED Light, Touch Switch, Weather Forecast Defogger, Wall Mounted Mirror 23.6\"​【60 cm】 x 39.4\"​【1 m】 "
+    }
+  },
+  "asin": "B07V84TZCZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDX309FGXPA7E",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 5.0,
+      "widthInCms": 60.0,
+      "heightInCms": 100.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 30.0
+}

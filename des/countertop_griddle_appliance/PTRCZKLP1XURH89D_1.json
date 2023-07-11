@@ -1,0 +1,94 @@
+{
+  "images": {
+    "REFIMGC0AJWR7D1295Z.jpg": {
+      "referenceImageId": "REFIMGC0AJWR7D1295Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW46KXURV4DKD.jpg": {
+      "referenceImageId": "REFIMGCW46KXURV4DKD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ALDKitchen Poffertjes Maker | Mini Dutch Pancakes Iron | Nonstick | 110V (50 Pcs) "
+    },
+    "REFIMGCN33DQFD4A81Q.jpg": {
+      "referenceImageId": "REFIMGCN33DQFD4A81Q",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYHU0GTHZG2VR.jpg": {
+      "referenceImageId": "REFIMGCYHU0GTHZG2VR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8E1HQZY7TWEM.jpg": {
+      "referenceImageId": "REFIMGC8E1HQZY7TWEM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEPYT80EYTNEF.jpg": {
+      "referenceImageId": "REFIMGCEPYT80EYTNEF",
+      "labels": [
+        "SHAPE",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9ZCYUV5L9M2G.jpg": {
+      "referenceImageId": "REFIMGC9ZCYUV5L9M2G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCWV14FCKLL4P.jpg": {
+      "referenceImageId": "REFIMGCCWV14FCKLL4P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07H51YXJ3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZKLP1XURH89D",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 31.0,
+      "widthInCms": 62.0,
+      "heightInCms": 20.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COUNTERTOP_GRIDDLE_APPLIANCE",
+  "focalLength": 20.0
+}

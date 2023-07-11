@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGC9Z8JGM3YMJUG.jpg": {
+      "referenceImageId": "REFIMGC9Z8JGM3YMJUG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Z PLINRISE Aesthetic Wave Pattern Irregular Frame Mirror, Decorative Desk Wall Mirror for Living Room Bedroom Hallway Home Decor Birthday House Warming Gift (Black) "
+    },
+    "REFIMGCPNU3FBNWP1RV.jpg": {
+      "referenceImageId": "REFIMGCPNU3FBNWP1RV",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTUR8XNPP952T.jpg": {
+      "referenceImageId": "REFIMGCTUR8XNPP952T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBVGY2BDD52PQ.jpg": {
+      "referenceImageId": "REFIMGCBVGY2BDD52PQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW5ELBW7RM7ZW.jpg": {
+      "referenceImageId": "REFIMGCW5ELBW7RM7ZW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH2RV9VZM6LQ1.jpg": {
+      "referenceImageId": "REFIMGCH2RV9VZM6LQ1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09ZY9NWY2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8LWD9WGPGCEC",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 3.0,
+      "widthInCms": 26.0,
+      "heightInCms": 39.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 30.0
+}

@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGC37NZZLYA8MNZ.jpg": {
+      "referenceImageId": "REFIMGC37NZZLYA8MNZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGWL992WLAZVE.jpg": {
+      "referenceImageId": "REFIMGCGWL992WLAZVE",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC79FQDU46RRRT.jpg": {
+      "referenceImageId": "REFIMGC79FQDU46RRRT",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCATG524118AP8.jpg": {
+      "referenceImageId": "REFIMGCATG524118AP8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX11ZD0ZBQM38.jpg": {
+      "referenceImageId": "REFIMGCX11ZD0ZBQM38",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC38Y4BQE6XW3J.jpg": {
+      "referenceImageId": "REFIMGC38Y4BQE6XW3J",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC608MQP8LV3KN.jpg": {
+      "referenceImageId": "REFIMGC608MQP8LV3KN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B098WQB23K",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLLR0G4H0UBXW",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 40.0,
+      "widthInCms": 60.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

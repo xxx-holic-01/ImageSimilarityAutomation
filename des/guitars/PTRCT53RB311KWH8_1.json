@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCHKHHZ6TAQPKN.jpg": {
+      "referenceImageId": "REFIMGCHKHHZ6TAQPKN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNYXXN6WAHPR4.jpg": {
+      "referenceImageId": "REFIMGCNYXXN6WAHPR4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDV5U0Y13TJFL.jpg": {
+      "referenceImageId": "REFIMGCDV5U0Y13TJFL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9Y1F23TVW3KX.jpg": {
+      "referenceImageId": "REFIMGC9Y1F23TVW3KX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ7Z3XP7VQEE2.jpg": {
+      "referenceImageId": "REFIMGCJ7Z3XP7VQEE2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC3BMZ6QCYU7B.jpg": {
+      "referenceImageId": "REFIMGCC3BMZ6QCYU7B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Fender CD-60SCE Solid Top Dreadnought Acoustic-Electric Guitar - Black Bundle with Hard Case, Instrument Cable, Tuner, Strap, Strings, Picks, and Austin Bazaar Instructional DVD"
+    },
+    "REFIMGC8ZZQGMQCECD1.jpg": {
+      "referenceImageId": "REFIMGC8ZZQGMQCECD1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC90TADLUZ0PP0.jpg": {
+      "referenceImageId": "REFIMGC90TADLUZ0PP0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTJ3P3LJWXX82.jpg": {
+      "referenceImageId": "REFIMGCTJ3P3LJWXX82",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00KZ1TOJC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCT53RB311KWH8",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 20.32,
+      "widthInCms": 48.0,
+      "heightInCms": 132.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 50.0
+}

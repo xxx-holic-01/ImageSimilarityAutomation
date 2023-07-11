@@ -1,0 +1,66 @@
+{
+  "images": {
+    "REFIMGCHB5TWC25FFFE.jpg": {
+      "referenceImageId": "REFIMGCHB5TWC25FFFE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJU68GD84FMA9.jpg": {
+      "referenceImageId": "REFIMGCJU68GD84FMA9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEH9FTFZEYLBA.jpg": {
+      "referenceImageId": "REFIMGCEH9FTFZEYLBA",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHCR96RHC24T0.jpg": {
+      "referenceImageId": "REFIMGCHCR96RHC24T0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SoarFlash 72 Inch​【183 cm】 Convertible Sectional Sofa, L-Shaped Sofa, Modern 3-Seat Sectional Sofa with Reversible Chaise for Office, Living Room, Small Space (Navy Blue) "
+    },
+    "REFIMGC19CJGM4LWJX6.jpg": {
+      "referenceImageId": "REFIMGC19CJGM4LWJX6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BJ6PMS6Z",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCTVBW9N4U599U",
+  "productDimensionList": [
+    {
+      "productCategory": "Reclining Sofa",
+      "lengthInCms": 126.0,
+      "widthInCms": 183.0,
+      "heightInCms": 86.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 45.0
+}

@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGC08DR598HXLD7.jpg": {
+      "referenceImageId": "REFIMGC08DR598HXLD7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF9YTCY6E7QRT.jpg": {
+      "referenceImageId": "REFIMGCF9YTCY6E7QRT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC16FEAJC5XFVK.jpg": {
+      "referenceImageId": "REFIMGC16FEAJC5XFVK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV8CB8DKRJ8X0.jpg": {
+      "referenceImageId": "REFIMGCV8CB8DKRJ8X0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2HHPW3H3G9LJ.jpg": {
+      "referenceImageId": "REFIMGC2HHPW3H3G9LJ",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3C4AXEFYW71A.jpg": {
+      "referenceImageId": "REFIMGC3C4AXEFYW71A",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ZJIAH Twin Over Twin Floor Bunk Bed with Ladder and Safety Guardrails, Solid Wood Low Bunk Beds Frame for Teens and Adults, Easy to Assemble, Saving Space, No Box Spring Needed, Espresso ,pillows and mattress not included"
+    },
+    "REFIMGCZQ303P2NWNMV.jpg": {
+      "referenceImageId": "REFIMGCZQ303P2NWNMV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMDT3D4TEWEH8.jpg": {
+      "referenceImageId": "REFIMGCMDT3D4TEWEH8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BKZ7YL7R",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUXV2KVFA6Y23",
+  "productDimensionList": [
+    {
+      "productCategory": "Bed",
+      "lengthInCms": 106.0,
+      "widthInCms": 202.0,
+      "heightInCms": 112.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BED",
+  "focalLength": 48.0
+}

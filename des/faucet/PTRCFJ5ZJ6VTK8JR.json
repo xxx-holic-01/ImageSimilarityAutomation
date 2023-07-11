@@ -1,0 +1,101 @@
+{
+  "images": {
+    "REFIMGCRGVPGUQX8V2K.jpg": {
+      "referenceImageId": "REFIMGCRGVPGUQX8V2K",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Moen 84162SRN Brecklyn Two Handle Centerset Lavatory Faucet, Center Dimensions 4 in Center, Spot Resist Brushed Nickel "
+    },
+    "REFIMGCYNDGN9M5A7DD.jpg": {
+      "referenceImageId": "REFIMGCYNDGN9M5A7DD",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3LNY66TT7EAK.jpg": {
+      "referenceImageId": "REFIMGC3LNY66TT7EAK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC46PGYD4UVVLY.jpg": {
+      "referenceImageId": "REFIMGC46PGYD4UVVLY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4REC8X4E7KTK.jpg": {
+      "referenceImageId": "REFIMGC4REC8X4E7KTK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC783BMJLLMV39.jpg": {
+      "referenceImageId": "REFIMGC783BMJLLMV39",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3ERT10Z8YR0E.jpg": {
+      "referenceImageId": "REFIMGC3ERT10Z8YR0E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVRW320ZCC2BN.jpg": {
+      "referenceImageId": "REFIMGCVRW320ZCC2BN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL55WPEKA3TEX.jpg": {
+      "referenceImageId": "REFIMGCL55WPEKA3TEX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07GNJ5CN7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFJ5ZJ6VTK8JR",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 14.22,
+      "widthInCms": 32.35,
+      "heightInCms": 39.01
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

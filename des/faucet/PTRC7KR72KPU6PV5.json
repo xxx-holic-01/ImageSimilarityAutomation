@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCM7EGTL3GTY2C.jpg": {
+      "referenceImageId": "REFIMGCM7EGTL3GTY2C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC48ZVTKV5PAVY.jpg": {
+      "referenceImageId": "REFIMGC48ZVTKV5PAVY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Concetto Dual Spray Pull-Down Kitchen Faucet, Starlight Chrome "
+    },
+    "REFIMGCGKQGUBL8WWN6.jpg": {
+      "referenceImageId": "REFIMGCGKQGUBL8WWN6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVVHAM7U0GPB6.jpg": {
+      "referenceImageId": "REFIMGCVVHAM7U0GPB6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJFRJJKPQ5830.jpg": {
+      "referenceImageId": "REFIMGCJFRJJKPQ5830",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07Q23B56X",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7KR72KPU6PV5",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 22.29,
+      "widthInCms": 15.0,
+      "heightInCms": 38.09
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 50.0
+}

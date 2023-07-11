@@ -1,0 +1,41 @@
+{
+  "images": {
+    "REFIMGC4L3ZCVBWGFYY.jpg": {
+      "referenceImageId": "REFIMGC4L3ZCVBWGFYY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCXM7X1UGJHUUD.jpg": {
+      "referenceImageId": "REFIMGCXM7X1UGJHUUD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01H4FLWXM",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC53KMEU2EEBWK",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 12.5,
+      "widthInCms": 16.1,
+      "heightInCms": 10.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COOKING_POT",
+  "focalLength": 60.0
+}

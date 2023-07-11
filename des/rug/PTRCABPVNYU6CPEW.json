@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCE54VWAK2UUKA.jpg": {
+      "referenceImageId": "REFIMGCE54VWAK2UUKA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "only mat has to be done more image can be taken from image asist page width taken till tassels"
+    },
+    "REFIMGCZX66R1LYWLH0.jpg": {
+      "referenceImageId": "REFIMGCZX66R1LYWLH0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCQ7WT2JBNA82.jpg": {
+      "referenceImageId": "REFIMGCCQ7WT2JBNA82",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTGZLNL256MC2.jpg": {
+      "referenceImageId": "REFIMGCTGZLNL256MC2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTL5MH01CRN15.jpg": {
+      "referenceImageId": "REFIMGCTL5MH01CRN15",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC90PMUYKJ3ZC0.jpg": {
+      "referenceImageId": "REFIMGC90PMUYKJ3ZC0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07PZ7HZML",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCABPVNYU6CPEW",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 61.0,
+      "widthInCms": 111.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

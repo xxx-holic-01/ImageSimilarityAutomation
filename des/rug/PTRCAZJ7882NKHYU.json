@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCU5X49A93Q2P1.jpg": {
+      "referenceImageId": "REFIMGCU5X49A93Q2P1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF35KTX59CR9N.jpg": {
+      "referenceImageId": "REFIMGCF35KTX59CR9N",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC82158K2WFGFM.jpg": {
+      "referenceImageId": "REFIMGC82158K2WFGFM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - Modern Floral Circles Design Area Rugs "
+    },
+    "REFIMGC4XA0MDU02H86.jpg": {
+      "referenceImageId": "REFIMGC4XA0MDU02H86",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7NPFA8VKDKFD.jpg": {
+      "referenceImageId": "REFIMGC7NPFA8VKDKFD",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0791JLCZK",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCAZJ7882NKHYU",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 193.32,
+      "widthInCms": 274.32,
+      "heightInCms": 0.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

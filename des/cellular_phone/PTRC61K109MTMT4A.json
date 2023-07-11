@@ -1,0 +1,47 @@
+{
+  "images": {
+    "REFIMGCQJFXP883RFA7.jpg": {
+      "referenceImageId": "REFIMGCQJFXP883RFA7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC0UJUEFEGF92V.jpg": {
+      "referenceImageId": "REFIMGC0UJUEFEGF92V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK09TPAFVCCMW.jpg": {
+      "referenceImageId": "REFIMGCK09TPAFVCCMW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09G9KPVTB",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC61K109MTMT4A",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 0.77,
+      "widthInCms": 7.15,
+      "heightInCms": 14.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 55.0
+}

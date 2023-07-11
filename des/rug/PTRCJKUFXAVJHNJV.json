@@ -1,0 +1,107 @@
+{
+  "images": {
+    "REFIMGCF7BW3CUMPATT.jpg": {
+      "referenceImageId": "REFIMGCF7BW3CUMPATT",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZF4LMV3LKUZ4.jpg": {
+      "referenceImageId": "REFIMGCZF4LMV3LKUZ4",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK37UWXC52TWD.jpg": {
+      "referenceImageId": "REFIMGCK37UWXC52TWD",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWEARPGKDQ369.jpg": {
+      "referenceImageId": "REFIMGCWEARPGKDQ369",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZGHYWGQKHEDQ.jpg": {
+      "referenceImageId": "REFIMGCZGHYWGQKHEDQ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9CEACV3KBFJ0.jpg": {
+      "referenceImageId": "REFIMGC9CEACV3KBFJ0",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR8M34EF9BPEP.jpg": {
+      "referenceImageId": "REFIMGCR8M34EF9BPEP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC9D1BNFPHDYFH.jpg": {
+      "referenceImageId": "REFIMGC9D1BNFPHDYFH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07K6V654T",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJKUFXAVJHNJV",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 89.0,
+      "widthInCms": 55.63,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 75.0
+}

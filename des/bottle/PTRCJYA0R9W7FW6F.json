@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCZ7AV33KTM5J8.jpg": {
+      "referenceImageId": "REFIMGCZ7AV33KTM5J8",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5R6BVBFP9Z11.jpg": {
+      "referenceImageId": "REFIMGC5R6BVBFP9Z11",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Zojirushi SM-WA48-AA Water Bottle, "
+    },
+    "REFIMGC1WNRA7WXKD3B.jpg": {
+      "referenceImageId": "REFIMGC1WNRA7WXKD3B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08TMKTQP2",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCJYA0R9W7FW6F",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 6.5,
+      "widthInCms": 6.5,
+      "heightInCms": 21.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BOTTLE",
+  "focalLength": 46.0
+}

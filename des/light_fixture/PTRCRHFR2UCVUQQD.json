@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCEDB1AY8ZKQ46.jpg": {
+      "referenceImageId": "REFIMGCEDB1AY8ZKQ46",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKRHU1DX1KC9M.jpg": {
+      "referenceImageId": "REFIMGCKRHU1DX1KC9M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT0ZHBFB26UPY.jpg": {
+      "referenceImageId": "REFIMGCT0ZHBFB26UPY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK03P6C8ZVGXW.jpg": {
+      "referenceImageId": "REFIMGCK03P6C8ZVGXW",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "6 Arms Spider Lamps Modern Style Adjustable DIY Ceiling Spider Pendant Lighting "
+    },
+    "REFIMGCC1UNQ5Q9V8HB.jpg": {
+      "referenceImageId": "REFIMGCC1UNQ5Q9V8HB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "light should be in off state"
+    },
+    "REFIMGCP0ZDVPM9WDPL.jpg": {
+      "referenceImageId": "REFIMGCP0ZDVPM9WDPL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08NX2HGFC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRHFR2UCVUQQD",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 149.86,
+      "widthInCms": 149.86,
+      "heightInCms": 176.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 100.0
+}

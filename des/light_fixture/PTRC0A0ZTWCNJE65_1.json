@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCFH69Y5GBU80P.jpg": {
+      "referenceImageId": "REFIMGCFH69Y5GBU80P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4EZWLKLNZEZU.jpg": {
+      "referenceImageId": "REFIMGC4EZWLKLNZEZU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2D7UX1FCRXPF.jpg": {
+      "referenceImageId": "REFIMGC2D7UX1FCRXPF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ61ZM905CCL7.jpg": {
+      "referenceImageId": "REFIMGCQ61ZM905CCL7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Plug in Wall Lamp for Badroom Modern Sconce Wall Lighting Fixture Black Industrial Sconce Lamp for Badroom with Wood and Leather Light for Bedside Farmhouse Aisle Corridor Living Room "
+    }
+  },
+  "asin": "B09ZQNRDSJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0A0ZTWCNJE65",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 13.0,
+      "widthInCms": 23.0,
+      "heightInCms": 28.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 100.0
+}

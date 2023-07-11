@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGCFJTXBE8338D7.jpg": {
+      "referenceImageId": "REFIMGCFJTXBE8338D7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNPXLBM3E0NBZ.jpg": {
+      "referenceImageId": "REFIMGCNPXLBM3E0NBZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJK7Q86MYYGP4.jpg": {
+      "referenceImageId": "REFIMGCJK7Q86MYYGP4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC7G5B0GG7BKF.jpg": {
+      "referenceImageId": "REFIMGCC7G5B0GG7BKF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC9B8J6Q64J4GG.jpg": {
+      "referenceImageId": "REFIMGC9B8J6Q64J4GG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3YLNKF3T08QA.jpg": {
+      "referenceImageId": "REFIMGC3YLNKF3T08QA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08S9NDGS9",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4PYJXQMP6NBV",
+  "modelWorkflowType": "Texture",
+  "productType": "SHOES"
+}

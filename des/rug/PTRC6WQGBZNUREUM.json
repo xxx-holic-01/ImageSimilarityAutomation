@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCMQ4W7C48YB40.jpg": {
+      "referenceImageId": "REFIMGCMQ4W7C48YB40",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2Z0347CGUEGC.jpg": {
+      "referenceImageId": "REFIMGC2Z0347CGUEGC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9DXD8KG0HARH.jpg": {
+      "referenceImageId": "REFIMGC9DXD8KG0HARH",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1LKFEWFXTP9L.jpg": {
+      "referenceImageId": "REFIMGC1LKFEWFXTP9L",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTT6LY5HATQNA.jpg": {
+      "referenceImageId": "REFIMGCTT6LY5HATQNA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Funky Strokes Outdoor Plastic Straw Rug - Waterproof Camping Rugs for Outside Your RV Porch Deck Tent Camper Accessories - Boho Patio Decor Mat/Carpet Clearance (Black and White Small 4x6)"
+    }
+  },
+  "asin": "B09499NJXY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6WQGBZNUREUM",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 278.99,
+      "widthInCms": 182.88,
+      "heightInCms": 2.54
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 80.0
+}

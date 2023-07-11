@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGC6BPQ7V0MZLT5.jpg": {
+      "referenceImageId": "REFIMGC6BPQ7V0MZLT5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLXVE4W71H03Q.jpg": {
+      "referenceImageId": "REFIMGCLXVE4W71H03Q",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPDAFAT7YNBE4.jpg": {
+      "referenceImageId": "REFIMGCPDAFAT7YNBE4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCADE1DZY6AAAD.jpg": {
+      "referenceImageId": "REFIMGCADE1DZY6AAAD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Camping Moon Grill Table, For IGT, Field Rack, All Stainless Steel, Storage Bag Included "
+    },
+    "REFIMGCQMMY9GBF77EU.jpg": {
+      "referenceImageId": "REFIMGCQMMY9GBF77EU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAHKUDJPWA74G.jpg": {
+      "referenceImageId": "REFIMGCAHKUDJPWA74G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09SF5Z9TG",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCR26T5ZYR1KAV",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 37.0,
+      "widthInCms": 62.0,
+      "heightInCms": 69.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 65.0
+}

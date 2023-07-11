@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCQGEAJXDPJ146.jpg": {
+      "referenceImageId": "REFIMGCQGEAJXDPJ146",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB331U0LA9QLW.jpg": {
+      "referenceImageId": "REFIMGCB331U0LA9QLW",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Feit Electric 5-6 inch InstaTRIM Adjustable Neck Recessed LED Downlight - 2700K Soft White - Dimmable - Pre-Mounted Trim - 65W Equivalent - 45 Year Life - 850 Lumen - High CRI | 6-Pack"
+    },
+    "REFIMGCECW143JZVQCP.jpg": {
+      "referenceImageId": "REFIMGCECW143JZVQCP",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1T4P8TL0WJ3U.jpg": {
+      "referenceImageId": "REFIMGC1T4P8TL0WJ3U",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTB463JWJH15E.jpg": {
+      "referenceImageId": "REFIMGCTB463JWJH15E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0973FB483",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC02BAT4J41NZN",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.05,
+      "widthInCms": 19.05,
+      "heightInCms": 18.83
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC0A85E0FC6RC0.jpg": {
+      "referenceImageId": "REFIMGC0A85E0FC6RC0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCC5MKF2RTDE0C.jpg": {
+      "referenceImageId": "REFIMGCC5MKF2RTDE0C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC41GJKMFY3F8A.jpg": {
+      "referenceImageId": "REFIMGC41GJKMFY3F8A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWBA3GNAGVB9R.jpg": {
+      "referenceImageId": "REFIMGCWBA3GNAGVB9R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCECB9GW0870EP.jpg": {
+      "referenceImageId": "REFIMGCECB9GW0870EP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCP55AUB07FEH8.jpg": {
+      "referenceImageId": "REFIMGCP55AUB07FEH8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - TRUSBER Citrus Hand Lemon Juicer, Stainless Steel Citrus Manual Juicer Squeezer with Strainer \u0026 Bowl for Lemon,Orange,Grapefruit - Dishwasher Safe , decoration not needed"
+    },
+    "REFIMGCHLBWM531FCG6.jpg": {
+      "referenceImageId": "REFIMGCHLBWM531FCG6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09Y5JLJ1G",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW29PGPX66UVR",
+  "productDimensionList": [
+    {
+      "productCategory": "Exercise Equipment",
+      "lengthInCms": 16.69,
+      "widthInCms": 17.0,
+      "heightInCms": 10.92
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "JUICER",
+  "focalLength": 50.0
+}

@@ -1,0 +1,70 @@
+{
+  "images": {
+    "REFIMGC09XENQY1PL5Q.jpg": {
+      "referenceImageId": "REFIMGC09XENQY1PL5Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZEM544GYH6JM.jpg": {
+      "referenceImageId": "REFIMGCZEM544GYH6JM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNBD6JM8FN7NM.jpg": {
+      "referenceImageId": "REFIMGCNBD6JM8FN7NM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNB8VZRNEK6NM.jpg": {
+      "referenceImageId": "REFIMGCNB8VZRNEK6NM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCWDWXTZ9JZ9P.jpg": {
+      "referenceImageId": "REFIMGCCWDWXTZ9JZ9P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNV31C4331LGL.jpg": {
+      "referenceImageId": "REFIMGCNV31C4331LGL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Portable Blender Smoothie Blender with 16oz Travel Glass Cup "
+    }
+  },
+  "asin": "B07VS4DB6N",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0CR2C1NDQ2QF",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 7.8,
+      "widthInCms": 7.8,
+      "heightInCms": 26.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "FOOD_BLENDER",
+  "focalLength": 60.0
+}

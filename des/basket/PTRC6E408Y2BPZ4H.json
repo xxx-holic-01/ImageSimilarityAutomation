@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCMRNR97CEERCH.jpg": {
+      "referenceImageId": "REFIMGCMRNR97CEERCH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ2CLQ6W9Z6D3.jpg": {
+      "referenceImageId": "REFIMGCQ2CLQ6W9Z6D3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC81036WXMW8P1.jpg": {
+      "referenceImageId": "REFIMGC81036WXMW8P1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRW1TK8RVEBRE.jpg": {
+      "referenceImageId": "REFIMGCRW1TK8RVEBRE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wickerfield Lovely Brown Wooden Crates Storage Rack Shelves Christmas Eve Gift Hamper Box (1, Small) "
+    }
+  },
+  "asin": "B07F1T799Z",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC6E408Y2BPZ4H",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 21.5,
+      "widthInCms": 31.5,
+      "heightInCms": 13.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BASKET",
+  "focalLength": 70.0
+}

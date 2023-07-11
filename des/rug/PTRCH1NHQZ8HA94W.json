@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGC6N5QXFYP2GHX.jpg": {
+      "referenceImageId": "REFIMGC6N5QXFYP2GHX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK0V6YL17Z0NW.jpg": {
+      "referenceImageId": "REFIMGCK0V6YL17Z0NW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPD0ZEMYEJCF4.jpg": {
+      "referenceImageId": "REFIMGCPD0ZEMYEJCF4",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6X8LHWKK7QC2.jpg": {
+      "referenceImageId": "REFIMGC6X8LHWKK7QC2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJYQB8BCCKBGD.jpg": {
+      "referenceImageId": "REFIMGCJYQB8BCCKBGD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hedlive Boho Area Rug, ​【0,61 × 1,52  m】 Washable Rug Hallway Runner Rug for Bathroom, Non-Slip Non-Shedding Bedroom Rug Distressed Small Accent Throw Rugs for Classroom Kitchen Laundry Room Decor"
+    },
+    "REFIMGCUQ3FEPD57LTN.jpg": {
+      "referenceImageId": "REFIMGCUQ3FEPD57LTN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3YNK7EE0WYXA.jpg": {
+      "referenceImageId": "REFIMGC3YNK7EE0WYXA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1PHRAPDXZ8X7.jpg": {
+      "referenceImageId": "REFIMGC1PHRAPDXZ8X7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09G6CPX7P",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH1NHQZ8HA94W",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 52.7,
+      "widthInCms": 152.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 30.0
+}

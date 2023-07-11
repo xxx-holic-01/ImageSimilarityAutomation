@@ -1,0 +1,31 @@
+{
+  "images": {
+    "REFIMGC35VRB4K9DV9Y.jpg": {
+      "referenceImageId": "REFIMGC35VRB4K9DV9Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wall lamp- model in off state"
+    }
+  },
+  "asin": "B079B1QMSH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC319C9NP085WE",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 16.41,
+      "widthInCms": 15.24,
+      "heightInCms": 15.24
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 69.0
+}

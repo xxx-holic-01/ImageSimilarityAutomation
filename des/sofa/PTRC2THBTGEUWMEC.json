@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCGFH2WZH2GD24.jpg": {
+      "referenceImageId": "REFIMGCGFH2WZH2GD24",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8DT1ZQZ5V680.jpg": {
+      "referenceImageId": "REFIMGC8DT1ZQZ5V680",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5Y6NGQKHC9W5.jpg": {
+      "referenceImageId": "REFIMGC5Y6NGQKHC9W5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC94UD92EEBGK3.jpg": {
+      "referenceImageId": "REFIMGC94UD92EEBGK3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Reclining Sofa"
+    },
+    "REFIMGC7LQXNE1263D9.jpg": {
+      "referenceImageId": "REFIMGC7LQXNE1263D9",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCR9B9R59FX4N6.jpg": {
+      "referenceImageId": "REFIMGCR9B9R59FX4N6",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BN5D1NFV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2THBTGEUWMEC",
+  "productDimensionList": [
+    {
+      "productCategory": "3 Seater Cushion",
+      "lengthInCms": 88.9,
+      "widthInCms": 209.04,
+      "heightInCms": 103.12
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 60.0
+}

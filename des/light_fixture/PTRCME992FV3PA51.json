@@ -1,0 +1,52 @@
+{
+  "images": {
+    "REFIMGCKDYEQF0ER4RD.jpg": {
+      "referenceImageId": "REFIMGCKDYEQF0ER4RD",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0PWR97B634LR.jpg": {
+      "referenceImageId": "REFIMGC0PWR97B634LR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " 40W 4000LM Outdoor RGB LED Flood Light, LED Flood Light, 400W Equivalent, RGBW Color Changing, 120 RGB Colors, Time Remote Control Warm White, 5 Modes, IP66 Waterproof (2-Pack) model should be in off mode"
+    },
+    "REFIMGCY5X69VQ2D3QR.jpg": {
+      "referenceImageId": "REFIMGCY5X69VQ2D3QR",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08TX59Q2W",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCME992FV3PA51",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 3.7,
+      "widthInCms": 28.0,
+      "heightInCms": 16.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

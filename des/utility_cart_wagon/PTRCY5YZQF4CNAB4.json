@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCQH7V9T2LWVAQ.jpg": {
+      "referenceImageId": "REFIMGCQH7V9T2LWVAQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Hang Out NGM-7240OL Niguruma Folding Outdoor Wagon, Carrying Cart, Olive "
+    },
+    "REFIMGCWJ74RG8AHU9D.jpg": {
+      "referenceImageId": "REFIMGCWJ74RG8AHU9D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZVC7K76FFJD0.jpg": {
+      "referenceImageId": "REFIMGCZVC7K76FFJD0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX2MBBTAEWA3R.jpg": {
+      "referenceImageId": "REFIMGCX2MBBTAEWA3R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC253VW62K2WUG.jpg": {
+      "referenceImageId": "REFIMGC253VW62K2WUG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07V5X4R9T",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCY5YZQF4CNAB4",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 125.4,
+      "widthInCms": 59.94,
+      "heightInCms": 60.96
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "UTILITY_CART_WAGON",
+  "focalLength": 70.0
+}

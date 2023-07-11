@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC95JW2050BQZL.jpg": {
+      "referenceImageId": "REFIMGC95JW2050BQZL",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBVHT5G36WJNQ.jpg": {
+      "referenceImageId": "REFIMGCBVHT5G36WJNQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "M MEGAWHEELS Electric Scooter, 3 Gears, Max Speed 25 km/h, 22 KM Powerful Battery with 8\u0027\u0027 Tires Foldable Electric Scooter for Adults,"
+    },
+    "REFIMGC83AGPJUBW1X4.jpg": {
+      "referenceImageId": "REFIMGC83AGPJUBW1X4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL0KXF3RDTQJ9.jpg": {
+      "referenceImageId": "REFIMGCL0KXF3RDTQJ9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVYK9FEKUDJAT.jpg": {
+      "referenceImageId": "REFIMGCVYK9FEKUDJAT",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAVECALNL9D18.jpg": {
+      "referenceImageId": "REFIMGCAVECALNL9D18",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRUPEPVATMZJB.jpg": {
+      "referenceImageId": "REFIMGCRUPEPVATMZJB",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4ALU81WQN5PP.jpg": {
+      "referenceImageId": "REFIMGC4ALU81WQN5PP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B083SLH2CC",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC79B99G8Y4HRE",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 108.0,
+      "widthInCms": 43.0,
+      "heightInCms": 143.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "KICK_SCOOTER",
+  "focalLength": 80.0
+}

@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGC3C4TZWC3ZBUB.jpg": {
+      "referenceImageId": "REFIMGC3C4TZWC3ZBUB",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VILINICE 120W TV Sound Bar 39-Inch Sound Bars for TV with Built-in Subwoofer Bluetooth 5.0 LED Display 4 Speakers 3D Surround Sound TV Speaker with HDMI-ARC/AUX/Remote Control (2022 Updated)"
+    },
+    "REFIMGCFHT7NF2C36YP.jpg": {
+      "referenceImageId": "REFIMGCFHT7NF2C36YP",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRP8FP1LPY1TA.jpg": {
+      "referenceImageId": "REFIMGCRP8FP1LPY1TA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN8J1LK4B06NC.jpg": {
+      "referenceImageId": "REFIMGCN8J1LK4B06NC",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWXM7GKKW80RN.jpg": {
+      "referenceImageId": "REFIMGCWXM7GKKW80RN",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCALGJUZXMFNB4.jpg": {
+      "referenceImageId": "REFIMGCALGJUZXMFNB4",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXWGU8D5NT8KM.jpg": {
+      "referenceImageId": "REFIMGCXWGU8D5NT8KM",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09P31GJBM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCER0LH0GCR4HR",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 101.6,
+      "widthInCms": 6.86,
+      "heightInCms": 8.89
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 45.0
+}

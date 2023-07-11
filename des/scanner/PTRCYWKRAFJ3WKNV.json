@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGC683Z3YY5Q2MU.jpg": {
+      "referenceImageId": "REFIMGC683Z3YY5Q2MU",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH17RRBTXBG7H.jpg": {
+      "referenceImageId": "REFIMGCH17RRBTXBG7H",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC9P2WMU5M1ARR.jpg": {
+      "referenceImageId": "REFIMGC9P2WMU5M1ARR",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0CM2YZ4XPEW0.jpg": {
+      "referenceImageId": "REFIMGC0CM2YZ4XPEW0",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXXCW3NV11VD5.jpg": {
+      "referenceImageId": "REFIMGCXXCW3NV11VD5",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B9GJWZ4P",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYWKRAFJ3WKNV",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 12.0,
+      "widthInCms": 12.0,
+      "heightInCms": 18.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SCANNER",
+  "focalLength": 90.0
+}

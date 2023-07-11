@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCK4GWVDQWB1YX.jpg": {
+      "referenceImageId": "REFIMGCK4GWVDQWB1YX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "This image is used for dimension assessment."
+    },
+    "REFIMGC857BXPDULKM5.jpg": {
+      "referenceImageId": "REFIMGC857BXPDULKM5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNQ70F4TPGAPG.jpg": {
+      "referenceImageId": "REFIMGCNQ70F4TPGAPG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHGBJJ1TZLKN2.jpg": {
+      "referenceImageId": "REFIMGCHGBJJ1TZLKN2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVN56P1JRK4F2.jpg": {
+      "referenceImageId": "REFIMGCVN56P1JRK4F2",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW3MQL8WPB8AU.jpg": {
+      "referenceImageId": "REFIMGCW3MQL8WPB8AU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Rubber Stair Treads Carpet Non Slip, Black Stair Rugs for Wooden Steps, Reusable Carpet Stairs Runner, Machine Washable Stair Mats Covers, Black (30\"X8\", Set of 7) "
+    }
+  },
+  "asin": "B0B8S6HX8X",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCA19HXMQRUGV5",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 18.0,
+      "widthInCms": 76.2,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 90.0
+}

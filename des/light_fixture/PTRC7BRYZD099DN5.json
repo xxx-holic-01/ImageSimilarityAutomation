@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGC3D05EBUKB5NV.jpg": {
+      "referenceImageId": "REFIMGC3D05EBUKB5NV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7ZQ5BFLAR9RJ.jpg": {
+      "referenceImageId": "REFIMGC7ZQ5BFLAR9RJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFFHBRENBRUDP.jpg": {
+      "referenceImageId": "REFIMGCFFHBRENBRUDP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVH3M3L9FM7WE.jpg": {
+      "referenceImageId": "REFIMGCVH3M3L9FM7WE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1746X5N4ERB4.jpg": {
+      "referenceImageId": "REFIMGC1746X5N4ERB4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6VWYVAEZVD41.jpg": {
+      "referenceImageId": "REFIMGC6VWYVAEZVD41",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGNV1NZ6H7E6T.jpg": {
+      "referenceImageId": "REFIMGCGNV1NZ6H7E6T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JXJMEI Under Cabinet Lights, Motion Sensor USB-C Rechargeable LED Closet Lighting, Ultra Thin Battery Powered Operated Magnetic Light for Kitchen, Wardrobe, Cupboard(White"
+    }
+  },
+  "asin": "B0BP829BF8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7BRYZD099DN5",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 2.79,
+      "widthInCms": 21.09,
+      "heightInCms": 2.54
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCA0KRTMTFKYHW.jpg": {
+      "referenceImageId": "REFIMGCA0KRTMTFKYHW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDPJMX6Q8A6AZ.jpg": {
+      "referenceImageId": "REFIMGCDPJMX6Q8A6AZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5RTEW7VAL101.jpg": {
+      "referenceImageId": "REFIMGC5RTEW7VAL101",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9EDK44BJGR30.jpg": {
+      "referenceImageId": "REFIMGC9EDK44BJGR30",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hapilife Kitchen Sink Mixer Taps Monobloc Dual Lever Chrome Brass Swivel Spout Mono Kitchen Mixer Taps 1 Hole Twin Lever Kitchen Tap "
+    },
+    "REFIMGC96TGQD371WH4.jpg": {
+      "referenceImageId": "REFIMGC96TGQD371WH4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDMTE25HZ3GXY.jpg": {
+      "referenceImageId": "REFIMGCDMTE25HZ3GXY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC245HMN8WGRJZ.jpg": {
+      "referenceImageId": "REFIMGC245HMN8WGRJZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMZN2E39HK857.jpg": {
+      "referenceImageId": "REFIMGCMZN2E39HK857",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B078RJ3XNR",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCLYVM776VZCHD",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 17.0,
+      "widthInCms": 15.4,
+      "heightInCms": 29.04
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

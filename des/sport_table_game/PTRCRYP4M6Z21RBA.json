@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCTRU85W0PMU0T.jpg": {
+      "referenceImageId": "REFIMGCTRU85W0PMU0T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJZ8EHVA5JRNX.jpg": {
+      "referenceImageId": "REFIMGCJZ8EHVA5JRNX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Cirocco Foldable 4 Piece Table Tennis Ping Pong Play | Official Tournament Size 9\u0027 x 5\u0027 | with Net Posts Paddles 2 Ball | Quick Setup Heavy Duty Sturdy Durable | Playback Mode Suits Home, Blue, White(model only table) "
+    },
+    "REFIMGCR3PND6JH9B92.jpg": {
+      "referenceImageId": "REFIMGCR3PND6JH9B92",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BCGSZ1TG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRYP4M6Z21RBA",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 274.32,
+      "widthInCms": 152.0,
+      "heightInCms": 86.49
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPORT_TABLE_GAME",
+  "focalLength": 40.0
+}

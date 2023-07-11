@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCADQ0BZWEY6KD.jpg": {
+      "referenceImageId": "REFIMGCADQ0BZWEY6KD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXPXUQYEXCY6G.jpg": {
+      "referenceImageId": "REFIMGCXPXUQYEXCY6G",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4AH6U3ZQP91P.jpg": {
+      "referenceImageId": "REFIMGC4AH6U3ZQP91P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC73UT8YBN3YLN.jpg": {
+      "referenceImageId": "REFIMGC73UT8YBN3YLN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC94D4982C05B4.jpg": {
+      "referenceImageId": "REFIMGC94D4982C05B4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF89HZF41QEPA.jpg": {
+      "referenceImageId": "REFIMGCF89HZF41QEPA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJ7AQG6XBQ2D2.jpg": {
+      "referenceImageId": "REFIMGCJ7AQG6XBQ2D2",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B178DZPT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCE68Y7EM38P4N",
+  "productDimensionList": [
+    {
+      "productCategory": "Laptop",
+      "lengthInCms": 19.81,
+      "widthInCms": 19.81,
+      "heightInCms": 5.99
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PERSONAL_COMPUTER",
+  "focalLength": 49.0
+}

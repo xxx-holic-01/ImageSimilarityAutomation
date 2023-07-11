@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGCRJPJ0HF6R64N.jpg": {
+      "referenceImageId": "REFIMGCRJPJ0HF6R64N",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWMT9LVG61E20.jpg": {
+      "referenceImageId": "REFIMGCWMT9LVG61E20",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-YAOHONG Modern Bathroom Vanity Light 5-Lights Lamp in Satin Nickel.Model In Light Off State."
+    },
+    "REFIMGCM84KEJFKKT6W.jpg": {
+      "referenceImageId": "REFIMGCM84KEJFKKT6W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC29ARUQRLCDFL.jpg": {
+      "referenceImageId": "REFIMGC29ARUQRLCDFL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCH1VWJ8GET0C.jpg": {
+      "referenceImageId": "REFIMGCCH1VWJ8GET0C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHKAXZNCCYBJN.jpg": {
+      "referenceImageId": "REFIMGCHKAXZNCCYBJN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGUBXEX59EHME.jpg": {
+      "referenceImageId": "REFIMGCGUBXEX59EHME",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08H8TX3ZR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9RHYM7G1UQQ2",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 11.5,
+      "widthInCms": 107.0,
+      "heightInCms": 27.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

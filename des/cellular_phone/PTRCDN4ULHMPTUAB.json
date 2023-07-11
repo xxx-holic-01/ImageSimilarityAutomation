@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGC2QMT2TR1PK76.jpg": {
+      "referenceImageId": "REFIMGC2QMT2TR1PK76",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDGRWUGU2Y5AB.jpg": {
+      "referenceImageId": "REFIMGCDGRWUGU2Y5AB",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUEK2E3PGV7QE.jpg": {
+      "referenceImageId": "REFIMGCUEK2E3PGV7QE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09CGF7PB7",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCDN4ULHMPTUAB",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 0.74,
+      "widthInCms": 7.64,
+      "heightInCms": 16.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 55.0
+}

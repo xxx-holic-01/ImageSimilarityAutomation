@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCTG7R43FTMAA2.jpg": {
+      "referenceImageId": "REFIMGCTG7R43FTMAA2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZN50BYCP8AKV.jpg": {
+      "referenceImageId": "REFIMGCZN50BYCP8AKV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ66LVP2XYC86.jpg": {
+      "referenceImageId": "REFIMGCQ66LVP2XYC86",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC31H5921E2D4U.jpg": {
+      "referenceImageId": "REFIMGC31H5921E2D4U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B00QTJ4B1U",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVQDDP5X4XGW6",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 38.1,
+      "widthInCms": 45.7,
+      "heightInCms": 49.53
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TABLE",
+  "focalLength": 57.0
+}

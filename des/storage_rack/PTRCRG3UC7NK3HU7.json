@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCWGL211D3C85C.jpg": {
+      "referenceImageId": "REFIMGCWGL211D3C85C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKEZEDBGPNY9W.jpg": {
+      "referenceImageId": "REFIMGCKEZEDBGPNY9W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Decorations not included , Model only one item"
+    },
+    "REFIMGCU6PHKYQ12Y6H.jpg": {
+      "referenceImageId": "REFIMGCU6PHKYQ12Y6H",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "IEEK 6 PCS Vinyl Record Shelf Wall Mount,Clear Acrylic Album Record Holder Display Shelf,Display Your Daily Listening in Style "
+    }
+  },
+  "asin": "B082V25R8Z",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRG3UC7NK3HU7",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 3.81,
+      "widthInCms": 30.5,
+      "heightInCms": 4.83
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 55.0
+}

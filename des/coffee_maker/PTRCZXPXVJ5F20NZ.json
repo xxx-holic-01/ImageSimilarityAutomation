@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGCP72V8LH45XG8.jpg": {
+      "referenceImageId": "REFIMGCP72V8LH45XG8",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2NF4HYDQUWW3.jpg": {
+      "referenceImageId": "REFIMGC2NF4HYDQUWW3",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRWHQQK2CH0QE.jpg": {
+      "referenceImageId": "REFIMGCRWHQQK2CH0QE",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC725720Y8YDD5.jpg": {
+      "referenceImageId": "REFIMGC725720Y8YDD5",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNT4DLUF14PMG.jpg": {
+      "referenceImageId": "REFIMGCNT4DLUF14PMG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B07RS33SFC",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCZXPXVJ5F20NZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 7.0,
+      "widthInCms": 11.5,
+      "heightInCms": 14.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "COFFEE_MAKER",
+  "focalLength": 43.0
+}

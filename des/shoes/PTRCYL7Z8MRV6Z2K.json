@@ -1,0 +1,44 @@
+{
+  "images": {
+    "REFIMGCA16V8BFDZ2ND.jpg": {
+      "referenceImageId": "REFIMGCA16V8BFDZ2ND",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRZY64CYXR1AZ.jpg": {
+      "referenceImageId": "REFIMGCRZY64CYXR1AZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC38A6TA3EY6B.jpg": {
+      "referenceImageId": "REFIMGCC38A6TA3EY6B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC97DH1LYKQKWM.jpg": {
+      "referenceImageId": "REFIMGC97DH1LYKQKWM",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07HHG986D",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYL7Z8MRV6Z2K",
+  "modelWorkflowType": "Texture",
+  "productType": "SHOES"
+}

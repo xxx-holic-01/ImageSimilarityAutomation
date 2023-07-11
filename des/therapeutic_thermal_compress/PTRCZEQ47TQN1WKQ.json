@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCBQT2UCCVE9VL.jpg": {
+      "referenceImageId": "REFIMGCBQT2UCCVE9VL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC10YP6ATPUNXF.jpg": {
+      "referenceImageId": "REFIMGC10YP6ATPUNXF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC4PBQ4DUUE6ZJ.jpg": {
+      "referenceImageId": "REFIMGC4PBQ4DUUE6ZJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09XQTHT82",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCZEQ47TQN1WKQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 11.0,
+      "widthInCms": 11.0,
+      "heightInCms": 30.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "THERAPEUTIC_THERMAL_COMPRESS",
+  "focalLength": 45.0
+}

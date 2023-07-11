@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCD0256ZJXCWU7.jpg": {
+      "referenceImageId": "REFIMGCD0256ZJXCWU7",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFZB6WQFYLYKK.jpg": {
+      "referenceImageId": "REFIMGCFZB6WQFYLYKK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY2DRLUWUCEW5.jpg": {
+      "referenceImageId": "REFIMGCY2DRLUWUCEW5",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRDQ700TLLQT2.jpg": {
+      "referenceImageId": "REFIMGCRDQ700TLLQT2",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJBQ96TW9UJJX.jpg": {
+      "referenceImageId": "REFIMGCJBQ96TW9UJJX",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY28E1YAT9CW5.jpg": {
+      "referenceImageId": "REFIMGCY28E1YAT9CW5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Kira Home Isabelle 16\" 3-Light Modern Semi-Flush Mount Ceiling Light Metal Drum Shade Warm Brass Accents + Black Finish"
+    },
+    "REFIMGC894LNHYQQ088.jpg": {
+      "referenceImageId": "REFIMGC894LNHYQQ088",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B084Z2DMWR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMVHCXT0JX9DZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 48.26,
+      "widthInCms": 48.26,
+      "heightInCms": 26.67
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCLZQRV2UVL8XR.jpg": {
+      "referenceImageId": "REFIMGCLZQRV2UVL8XR",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPHTF354DV8C8.jpg": {
+      "referenceImageId": "REFIMGCPHTF354DV8C8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU38EFMUP28KY.jpg": {
+      "referenceImageId": "REFIMGCU38EFMUP28KY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC9FM5R4H6T42H.jpg": {
+      "referenceImageId": "REFIMGC9FM5R4H6T42H",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD3TX8C4Y3PNU.jpg": {
+      "referenceImageId": "REFIMGCD3TX8C4Y3PNU",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVXE97KU19EV9.jpg": {
+      "referenceImageId": "REFIMGCVXE97KU19EV9",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWKLUJN2EJG0X.jpg": {
+      "referenceImageId": "REFIMGCWKLUJN2EJG0X",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09XQPGQGH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWG6E6KG8TYG2",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 11.94,
+      "widthInCms": 11.94,
+      "heightInCms": 23.88
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

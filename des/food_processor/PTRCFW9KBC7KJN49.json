@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC3ZH5QU7NUX2U.jpg": {
+      "referenceImageId": "REFIMGC3ZH5QU7NUX2U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-White 3 CUP Cordless Mini Food Chopper,Small Food Processor.Model In CLosed State.(Center One)"
+    },
+    "REFIMGC02WFZEJ8JA03.jpg": {
+      "referenceImageId": "REFIMGC02WFZEJ8JA03",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Backside Charge Port "
+    },
+    "REFIMGCUA4AN7B0688A.jpg": {
+      "referenceImageId": "REFIMGCUA4AN7B0688A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM2NZ89TFTK1R.jpg": {
+      "referenceImageId": "REFIMGCM2NZ89TFTK1R",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9BKLNKRRA80G.jpg": {
+      "referenceImageId": "REFIMGC9BKLNKRRA80G",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6DP9ZNUJMWU6.jpg": {
+      "referenceImageId": "REFIMGC6DP9ZNUJMWU6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQWQ1BLXWQ7JZ.jpg": {
+      "referenceImageId": "REFIMGCQWQ1BLXWQ7JZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BDRY7MK8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFW9KBC7KJN49",
+  "productDimensionList": [
+    {
+      "productCategory": "Printer",
+      "lengthInCms": 8.8,
+      "widthInCms": 8.8,
+      "heightInCms": 11.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_PROCESSOR",
+  "focalLength": 60.0
+}

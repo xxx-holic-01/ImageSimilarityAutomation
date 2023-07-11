@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCEZTKU5M2Y533.jpg": {
+      "referenceImageId": "REFIMGCEZTKU5M2Y533",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA87PW6A6RVC4.jpg": {
+      "referenceImageId": "REFIMGCA87PW6A6RVC4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLJ7TJDHJB3TG.jpg": {
+      "referenceImageId": "REFIMGCLJ7TJDHJB3TG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Unique Loom Estrella Collection Abstract Modern Light Colors Distressed Area Rug"
+    },
+    "REFIMGC4A1D0BKTNP3P.jpg": {
+      "referenceImageId": "REFIMGC4A1D0BKTNP3P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJPTT4R0Z4695.jpg": {
+      "referenceImageId": "REFIMGCJPTT4R0Z4695",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC15L5HMWFNQV3.jpg": {
+      "referenceImageId": "REFIMGC15L5HMWFNQV3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8Q4F9F3UV1JW.jpg": {
+      "referenceImageId": "REFIMGC8Q4F9F3UV1JW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00XIWS7IE",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCATAR3T0L4FF0",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 185.93,
+      "widthInCms": 185.93,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

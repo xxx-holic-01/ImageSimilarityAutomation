@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGC48FY8G08U2VY.jpg": {
+      "referenceImageId": "REFIMGC48FY8G08U2VY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEBPRWR877NE6.jpg": {
+      "referenceImageId": "REFIMGCEBPRWR877NE6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCRDR58MA02MJ2.jpg": {
+      "referenceImageId": "REFIMGCRDR58MA02MJ2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Rugshop Modern Contemporary Checkered Area Rug, 5\u00273\" x 7\u00273\", Red "
+    },
+    "REFIMGC3GHP9VFD38BF.jpg": {
+      "referenceImageId": "REFIMGC3GHP9VFD38BF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPNZD267XT2RV.jpg": {
+      "referenceImageId": "REFIMGCPNZD267XT2RV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B078KHT2BT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCB8N86W0434B1",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 161.54,
+      "widthInCms": 231.14,
+      "heightInCms": 1.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

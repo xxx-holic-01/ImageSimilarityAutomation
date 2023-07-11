@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGC5QW9FQT0UDEJ.jpg": {
+      "referenceImageId": "REFIMGC5QW9FQT0UDEJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF1G03PHFEDZK.jpg": {
+      "referenceImageId": "REFIMGCF1G03PHFEDZK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNFBL1R7BMABR.jpg": {
+      "referenceImageId": "REFIMGCNFBL1R7BMABR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY382RJ1GAK3Q.jpg": {
+      "referenceImageId": "REFIMGCY382RJ1GAK3Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-LIANGMH 3 Light Modern Pendant Light Kitchen Light Fixture Dimmable LED Dinning Room Black Mini Pendant Lights, Adjustable Pendant Lighting for Kitchen Island"
+    },
+    "REFIMGCDZ6TQJ4D12YP.jpg": {
+      "referenceImageId": "REFIMGCDZ6TQJ4D12YP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYPC3R0FYU82W.jpg": {
+      "referenceImageId": "REFIMGCYPC3R0FYU82W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B1C2T62C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHJP0ZBU0KRCN",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 11.48,
+      "widthInCms": 42.9,
+      "heightInCms": 84.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

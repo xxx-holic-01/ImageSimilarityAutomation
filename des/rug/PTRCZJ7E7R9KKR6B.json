@@ -1,0 +1,40 @@
+{
+  "images": {
+    "REFIMGCKK614HNWYB1H.jpg": {
+      "referenceImageId": "REFIMGCKK614HNWYB1H",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU2WFF1UUQZTE.jpg": {
+      "referenceImageId": "REFIMGCU2WFF1UUQZTE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SAFAVIEH Adirondack Collection 6\u0027 Round Sage / Cream ADR125X Modern Wave Distressed Non-Shedding Dining Room Entryway Foyer Living Room Bedroom Area Rug "
+    }
+  },
+  "asin": "B01N7I1FBB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZJ7E7R9KKR6B",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 183.0,
+      "widthInCms": 183.0,
+      "heightInCms": 0.25
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 30.0
+}

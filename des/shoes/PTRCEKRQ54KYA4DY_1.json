@@ -1,0 +1,44 @@
+{
+  "images": {
+    "REFIMGCKHNKUM02DV0G.jpg": {
+      "referenceImageId": "REFIMGCKHNKUM02DV0G",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC6FLPCHUE0VB9.jpg": {
+      "referenceImageId": "REFIMGC6FLPCHUE0VB9",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZZD1RGU796V0.jpg": {
+      "referenceImageId": "REFIMGCZZD1RGU796V0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVNT5UFER1EZ1.jpg": {
+      "referenceImageId": "REFIMGCVNT5UFER1EZ1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B095L1XW8C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEKRQ54KYA4DY",
+  "modelWorkflowType": "Mirror",
+  "productType": "SHOES"
+}

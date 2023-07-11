@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGC58MA5H2ZH97D.jpg": {
+      "referenceImageId": "REFIMGC58MA5H2ZH97D",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "IRIS OHYAMA SB-O600 Water Bottle, 6 Hours Temperature Retention, Vacuum Insulated, Cold and Heat Retention, Direct Drinking, One-touch Screw, 20.3 fl oz (600 ml), Ash Pink"
+    },
+    "REFIMGCBVMY11794XMQ.jpg": {
+      "referenceImageId": "REFIMGCBVMY11794XMQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAXA761Y8KA3B.jpg": {
+      "referenceImageId": "REFIMGCAXA761Y8KA3B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPTUCECXY75BZ.jpg": {
+      "referenceImageId": "REFIMGCPTUCECXY75BZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKUHCXMQ20B7Q.jpg": {
+      "referenceImageId": "REFIMGCKUHCXMQ20B7Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07RLCX6JZ",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCZNQ798U77Q5T",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 7.3,
+      "widthInCms": 7.3,
+      "heightInCms": 25.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "THERMOS",
+  "focalLength": 120.0
+}

@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCRUUPWKKWJM0B.jpg": {
+      "referenceImageId": "REFIMGCRUUPWKKWJM0B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZC5M7KNYDFZL.jpg": {
+      "referenceImageId": "REFIMGCZC5M7KNYDFZL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT0VZN8M84UVY.jpg": {
+      "referenceImageId": "REFIMGCT0VZN8M84UVY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09Y8MCBLB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCXJP8F6Y1XT2B",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 10.16,
+      "widthInCms": 101.6,
+      "heightInCms": 41.61
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FIREPLACE",
+  "focalLength": 66.0
+}

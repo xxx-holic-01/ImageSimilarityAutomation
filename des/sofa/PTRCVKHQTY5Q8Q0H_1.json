@@ -1,0 +1,93 @@
+{
+  "images": {
+    "REFIMGC25JAKBWK8V2F.jpg": {
+      "referenceImageId": "REFIMGC25JAKBWK8V2F",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN30HP4730RFQ.jpg": {
+      "referenceImageId": "REFIMGCN30HP4730RFQ",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK1TEXBGG9M2C.jpg": {
+      "referenceImageId": "REFIMGCK1TEXBGG9M2C",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC29LG5BFVMPUK.jpg": {
+      "referenceImageId": "REFIMGC29LG5BFVMPUK",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKXC14R52W868.jpg": {
+      "referenceImageId": "REFIMGCKXC14R52W868",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "hansones Velvet Sofa"
+    },
+    "REFIMGCTZVKG5LTMXCE.jpg": {
+      "referenceImageId": "REFIMGCTZVKG5LTMXCE",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC54YNCMPKK079.jpg": {
+      "referenceImageId": "REFIMGC54YNCMPKK079",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BKKSLCN6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVKHQTY5Q8Q0H",
+  "productDimensionList": [
+    {
+      "productCategory": "Cushion",
+      "lengthInCms": 75.0,
+      "widthInCms": 188.01,
+      "heightInCms": 77.53
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 45.0
+}

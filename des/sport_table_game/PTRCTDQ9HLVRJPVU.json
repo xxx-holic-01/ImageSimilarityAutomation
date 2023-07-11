@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGC25GTVANZQVVG.jpg": {
+      "referenceImageId": "REFIMGC25GTVANZQVVG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC3FNLUYKV8DZY.jpg": {
+      "referenceImageId": "REFIMGC3FNLUYKV8DZY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBCXZ66GKPHKC.jpg": {
+      "referenceImageId": "REFIMGCBCXZ66GKPHKC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZ5KD6Q9QFHA8.jpg": {
+      "referenceImageId": "REFIMGCZ5KD6Q9QFHA8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC509TNPU97TF7.jpg": {
+      "referenceImageId": "REFIMGC509TNPU97TF7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCB7Z4W3ZP5PM0.jpg": {
+      "referenceImageId": "REFIMGCB7Z4W3ZP5PM0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCS9ZVHY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCTDQ9HLVRJPVU",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 83.0,
+      "widthInCms": 152.4,
+      "heightInCms": 81.28
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPORT_TABLE_GAME",
+  "focalLength": 50.0
+}

@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCTHKLU4K3XG2J.jpg": {
+      "referenceImageId": "REFIMGCTHKLU4K3XG2J",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFKRP0V80CZNT.jpg": {
+      "referenceImageId": "REFIMGCFKRP0V80CZNT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hobby Gift Exclusive Medium Sewing Craft Hobby Storage Box"
+    },
+    "REFIMGC40YUN2FG43XT.jpg": {
+      "referenceImageId": "REFIMGC40YUN2FG43XT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0YPF4EALD3WZ.jpg": {
+      "referenceImageId": "REFIMGC0YPF4EALD3WZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEWW9DHAKBXBK.jpg": {
+      "referenceImageId": "REFIMGCEWW9DHAKBXBK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7TQ6A1NRHT4D.jpg": {
+      "referenceImageId": "REFIMGC7TQ6A1NRHT4D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B093X17LNJ",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCGFTC20LDHDBA",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 19.0,
+      "widthInCms": 28.7,
+      "heightInCms": 20.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BASKET",
+  "focalLength": 75.0
+}

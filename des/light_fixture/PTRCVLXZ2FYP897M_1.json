@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGC82850R1J2FCM.jpg": {
+      "referenceImageId": "REFIMGC82850R1J2FCM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTRAK3WUYH4VT.jpg": {
+      "referenceImageId": "REFIMGCTRAK3WUYH4VT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLG7KAQ57C3GD.jpg": {
+      "referenceImageId": "REFIMGCLG7KAQ57C3GD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZBB571GMLP13.jpg": {
+      "referenceImageId": "REFIMGCZBB571GMLP13",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8BCWLJBHDMC1.jpg": {
+      "referenceImageId": "REFIMGC8BCWLJBHDMC1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLAY932MJGGB9.jpg": {
+      "referenceImageId": "REFIMGCLAY932MJGGB9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC97PUK6BJUFUM.jpg": {
+      "referenceImageId": "REFIMGC97PUK6BJUFUM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JONATHAN Y JYL7202A Bradley 15.7\" Round Integrated LED Metal Pendant Chandelier Modern Contemporary Transitional Dining Room Living Room Kitchen Foyer Bedroom Hallway, Matte Black "
+    },
+    "REFIMGCWUTQKER0T0C5.jpg": {
+      "referenceImageId": "REFIMGCWUTQKER0T0C5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07GCPDRLM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVLXZ2FYP897M",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 40.0,
+      "widthInCms": 40.0,
+      "heightInCms": 43.29
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 100.0
+}

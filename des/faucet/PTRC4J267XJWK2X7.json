@@ -1,0 +1,61 @@
+{
+  "images": {
+    "REFIMGCHKHZWYD1VZNN.jpg": {
+      "referenceImageId": "REFIMGCHKHZWYD1VZNN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBQ8DHBY4FVDM.jpg": {
+      "referenceImageId": "REFIMGCBQ8DHBY4FVDM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "CEINOL 720° Rotate Bathroom Faucets for Sink 1 Hole, Bathroom Sink Faucet Single Hole, Rotate Bathroom Faucet Widespread Black for Vessel Single Handle Modern "
+    },
+    "REFIMGCVQ0MF3QAAUN5.jpg": {
+      "referenceImageId": "REFIMGCVQ0MF3QAAUN5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCREQERUM23PKK.jpg": {
+      "referenceImageId": "REFIMGCREQERUM23PKK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMD0TPEMUY9E9.jpg": {
+      "referenceImageId": "REFIMGCMD0TPEMUY9E9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B4W64N4J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4J267XJWK2X7",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 23.97,
+      "widthInCms": 7.96,
+      "heightInCms": 25.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 80.0
+}

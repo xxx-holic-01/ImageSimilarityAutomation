@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC1B67U25RGGAZ.jpg": {
+      "referenceImageId": "REFIMGC1B67U25RGGAZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC34AHCA7HKR2E.jpg": {
+      "referenceImageId": "REFIMGC34AHCA7HKR2E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ572CNLQYML1.jpg": {
+      "referenceImageId": "REFIMGCJ572CNLQYML1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Decorations not included"
+    },
+    "REFIMGCH3AVMXCUABFJ.jpg": {
+      "referenceImageId": "REFIMGCH3AVMXCUABFJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMLEF06YZRQPZ.jpg": {
+      "referenceImageId": "REFIMGCMLEF06YZRQPZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG7TCLHHUX5G6.jpg": {
+      "referenceImageId": "REFIMGCG7TCLHHUX5G6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "YIKUDU Keep Off Large Rugs Floor Mat Modern Carpet for Home Decoration Area Rug,Cozy Art Decoration Polyester Carpet"
+    }
+  },
+  "asin": "B0B8V52KPT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC77L2X17V53E3",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 67.02,
+      "widthInCms": 90.0,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 55.0
+}

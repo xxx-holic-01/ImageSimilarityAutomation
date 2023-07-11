@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCHXH74HGHQVEE.jpg": {
+      "referenceImageId": "REFIMGCHXH74HGHQVEE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC40D9GHVBW48T.jpg": {
+      "referenceImageId": "REFIMGC40D9GHVBW48T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCXRA1V3UL0RRH.jpg": {
+      "referenceImageId": "REFIMGCXRA1V3UL0RRH",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC62ULR7CGHU8N.jpg": {
+      "referenceImageId": "REFIMGC62ULR7CGHU8N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07YFNSCMW",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1TRTJ52HPY5B",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 9.8,
+      "widthInCms": 19.5,
+      "heightInCms": 8.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_PURIFIER",
+  "focalLength": 60.0
+}

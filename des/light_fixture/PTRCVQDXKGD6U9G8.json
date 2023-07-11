@@ -1,0 +1,100 @@
+{
+  "images": {
+    "REFIMGCTE4CD8T6VPEZ.jpg": {
+      "referenceImageId": "REFIMGCTE4CD8T6VPEZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVKKGWF65JP4H.jpg": {
+      "referenceImageId": "REFIMGCVKKGWF65JP4H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXUNH7ND3X7DJ.jpg": {
+      "referenceImageId": "REFIMGCXUNH7ND3X7DJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "KCO Lighting Globe Pendant Light Modern 7.9 inches Globe Hanging Lights Glass Adjustable Ceiling Pendant Light Fixtures for Living Room Kitchen Island "
+    },
+    "REFIMGC6U9M3L5W1CCJ.jpg": {
+      "referenceImageId": "REFIMGC6U9M3L5W1CCJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC6ERHQX4NB7Y.jpg": {
+      "referenceImageId": "REFIMGCC6ERHQX4NB7Y",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKGC1HW03E6P0.jpg": {
+      "referenceImageId": "REFIMGCKGC1HW03E6P0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6TQ7TU50RDJ1.jpg": {
+      "referenceImageId": "REFIMGC6TQ7TU50RDJ1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ0VKZYPMBPDE.jpg": {
+      "referenceImageId": "REFIMGCJ0VKZYPMBPDE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDEJHRT7GPV2A.jpg": {
+      "referenceImageId": "REFIMGCDEJHRT7GPV2A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07VFSTYVS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVQDXKGD6U9G8",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.0,
+      "widthInCms": 20.0,
+      "heightInCms": 82.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

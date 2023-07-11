@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC7M4KFLV67R4R.jpg": {
+      "referenceImageId": "REFIMGC7M4KFLV67R4R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF1CHFABT4Z8J.jpg": {
+      "referenceImageId": "REFIMGCF1CHFABT4Z8J",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXX4F1T6D9LJ4.jpg": {
+      "referenceImageId": "REFIMGCXX4F1T6D9LJ4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VONLUCE Extra-Long French Vintage Bench with Padded Seat \u0026 Rubberwood Legs, 47\" Upholstered Entryway Bench \u0026 Dining Bench, Tufted Fabric End of Bed Bench for Bedroom Living Room Hallway More, Beige "
+    },
+    "REFIMGC39WV7K7PQL51.jpg": {
+      "referenceImageId": "REFIMGC39WV7K7PQL51",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK4LDCX28E64W.jpg": {
+      "referenceImageId": "REFIMGCK4LDCX28E64W",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXLF7C3HEYFLW.jpg": {
+      "referenceImageId": "REFIMGCXLF7C3HEYFLW",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDYVTZZCGJHG6.jpg": {
+      "referenceImageId": "REFIMGCDYVTZZCGJHG6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08XMDL8T7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNTHT7PBU5UZM",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 121.0,
+      "widthInCms": 40.0,
+      "heightInCms": 45.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "BENCH",
+  "focalLength": 70.0
+}

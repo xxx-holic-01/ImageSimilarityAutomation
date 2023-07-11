@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCFJ78LM80B9Y7.jpg": {
+      "referenceImageId": "REFIMGCFJ78LM80B9Y7",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKNBMDAK4E924.jpg": {
+      "referenceImageId": "REFIMGCKNBMDAK4E924",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGXRCVP1UPJ7Y.jpg": {
+      "referenceImageId": "REFIMGCGXRCVP1UPJ7Y",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN70TTF213Y4V.jpg": {
+      "referenceImageId": "REFIMGCN70TTF213Y4V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC512N467FEJLT.jpg": {
+      "referenceImageId": "REFIMGC512N467FEJLT",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC85MQ6A597CR5.jpg": {
+      "referenceImageId": "REFIMGC85MQ6A597CR5",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1NTZ1WH1EWJQ.jpg": {
+      "referenceImageId": "REFIMGC1NTZ1WH1EWJQ",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC40BKB7EQC6BU.jpg": {
+      "referenceImageId": "REFIMGC40BKB7EQC6BU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQJQGGV38R5Q7.jpg": {
+      "referenceImageId": "REFIMGCQJQGGV38R5Q7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Chris Loves Julia x Loloi Chris Collection CHR-04 Natural / Multi 7\u0027-9\" x 9\u0027-9\" Area Rug "
+    }
+  },
+  "asin": "B0B99GCGX3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4128XFDD1VRC",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 236.0,
+      "widthInCms": 358.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

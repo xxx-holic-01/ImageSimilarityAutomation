@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGC002LP5TG9GUZ.jpg": {
+      "referenceImageId": "REFIMGC002LP5TG9GUZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUNLJKTP0BENM.jpg": {
+      "referenceImageId": "REFIMGCUNLJKTP0BENM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8MF6R0NDAKP8.jpg": {
+      "referenceImageId": "REFIMGC8MF6R0NDAKP8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Recliner Chair with Cup Holder Side Pockets(Grey-Chenille) "
+    },
+    "REFIMGCYW8G0X4TEPT0.jpg": {
+      "referenceImageId": "REFIMGCYW8G0X4TEPT0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCRPBFQJ0DDX39.jpg": {
+      "referenceImageId": "REFIMGCRPBFQJ0DDX39",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXTGC47LGDEV0.jpg": {
+      "referenceImageId": "REFIMGCXTGC47LGDEV0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3LZ7K2WACGKJ.jpg": {
+      "referenceImageId": "REFIMGC3LZ7K2WACGKJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJN8AP9NNXCUM.jpg": {
+      "referenceImageId": "REFIMGCJN8AP9NNXCUM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BPM94PKQ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJ82Q20QJ61ZU",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 101.6,
+      "widthInCms": 92.9,
+      "heightInCms": 121.55
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 80.0
+}

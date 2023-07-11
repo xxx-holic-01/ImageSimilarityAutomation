@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCFBCFLC421FRK.jpg": {
+      "referenceImageId": "REFIMGCFBCFLC421FRK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Black and White Striped Outdoor Rug 27.5\"x43\" Cotton Hand-Woven Reversible Foldable Washable Area Rug for Layered Door Mats Porch/Front Door, Entryway, Laundry Room, Farmhouse, Kitchen (27.5\u0027\u0027 x 43\u0027\u0027)"
+    },
+    "REFIMGCBRGWV4ZR4XX4.jpg": {
+      "referenceImageId": "REFIMGCBRGWV4ZR4XX4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQDXVVVJFHC9K.jpg": {
+      "referenceImageId": "REFIMGCQDXVVVJFHC9K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJTUXWU1Z9JAT.jpg": {
+      "referenceImageId": "REFIMGCJTUXWU1Z9JAT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09W8W7D9B",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9W1BRGE3ZP7H",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 69.85,
+      "widthInCms": 90.0,
+      "heightInCms": 0.03
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

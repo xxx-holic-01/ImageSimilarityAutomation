@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCP2M0HX93VR0P.jpg": {
+      "referenceImageId": "REFIMGCP2M0HX93VR0P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHV30LMHEAFWD.jpg": {
+      "referenceImageId": "REFIMGCHV30LMHEAFWD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Earthpiece Swing Trash Can,Brown "
+    },
+    "REFIMGCYCJLET4K08D5.jpg": {
+      "referenceImageId": "REFIMGCYCJLET4K08D5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFAH3HN8YG8V2.jpg": {
+      "referenceImageId": "REFIMGCFAH3HN8YG8V2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0061LUFHK",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCRMZ27FC7FNRX",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 35.5,
+      "widthInCms": 24.0,
+      "heightInCms": 44.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TRASH_CAN",
+  "focalLength": 80.0
+}

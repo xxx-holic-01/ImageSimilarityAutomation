@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCAR3TXHPMPMLQ.jpg": {
+      "referenceImageId": "REFIMGCAR3TXHPMPMLQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3LY1WBQT40ZJ.jpg": {
+      "referenceImageId": "REFIMGC3LY1WBQT40ZJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHU63EGH9YK4T.jpg": {
+      "referenceImageId": "REFIMGCHU63EGH9YK4T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC941Z864TQ113.jpg": {
+      "referenceImageId": "REFIMGC941Z864TQ113",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Amazon Basics Vanity Mirror with Heavy Base - 1X/5X Magnification, Chrome - More reference in customer images"
+    },
+    "REFIMGCT0NV0L4YN4FY.jpg": {
+      "referenceImageId": "REFIMGCT0NV0L4YN4FY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07T1Q8ZMJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEL4QTD7WJCT2",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 10.0,
+      "widthInCms": 14.0,
+      "heightInCms": 25.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

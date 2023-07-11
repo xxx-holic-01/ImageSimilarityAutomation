@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCGQ53AQR3R9AU.jpg": {
+      "referenceImageId": "REFIMGCGQ53AQR3R9AU",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1B471K10WBBZ.jpg": {
+      "referenceImageId": "REFIMGC1B471K10WBBZ",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTX9VU94YZ0MB.jpg": {
+      "referenceImageId": "REFIMGCTX9VU94YZ0MB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYNC9TV564W5C.jpg": {
+      "referenceImageId": "REFIMGCYNC9TV564W5C",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTKGMBW14P4TK.jpg": {
+      "referenceImageId": "REFIMGCTKGMBW14P4TK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "DR.NATURE Orange and Black Plaid Rug 43\" x 27.5\" Halloween Front Fall Decor Door Mat Cotton Hand-Woven Rug for Layered Door Mats Washable Carpet for Autumn Farmhouse Porch Entryway (43\" L x 27.5\" W)[Home sweet home rug mat is not included]"
+    }
+  },
+  "asin": "B09ZV5YFPP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJH30UJUWATBH",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 69.85,
+      "widthInCms": 109.22,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 35.0
+}

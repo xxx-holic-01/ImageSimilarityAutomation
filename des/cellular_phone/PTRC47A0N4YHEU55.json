@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC53GRBX2J6MPT.jpg": {
+      "referenceImageId": "REFIMGC53GRBX2J6MPT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWFQWT5JLPL0T.jpg": {
+      "referenceImageId": "REFIMGCWFQWT5JLPL0T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7K7K3JQKD01R.jpg": {
+      "referenceImageId": "REFIMGC7K7K3JQKD01R",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK75VKDUA88MH.jpg": {
+      "referenceImageId": "REFIMGCK75VKDUA88MH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Apple iPhone 11 Pro Max, 64GB, Silver (Renewed) "
+    },
+    "REFIMGC865WFLK7ZD3M.jpg": {
+      "referenceImageId": "REFIMGC865WFLK7ZD3M",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "more references: https://www.gsmarena.com/apple_iphone_11_pro_max-3d-spin-9846.php"
+    }
+  },
+  "asin": "B082BGTZGC",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC47A0N4YHEU55",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 0.76,
+      "widthInCms": 6.35,
+      "heightInCms": 16.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 35.0
+}

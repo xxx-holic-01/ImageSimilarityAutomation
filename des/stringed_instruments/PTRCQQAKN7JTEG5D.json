@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCZV4K7Y64VLC0.jpg": {
+      "referenceImageId": "REFIMGCZV4K7Y64VLC0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFZATQBCV0QQK.jpg": {
+      "referenceImageId": "REFIMGCFZATQBCV0QQK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC46R3Y7PWMCQY.jpg": {
+      "referenceImageId": "REFIMGC46R3Y7PWMCQY",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU2H53Z931YWE.jpg": {
+      "referenceImageId": "REFIMGCU2H53Z931YWE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF5G3QR5CHMYP.jpg": {
+      "referenceImageId": "REFIMGCF5G3QR5CHMYP",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUA155DT9QF9A.jpg": {
+      "referenceImageId": "REFIMGCUA155DT9QF9A",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDVVHFDM5PNHL.jpg": {
+      "referenceImageId": "REFIMGCDVVHFDM5PNHL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - 4/4 Acoustic Violin,Full Size Acoustic Violin Fiddle for Beginners Adults Violin Starter Kit"
+    }
+  },
+  "asin": "B0B4JRHWS3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQQAKN7JTEG5D",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 15.0,
+      "widthInCms": 15.25,
+      "heightInCms": 58.42
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STRINGED_INSTRUMENTS",
+  "focalLength": 70.0
+}

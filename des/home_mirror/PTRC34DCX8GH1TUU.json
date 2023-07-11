@@ -1,0 +1,39 @@
+{
+  "images": {
+    "REFIMGCK67GBG819AU0.jpg": {
+      "referenceImageId": "REFIMGCK67GBG819AU0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCF98ZRL286CBU.jpg": {
+      "referenceImageId": "REFIMGCF98ZRL286CBU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09JG6KW8D",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC34DCX8GH1TUU",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.0,
+      "widthInCms": 180.0,
+      "heightInCms": 89.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 27.0
+}

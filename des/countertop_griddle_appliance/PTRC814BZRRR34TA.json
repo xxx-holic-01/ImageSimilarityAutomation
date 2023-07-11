@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCNFPFF25B614Q.jpg": {
+      "referenceImageId": "REFIMGCNFPFF25B614Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "waffle maker has to be done in close position "
+    },
+    "REFIMGCC84BCYHC4GHZ.jpg": {
+      "referenceImageId": "REFIMGCC84BCYHC4GHZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUY5EHQCB6GYA.jpg": {
+      "referenceImageId": "REFIMGCUY5EHQCB6GYA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09RQ6BY3Q",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC814BZRRR34TA",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 22.0,
+      "widthInCms": 16.5,
+      "heightInCms": 9.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COUNTERTOP_GRIDDLE_APPLIANCE",
+  "focalLength": 50.0
+}

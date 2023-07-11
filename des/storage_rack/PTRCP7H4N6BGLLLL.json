@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCE0ATBKEJER0N.jpg": {
+      "referenceImageId": "REFIMGCE0ATBKEJER0N",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "CHARMDI Spice Rack, 4-Tier Large Spice Herb Jars Organizer, Spice Storage，Free Standing Spice Organizer Rack for Spice Bottles, Glass Jars Cupboard Kitchen Stainless Steel Storage Holder (Black) "
+    },
+    "REFIMGC05Z4BGHAVRWL.jpg": {
+      "referenceImageId": "REFIMGC05Z4BGHAVRWL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB0Y666AGD71B.jpg": {
+      "referenceImageId": "REFIMGCB0Y666AGD71B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQFJ8EX3BZMBL.jpg": {
+      "referenceImageId": "REFIMGCQFJ8EX3BZMBL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09NVRLN9V",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCP7H4N6BGLLLL",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 25.5,
+      "widthInCms": 42.5,
+      "heightInCms": 38.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 70.0
+}

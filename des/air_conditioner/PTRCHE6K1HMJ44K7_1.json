@@ -1,0 +1,78 @@
+{
+  "images": {
+    "REFIMGCZUMA176K8VJG.jpg": {
+      "referenceImageId": "REFIMGCZUMA176K8VJG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7RT3NW3297RX.jpg": {
+      "referenceImageId": "REFIMGC7RT3NW3297RX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7GLCPZ3RBCG6.jpg": {
+      "referenceImageId": "REFIMGC7GLCPZ3RBCG6",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDT1J9YY8MDZK.jpg": {
+      "referenceImageId": "REFIMGCDT1J9YY8MDZK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Personal Air Conditioners Portable AC Mini Air Conditioner "
+    },
+    "REFIMGCU8VCYL4ZU87J.jpg": {
+      "referenceImageId": "REFIMGCU8VCYL4ZU87J",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWYEEG7EN50M6.jpg": {
+      "referenceImageId": "REFIMGCWYEEG7EN50M6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4K3XC9R",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHE6K1HMJ44K7",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 36.58,
+      "widthInCms": 35.0,
+      "heightInCms": 40.89
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_CONDITIONER",
+  "focalLength": 60.0
+}

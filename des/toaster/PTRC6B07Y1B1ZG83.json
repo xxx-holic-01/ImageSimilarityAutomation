@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCY9GTB4GH774V.jpg": {
+      "referenceImageId": "REFIMGCY9GTB4GH774V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXFJGEDGXJHC9.jpg": {
+      "referenceImageId": "REFIMGCXFJGEDGXJHC9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "2-Slice Toaster with High-Lift \u0026 Wide Slots,       More reference can be seen in product video and costumer images"
+    },
+    "REFIMGCD0R68ZLNRZH7.jpg": {
+      "referenceImageId": "REFIMGCD0R68ZLNRZH7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZWJ52NFM1JLG.jpg": {
+      "referenceImageId": "REFIMGCZWJ52NFM1JLG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTYCCFHP8BUTX.jpg": {
+      "referenceImageId": "REFIMGCTYCCFHP8BUTX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCH1BUPKTYVNC.jpg": {
+      "referenceImageId": "REFIMGCCH1BUPKTYVNC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09435P9J3",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC6B07Y1B1ZG83",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 28.45,
+      "widthInCms": 17.27,
+      "heightInCms": 19.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOASTER",
+  "focalLength": 80.0
+}

@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGCMCEMGCG9021Q.jpg": {
+      "referenceImageId": "REFIMGCMCEMGCG9021Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LIXIL INAX RSF-551N Single Lever 2-Hole Kitchen Faucet with Base"
+    }
+  },
+  "asin": "B004BA75W6",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCFKHQABHGHWLW",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 27.7,
+      "widthInCms": 24.0,
+      "heightInCms": 18.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 80.0
+}

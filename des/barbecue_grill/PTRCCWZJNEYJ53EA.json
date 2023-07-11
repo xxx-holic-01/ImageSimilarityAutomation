@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCVL7T19Q6J3E1.jpg": {
+      "referenceImageId": "REFIMGCVL7T19Q6J3E1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCLPR92DGC1WC1.jpg": {
+      "referenceImageId": "REFIMGCLPR92DGC1WC1",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWKJF0X4HHHQX.jpg": {
+      "referenceImageId": "REFIMGCWKJF0X4HHHQX",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDQ07ACXJ8H7F.jpg": {
+      "referenceImageId": "REFIMGCDQ07ACXJ8H7F",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08951N162",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCCWZJNEYJ53EA",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 37.0,
+      "widthInCms": 60.0,
+      "heightInCms": 46.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 60.0
+}

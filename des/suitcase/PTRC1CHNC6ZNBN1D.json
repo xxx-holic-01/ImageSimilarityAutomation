@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCG7AFF679UGH6.jpg": {
+      "referenceImageId": "REFIMGCG7AFF679UGH6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLBX4NW4FR2UR.jpg": {
+      "referenceImageId": "REFIMGCLBX4NW4FR2UR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC81UYHWMT1QR1.jpg": {
+      "referenceImageId": "REFIMGC81UYHWMT1QR1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJX7GKMD599RW.jpg": {
+      "referenceImageId": "REFIMGCJX7GKMD599RW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLKKQDXEEBQC0.jpg": {
+      "referenceImageId": "REFIMGCLKKQDXEEBQC0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0WWBMER49PAZ.jpg": {
+      "referenceImageId": "REFIMGC0WWBMER49PAZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYHE1CKWKGFLR.jpg": {
+      "referenceImageId": "REFIMGCYHE1CKWKGFLR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Kono Valise Trolley Moyenne 65cm Valise de Transport Rigide en Polypropylène Ultra Léger à 4 roulettes avec Serrure TSA Intégré 66L (Marine)"
+    }
+  },
+  "asin": "B083J3GLMV",
+  "marketplace": 5,
+  "partnerOrderId": "PTRC1CHNC6ZNBN1D",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 27.0,
+      "widthInCms": 38.0,
+      "heightInCms": 85.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 80.0
+}

@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGCX4P01YT77YFT.jpg": {
+      "referenceImageId": "REFIMGCX4P01YT77YFT",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6U1BBJWPJMDJ.jpg": {
+      "referenceImageId": "REFIMGC6U1BBJWPJMDJ",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC69C05FKFD71D.jpg": {
+      "referenceImageId": "REFIMGC69C05FKFD71D",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Well Woven Noble Medallion Ivory Persian Floral Oriental Formal Traditional Area Rug (6\u00277\" x 9\u00276\" Oval) Easy to Clean Stain Fade Resistant Shed Free Modern Contemporary Soft Living Dining Room Rug "
+    },
+    "REFIMGCTQDYHHUCXML7.jpg": {
+      "referenceImageId": "REFIMGCTQDYHHUCXML7",
+      "labels": [
+        "SHAPE",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01BJHA5DY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKHVR1QEVPV6J",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 289.56,
+      "widthInCms": 210.0,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

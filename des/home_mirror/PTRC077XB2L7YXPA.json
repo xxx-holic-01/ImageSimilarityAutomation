@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCL2FXN4XL5PMC.jpg": {
+      "referenceImageId": "REFIMGCL2FXN4XL5PMC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEK6PRWB23ZBB.jpg": {
+      "referenceImageId": "REFIMGCEK6PRWB23ZBB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT56FP7ZYY72J.jpg": {
+      "referenceImageId": "REFIMGCT56FP7ZYY72J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC08W6A4A0Y3Q.jpg": {
+      "referenceImageId": "REFIMGCC08W6A4A0Y3Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZRKQ7TXC9WZC.jpg": {
+      "referenceImageId": "REFIMGCZRKQ7TXC9WZC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRK9LXT79DXM6.jpg": {
+      "referenceImageId": "REFIMGCRK9LXT79DXM6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "only clear mirror has to be modeled"
+    }
+  },
+  "asin": "B09B23TBFY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC077XB2L7YXPA",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.0,
+      "widthInCms": 61.0,
+      "heightInCms": 91.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 30.0
+}

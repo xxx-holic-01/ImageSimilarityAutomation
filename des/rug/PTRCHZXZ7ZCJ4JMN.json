@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCNQTQB0VTKYCG.jpg": {
+      "referenceImageId": "REFIMGCNQTQB0VTKYCG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Amazon Aware 100% Organic Cotton Bath Mat"
+    },
+    "REFIMGCYXGYK21V1QQL.jpg": {
+      "referenceImageId": "REFIMGCYXGYK21V1QQL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJK9MW6Z4U6V4.jpg": {
+      "referenceImageId": "REFIMGCJK9MW6Z4U6V4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09CB4BG62",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHZXZ7ZCJ4JMN",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 50.8,
+      "widthInCms": 78.74,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 55.0
+}

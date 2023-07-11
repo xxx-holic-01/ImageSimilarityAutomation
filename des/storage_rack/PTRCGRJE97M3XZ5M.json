@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCM8ZX2D3C2XWW.jpg": {
+      "referenceImageId": "REFIMGCM8ZX2D3C2XWW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK19PUYJ5R5BD.jpg": {
+      "referenceImageId": "REFIMGCK19PUYJ5R5BD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Sealey PTSR5 Power Tool Storage Rack"
+    },
+    "REFIMGCRRGPVWX2YU0A.jpg": {
+      "referenceImageId": "REFIMGCRRGPVWX2YU0A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07YDXMK53",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCGRJE97M3XZ5M",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 9.6,
+      "widthInCms": 21.7,
+      "heightInCms": 13.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 40.0
+}

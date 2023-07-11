@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCPAEZZWUPER1K.jpg": {
+      "referenceImageId": "REFIMGCPAEZZWUPER1K",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW7NGW51E60JX.jpg": {
+      "referenceImageId": "REFIMGCW7NGW51E60JX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCZXJZ1URCQXH0.jpg": {
+      "referenceImageId": "REFIMGCZXJZ1URCQXH0",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWEDX69435W69.jpg": {
+      "referenceImageId": "REFIMGCWEDX69435W69",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07PG13J2C",
+  "marketplace": 5,
+  "partnerOrderId": "PTRCC8FTXU91RLFZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 26.0,
+      "widthInCms": 47.0,
+      "heightInCms": 29.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 50.0
+}

@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGC73KW8HL6DVHN.jpg": {
+      "referenceImageId": "REFIMGC73KW8HL6DVHN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVQKU8PD4HQF5.jpg": {
+      "referenceImageId": "REFIMGCVQKU8PD4HQF5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC25A9D1KZFHLG.jpg": {
+      "referenceImageId": "REFIMGC25A9D1KZFHLG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09W9KL6PD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMU4U12QHZU9V",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 21.59,
+      "widthInCms": 21.59,
+      "heightInCms": 18.34
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RICE_COOKERS",
+  "focalLength": 90.0
+}

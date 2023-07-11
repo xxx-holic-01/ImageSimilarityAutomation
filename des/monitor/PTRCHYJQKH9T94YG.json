@@ -1,0 +1,100 @@
+{
+  "images": {
+    "REFIMGCKLGH9TV96JH1.jpg": {
+      "referenceImageId": "REFIMGCKLGH9TV96JH1",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5N6XVV8XU0YE.jpg": {
+      "referenceImageId": "REFIMGC5N6XVV8XU0YE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "DELL UltraSharp PC Screen 24 Full HD LCD Black"
+    },
+    "REFIMGC4P1888HAA70J.jpg": {
+      "referenceImageId": "REFIMGC4P1888HAA70J",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCTCJP20P1V03.jpg": {
+      "referenceImageId": "REFIMGCCTCJP20P1V03",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUW2DMJH0KF99.jpg": {
+      "referenceImageId": "REFIMGCUW2DMJH0KF99",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDA8D6BXRLX76.jpg": {
+      "referenceImageId": "REFIMGCDA8D6BXRLX76",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4LP2DQRGUGXY.jpg": {
+      "referenceImageId": "REFIMGC4LP2DQRGUGXY",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC69Q31U6KPGPD.jpg": {
+      "referenceImageId": "REFIMGC69Q31U6KPGPD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08ZJ3X9C4",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCHYJQKH9T94YG",
+  "productDimensionList": [
+    {
+      "productCategory": "Computer Desk with Storage Shelf",
+      "lengthInCms": 18.2,
+      "widthInCms": 72.0,
+      "heightInCms": 55.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "MONITOR",
+  "focalLength": 90.0
+}

@@ -1,0 +1,70 @@
+{
+  "images": {
+    "REFIMGCZNJ2L822KK2V.jpg": {
+      "referenceImageId": "REFIMGCZNJ2L822KK2V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLBQTPW8FGN9R.jpg": {
+      "referenceImageId": "REFIMGCLBQTPW8FGN9R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV5FN4C0VAG2E.jpg": {
+      "referenceImageId": "REFIMGCV5FN4C0VAG2E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCE5ZT0AJCKRV.jpg": {
+      "referenceImageId": "REFIMGCCE5ZT0AJCKRV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCE93NEEMXMD6B.jpg": {
+      "referenceImageId": "REFIMGCE93NEEMXMD6B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Portable Scanner 900 DPI A4 Document Scanner Handheld for Business, Photo, Picture, Receipts, JPG/PDF Format Selection"
+    },
+    "REFIMGCAPW54L3CZ7YM.jpg": {
+      "referenceImageId": "REFIMGCAPW54L3CZ7YM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCQ6XQT4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWPTCUX63LEJ3",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 3.0,
+      "widthInCms": 24.99,
+      "heightInCms": 2.49
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SCANNER",
+  "focalLength": 80.0
+}

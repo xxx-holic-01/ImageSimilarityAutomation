@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGC2B0CF4F8EDNC.jpg": {
+      "referenceImageId": "REFIMGC2B0CF4F8EDNC",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQU7NBXC3V00Y.jpg": {
+      "referenceImageId": "REFIMGCQU7NBXC3V00Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC11V11310K86Z.jpg": {
+      "referenceImageId": "REFIMGC11V11310K86Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4MVDEEKVZL3F.jpg": {
+      "referenceImageId": "REFIMGC4MVDEEKVZL3F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VASTLAND Outdoor Wagon Carry Wagon Wide Tire Washable Mesh Fabric Height Adjustable Handle Load Capacity 108L Load Capacity 150kg "
+    },
+    "REFIMGCMUWJH1E4RA5L.jpg": {
+      "referenceImageId": "REFIMGCMUWJH1E4RA5L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV1LB0YHPFJ6A.jpg": {
+      "referenceImageId": "REFIMGCV1LB0YHPFJ6A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BG3W8XQW",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCR0FABEZ3DU2J",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 88.0,
+      "widthInCms": 48.0,
+      "heightInCms": 81.33
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "UTILITY_CART_WAGON",
+  "focalLength": 40.0
+}

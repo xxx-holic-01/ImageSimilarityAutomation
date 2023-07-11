@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCCUKEKGC4MV2L.jpg": {
+      "referenceImageId": "REFIMGCCUKEKGC4MV2L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYJD2DNJHRZT9.jpg": {
+      "referenceImageId": "REFIMGCYJD2DNJHRZT9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP1076KHDDBL4.jpg": {
+      "referenceImageId": "REFIMGCP1076KHDDBL4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD7XHAH34HDYV.jpg": {
+      "referenceImageId": "REFIMGCD7XHAH34HDYV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6JF0ZN150Z4T.jpg": {
+      "referenceImageId": "REFIMGC6JF0ZN150Z4T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mini Top Pool Table Set: Mini Pool Table Table Top Pool Tables with Game Balls Sticks Chalk Brush Billiard Table Suitable for Office Desk Games or Home Use \u0026 Easy"
+    },
+    "REFIMGC4WYLW49DYLKP.jpg": {
+      "referenceImageId": "REFIMGC4WYLW49DYLKP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE2NY2KHAW70P.jpg": {
+      "referenceImageId": "REFIMGCE2NY2KHAW70P",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08TTMD9ZQ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7V4MB0T6FFDF",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 50.79,
+      "widthInCms": 96.51,
+      "heightInCms": 25.39
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPORT_TABLE_GAME",
+  "focalLength": 32.0
+}

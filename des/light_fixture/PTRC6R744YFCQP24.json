@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC61KPGNQ4PFM6.jpg": {
+      "referenceImageId": "REFIMGC61KPGNQ4PFM6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCE8M8AVB6R4AV.jpg": {
+      "referenceImageId": "REFIMGCE8M8AVB6R4AV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL33A5QW2ELVW.jpg": {
+      "referenceImageId": "REFIMGCL33A5QW2ELVW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZC8Y0Z37WB0L.jpg": {
+      "referenceImageId": "REFIMGCZC8Y0Z37WB0L",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VONLUCE Ceiling Light with Vintage Metal Cage 3 Bulb Flush Mount Light Fixture for Farmhouse Boho Rustic Home Decor Industrial Light Shade for Living Room Bedroom Entryway Oil Rubbed Bronze Finish"
+    },
+    "REFIMGCBGUFEPZ26NFG.jpg": {
+      "referenceImageId": "REFIMGCBGUFEPZ26NFG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC20BELDWN5WXY.jpg": {
+      "referenceImageId": "REFIMGC20BELDWN5WXY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8BH31X3ZR7J1.jpg": {
+      "referenceImageId": "REFIMGC8BH31X3ZR7J1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09TRD726J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6R744YFCQP24",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 32.5,
+      "widthInCms": 32.5,
+      "heightInCms": 17.78
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 140.0
+}

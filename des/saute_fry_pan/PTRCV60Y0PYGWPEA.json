@@ -1,0 +1,40 @@
+{
+  "images": {
+    "REFIMGC2PTKAPRG7ECP.jpg": {
+      "referenceImageId": "REFIMGC2PTKAPRG7ECP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Pearl Metal CX-66 Frying Pan"
+    },
+    "REFIMGC225TJWUVDLXY.jpg": {
+      "referenceImageId": "REFIMGC225TJWUVDLXY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08BFN65GL",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCV60Y0PYGWPEA",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 25.4,
+      "widthInCms": 45.5,
+      "heightInCms": 11.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 45.0
+}

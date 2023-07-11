@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCW5Q16LRQDDDX.jpg": {
+      "referenceImageId": "REFIMGCW5Q16LRQDDDX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVBN1A46QMKQA.jpg": {
+      "referenceImageId": "REFIMGCVBN1A46QMKQA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCB4985ZF1WXAG.jpg": {
+      "referenceImageId": "REFIMGCB4985ZF1WXAG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "KEEKR Two Tank Outdoor Deep Fryer"
+    },
+    "REFIMGCB2714UZYBT1C.jpg": {
+      "referenceImageId": "REFIMGCB2714UZYBT1C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5MZXUJCD4RHY.jpg": {
+      "referenceImageId": "REFIMGC5MZXUJCD4RHY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC80XV9FMGLRDJ.jpg": {
+      "referenceImageId": "REFIMGC80XV9FMGLRDJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCRND07PLFZTJQ.jpg": {
+      "referenceImageId": "REFIMGCRND07PLFZTJQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCW3TG4V2FKJEU.jpg": {
+      "referenceImageId": "REFIMGCW3TG4V2FKJEU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BDWDC543",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKQG0LR1XMF0F",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 60.98,
+      "widthInCms": 66.04,
+      "heightInCms": 65.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DEEP_FRYER",
+  "focalLength": 60.0
+}

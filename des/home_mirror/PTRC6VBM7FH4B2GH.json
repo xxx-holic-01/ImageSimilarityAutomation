@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCFE2N65E1GU95.jpg": {
+      "referenceImageId": "REFIMGCFE2N65E1GU95",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNWXUU4N4ZPU3.jpg": {
+      "referenceImageId": "REFIMGCNWXUU4N4ZPU3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7H82V6TGG5MR.jpg": {
+      "referenceImageId": "REFIMGC7H82V6TGG5MR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMRQ2NW8A42DH.jpg": {
+      "referenceImageId": "REFIMGCMRQ2NW8A42DH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJW3GGULRM0AA.jpg": {
+      "referenceImageId": "REFIMGCJW3GGULRM0AA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Arched Free Standing Body Mirror for Bedroom, Gold Metal Framed Large Floor Mirror "
+    },
+    "REFIMGCHWQJ8400NKFX.jpg": {
+      "referenceImageId": "REFIMGCHWQJ8400NKFX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE4F3587YJU6P.jpg": {
+      "referenceImageId": "REFIMGCE4F3587YJU6P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBG58949NL71F.jpg": {
+      "referenceImageId": "REFIMGCBG58949NL71F",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08YRPX5PJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6VBM7FH4B2GH",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 41.91,
+      "widthInCms": 43.25,
+      "heightInCms": 151.86
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 80.0
+}

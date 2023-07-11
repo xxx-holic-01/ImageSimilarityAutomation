@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCVQZCFK6BTV64.jpg": {
+      "referenceImageId": "REFIMGCVQZCFK6BTV64",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAKGQVULXRAEL.jpg": {
+      "referenceImageId": "REFIMGCAKGQVULXRAEL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "3 Sprouts Front Bookcase"
+    },
+    "REFIMGCNJUUVDKMGNYB.jpg": {
+      "referenceImageId": "REFIMGCNJUUVDKMGNYB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B079Y3LNCN",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRC3AAR9R678M43",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 25.4,
+      "widthInCms": 62.2,
+      "heightInCms": 60.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SHELF",
+  "focalLength": 70.0
+}

@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCWQR4W7CQ4JPJ.jpg": {
+      "referenceImageId": "REFIMGCWQR4W7CQ4JPJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLXUDQRX3BMJR.jpg": {
+      "referenceImageId": "REFIMGCLXUDQRX3BMJR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTKD0XX44Q84K.jpg": {
+      "referenceImageId": "REFIMGCTKD0XX44Q84K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC243BJ7G0FQZZ.jpg": {
+      "referenceImageId": "REFIMGC243BJ7G0FQZZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV9T80P78P2JJ.jpg": {
+      "referenceImageId": "REFIMGCV9T80P78P2JJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA7F9U7BMXWML.jpg": {
+      "referenceImageId": "REFIMGCA7F9U7BMXWML",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Minolta MND50 48 MP / 4K Ultra HD Digital Camera (Red)"
+    },
+    "REFIMGCRZ4Y1QN2TXDZ.jpg": {
+      "referenceImageId": "REFIMGCRZ4Y1QN2TXDZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BDMZXHSL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVJ5XZ22VHHHE",
+  "productDimensionList": [
+    {
+      "productCategory": "Laptop",
+      "lengthInCms": 14.2,
+      "widthInCms": 28.4,
+      "heightInCms": 19.97
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CAMERA_DIGITAL",
+  "focalLength": 45.0
+}

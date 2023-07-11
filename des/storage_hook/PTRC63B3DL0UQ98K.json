@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCR81J6TEYWCCP.jpg": {
+      "referenceImageId": "REFIMGCR81J6TEYWCCP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRBM816DA1JCZ.jpg": {
+      "referenceImageId": "REFIMGCRBM816DA1JCZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCPRRAN0QW7EK.jpg": {
+      "referenceImageId": "REFIMGCCPRRAN0QW7EK",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNDZW7GQAB4DQ.jpg": {
+      "referenceImageId": "REFIMGCNDZW7GQAB4DQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B088B85BZ7",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC63B3DL0UQ98K",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 30.0,
+      "widthInCms": 76.0,
+      "heightInCms": 6.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_HOOK",
+  "focalLength": 30.0
+}

@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCBYK3HV9KHNC9.jpg": {
+      "referenceImageId": "REFIMGCBYK3HV9KHNC9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVJMD0K0G0CTY.jpg": {
+      "referenceImageId": "REFIMGCVJMD0K0G0CTY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ktaxon 42 Inch Electric Guitar, 6 String Semi-Hollow Body H-H Pickups Right Handed Jazz Electric Guitars Kit with Strap, Gig Bag, Plectrum for Kids \u0026 Adults - Red "
+    },
+    "REFIMGCCC1DFVGJ476U.jpg": {
+      "referenceImageId": "REFIMGCCC1DFVGJ476U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG8GV0PN14UXP.jpg": {
+      "referenceImageId": "REFIMGCG8GV0PN14UXP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUE43N38R6A6E.jpg": {
+      "referenceImageId": "REFIMGCUE43N38R6A6E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN2RMK9W658G8.jpg": {
+      "referenceImageId": "REFIMGCN2RMK9W658G8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFB8KB0P4W9UK.jpg": {
+      "referenceImageId": "REFIMGCFB8KB0P4W9UK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BDR1BZPL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCY02BQ5UGP0FE",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 8.0,
+      "widthInCms": 38.32,
+      "heightInCms": 106.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 40.0
+}

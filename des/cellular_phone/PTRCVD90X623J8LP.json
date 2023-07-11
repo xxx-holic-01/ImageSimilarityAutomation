@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGCRHBGLP2QDPJ3.jpg": {
+      "referenceImageId": "REFIMGCRHBGLP2QDPJ3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKXMVCFNCNGG9.jpg": {
+      "referenceImageId": "REFIMGCKXMVCFNCNGG9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCMBDQZZTKUPB8.jpg": {
+      "referenceImageId": "REFIMGCMBDQZZTKUPB8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA73HKUYRFD7K.jpg": {
+      "referenceImageId": "REFIMGCA73HKUYRFD7K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK8QVB6RV5HC1.jpg": {
+      "referenceImageId": "REFIMGCK8QVB6RV5HC1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZX2KZQW4GZE0.jpg": {
+      "referenceImageId": "REFIMGCZX2KZQW4GZE0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEMPCDRL02CZB.jpg": {
+      "referenceImageId": "REFIMGCEMPCDRL02CZB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC80BCQZX3AUWH.jpg": {
+      "referenceImageId": "REFIMGC80BCQZX3AUWH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08XM8M94B",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCVD90X623J8LP",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 15.99,
+      "widthInCms": 7.51,
+      "heightInCms": 0.84
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 55.0
+}

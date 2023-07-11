@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC9102YU1CZDAH.jpg": {
+      "referenceImageId": "REFIMGC9102YU1CZDAH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HARRITPURE Full Length Mirror 64\" x 21\", Irregular Free Standing Mirror Full Length, Modern MDF Mirror for Home Decor Bedroom Living Room Cape (Gold) "
+    },
+    "REFIMGCYP7VBMPFFNWW.jpg": {
+      "referenceImageId": "REFIMGCYP7VBMPFFNWW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCJBNW4GLGR4Y.jpg": {
+      "referenceImageId": "REFIMGCCJBNW4GLGR4Y",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF76JHH8KL9RT.jpg": {
+      "referenceImageId": "REFIMGCF76JHH8KL9RT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXD2B93E2VL28.jpg": {
+      "referenceImageId": "REFIMGCXD2B93E2VL28",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09YM3DY13",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0TZ4DVE12JRD",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 38.1,
+      "widthInCms": 53.34,
+      "heightInCms": 162.56
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

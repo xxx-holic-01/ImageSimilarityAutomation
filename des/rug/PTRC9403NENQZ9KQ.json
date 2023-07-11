@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCZ8U6UN7PD4KR.jpg": {
+      "referenceImageId": "REFIMGCZ8U6UN7PD4KR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP466LRHQGFHQ.jpg": {
+      "referenceImageId": "REFIMGCP466LRHQGFHQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " nuLOOM Erlinda Tribal Indoor/Outdoor Area Rug,  Beige "
+    },
+    "REFIMGC23ZUL9MWN95F.jpg": {
+      "referenceImageId": "REFIMGC23ZUL9MWN95F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXPAF3W94YP5G.jpg": {
+      "referenceImageId": "REFIMGCXPAF3W94YP5G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC932Y4NFRPTYH.jpg": {
+      "referenceImageId": "REFIMGC932Y4NFRPTYH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG99DV1B37C09.jpg": {
+      "referenceImageId": "REFIMGCG99DV1B37C09",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0848LRR53",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9403NENQZ9KQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 185.03,
+      "widthInCms": 262.61,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

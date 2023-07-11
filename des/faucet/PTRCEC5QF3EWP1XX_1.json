@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC29CRL7WCZHEL.jpg": {
+      "referenceImageId": "REFIMGC29CRL7WCZHEL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCJK63WPCC8BZ.jpg": {
+      "referenceImageId": "REFIMGCCJK63WPCC8BZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7UMF1PW2YP6X.jpg": {
+      "referenceImageId": "REFIMGC7UMF1PW2YP6X",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Moen Voss Brushed Gold One-Handle High Arc Bathroom Faucet with Drain Assembly"
+    },
+    "REFIMGCNXX3P1KKUBVL.jpg": {
+      "referenceImageId": "REFIMGCNXX3P1KKUBVL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ73Q6EUJBQV8.jpg": {
+      "referenceImageId": "REFIMGCZ73Q6EUJBQV8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVVC7G16HTDL6.jpg": {
+      "referenceImageId": "REFIMGCVVC7G16HTDL6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFBZCBNN4AEPK.jpg": {
+      "referenceImageId": "REFIMGCFBZCBNN4AEPK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07G7FP2QW",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEC5QF3EWP1XX",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 12.3,
+      "widthInCms": 7.62,
+      "heightInCms": 15.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 40.0
+}

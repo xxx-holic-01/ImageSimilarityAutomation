@@ -1,0 +1,98 @@
+{
+  "images": {
+    "REFIMGCXJYGRETB7FVW.jpg": {
+      "referenceImageId": "REFIMGCXJYGRETB7FVW",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2F4MZ3ZU5T6F.jpg": {
+      "referenceImageId": "REFIMGC2F4MZ3ZU5T6F",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY2M7NG1KX8V5.jpg": {
+      "referenceImageId": "REFIMGCY2M7NG1KX8V5",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM17CV4M5V748.jpg": {
+      "referenceImageId": "REFIMGCM17CV4M5V748",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5UN27J78RFX2.jpg": {
+      "referenceImageId": "REFIMGC5UN27J78RFX2",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ6GFERJGHP3Q.jpg": {
+      "referenceImageId": "REFIMGCZ6GFERJGHP3Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVRRMKA440GAN.jpg": {
+      "referenceImageId": "REFIMGCVRRMKA440GAN",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVCAWJTEG4WCU.jpg": {
+      "referenceImageId": "REFIMGCVCAWJTEG4WCU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Levinis Buffalo Front Porch Rug Marca: LEVINIS"
+    }
+  },
+  "asin": "B07PSF48D5",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCN9HYL6T0HFUV",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 59.94,
+      "widthInCms": 89.92,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 29.0
+}

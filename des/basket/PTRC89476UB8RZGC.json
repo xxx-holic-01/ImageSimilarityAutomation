@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGC6C3D01UR09GN.jpg": {
+      "referenceImageId": "REFIMGC6C3D01UR09GN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Whitefurze Stacking Basket"
+    }
+  },
+  "asin": "B006ZVSBLS",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC89476UB8RZGC",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 23.0,
+      "widthInCms": 21.0,
+      "heightInCms": 13.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BASKET",
+  "focalLength": 60.0
+}

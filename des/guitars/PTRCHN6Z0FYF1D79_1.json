@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGC387WEAWFCG5J.jpg": {
+      "referenceImageId": "REFIMGC387WEAWFCG5J",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ovation Celebrity Elite Plus Quilted Maple Top Acoustic-Electric Guitar Tiger Eye"
+    },
+    "REFIMGCUT6D5CFX37MP.jpg": {
+      "referenceImageId": "REFIMGCUT6D5CFX37MP",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ0FN0U48MQCE.jpg": {
+      "referenceImageId": "REFIMGCJ0FN0U48MQCE",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0194BX9BW",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHN6Z0FYF1D79",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 18.5,
+      "widthInCms": 48.26,
+      "heightInCms": 126.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 90.0
+}

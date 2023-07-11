@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGCGF32HBX588W5.jpg": {
+      "referenceImageId": "REFIMGCGF32HBX588W5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY8A8LAT2EVTC.jpg": {
+      "referenceImageId": "REFIMGCY8A8LAT2EVTC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWKK4R376U32X.jpg": {
+      "referenceImageId": "REFIMGCWKK4R376U32X",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Conair Double-Sided LED Lighted Vanity Makeup Mirror, 1x/5x magnification, Rose Gold finish "
+    },
+    "REFIMGCE06Z792KL7AP.jpg": {
+      "referenceImageId": "REFIMGCE06Z792KL7AP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3YLMK2B8LF6A.jpg": {
+      "referenceImageId": "REFIMGC3YLMK2B8LF6A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B072BHQT2H",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2WMXDGCNRF5R",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 20.0,
+      "widthInCms": 20.0,
+      "heightInCms": 31.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 75.0
+}

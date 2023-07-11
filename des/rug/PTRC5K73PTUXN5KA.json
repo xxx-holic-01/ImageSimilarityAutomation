@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCQG07VFDC1D36.jpg": {
+      "referenceImageId": "REFIMGCQG07VFDC1D36",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9A92C7GCQCA0.jpg": {
+      "referenceImageId": "REFIMGC9A92C7GCQCA0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0ZGKYKCUKMZG.jpg": {
+      "referenceImageId": "REFIMGC0ZGKYKCUKMZG",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQMDVZ3ZU37QU.jpg": {
+      "referenceImageId": "REFIMGCQMDVZ3ZU37QU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC24HUZA21TZWZ.jpg": {
+      "referenceImageId": "REFIMGC24HUZA21TZWZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hillyard Cowhide Rug Premium Black and White Real Handcrafted Grade A Natural Cowhide Rug - Sustainably Sourced and Lasts Longer Black and White Extra Large Cut - 7.5 x 6.5 ft"
+    },
+    "REFIMGCFVPL2DAALFTF.jpg": {
+      "referenceImageId": "REFIMGCFVPL2DAALFTF",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09QTW2N1J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC5K73PTUXN5KA",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 228.6,
+      "widthInCms": 222.87,
+      "heightInCms": 5.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

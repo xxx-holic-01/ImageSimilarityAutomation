@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCWG9WDBABJW9C.jpg": {
+      "referenceImageId": "REFIMGCWG9WDBABJW9C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQEHY5VWYYMR3.jpg": {
+      "referenceImageId": "REFIMGCQEHY5VWYYMR3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB9QVXDWUL192.jpg": {
+      "referenceImageId": "REFIMGCB9QVXDWUL192",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5GDP44WB25TA.jpg": {
+      "referenceImageId": "REFIMGC5GDP44WB25TA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBXCLE3FXPA6Q.jpg": {
+      "referenceImageId": "REFIMGCBXCLE3FXPA6Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "fifame Outdoor Camping Rugs, Rug Patios Clearance Plastic Straw Rug Weatherproof Reversible Mats, Large Floor Mat and Rug for Outdoors, RV, Patio, Backyard, Deck, Picnic, Beach, Trailer, Camping"
+    },
+    "REFIMGCJHV4G0YBL1N1.jpg": {
+      "referenceImageId": "REFIMGCJHV4G0YBL1N1",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1BMAX8QGUNBZ.jpg": {
+      "referenceImageId": "REFIMGC1BMAX8QGUNBZ",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09V16YPMJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4W6XN6J92L8M",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 221.0,
+      "widthInCms": 274.32,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGC8JEGYAHJXN7M.jpg": {
+      "referenceImageId": "REFIMGC8JEGYAHJXN7M",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCAEX8NBGQY5VZ.jpg": {
+      "referenceImageId": "REFIMGCAEX8NBGQY5VZ",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5LTW19PT88DE.jpg": {
+      "referenceImageId": "REFIMGC5LTW19PT88DE",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJG7737MLT2TH.jpg": {
+      "referenceImageId": "REFIMGCJG7737MLT2TH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBZWZNXB9929U.jpg": {
+      "referenceImageId": "REFIMGCBZWZNXB9929U",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPKBJ4JV04DEB.jpg": {
+      "referenceImageId": "REFIMGCPKBJ4JV04DEB",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0849JM3J5",
+  "marketplace": 4,
+  "partnerOrderId": "PTRCN39N4MHEX2G1",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 40.0,
+      "widthInCms": 92.0,
+      "heightInCms": 44.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 40.0
+}

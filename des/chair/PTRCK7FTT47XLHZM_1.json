@@ -1,0 +1,114 @@
+{
+  "images": {
+    "REFIMGC6QQ1JJJ966TX.jpg": {
+      "referenceImageId": "REFIMGC6QQ1JJJ966TX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLWMJ8FWMX017.jpg": {
+      "referenceImageId": "REFIMGCLWMJ8FWMX017",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5Q9FXAT3MPVH.jpg": {
+      "referenceImageId": "REFIMGC5Q9FXAT3MPVH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0REWA1TBT37U.jpg": {
+      "referenceImageId": "REFIMGC0REWA1TBT37U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC2XZTERNB449A.jpg": {
+      "referenceImageId": "REFIMGC2XZTERNB449A",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLRALKWV32K83.jpg": {
+      "referenceImageId": "REFIMGCLRALKWV32K83",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR6Z2RLJ9YLKN.jpg": {
+      "referenceImageId": "REFIMGCR6Z2RLJ9YLKN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDAE723CG1KW6.jpg": {
+      "referenceImageId": "REFIMGCDAE723CG1KW6",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ29K1JGQR58D.jpg": {
+      "referenceImageId": "REFIMGCJ29K1JGQR58D",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BMZ1NLC7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCK7FTT47XLHZM",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 67.3,
+      "widthInCms": 67.3,
+      "heightInCms": 113.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 100.0
+}

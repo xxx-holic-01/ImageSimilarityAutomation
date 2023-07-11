@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCX5VHCM7PUZ89.jpg": {
+      "referenceImageId": "REFIMGCX5VHCM7PUZ89",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LED Dimmable Flush Mount Ceiling Light, 31W 3000K/4000K/6500K Changeable Color by Wall Switch, Modern Slim Surface Flush Mount Ceiling Lamp Square Flat Panel Light for Kitchen Bedroom Hallway Porch "
+    },
+    "REFIMGC370GDLV7GVVZ.jpg": {
+      "referenceImageId": "REFIMGC370GDLV7GVVZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD60F2GUDG74B.jpg": {
+      "referenceImageId": "REFIMGCD60F2GUDG74B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQKUVPFHEQYHQ.jpg": {
+      "referenceImageId": "REFIMGCQKUVPFHEQYHQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJHCWQ3631C21.jpg": {
+      "referenceImageId": "REFIMGCJHCWQ3631C21",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC86DGVFVZ6HJN.jpg": {
+      "referenceImageId": "REFIMGC86DGVFVZ6HJN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BB6JKDP8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWHJC64MPXVU9",
+  "productDimensionList": [
+    {
+      "productCategory": "Ceiling Fan",
+      "lengthInCms": 30.48,
+      "widthInCms": 30.48,
+      "heightInCms": 4.06
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 65.0
+}

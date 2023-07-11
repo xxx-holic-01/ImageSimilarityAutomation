@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGCFPJ5D93EZ91U.jpg": {
+      "referenceImageId": "REFIMGCFPJ5D93EZ91U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "model empty"
+    },
+    "REFIMGCPDQ7B2G53RD4.jpg": {
+      "referenceImageId": "REFIMGCPDQ7B2G53RD4",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "model in primary image state"
+    },
+    "REFIMGC3P5EDWJNFEE3.jpg": {
+      "referenceImageId": "REFIMGC3P5EDWJNFEE3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "https://m.media-amazon.com/images/I/61jTcfeZyZL.jpg"
+    },
+    "REFIMGC2VF7YZFDGDXA.jpg": {
+      "referenceImageId": "REFIMGC2VF7YZFDGDXA",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0VAUJNTA6YPC.jpg": {
+      "referenceImageId": "REFIMGC0VAUJNTA6YPC",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09H4QBTSL",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCF60ZD0RQV91L",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 26.77,
+      "widthInCms": 20.5,
+      "heightInCms": 38.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 30.0
+}

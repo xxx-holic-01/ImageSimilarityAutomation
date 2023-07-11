@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCGCZYK250P6XJ.jpg": {
+      "referenceImageId": "REFIMGCGCZYK250P6XJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC03NA6TLW1FKL.jpg": {
+      "referenceImageId": "REFIMGC03NA6TLW1FKL",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFK1UVPGF8C1T.jpg": {
+      "referenceImageId": "REFIMGCFK1UVPGF8C1T",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCALTAAAYAPUC4.jpg": {
+      "referenceImageId": "REFIMGCALTAAAYAPUC4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGA0U4BTMLZDJ.jpg": {
+      "referenceImageId": "REFIMGCGA0U4BTMLZDJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2648JFPJ4362.jpg": {
+      "referenceImageId": "REFIMGC2648JFPJ4362",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B075CHBN7V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCT1K8B2HLEYLP",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 18.0,
+      "widthInCms": 18.0,
+      "heightInCms": 36.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCG8K0GH8QKMXP.jpg": {
+      "referenceImageId": "REFIMGCG8K0GH8QKMXP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZJLGVH8LKDDR.jpg": {
+      "referenceImageId": "REFIMGCZJLGVH8LKDDR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV64M2CNJMFQY.jpg": {
+      "referenceImageId": "REFIMGCV64M2CNJMFQY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "JONATHAN Y MOH101E-4 Moroccan Hype Boho Vintage Diamond Indoor Area-Rug Bohemian Easy-Cleaning Bedroom Kitchen Living Room Non Shedding"
+    },
+    "REFIMGC317MEJ1BJMKV.jpg": {
+      "referenceImageId": "REFIMGC317MEJ1BJMKV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMC69PWFH5HHR.jpg": {
+      "referenceImageId": "REFIMGCMC69PWFH5HHR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKCGFJMAE140W.jpg": {
+      "referenceImageId": "REFIMGCKCGFJMAE140W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B08CLNMKLY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6LC00U48N3UC",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 122.0,
+      "widthInCms": 183.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

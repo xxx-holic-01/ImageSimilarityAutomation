@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCLYLJJAQWXZ68.jpg": {
+      "referenceImageId": "REFIMGCLYLJJAQWXZ68",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT02ZEEMXQURY.jpg": {
+      "referenceImageId": "REFIMGCT02ZEEMXQURY",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9PRUJBEVPZMR.jpg": {
+      "referenceImageId": "REFIMGC9PRUJBEVPZMR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3LLT34TFK79J.jpg": {
+      "referenceImageId": "REFIMGC3LLT34TFK79J",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP57VN2H9X9C8.jpg": {
+      "referenceImageId": "REFIMGCP57VN2H9X9C8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2T81376D91X7.jpg": {
+      "referenceImageId": "REFIMGC2T81376D91X7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - Fivess Lighting Modern Glass Flush Mount Ceiling Light Fixture Clear Glass Shade Semi Flush Mount Ceiling Lighting for Hallway Entryway Kitchen Bedroom Farmhouse, Gold "
+    },
+    "REFIMGCG0W40PZUUTWJ.jpg": {
+      "referenceImageId": "REFIMGCG0W40PZUUTWJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09FZ3ML8R",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCA4DDERMW0XWK",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.99,
+      "widthInCms": 19.99,
+      "heightInCms": 20.67
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

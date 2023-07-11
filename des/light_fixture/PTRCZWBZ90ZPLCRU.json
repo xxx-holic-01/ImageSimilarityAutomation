@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCHPPVERHNCXAT.jpg": {
+      "referenceImageId": "REFIMGCHPPVERHNCXAT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCDA2FZ0JG54H7.jpg": {
+      "referenceImageId": "REFIMGCDA2FZ0JG54H7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9VAP3QHCJ62C.jpg": {
+      "referenceImageId": "REFIMGC9VAP3QHCJ62C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDQYKA5JY27HG.jpg": {
+      "referenceImageId": "REFIMGCDQYKA5JY27HG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09YV2V917",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZWBZ90ZPLCRU",
+  "productDimensionList": [
+    {
+      "productCategory": "Ceiling Fan",
+      "lengthInCms": 65.05,
+      "widthInCms": 65.05,
+      "heightInCms": 13.97
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 35.0
+}

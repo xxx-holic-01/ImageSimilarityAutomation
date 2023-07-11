@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCZ6259LLKLBTQ.jpg": {
+      "referenceImageId": "REFIMGCZ6259LLKLBTQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR93RP3D5ZG46.jpg": {
+      "referenceImageId": "REFIMGCR93RP3D5ZG46",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "UDEAR Free-standing Clothes Hanger Stand with Top Rod, Bottom Compartment and 6 Hooks,Black- No decorations"
+    },
+    "REFIMGCPEGPM5T8NAPP.jpg": {
+      "referenceImageId": "REFIMGCPEGPM5T8NAPP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3N1A8K88FLGK.jpg": {
+      "referenceImageId": "REFIMGC3N1A8K88FLGK",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": "Use this for assessment"
+    },
+    "REFIMGCHJHGJCK0MLD5.jpg": {
+      "referenceImageId": "REFIMGCHJHGJCK0MLD5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEAHR0FB3Z8ZK.jpg": {
+      "referenceImageId": "REFIMGCEAHR0FB3Z8ZK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07P6K61F5",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRC5AV6WBZT84J0",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 34.0,
+      "widthInCms": 128.0,
+      "heightInCms": 132.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 65.0
+}

@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCNAJJW5CTDLA4.jpg": {
+      "referenceImageId": "REFIMGCNAJJW5CTDLA4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD5VENZQ6D90U.jpg": {
+      "referenceImageId": "REFIMGCD5VENZQ6D90U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Amazon Basics - Stainless Steel Electric Kettle - 1 Litre"
+    },
+    "REFIMGC7FN3KJB33VEN.jpg": {
+      "referenceImageId": "REFIMGC7FN3KJB33VEN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQDQQ67051MWK.jpg": {
+      "referenceImageId": "REFIMGCQDQQ67051MWK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC73GHA23WKA9M.jpg": {
+      "referenceImageId": "REFIMGC73GHA23WKA9M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKHA9FLFCQU3G.jpg": {
+      "referenceImageId": "REFIMGCKHA9FLFCQU3G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07FXKW36D",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCR6PR1GUCUTEB",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.0,
+      "widthInCms": 21.0,
+      "heightInCms": 23.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 95.0
+}

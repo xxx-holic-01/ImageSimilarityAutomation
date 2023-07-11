@@ -1,0 +1,41 @@
+{
+  "images": {
+    "REFIMGC6Y7KMLTGGDBN.jpg": {
+      "referenceImageId": "REFIMGC6Y7KMLTGGDBN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCQW3TLD2AKHKZ.jpg": {
+      "referenceImageId": "REFIMGCQW3TLD2AKHKZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09CKXS1FC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2PD6GC2XN51Y",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 11.94,
+      "widthInCms": 11.94,
+      "heightInCms": 12.22
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AROMA_DIFFUSER",
+  "focalLength": 100.0
+}

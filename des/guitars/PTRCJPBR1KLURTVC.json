@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCT5K568W6VM9J.jpg": {
+      "referenceImageId": "REFIMGCT5K568W6VM9J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLXTMT30VALDR.jpg": {
+      "referenceImageId": "REFIMGCLXTMT30VALDR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZCCCCLXFX8TL.jpg": {
+      "referenceImageId": "REFIMGCZCCCCLXFX8TL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8705CUMRU655.jpg": {
+      "referenceImageId": "REFIMGC8705CUMRU655",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU1LMY7DNVG0X.jpg": {
+      "referenceImageId": "REFIMGCU1LMY7DNVG0X",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCRQE8VH9P35DU.jpg": {
+      "referenceImageId": "REFIMGCRQE8VH9P35DU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0844S47N7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJPBR1KLURTVC",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 20.32,
+      "widthInCms": 45.72,
+      "heightInCms": 128.82
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 80.0
+}

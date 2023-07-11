@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC0B53CUL3JNPG.jpg": {
+      "referenceImageId": "REFIMGC0B53CUL3JNPG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL90GABF622P0.jpg": {
+      "referenceImageId": "REFIMGCL90GABF622P0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Frying Pan"
+    },
+    "REFIMGCZXJNEN17LQF0.jpg": {
+      "referenceImageId": "REFIMGCZXJNEN17LQF0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWA4EG26KTF18.jpg": {
+      "referenceImageId": "REFIMGCWA4EG26KTF18",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHVMEGL9ZGBHD.jpg": {
+      "referenceImageId": "REFIMGCHVMEGL9ZGBHD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B001U05CZ2",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCEQMACEQM219H",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 21.5,
+      "widthInCms": 40.47,
+      "heightInCms": 9.13
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 100.0
+}

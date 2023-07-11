@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCQ15ZFJJF3KVK.jpg": {
+      "referenceImageId": "REFIMGCQ15ZFJJF3KVK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4HL9PGNEWQJE.jpg": {
+      "referenceImageId": "REFIMGC4HL9PGNEWQJE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAGK2KGF5YGF0.jpg": {
+      "referenceImageId": "REFIMGCAGK2KGF5YGF0",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCNTZM7ZULH6Z.jpg": {
+      "referenceImageId": "REFIMGCCNTZM7ZULH6Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC23V5MWV2YZVF.jpg": {
+      "referenceImageId": "REFIMGC23V5MWV2YZVF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Bath Rugs for Bathroom Non Slip Machine Washable Front Door Mat Ultra Thin Bathroom Rugs Fit Under Door Farmhouse Super Absorbent Quick Drying Mat Shower Rug for in Front of Bathtub"
+    },
+    "REFIMGC3V27GNN650WP.jpg": {
+      "referenceImageId": "REFIMGC3V27GNN650WP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B093BPMTK8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC5MZTH2J0H7DH",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 44.45,
+      "widthInCms": 66.04,
+      "heightInCms": 1.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 45.0
+}

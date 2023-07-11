@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCC6JR3N6MWL5Y.jpg": {
+      "referenceImageId": "REFIMGCC6JR3N6MWL5Y",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5HVQF2MC4TTU.jpg": {
+      "referenceImageId": "REFIMGC5HVQF2MC4TTU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "bottom side ref-https://m.media-amazon.com/images/I/615PfnT-dyL.jpg"
+    },
+    "REFIMGCDRFX4QFE73W2.jpg": {
+      "referenceImageId": "REFIMGCDRFX4QFE73W2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "back side ref-https://m.media-amazon.com/images/I/61zEnoy1mbL.jpg"
+    },
+    "REFIMGC7JGH7K4JREL9.jpg": {
+      "referenceImageId": "REFIMGC7JGH7K4JREL9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Aulanto Solar Fence Lights, Warm White \u0026 RGB Modes Fence Solar Lights Outdoor Waterproof Solar Lights for Fence Led Solar Deck Lights for Backyard, Pool, Patio, Fence Post, Fence Line (4Pack \u0026 4Modes) "
+    }
+  },
+  "asin": "B09XM69K4F",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZUKRQWH6HW0K",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 5.0,
+      "widthInCms": 10.4,
+      "heightInCms": 6.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

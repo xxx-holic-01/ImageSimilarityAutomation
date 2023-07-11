@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCVFTD0KHX2E2D.jpg": {
+      "referenceImageId": "REFIMGCVFTD0KHX2E2D",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TITAN Super Lightweight Hard Suitcase \u0026 Trolleys Highlight 4w Trolley S, Khaki, khaki  - Recharted and handle included"
+    },
+    "REFIMGCQM7AJUXUUWGU.jpg": {
+      "referenceImageId": "REFIMGCQM7AJUXUUWGU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9U4J5Z26Y75V.jpg": {
+      "referenceImageId": "REFIMGC9U4J5Z26Y75V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR387JQ6MHBY2.jpg": {
+      "referenceImageId": "REFIMGCR387JQ6MHBY2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZDVW0DK59HF4.jpg": {
+      "referenceImageId": "REFIMGCZDVW0DK59HF4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCWE7X30CVHXP.jpg": {
+      "referenceImageId": "REFIMGCCWE7X30CVHXP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHKG5T6ETGAAN.jpg": {
+      "referenceImageId": "REFIMGCHKG5T6ETGAAN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07JCNDRK9",
+  "marketplace": 4,
+  "partnerOrderId": "PTRCKJ8PTY118JJL",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 23.0,
+      "widthInCms": 40.0,
+      "heightInCms": 77.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 50.0
+}

@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGC8XE4FEML16B0.jpg": {
+      "referenceImageId": "REFIMGC8XE4FEML16B0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Alice in the Land of Miscellaneous Goods Grill Foldable Grill 2-Way BBQ Teppanyaki Barbecue with Storage Bag Barbecue Stove Camping Camping Equipment Seasoning Rack [Parallel Import] "
+    }
+  },
+  "asin": "B094D4XF9Q",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCM8CYQADGW8JR",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 33.3,
+      "widthInCms": 107.5,
+      "heightInCms": 70.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 30.0
+}

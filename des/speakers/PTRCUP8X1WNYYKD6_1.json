@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGCLUMKL6RBALN5.jpg": {
+      "referenceImageId": "REFIMGCLUMKL6RBALN5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMUXDL64XHT3L.jpg": {
+      "referenceImageId": "REFIMGCMUXDL64XHT3L",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXTMFDQVUNRN1.jpg": {
+      "referenceImageId": "REFIMGCXTMFDQVUNRN1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQZCFL792KCUK.jpg": {
+      "referenceImageId": "REFIMGCQZCFL792KCUK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5T1FFZMN2N3J.jpg": {
+      "referenceImageId": "REFIMGC5T1FFZMN2N3J",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHZ3AGMGYEN4E.jpg": {
+      "referenceImageId": "REFIMGCHZ3AGMGYEN4E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "closed state"
+    },
+    "REFIMGCUDKCT4HRU59X.jpg": {
+      "referenceImageId": "REFIMGCUDKCT4HRU59X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTEMX5M4CYAJZ.jpg": {
+      "referenceImageId": "REFIMGCTEMX5M4CYAJZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LG XBOOM Go Portable Bluetooth Speaker XG9QBK - Stage Lighting and up to 24-Hour Battery, Black "
+    }
+  },
+  "asin": "B0BCHCF62B",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUP8X1WNYYKD6",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 19.05,
+      "widthInCms": 52.32,
+      "heightInCms": 24.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 60.0
+}

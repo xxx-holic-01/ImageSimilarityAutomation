@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGC3V216N21Q49P.jpg": {
+      "referenceImageId": "REFIMGC3V216N21Q49P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDAAJ905HWBN7.jpg": {
+      "referenceImageId": "REFIMGCDAAJ905HWBN7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL2Q1HZ5104ZC.jpg": {
+      "referenceImageId": "REFIMGCL2Q1HZ5104ZC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLK3LYKJRU5R0.jpg": {
+      "referenceImageId": "REFIMGCLK3LYKJRU5R0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN4RL44ZC1YZ8.jpg": {
+      "referenceImageId": "REFIMGCN4RL44ZC1YZ8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "PC mini pc,model only one"
+    },
+    "REFIMGCXBY3E32MBJ85.jpg": {
+      "referenceImageId": "REFIMGCXBY3E32MBJ85",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BGHGCTPB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCBKFD13BB96T0",
+  "productDimensionList": [
+    {
+      "productCategory": "Laptop",
+      "lengthInCms": 11.9,
+      "widthInCms": 11.9,
+      "heightInCms": 2.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PERSONAL_COMPUTER",
+  "focalLength": 60.0
+}

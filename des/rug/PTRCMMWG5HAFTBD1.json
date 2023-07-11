@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGCL7X935ZP24E0.jpg": {
+      "referenceImageId": "REFIMGCL7X935ZP24E0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD4KEV6PW3WLB.jpg": {
+      "referenceImageId": "REFIMGCD4KEV6PW3WLB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ7JWYNBZ5PB2.jpg": {
+      "referenceImageId": "REFIMGCJ7JWYNBZ5PB2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDVD0FFFQ86CL.jpg": {
+      "referenceImageId": "REFIMGCDVD0FFFQ86CL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2DXX44K4FNMF.jpg": {
+      "referenceImageId": "REFIMGC2DXX44K4FNMF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB7B0ADYPPFF0.jpg": {
+      "referenceImageId": "REFIMGCB7B0ADYPPFF0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL5MNJ6Z83CDX.jpg": {
+      "referenceImageId": "REFIMGCL5MNJ6Z83CDX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Collections Etc Herringbone Carpeted Runner Rug, Solid-Colored with Plush Decorative Trim Accents and Skid-Resistant Backing for Long Hallway, Blue, 22\" X 90\" "
+    },
+    "REFIMGCMA487E6JC2UQ.jpg": {
+      "referenceImageId": "REFIMGCMA487E6JC2UQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHE939XZA1F41.jpg": {
+      "referenceImageId": "REFIMGCHE939XZA1F41",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B075W5SZJB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMMWG5HAFTBD1",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 250.0,
+      "widthInCms": 40.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 45.0
+}

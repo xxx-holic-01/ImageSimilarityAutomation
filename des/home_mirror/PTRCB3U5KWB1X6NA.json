@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCB5199KKE0DHZ.jpg": {
+      "referenceImageId": "REFIMGCB5199KKE0DHZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMDJXY7M81Z08.jpg": {
+      "referenceImageId": "REFIMGCMDJXY7M81Z08",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM7BBAUHTB52C.jpg": {
+      "referenceImageId": "REFIMGCM7BBAUHTB52C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC61KWTMB94B85.jpg": {
+      "referenceImageId": "REFIMGC61KWTMB94B85",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0KWPWA2TQF7P.jpg": {
+      "referenceImageId": "REFIMGC0KWPWA2TQF7P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA4XPF8T0DCB0.jpg": {
+      "referenceImageId": "REFIMGCA4XPF8T0DCB0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "NeuType Round Mirror Circle Mirror Aluminum Alloy Frame Round Wall Mirror for Entryways Washrooms Living Rooms and More (Black 24\" x 24\")"
+    }
+  },
+  "asin": "B08135QXYN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCB3U5KWB1X6NA",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 60.96,
+      "widthInCms": 60.96,
+      "heightInCms": 12.69
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 80.0
+}

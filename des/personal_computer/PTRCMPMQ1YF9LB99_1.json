@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCKPBPUHJ0W5UM.jpg": {
+      "referenceImageId": "REFIMGCKPBPUHJ0W5UM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-MINISFORUM UM590 Mini PC Windows 11 Pro AMD Ryzen 9 5900HX,32 GB RAM 512 GB PCIe SSD,Upgraded HX90 Desktop PC, 2 x HDMI Ports, 1 x USB Type-C, 4 x USB 3.2 Type A, Wifi6, Bluetooth5.2,1x 2.5G RJ45 "
+    },
+    "REFIMGCF5GGHEP3A9TP.jpg": {
+      "referenceImageId": "REFIMGCF5GGHEP3A9TP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHF3J4C3LGKUJ.jpg": {
+      "referenceImageId": "REFIMGCHF3J4C3LGKUJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXRH6XVNVMVPH.jpg": {
+      "referenceImageId": "REFIMGCXRH6XVNVMVPH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BPSRVZWZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMPMQ1YF9LB99",
+  "productDimensionList": [
+    {
+      "productCategory": "Laptop",
+      "lengthInCms": 12.5,
+      "widthInCms": 13.0,
+      "heightInCms": 5.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PERSONAL_COMPUTER",
+  "focalLength": 70.0
+}

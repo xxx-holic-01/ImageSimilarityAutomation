@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGC6Z6W45V4W8X5.jpg": {
+      "referenceImageId": "REFIMGC6Z6W45V4W8X5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "2023 Newest Solar Outdoor Lights Motion Sensor Waterproof - 416 LEDs 3000 Lumens Super Bright Solar Flood Security Light for Porch Yard Patio Garage 3 Brightness 3 Modes 360° Illumination Wall Lamp"
+    },
+    "REFIMGC7QK4MZY3YTXD.jpg": {
+      "referenceImageId": "REFIMGC7QK4MZY3YTXD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC76VPJBF3VKC9.jpg": {
+      "referenceImageId": "REFIMGC76VPJBF3VKC9",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXM2UXMV2TH3D.jpg": {
+      "referenceImageId": "REFIMGCXM2UXMV2TH3D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BGWZHCZ8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZ0U6PHMJXR2D",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 7.62,
+      "widthInCms": 33.02,
+      "heightInCms": 15.13
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 55.0
+}

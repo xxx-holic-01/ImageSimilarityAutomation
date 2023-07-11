@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC44TUY6VY595U.jpg": {
+      "referenceImageId": "REFIMGC44TUY6VY595U",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHR6ZK1JH2TLT.jpg": {
+      "referenceImageId": "REFIMGCHR6ZK1JH2TLT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3B9H2NAJ5JQU.jpg": {
+      "referenceImageId": "REFIMGC3B9H2NAJ5JQU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Collection Modern Floral Area Rug  Large Entryway Non-Slip Washable Rug "
+    },
+    "REFIMGCYRG8EJ1RMW3Z.jpg": {
+      "referenceImageId": "REFIMGCYRG8EJ1RMW3Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9L70P962EXG5.jpg": {
+      "referenceImageId": "REFIMGC9L70P962EXG5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4K4XBCYCV45E.jpg": {
+      "referenceImageId": "REFIMGC4K4XBCYCV45E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08B5XSZJW",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC40N53N73C1J8",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 121.92,
+      "widthInCms": 182.88,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 70.0
+}

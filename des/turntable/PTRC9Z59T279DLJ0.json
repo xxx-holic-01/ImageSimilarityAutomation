@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCT5NCV5HXM3GK.jpg": {
+      "referenceImageId": "REFIMGCT5NCV5HXM3GK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNZXQMB7161NM.jpg": {
+      "referenceImageId": "REFIMGCNZXQMB7161NM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6C0CUED27RZN.jpg": {
+      "referenceImageId": "REFIMGC6C0CUED27RZN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC22M5LKZH8QEZ.jpg": {
+      "referenceImageId": "REFIMGC22M5LKZH8QEZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Victrola Journey+ Bluetooth Suitcase Record Player"
+    },
+    "REFIMGCJPDGD0WWMLD6.jpg": {
+      "referenceImageId": "REFIMGCJPDGD0WWMLD6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09855KFX1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9Z59T279DLJ0",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 25.65,
+      "widthInCms": 35.31,
+      "heightInCms": 12.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TURNTABLE",
+  "focalLength": 20.0
+}

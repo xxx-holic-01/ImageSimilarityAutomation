@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCXXQMCG0FW5D5.jpg": {
+      "referenceImageId": "REFIMGCXXQMCG0FW5D5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN7YMPD2PFQ4V.jpg": {
+      "referenceImageId": "REFIMGCN7YMPD2PFQ4V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH4CQJMWAYFK2.jpg": {
+      "referenceImageId": "REFIMGCH4CQJMWAYFK2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Vikaey Modern Wood LED Ceiling Light Fixture, Simple Grey Flush Mount Ceiling Lamps, Circle Close to Ceiling Lighting Fixtures for Living Room, Bedroom, Dining Room, Kitchen, Laundry Room (11.8\") "
+    },
+    "REFIMGC5WK4ZE0V9M75.jpg": {
+      "referenceImageId": "REFIMGC5WK4ZE0V9M75",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV9FMF8GTQEKJ.jpg": {
+      "referenceImageId": "REFIMGCV9FMF8GTQEKJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM5VDL7DH1Z1C.jpg": {
+      "referenceImageId": "REFIMGCM5VDL7DH1Z1C",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC742H7HDWFEM6.jpg": {
+      "referenceImageId": "REFIMGC742H7HDWFEM6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B24MB8J1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYAFJ1VVGWK18",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 30.0,
+      "widthInCms": 30.0,
+      "heightInCms": 6.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

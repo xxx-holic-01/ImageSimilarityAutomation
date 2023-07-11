@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCLZ5QC11LEE6R.jpg": {
+      "referenceImageId": "REFIMGCLZ5QC11LEE6R",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9DZ5J0YLCXWH.jpg": {
+      "referenceImageId": "REFIMGC9DZ5J0YLCXWH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6FF9LRP8TKZ9.jpg": {
+      "referenceImageId": "REFIMGC6FF9LRP8TKZ9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7MKX45NXWJ3T.jpg": {
+      "referenceImageId": "REFIMGC7MKX45NXWJ3T",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUWU2V2G8PXQA.jpg": {
+      "referenceImageId": "REFIMGCUWU2V2G8PXQA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCK0V5Y79ML73W.jpg": {
+      "referenceImageId": "REFIMGCK0V5Y79ML73W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWQQ9T2NXC3QJ.jpg": {
+      "referenceImageId": "REFIMGCWQQ9T2NXC3QJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ivation 18 Bottle Compressor Wine Refrigerator | Large freestanding wine cellar for red, white, champagne or sparkling wine | 41f-64f digital temperature control glass door for refrigerator black"
+    },
+    "REFIMGCDTUD76300A1K.jpg": {
+      "referenceImageId": "REFIMGCDTUD76300A1K",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BDSX4JQ7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCAP6GK47U176K",
+  "productDimensionList": [
+    {
+      "productCategory": "Cupboard",
+      "lengthInCms": 45.01,
+      "widthInCms": 25.2,
+      "heightInCms": 105.92
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "REFRIGERATION_APPLIANCE",
+  "focalLength": 35.0
+}

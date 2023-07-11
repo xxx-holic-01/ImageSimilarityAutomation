@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCUMFMD1QN6132.jpg": {
+      "referenceImageId": "REFIMGCUMFMD1QN6132",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "nuLOOM Becca Vintage Tile Area Rug, 6\u0027 Round, Beige "
+    },
+    "REFIMGCEHVKKA53DYZA.jpg": {
+      "referenceImageId": "REFIMGCEHVKKA53DYZA",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6514MCCG9719.jpg": {
+      "referenceImageId": "REFIMGC6514MCCG9719",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7DRYXXBX7ZAN.jpg": {
+      "referenceImageId": "REFIMGC7DRYXXBX7ZAN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B084LNHZ78",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCAHYXZ9R6L9DR",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 182.88,
+      "widthInCms": 182.88,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 40.0
+}

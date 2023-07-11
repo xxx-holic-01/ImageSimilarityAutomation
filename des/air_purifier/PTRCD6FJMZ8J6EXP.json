@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGC4UUC5HY458MN.jpg": {
+      "referenceImageId": "REFIMGC4UUC5HY458MN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXVX0TLT99VG4.jpg": {
+      "referenceImageId": "REFIMGCXVX0TLT99VG4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "COWAY AIRMEGA 150 Air Purifier with GreenHEPA Technology - Removes 99.999% of Particles down to 0.01 µm*, Viruses and Aerosols - ECARF Certified for Allergic Subjects (White \u0026 Monstera)"
+    },
+    "REFIMGCU9X2C2EGFFN2.jpg": {
+      "referenceImageId": "REFIMGCU9X2C2EGFFN2",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09RGLMB49",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCD6FJMZ8J6EXP",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 22.0,
+      "widthInCms": 44.0,
+      "heightInCms": 60.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_PURIFIER",
+  "focalLength": 90.0
+}

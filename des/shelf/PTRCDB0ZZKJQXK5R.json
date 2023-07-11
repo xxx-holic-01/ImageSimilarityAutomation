@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGCA0N1EBXA4ZWV.jpg": {
+      "referenceImageId": "REFIMGCA0N1EBXA4ZWV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZE72ADXQEHEL.jpg": {
+      "referenceImageId": "REFIMGCZE72ADXQEHEL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHF356DZ13WVH.jpg": {
+      "referenceImageId": "REFIMGCHF356DZ13WVH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC43MUJ2HAG5LA.jpg": {
+      "referenceImageId": "REFIMGC43MUJ2HAG5LA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRB6ZHQMKPEMY.jpg": {
+      "referenceImageId": "REFIMGCRB6ZHQMKPEMY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "MOUDAO Rotating Bookshelf 360° Castle Kids Bookshelf Toy Storage Organizer Rack ,color : Whit , decorations not includede"
+    }
+  },
+  "asin": "B0BLNG8JDL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDB0ZZKJQXK5R",
+  "productDimensionList": [
+    {
+      "productCategory": "Bookshelf",
+      "lengthInCms": 43.2,
+      "widthInCms": 43.2,
+      "heightInCms": 107.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SHELF",
+  "focalLength": 60.0
+}

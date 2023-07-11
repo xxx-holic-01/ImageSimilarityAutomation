@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGCZY3DBMR8ZWBH.jpg": {
+      "referenceImageId": "REFIMGCZY3DBMR8ZWBH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX6CB4CFGGY9V.jpg": {
+      "referenceImageId": "REFIMGCX6CB4CFGGY9V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC65VALXJBXPQ9.jpg": {
+      "referenceImageId": "REFIMGC65VALXJBXPQ9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGTCQ37LT4WDX.jpg": {
+      "referenceImageId": "REFIMGCGTCQ37LT4WDX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPQXH451X3PAW.jpg": {
+      "referenceImageId": "REFIMGCPQXH451X3PAW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDR9CPFDEYRM2.jpg": {
+      "referenceImageId": "REFIMGCDR9CPFDEYRM2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9KWQG81EU0LM.jpg": {
+      "referenceImageId": "REFIMGC9KWQG81EU0LM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Teamson Home Garden Water Feature, Large Outdoor Straight Water Fountain, Indoor Slate Effect Modern Waterfall Ornament with Lights \u0026 Pump, Patio Decor "
+    },
+    "REFIMGCCW8KBB5TVQVP.jpg": {
+      "referenceImageId": "REFIMGCCW8KBB5TVQVP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B084XPDXLN",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCKKL2C22FL1NQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 22.0,
+      "widthInCms": 34.0,
+      "heightInCms": 98.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOUNTAIN",
+  "focalLength": 60.0
+}

@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCV29NTM0MZ21W.jpg": {
+      "referenceImageId": "REFIMGCV29NTM0MZ21W",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN64A1UGJ3VTB.jpg": {
+      "referenceImageId": "REFIMGCN64A1UGJ3VTB",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1EMTT3D98HNG.jpg": {
+      "referenceImageId": "REFIMGC1EMTT3D98HNG",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAR8Y6TD4QKKQ.jpg": {
+      "referenceImageId": "REFIMGCAR8Y6TD4QKKQ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ1W7CZ35M0TK.jpg": {
+      "referenceImageId": "REFIMGCQ1W7CZ35M0TK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B07RV1CMC1",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCPME4DNMD7N9X",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 16.08,
+      "widthInCms": 40.0,
+      "heightInCms": 25.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 110.0
+}

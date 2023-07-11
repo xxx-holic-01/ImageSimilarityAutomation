@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGC3CXZHP0JU8GB.jpg": {
+      "referenceImageId": "REFIMGC3CXZHP0JU8GB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWFAZEAEV72ZT.jpg": {
+      "referenceImageId": "REFIMGCWFAZEAEV72ZT",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMJCMQP0L179V.jpg": {
+      "referenceImageId": "REFIMGCMJCMQP0L179V",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B084QZ68Q9",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCGFTHHR72V3BA",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 16.0,
+      "widthInCms": 21.0,
+      "heightInCms": 21.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 50.0
+}

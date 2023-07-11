@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCAG94TKKXN8C0.jpg": {
+      "referenceImageId": "REFIMGCAG94TKKXN8C0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ibergrif M22136 Kitchen Faucet with Pull Out Spray, Single Lever Sink Mixer, Water Saving, Silver"
+    },
+    "REFIMGCTV021QJGC3WA.jpg": {
+      "referenceImageId": "REFIMGCTV021QJGC3WA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMDT7PAYEJQZ8.jpg": {
+      "referenceImageId": "REFIMGCMDT7PAYEJQZ8",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBTPX4J7VJQXP.jpg": {
+      "referenceImageId": "REFIMGCBTPX4J7VJQXP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUY1UPEMHTVVA.jpg": {
+      "referenceImageId": "REFIMGCUY1UPEMHTVVA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWXB8JKMMM4FN.jpg": {
+      "referenceImageId": "REFIMGCWXB8JKMMM4FN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B081XWZX45",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCF60UY851GK1L",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 28.0,
+      "widthInCms": 13.0,
+      "heightInCms": 35.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 95.0
+}

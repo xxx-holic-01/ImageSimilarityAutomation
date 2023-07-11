@@ -1,0 +1,63 @@
+{
+  "images": {
+    "REFIMGC4ZGRBRZWNNCA.jpg": {
+      "referenceImageId": "REFIMGC4ZGRBRZWNNCA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ceiling light- bulb not included- model in off state"
+    },
+    "REFIMGCLYK37TJTZ438.jpg": {
+      "referenceImageId": "REFIMGCLYK37TJTZ438",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL77KNQDN50C0.jpg": {
+      "referenceImageId": "REFIMGCL77KNQDN50C0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCJAE1A92XMAZ.jpg": {
+      "referenceImageId": "REFIMGCCJAE1A92XMAZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK1ATCT6HXCKD.jpg": {
+      "referenceImageId": "REFIMGCK1ATCT6HXCKD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B084YWB6HX",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHVEDZQUQ0GJ4",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 36.19,
+      "widthInCms": 36.19,
+      "heightInCms": 28.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

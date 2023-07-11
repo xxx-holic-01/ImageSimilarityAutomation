@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGCG13DHG92NCQ1.jpg": {
+      "referenceImageId": "REFIMGCG13DHG92NCQ1",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC78F1KJCL6M78.jpg": {
+      "referenceImageId": "REFIMGC78F1KJCL6M78",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ray-Ban RB2132 NEW WAYFARER Sunglasses"
+    },
+    "REFIMGC959N22VK5MDL.jpg": {
+      "referenceImageId": "REFIMGC959N22VK5MDL",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK6UVUU2CRP6Z.jpg": {
+      "referenceImageId": "REFIMGCK6UVUU2CRP6Z",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01LZTGESV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCTH82TXC39U89",
+  "productDimensionList": [
+    {
+      "productCategory": "Eyewear",
+      "lengthInCms": 14.15,
+      "widthInCms": 15.16,
+      "heightInCms": 4.5
+    },
+    {
+      "productCategory": "Eyewear",
+      "lengthInCms": 0.0,
+      "widthInCms": 1.77,
+      "heightInCms": 0.0
+    },
+    {
+      "productCategory": "Eyewear",
+      "lengthInCms": 0.0,
+      "widthInCms": 5.8,
+      "heightInCms": 0.0
+    }
+  ],
+  "multiDimensionProduct": true,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUNGLASSES",
+  "focalLength": 120.0
+}

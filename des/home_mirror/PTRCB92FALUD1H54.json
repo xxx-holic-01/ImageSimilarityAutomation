@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCJFJ857ZXF340.jpg": {
+      "referenceImageId": "REFIMGCJFJ857ZXF340",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG4R6X30TRX8M.jpg": {
+      "referenceImageId": "REFIMGCG4R6X30TRX8M",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKJYA6YLNKW00.jpg": {
+      "referenceImageId": "REFIMGCKJYA6YLNKW00",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJC1GW0DJB86D.jpg": {
+      "referenceImageId": "REFIMGCJC1GW0DJB86D",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW9Y3E51W4RL0.jpg": {
+      "referenceImageId": "REFIMGCW9Y3E51W4RL0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCYT3XZWUJ9HQG.jpg": {
+      "referenceImageId": "REFIMGCYT3XZWUJ9HQG",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0WZG47AVQHAZ.jpg": {
+      "referenceImageId": "REFIMGC0WZG47AVQHAZ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0959ZBMT7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCB92FALUD1H54",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 6.0,
+      "widthInCms": 58.0,
+      "heightInCms": 159.76
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 65.0
+}

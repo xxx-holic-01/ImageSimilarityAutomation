@@ -1,0 +1,20 @@
+{
+  "images": {
+    "REFIMGCRW00M6410G1E.jpg": {
+      "referenceImageId": "REFIMGCRW00M6410G1E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B07PTS73RG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6N3Q02BALD3P",
+  "modelWorkflowType": "Texture",
+  "productType": "SHOES"
+}

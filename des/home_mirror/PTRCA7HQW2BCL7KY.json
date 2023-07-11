@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCNQDUCW9DXZBG.jpg": {
+      "referenceImageId": "REFIMGCNQDUCW9DXZBG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRD5XX60TPHJ2.jpg": {
+      "referenceImageId": "REFIMGCRD5XX60TPHJ2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC80FZH9MXPFZH.jpg": {
+      "referenceImageId": "REFIMGC80FZH9MXPFZH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "NeuType Round Mirror  Circle Mirror Metal Framed Wall Mirror Large Vanity Hanging Decorative Mirrors for Wall Bathroom Bedroom Living Room"
+    },
+    "REFIMGCQND80WEE134A.jpg": {
+      "referenceImageId": "REFIMGCQND80WEE134A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC42X8QYK0AHHU.jpg": {
+      "referenceImageId": "REFIMGC42X8QYK0AHHU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC17XHTJ65AR23.jpg": {
+      "referenceImageId": "REFIMGC17XHTJ65AR23",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ311A918YWZ0.jpg": {
+      "referenceImageId": "REFIMGCJ311A918YWZ0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4B4S63J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCA7HQW2BCL7KY",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 5.0,
+      "widthInCms": 91.44,
+      "heightInCms": 91.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

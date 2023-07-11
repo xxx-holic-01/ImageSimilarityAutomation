@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGC3L5GK995V9ZJ.jpg": {
+      "referenceImageId": "REFIMGC3L5GK995V9ZJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-KaHouen Buffalo Check Rug,Buffalo Plaid Rugs (Black and White Plaid Rug) "
+    },
+    "REFIMGCAHKZP4JFCA6G.jpg": {
+      "referenceImageId": "REFIMGCAHKZP4JFCA6G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGH0KZ7NGKZA6.jpg": {
+      "referenceImageId": "REFIMGCGH0KZ7NGKZA6",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC05GCHQ3BU6XL.jpg": {
+      "referenceImageId": "REFIMGC05GCHQ3BU6XL",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07L35DBKT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC77L7CTUJHUF3",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 58.0,
+      "widthInCms": 100.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 30.0
+}

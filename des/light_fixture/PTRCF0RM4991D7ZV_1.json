@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCRPP5ZJNPFLZA.jpg": {
+      "referenceImageId": "REFIMGCRPP5ZJNPFLZA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTNTE10PVKM26.jpg": {
+      "referenceImageId": "REFIMGCTNTE10PVKM26",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCYL6QUA9EM2VC.jpg": {
+      "referenceImageId": "REFIMGCYL6QUA9EM2VC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TITOSICHY Black and Gold Bathroom Vanity Light 2-Light Mid Century Modern Bathroom Light Fixture Milky Glass Globe Wall Sconce for Bathroom(Include Bulb)"
+    },
+    "REFIMGCQE4Z6BK0WW53.jpg": {
+      "referenceImageId": "REFIMGCQE4Z6BK0WW53",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC53AECX6JX84T.jpg": {
+      "referenceImageId": "REFIMGC53AECX6JX84T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLJLWU3YG24VG.jpg": {
+      "referenceImageId": "REFIMGCLJLWU3YG24VG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF237Y1AH8HG6.jpg": {
+      "referenceImageId": "REFIMGCF237Y1AH8HG6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1J1YPVG52UPL.jpg": {
+      "referenceImageId": "REFIMGC1J1YPVG52UPL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B39K1693",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCF0RM4991D7ZV",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.32,
+      "widthInCms": 24.0,
+      "heightInCms": 39.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 120.0
+}

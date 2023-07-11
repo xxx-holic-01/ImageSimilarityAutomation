@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGC9MBCENF6J6KQ.jpg": {
+      "referenceImageId": "REFIMGC9MBCENF6J6KQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC156JTB7DN6F3.jpg": {
+      "referenceImageId": "REFIMGC156JTB7DN6F3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC14QZC613QUKK.jpg": {
+      "referenceImageId": "REFIMGC14QZC613QUKK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "YM World Children\u0027s Bookcase, Picture Bookcase,"
+    },
+    "REFIMGCGUUAHDT3189D.jpg": {
+      "referenceImageId": "REFIMGCGUUAHDT3189D",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC930E9BN9LQMH.jpg": {
+      "referenceImageId": "REFIMGC930E9BN9LQMH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B06VT6QMLL",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCF7CNDBFEC12T",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 32.0,
+      "widthInCms": 63.59,
+      "heightInCms": 64.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SHELF",
+  "focalLength": 75.0
+}

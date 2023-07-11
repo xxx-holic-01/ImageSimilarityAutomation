@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC7Y0V0T2PQZ21.jpg": {
+      "referenceImageId": "REFIMGC7Y0V0T2PQZ21",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC02PAAE9CQT13.jpg": {
+      "referenceImageId": "REFIMGC02PAAE9CQT13",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC599RR82E5TNY.jpg": {
+      "referenceImageId": "REFIMGC599RR82E5TNY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCR3V49L04DGA3.jpg": {
+      "referenceImageId": "REFIMGCR3V49L04DGA3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5PZ3U3C5B78Y.jpg": {
+      "referenceImageId": "REFIMGC5PZ3U3C5B78Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJPZJ14Q452C6.jpg": {
+      "referenceImageId": "REFIMGCJPZJ14Q452C6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC30WNUNLV0XRB.jpg": {
+      "referenceImageId": "REFIMGC30WNUNLV0XRB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUDF7WKDNKTAY.jpg": {
+      "referenceImageId": "REFIMGCUDF7WKDNKTAY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Chris Loves Julia x Loloi Humphrey Collection HUM-02 Ivory"
+    },
+    "REFIMGC3RPT118UFZY6.jpg": {
+      "referenceImageId": "REFIMGC3RPT118UFZY6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B99H3DN8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2AJ3XZYJGRZ4",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 70.0,
+      "widthInCms": 228.6,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 70.0
+}

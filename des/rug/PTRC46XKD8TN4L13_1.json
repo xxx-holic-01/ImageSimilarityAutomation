@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCHP77WKZ9CEDT.jpg": {
+      "referenceImageId": "REFIMGCHP77WKZ9CEDT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7RLG337GAFQX.jpg": {
+      "referenceImageId": "REFIMGC7RLG337GAFQX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9CQELEXD0EW0.jpg": {
+      "referenceImageId": "REFIMGC9CQELEXD0EW0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC60XG3Z4V0QPN.jpg": {
+      "referenceImageId": "REFIMGC60XG3Z4V0QPN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09TQ4ZPLM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC46XKD8TN4L13",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 274.32,
+      "widthInCms": 176.25,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

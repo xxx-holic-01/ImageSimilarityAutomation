@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGC8BWKPY8UW420.jpg": {
+      "referenceImageId": "REFIMGC8BWKPY8UW420",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMUNU7AW5ANML.jpg": {
+      "referenceImageId": "REFIMGCMUNU7AW5ANML",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimension taken from this Image"
+    },
+    "REFIMGCEH4HZV6H9DMA.jpg": {
+      "referenceImageId": "REFIMGCEH4HZV6H9DMA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPMEN57GXEXWB.jpg": {
+      "referenceImageId": "REFIMGCPMEN57GXEXWB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW2LD6GCWCD39.jpg": {
+      "referenceImageId": "REFIMGCW2LD6GCWCD39",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "kieragrace KG Sydney Wall Shelf and Mail Holder with 3 Hooks - White"
+    },
+    "REFIMGC91UA2FA8XH7G.jpg": {
+      "referenceImageId": "REFIMGC91UA2FA8XH7G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B016955K8G",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCN4MJL30W5A96",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 10.0,
+      "widthInCms": 60.96,
+      "heightInCms": 15.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_HOOK",
+  "focalLength": 40.0
+}

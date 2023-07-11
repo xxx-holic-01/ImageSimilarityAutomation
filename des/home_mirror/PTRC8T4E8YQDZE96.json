@@ -1,0 +1,79 @@
+{
+  "images": {
+    "REFIMGCB874A5EMNH2G.jpg": {
+      "referenceImageId": "REFIMGCB874A5EMNH2G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCARZM1ZJJF9LQ.jpg": {
+      "referenceImageId": "REFIMGCARZM1ZJJF9LQ",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYHH6VCFAY8KR.jpg": {
+      "referenceImageId": "REFIMGCYHH6VCFAY8KR",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEKAWMEG5BCBB.jpg": {
+      "referenceImageId": "REFIMGCEKAWMEG5BCBB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA8MZVLYMQC13.jpg": {
+      "referenceImageId": "REFIMGCA8MZVLYMQC13",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVD3Q09UNAMHD.jpg": {
+      "referenceImageId": "REFIMGCVD3Q09UNAMHD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Creative Co-Op Oval Mirror with Distressed Black Scalloped Metal Frame"
+    }
+  },
+  "asin": "B007ZGCF2S",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8T4E8YQDZE96",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 127.47,
+      "widthInCms": 182.88,
+      "heightInCms": 2.54
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

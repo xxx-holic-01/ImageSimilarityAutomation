@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCUYTM8HGBZDCB.jpg": {
+      "referenceImageId": "REFIMGCUYTM8HGBZDCB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC38LEMRX47TAK.jpg": {
+      "referenceImageId": "REFIMGC38LEMRX47TAK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1KFJQ9226LL4.jpg": {
+      "referenceImageId": "REFIMGC1KFJQ9226LL4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNUX6TD2HV920.jpg": {
+      "referenceImageId": "REFIMGCNUX6TD2HV920",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Unicozin Black Lantern Pendant Light, 4-Light Metal Cage Chandelier, Height Adjustable, E12 Industrial Hanging Lights for Kitchen Island, Bedroom, Entryway, Foyer "
+    },
+    "REFIMGC2E8M9XBG8ULZ.jpg": {
+      "referenceImageId": "REFIMGC2E8M9XBG8ULZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9XWTEVHT8ZRD.jpg": {
+      "referenceImageId": "REFIMGC9XWTEVHT8ZRD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B84RV3MG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6JLA7JD6U105",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 28.0,
+      "widthInCms": 28.0,
+      "heightInCms": 75.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

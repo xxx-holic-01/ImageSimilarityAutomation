@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCQ2UMTZQEYKW3.jpg": {
+      "referenceImageId": "REFIMGCQ2UMTZQEYKW3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4D1E757UA2AB.jpg": {
+      "referenceImageId": "REFIMGC4D1E757UA2AB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6BED2MEHAH95.jpg": {
+      "referenceImageId": "REFIMGC6BED2MEHAH95",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPPAL4QK0PHVC.jpg": {
+      "referenceImageId": "REFIMGCPPAL4QK0PHVC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC74ZH1APQ2PN6.jpg": {
+      "referenceImageId": "REFIMGC74ZH1APQ2PN6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "GELE High Arc Swivel Spout 2-Handle Bathroom Sink Faucet Oil Rubbed Bronze Modern 4 Inches Centerset Vanity Faucet 360 Degree Commercial Faucet 4049-ORB "
+    }
+  },
+  "asin": "B09GPCPGTT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZRV1R0H80CG8",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 16.99,
+      "widthInCms": 22.78,
+      "heightInCms": 22.69
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 110.0
+}

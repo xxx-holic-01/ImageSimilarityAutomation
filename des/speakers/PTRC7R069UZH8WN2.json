@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGCT60ELHRZW832.jpg": {
+      "referenceImageId": "REFIMGCT60ELHRZW832",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFG9X3ZGFNW56.jpg": {
+      "referenceImageId": "REFIMGCFG9X3ZGFNW56",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDM4P02RQL58Y.jpg": {
+      "referenceImageId": "REFIMGCDM4P02RQL58Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Klipsch RP-150M Walnut Bookshelf Speaker (Pair)  "
+    },
+    "REFIMGCR5J61K72ZXP3.jpg": {
+      "referenceImageId": "REFIMGCR5J61K72ZXP3",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B075JK6KZT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7R069UZH8WN2",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 27.18,
+      "widthInCms": 19.56,
+      "heightInCms": 37.08
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 40.0
+}

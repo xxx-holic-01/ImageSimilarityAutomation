@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCRGTAYN2EV37K.jpg": {
+      "referenceImageId": "REFIMGCRGTAYN2EV37K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCAJ6WB24C43Q.jpg": {
+      "referenceImageId": "REFIMGCCAJ6WB24C43Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC3R7069UWED06.jpg": {
+      "referenceImageId": "REFIMGC3R7069UWED06",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCRB7KA4838DVZ.jpg": {
+      "referenceImageId": "REFIMGCRB7KA4838DVZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7L3R80JYAXAA.jpg": {
+      "referenceImageId": "REFIMGC7L3R80JYAXAA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC68TNJDJ7M6PU.jpg": {
+      "referenceImageId": "REFIMGC68TNJDJ7M6PU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNG7GKF24UU38.jpg": {
+      "referenceImageId": "REFIMGCNG7GKF24UU38",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL2WMQ0F86B2C.jpg": {
+      "referenceImageId": "REFIMGCL2WMQ0F86B2C",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B08FRR979V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCK7F35ZM3C04P",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 30.5,
+      "widthInCms": 61.0,
+      "heightInCms": 94.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WORKBENCH",
+  "focalLength": 50.0
+}

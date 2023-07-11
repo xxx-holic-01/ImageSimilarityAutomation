@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGC87F1ZAAXRMY5.jpg": {
+      "referenceImageId": "REFIMGC87F1ZAAXRMY5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Double level rabbit cage"
+    }
+  },
+  "asin": "B00KY07TDC",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCDR8GBL8UV16P",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 45.0,
+      "widthInCms": 81.0,
+      "heightInCms": 74.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ANIMAL_CAGE",
+  "focalLength": 55.0
+}

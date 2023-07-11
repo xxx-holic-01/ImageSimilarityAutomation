@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCNZ6CEQHBZB9L.jpg": {
+      "referenceImageId": "REFIMGCNZ6CEQHBZB9L",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Metropolis suitcase Alex. Alex Black"
+    },
+    "REFIMGCL5RR9L2B134W.jpg": {
+      "referenceImageId": "REFIMGCL5RR9L2B134W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRJ336C8D1AWN.jpg": {
+      "referenceImageId": "REFIMGCRJ336C8D1AWN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHU784TY7T84T.jpg": {
+      "referenceImageId": "REFIMGCHU784TY7T84T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNL10L4J2A3KC.jpg": {
+      "referenceImageId": "REFIMGCNL10L4J2A3KC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B007AJVRZG",
+  "marketplace": 4,
+  "partnerOrderId": "PTRC9FTVKAPN4DLL",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 30.0,
+      "widthInCms": 50.0,
+      "heightInCms": 92.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 90.0
+}

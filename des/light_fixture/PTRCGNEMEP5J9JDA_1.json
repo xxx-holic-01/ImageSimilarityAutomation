@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCTU2NTE8M1BGU.jpg": {
+      "referenceImageId": "REFIMGCTU2NTE8M1BGU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTJCMGTVQDLB3.jpg": {
+      "referenceImageId": "REFIMGCTJCMGTVQDLB3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC37W66FVJ7CVZ.jpg": {
+      "referenceImageId": "REFIMGC37W66FVJ7CVZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9HTKF6MZ4PKM.jpg": {
+      "referenceImageId": "REFIMGC9HTKF6MZ4PKM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0WLJJFK9FBPZ.jpg": {
+      "referenceImageId": "REFIMGC0WLJJFK9FBPZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "DEMILARE 200W Parking Lot Light Quick Installation LED Street Light Adjustable Arm Mount Shoebox Light Dusk to Dawn Photocell 150LM/W IP65 Waterproof Commercial Area Lighting for Roadway"
+    },
+    "REFIMGCQ0BCB4U06KJ3.jpg": {
+      "referenceImageId": "REFIMGCQ0BCB4U06KJ3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCE7HM8DPG97PB.jpg": {
+      "referenceImageId": "REFIMGCE7HM8DPG97PB",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B6FP372J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGNEMEP5J9JDA",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 43.18,
+      "widthInCms": 30.47,
+      "heightInCms": 11.72
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

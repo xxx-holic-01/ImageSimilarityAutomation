@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCP34Z3FJHDBR7.jpg": {
+      "referenceImageId": "REFIMGCP34Z3FJHDBR7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHANYL0XRL65X.jpg": {
+      "referenceImageId": "REFIMGCHANYL0XRL65X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLHBEVUQG9PCX.jpg": {
+      "referenceImageId": "REFIMGCLHBEVUQG9PCX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYWTLD1Q33EF1.jpg": {
+      "referenceImageId": "REFIMGCYWTLD1Q33EF1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ReaLife Machine Washable Rug - Stain Resistant, Non-Shed - Eco-Friendly, Non-Slip, Family \u0026 Pet Friendly - Made from Premium Recycled Fibers - Moroccan - Ivory - 2\u00276\" x 8\u0027"
+    },
+    "REFIMGCKW2CPHCJ743R.jpg": {
+      "referenceImageId": "REFIMGCKW2CPHCJ743R",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B098F6W1Z4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZZFBDJWNBW08",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 76.2,
+      "widthInCms": 243.84,
+      "heightInCms": 0.63
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

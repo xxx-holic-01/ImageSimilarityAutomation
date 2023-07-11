@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCTEQ7Y1JNE7JZ.jpg": {
+      "referenceImageId": "REFIMGCTEQ7Y1JNE7JZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Betterland 6\u0027 x 8\u0027 Outdoor Storage Shed, Steel Garden Shed with Sliding Door, Metal Tool Storage Shed for Backyard, Lawn, Gray "
+    },
+    "REFIMGCJXUPXPYR9L7W.jpg": {
+      "referenceImageId": "REFIMGCJXUPXPYR9L7W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBUAB7ELY1147.jpg": {
+      "referenceImageId": "REFIMGCBUAB7ELY1147",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC08E5F0YG3VB8.jpg": {
+      "referenceImageId": "REFIMGC08E5F0YG3VB8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0EDNUDGX2G53.jpg": {
+      "referenceImageId": "REFIMGC0EDNUDGX2G53",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0K34JVWL3XMQ.jpg": {
+      "referenceImageId": "REFIMGC0K34JVWL3XMQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7F49YX1T3BYN.jpg": {
+      "referenceImageId": "REFIMGC7F49YX1T3BYN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBMB1Y6R244U3.jpg": {
+      "referenceImageId": "REFIMGCBMB1Y6R244U3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09VGQB33Y",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC7BR7VHZJL1Z5",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 188.0,
+      "widthInCms": 261.0,
+      "heightInCms": 213.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 40.0
+}

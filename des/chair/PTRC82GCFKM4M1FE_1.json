@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCGAA4H7V5Q0NH.jpg": {
+      "referenceImageId": "REFIMGCGAA4H7V5Q0NH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBAV757LB2CAB.jpg": {
+      "referenceImageId": "REFIMGCBAV757LB2CAB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFVJUD3T3DA1E.jpg": {
+      "referenceImageId": "REFIMGCFVJUD3T3DA1E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Gaming Chair Ergonomic High Back Computer Chair Height Adjustable Desk Chair with Flip-up Armrest Faux PU Leather Chair, Blue "
+    },
+    "REFIMGCL4Y4ZWR1J2QC.jpg": {
+      "referenceImageId": "REFIMGCL4Y4ZWR1J2QC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCZGWEJHWEMBXP.jpg": {
+      "referenceImageId": "REFIMGCZGWEJHWEMBXP",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRVFN94BR460U.jpg": {
+      "referenceImageId": "REFIMGCRVFN94BR460U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY062RMZ8EWF4.jpg": {
+      "referenceImageId": "REFIMGCY062RMZ8EWF4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B5LFDZFF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC82GCFKM4M1FE",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 64.2,
+      "widthInCms": 64.9,
+      "heightInCms": 107.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 45.0
+}

@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCPZ9619FMD4R3.jpg": {
+      "referenceImageId": "REFIMGCPZ9619FMD4R3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6EA5U07FPE2N.jpg": {
+      "referenceImageId": "REFIMGC6EA5U07FPE2N",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC75TP8ZTFUEWN.jpg": {
+      "referenceImageId": "REFIMGC75TP8ZTFUEWN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP5H9C4QTQL47.jpg": {
+      "referenceImageId": "REFIMGCP5H9C4QTQL47",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Noahas Christmas Rugs Santa Claus Area Rug for Bedroom Living Room Anti-Slip Indoor Christmas Runner Rug Door Mat Entry Rug Xmas Floor Carpet for Kitchen Holiday Decoration Gifts"
+    },
+    "REFIMGCRGHWFN3VWGUK.jpg": {
+      "referenceImageId": "REFIMGCRGHWFN3VWGUK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4XL81V5YURY6.jpg": {
+      "referenceImageId": "REFIMGC4XL81V5YURY6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B5XGRZ14",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2V9R1XWX6K2K",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 60.96,
+      "widthInCms": 182.88,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 40.0
+}

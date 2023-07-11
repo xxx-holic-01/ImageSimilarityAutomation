@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGC8L7BU8DGTPZR.jpg": {
+      "referenceImageId": "REFIMGC8L7BU8DGTPZR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUABYMQTYZLAB.jpg": {
+      "referenceImageId": "REFIMGCUABYMQTYZLAB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9EBVYE7BL0L1.jpg": {
+      "referenceImageId": "REFIMGC9EBVYE7BL0L1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVND9015TABL2.jpg": {
+      "referenceImageId": "REFIMGCVND9015TABL2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7J0BL65WX7R9.jpg": {
+      "referenceImageId": "REFIMGC7J0BL65WX7R9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7UCLTMM7TNBY.jpg": {
+      "referenceImageId": "REFIMGC7UCLTMM7TNBY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "closed"
+    },
+    "REFIMGCJNT6LAMUUKMN.jpg": {
+      "referenceImageId": "REFIMGCJNT6LAMUUKMN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD37WRBBQXWXU.jpg": {
+      "referenceImageId": "REFIMGCD37WRBBQXWXU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3BEUM540VT5U.jpg": {
+      "referenceImageId": "REFIMGC3BEUM540VT5U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BHPPVHDR",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC250BHEQECVZ1",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 33.22,
+      "widthInCms": 50.0,
+      "heightInCms": 78.35
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TRASH_CAN",
+  "focalLength": 70.0
+}

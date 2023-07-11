@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC4DBTR4CCTQUA.jpg": {
+      "referenceImageId": "REFIMGC4DBTR4CCTQUA",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8WBWA9QFEY1D.jpg": {
+      "referenceImageId": "REFIMGC8WBWA9QFEY1D",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXTYY88VX6H70.jpg": {
+      "referenceImageId": "REFIMGCXTYY88VX6H70",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTX23H6UE5JKB.jpg": {
+      "referenceImageId": "REFIMGCTX23H6UE5JKB",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCKVNQXQ9ZJ9Y8.jpg": {
+      "referenceImageId": "REFIMGCKVNQXQ9ZJ9Y8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUPZGK0YAAXW5.jpg": {
+      "referenceImageId": "REFIMGCUPZGK0YAAXW5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SA Products Folding Utility Table - Foldable Garden Table for Camping, Party \u0026 Picnic - Small Fold Up Desk with Aluminium Frame - Lightweight \u0026 Portable - Sturdy Outdoor Patio Furniture - 2.6 Feet "
+    },
+    "REFIMGC0MMCN3VT3DQQ.jpg": {
+      "referenceImageId": "REFIMGC0MMCN3VT3DQQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCP4GAQM036K6P.jpg": {
+      "referenceImageId": "REFIMGCP4GAQM036K6P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B08DJ4WTG7",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC412WGWH1FT5A",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 70.0,
+      "widthInCms": 80.0,
+      "heightInCms": 80.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TABLE",
+  "focalLength": 70.0
+}

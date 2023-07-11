@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCUHDUNPZNZRJ1.jpg": {
+      "referenceImageId": "REFIMGCUHDUNPZNZRJ1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYMV7NF9DG46V.jpg": {
+      "referenceImageId": "REFIMGCYMV7NF9DG46V",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Kaitou Tent Camping Dome for 5 People Easy Setup One-Touch Tent Large Assembly Outdoor Skylight Disaster Prevention Emergency Evacuation Disaster Emergency Climbing Outdoor"
+    },
+    "REFIMGCKJY5VCR3HTZ0.jpg": {
+      "referenceImageId": "REFIMGCKJY5VCR3HTZ0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC58Y2LV2MRE9D.jpg": {
+      "referenceImageId": "REFIMGC58Y2LV2MRE9D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT8JE8N2046B3.jpg": {
+      "referenceImageId": "REFIMGCT8JE8N2046B3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9WP03MJB50GW.jpg": {
+      "referenceImageId": "REFIMGC9WP03MJB50GW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQPGRJ3P50ZYU.jpg": {
+      "referenceImageId": "REFIMGCQPGRJ3P50ZYU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09X9HHX3D",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCGD2870GDTEA0",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 240.0,
+      "widthInCms": 310.0,
+      "heightInCms": 145.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "TENT",
+  "focalLength": 70.0
+}

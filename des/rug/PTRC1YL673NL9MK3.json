@@ -1,0 +1,66 @@
+{
+  "images": {
+    "REFIMGCEMQ15XPNDZAC.jpg": {
+      "referenceImageId": "REFIMGCEMQ15XPNDZAC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCKP9N11D890VM.jpg": {
+      "referenceImageId": "REFIMGCKP9N11D890VM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL5816740HLEX.jpg": {
+      "referenceImageId": "REFIMGCL5816740HLEX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGC4D991GXANH6A.jpg": {
+      "referenceImageId": "REFIMGC4D991GXANH6A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ3P8PGV21XKL.jpg": {
+      "referenceImageId": "REFIMGCQ3P8PGV21XKL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": "SAFAVIEH Madison Collection MAD460F Modern Abstract Style Area Rug, Grey/Orange, Shed Free for Living Room, Bedroom, Dining Room, Home Office "
+    },
+    "REFIMGC1LX2ZB6CTB9L.jpg": {
+      "referenceImageId": "REFIMGC1LX2ZB6CTB9L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07W627Q4K",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1YL673NL9MK3",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 207.26,
+      "widthInCms": 274.32,
+      "heightInCms": 1.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCD2QJ6RN6LQW7.jpg": {
+      "referenceImageId": "REFIMGCD2QJ6RN6LQW7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRG6Y90M8TNRK.jpg": {
+      "referenceImageId": "REFIMGCRG6Y90M8TNRK",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL3H46DXU8UDW.jpg": {
+      "referenceImageId": "REFIMGCL3H46DXU8UDW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7CPFTVC4DG24.jpg": {
+      "referenceImageId": "REFIMGC7CPFTVC4DG24",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT5RD1RZLEL1J.jpg": {
+      "referenceImageId": "REFIMGCT5RD1RZLEL1J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFQL3JHP2NTAE.jpg": {
+      "referenceImageId": "REFIMGCFQL3JHP2NTAE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wallfillers Canvas Prints of Banksy\u0027s Girl with the Red Balloon for your Dining Room"
+    },
+    "REFIMGCAHEHUN4U754G.jpg": {
+      "referenceImageId": "REFIMGCAHEHUN4U754G",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00TYF59I0",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCFF1GQC41H4K9",
+  "productDimensionList": [
+    {
+      "productCategory": "Photo Frame",
+      "lengthInCms": 2.47,
+      "widthInCms": 120.0,
+      "heightInCms": 50.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WALL_ART",
+  "focalLength": 37.0
+}

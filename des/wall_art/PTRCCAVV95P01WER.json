@@ -1,0 +1,43 @@
+{
+  "images": {
+    "REFIMGC6PYM9X2BWABE.jpg": {
+      "referenceImageId": "REFIMGC6PYM9X2BWABE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6TMPJRT5WR80.jpg": {
+      "referenceImageId": "REFIMGC6TMPJRT5WR80",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Art print on canvas + Frame"
+    }
+  },
+  "asin": "B016W25K7C",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCCAVV95P01WER",
+  "productDimensionList": [
+    {
+      "productCategory": "Photo Frame",
+      "lengthInCms": 1.7,
+      "widthInCms": 62.0,
+      "heightInCms": 49.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WALL_ART",
+  "focalLength": 45.0
+}

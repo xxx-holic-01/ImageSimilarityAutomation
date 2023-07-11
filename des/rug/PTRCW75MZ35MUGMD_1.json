@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGCKDVZLGPK74PD.jpg": {
+      "referenceImageId": "REFIMGCKDVZLGPK74PD",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5NTCN0FPKW7E.jpg": {
+      "referenceImageId": "REFIMGC5NTCN0FPKW7E",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPQWQ63D4NWKW.jpg": {
+      "referenceImageId": "REFIMGCPQWQ63D4NWKW",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "GAGNONLEE 3D Vortex Illusion Carpet Entrance Door Floor Mat Abstract Geometric Optical Floor Mat Non-Slip Doormat Modern Living Room Home Decor Rug 24X16inch"
+    },
+    "REFIMGCUQKFQ4QNMY0N.jpg": {
+      "referenceImageId": "REFIMGCUQKFQ4QNMY0N",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVXR13MD3A6V9.jpg": {
+      "referenceImageId": "REFIMGCVXR13MD3A6V9",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BG8NFKRP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW75MZ35MUGMD",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 40.0,
+      "widthInCms": 60.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCXT9CHRZ8Q9K1.jpg": {
+      "referenceImageId": "REFIMGCXT9CHRZ8Q9K1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " KLH Kendall Floor Standing Speakers - Pair (Black Oak) "
+    },
+    "REFIMGC0PG5X9GYHCNR.jpg": {
+      "referenceImageId": "REFIMGC0PG5X9GYHCNR",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN88P20PDXARC.jpg": {
+      "referenceImageId": "REFIMGCN88P20PDXARC",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC309ZJFQYGHNB.jpg": {
+      "referenceImageId": "REFIMGC309ZJFQYGHNB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRZQWR1732VBZ.jpg": {
+      "referenceImageId": "REFIMGCRZQWR1732VBZ",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQFQC4HMMECQL.jpg": {
+      "referenceImageId": "REFIMGCQFQC4HMMECQL",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07FDL1DTK",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWHJGF29N6DE9",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 37.5,
+      "widthInCms": 19.68,
+      "heightInCms": 98.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 90.0
+}

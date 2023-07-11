@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGCTA1Z6HBZLBEY.jpg": {
+      "referenceImageId": "REFIMGCTA1Z6HBZLBEY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCRYANHWEBDXQF.jpg": {
+      "referenceImageId": "REFIMGCRYANHWEBDXQF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZF19U2XRP4C5.jpg": {
+      "referenceImageId": "REFIMGCZF19U2XRP4C5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCCPB9V5P455YK.jpg": {
+      "referenceImageId": "REFIMGCCPB9V5P455YK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBYDTJ845L2C9.jpg": {
+      "referenceImageId": "REFIMGCBYDTJ845L2C9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDLDENE84KVJF.jpg": {
+      "referenceImageId": "REFIMGCDLDENE84KVJF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZ49UM8NT520M.jpg": {
+      "referenceImageId": "REFIMGCZ49UM8NT520M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9PQEDYAR3RTR.jpg": {
+      "referenceImageId": "REFIMGC9PQEDYAR3RTR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B2JWN1JF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQFYJRN1CU2Y4",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 43.18,
+      "widthInCms": 38.1,
+      "heightInCms": 80.01
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "ICE_MAKER",
+  "focalLength": 60.0
+}

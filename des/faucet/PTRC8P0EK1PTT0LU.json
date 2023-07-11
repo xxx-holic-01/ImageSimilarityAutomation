@@ -1,0 +1,66 @@
+{
+  "images": {
+    "REFIMGC5MYA7FBQ4UDY.jpg": {
+      "referenceImageId": "REFIMGC5MYA7FBQ4UDY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Kohler ‎12182-CP Fairfax Bathroom Faucet, Polished Chrome "
+    },
+    "REFIMGCFJHEWLTDD2V7.jpg": {
+      "referenceImageId": "REFIMGCFJHEWLTDD2V7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDZCKMXVJ2Y1P.jpg": {
+      "referenceImageId": "REFIMGCDZCKMXVJ2Y1P",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUPVPFQLCGC75.jpg": {
+      "referenceImageId": "REFIMGCUPVPFQLCGC75",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0NUP2H8H23W8.jpg": {
+      "referenceImageId": "REFIMGC0NUP2H8H23W8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B000MF6UGG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8P0EK1PTT0LU",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.93,
+      "widthInCms": 16.51,
+      "heightInCms": 24.66
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 50.0
+}

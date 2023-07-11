@@ -1,0 +1,63 @@
+{
+  "images": {
+    "REFIMGC8ZMKVXLLK0G1.jpg": {
+      "referenceImageId": "REFIMGC8ZMKVXLLK0G1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC99YFNDH2KQJN.jpg": {
+      "referenceImageId": "REFIMGC99YFNDH2KQJN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2FZ87QL7BBDG.jpg": {
+      "referenceImageId": "REFIMGC2FZ87QL7BBDG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZHTK3AJLZ0K8.jpg": {
+      "referenceImageId": "REFIMGCZHTK3AJLZ0K8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF9C4MRFT2YQU.jpg": {
+      "referenceImageId": "REFIMGCF9C4MRFT2YQU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BD6MW85D",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMTRHGBY605VQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 8.89,
+      "widthInCms": 8.89,
+      "heightInCms": 26.67
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_BLENDER",
+  "focalLength": 50.0
+}

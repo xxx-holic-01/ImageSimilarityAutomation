@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGC7Z4RPDFJB2QJ.jpg": {
+      "referenceImageId": "REFIMGC7Z4RPDFJB2QJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHLR1F3XYPEB6.jpg": {
+      "referenceImageId": "REFIMGCHLR1F3XYPEB6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUBZYE47T7KJX.jpg": {
+      "referenceImageId": "REFIMGCUBZYE47T7KJX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZWC7VB4BKTXG.jpg": {
+      "referenceImageId": "REFIMGCZWC7VB4BKTXG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX1TNMXP57W48.jpg": {
+      "referenceImageId": "REFIMGCX1TNMXP57W48",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Digital Alarm Clock for Bedroom, Night Light, Large LED Display, Simple to Use, Silent Push Button, 6-Level of Adjustable Brightness, 2-Level of Volume - Model should be in lightsoff state"
+    },
+    "REFIMGC0WMYPVNC3HJZ.jpg": {
+      "referenceImageId": "REFIMGC0WMYPVNC3HJZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1QA4KX48XBVQ.jpg": {
+      "referenceImageId": "REFIMGC1QA4KX48XBVQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BLC163D8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLG8MVQ3QQJ1A",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 3.81,
+      "widthInCms": 19.99,
+      "heightInCms": 7.11
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 75.0
+}

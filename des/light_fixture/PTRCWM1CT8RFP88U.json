@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC99DMW2WBMCDN.jpg": {
+      "referenceImageId": "REFIMGC99DMW2WBMCDN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMLREBYFL66ZZ.jpg": {
+      "referenceImageId": "REFIMGCMLREBYFL66ZZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Bottom"
+    },
+    "REFIMGCUX19B2ACUWEU.jpg": {
+      "referenceImageId": "REFIMGCUX19B2ACUWEU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2GUDVRJRHU0Z.jpg": {
+      "referenceImageId": "REFIMGC2GUDVRJRHU0Z",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Outdoor LED Light"
+    },
+    "REFIMGC9TCP377CK209.jpg": {
+      "referenceImageId": "REFIMGC9TCP377CK209",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07GJ6FQM8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWM1CT8RFP88U",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 18.92,
+      "widthInCms": 27.61,
+      "heightInCms": 21.51
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

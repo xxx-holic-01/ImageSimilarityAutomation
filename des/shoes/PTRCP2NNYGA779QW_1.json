@@ -1,0 +1,19 @@
+{
+  "images": {
+    "REFIMGCRW00M6410G1E.jpg": {
+      "referenceImageId": "REFIMGCRW00M6410G1E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B07PTS73RG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCP2NNYGA779QW",
+  "productType": "SHOES"
+}

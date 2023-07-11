@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC1NKLHFR7D2BQ.jpg": {
+      "referenceImageId": "REFIMGC1NKLHFR7D2BQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Product should be model as lights off"
+    },
+    "REFIMGCDWLR1NN46WZ3.jpg": {
+      "referenceImageId": "REFIMGCDWLR1NN46WZ3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLPK6JG9GH1M1.jpg": {
+      "referenceImageId": "REFIMGCLPK6JG9GH1M1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNCEUPZHKGZW7.jpg": {
+      "referenceImageId": "REFIMGCNCEUPZHKGZW7",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB4CHU9UA253F.jpg": {
+      "referenceImageId": "REFIMGCB4CHU9UA253F",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJEZ0YCC8R9KH.jpg": {
+      "referenceImageId": "REFIMGCJEZ0YCC8R9KH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08HJFVLPZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFM9DQE7Y3B95",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 10.03,
+      "widthInCms": 13.46,
+      "heightInCms": 8.89
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

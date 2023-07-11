@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC9HPFZRUU2P5L.jpg": {
+      "referenceImageId": "REFIMGC9HPFZRUU2P5L",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL1Z2D5HTN8XV.jpg": {
+      "referenceImageId": "REFIMGCL1Z2D5HTN8XV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGC4QP3WNBEK3M2.jpg": {
+      "referenceImageId": "REFIMGC4QP3WNBEK3M2",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGC6VUE0ZLGTBU1.jpg": {
+      "referenceImageId": "REFIMGC6VUE0ZLGTBU1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAU0CHHJZB08Q.jpg": {
+      "referenceImageId": "REFIMGCAU0CHHJZB08Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "DANISH, Koben Style Cocotte, Single Handle"
+    },
+    "REFIMGCU6B2XABRBV8H.jpg": {
+      "referenceImageId": "REFIMGCU6B2XABRBV8H",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGC1E4V80JCDAPG.jpg": {
+      "referenceImageId": "REFIMGC1E4V80JCDAPG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGCNZWLYDHNQ67L.jpg": {
+      "referenceImageId": "REFIMGCNZWLYDHNQ67L",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00J4LZXWG",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC733G7JZHZ27K",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 9.5,
+      "widthInCms": 19.9,
+      "heightInCms": 8.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 90.0
+}

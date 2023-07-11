@@ -1,0 +1,63 @@
+{
+  "images": {
+    "REFIMGCWC70EGF777K9.jpg": {
+      "referenceImageId": "REFIMGCWC70EGF777K9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4AZE785KFCPP.jpg": {
+      "referenceImageId": "REFIMGC4AZE785KFCPP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Trueshopping Wooden Folding Coffee Table Garden Side Table Picnic Small Table Wood Indoor Outdoor Dining Drinks Bistro Table"
+    },
+    "REFIMGCCR6344UDCQ1K.jpg": {
+      "referenceImageId": "REFIMGCCR6344UDCQ1K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCYDFVZR0FGBUM.jpg": {
+      "referenceImageId": "REFIMGCYDFVZR0FGBUM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC06V1W5B319M4.jpg": {
+      "referenceImageId": "REFIMGC06V1W5B319M4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B002GYDWOE",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC56P71T0994K0",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 40.6,
+      "widthInCms": 43.2,
+      "heightInCms": 40.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TABLE",
+  "focalLength": 65.0
+}

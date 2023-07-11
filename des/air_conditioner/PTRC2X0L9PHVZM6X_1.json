@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGC5G51QG5E3E7A.jpg": {
+      "referenceImageId": "REFIMGC5G51QG5E3E7A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWL08VR7DULWE.jpg": {
+      "referenceImageId": "REFIMGCWL08VR7DULWE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC90E01J98APT0.jpg": {
+      "referenceImageId": "REFIMGC90E01J98APT0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGKK0XGE2CZ26.jpg": {
+      "referenceImageId": "REFIMGCGKK0XGE2CZ26",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8B2ALX8DJ7K1.jpg": {
+      "referenceImageId": "REFIMGC8B2ALX8DJ7K1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCLMP4E3M945A1.jpg": {
+      "referenceImageId": "REFIMGCLMP4E3M945A1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNJP3W79N0RGC.jpg": {
+      "referenceImageId": "REFIMGCNJP3W79N0RGC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD18BAV229FZQ.jpg": {
+      "referenceImageId": "REFIMGCD18BAV229FZQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B7WR76VC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2X0L9PHVZM6X",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 17.5,
+      "widthInCms": 18.01,
+      "heightInCms": 19.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_CONDITIONER",
+  "focalLength": 40.0
+}

@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCCY6NDX77RKUQ.jpg": {
+      "referenceImageId": "REFIMGCCY6NDX77RKUQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNKGY3KCBGY2V.jpg": {
+      "referenceImageId": "REFIMGCNKGY3KCBGY2V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3ZHPU2LZNMZU.jpg": {
+      "referenceImageId": "REFIMGC3ZHPU2LZNMZU",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5MPV4T6YK0DY.jpg": {
+      "referenceImageId": "REFIMGC5MPV4T6YK0DY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Black and Gold Finish Mini Pendant Light, 7.8 Inch Industrial Farmhouse Dome Pendant Light, 78.74 Inch Cord Length for Kitchen Island, Dining Room, Bedroom, Hallway, Living Room"
+    },
+    "REFIMGCZGRRQENGG3NQ.jpg": {
+      "referenceImageId": "REFIMGCZGRRQENGG3NQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX5X27BRR9U49.jpg": {
+      "referenceImageId": "REFIMGCX5X27BRR9U49",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBKT129V1JEL0.jpg": {
+      "referenceImageId": "REFIMGCBKT129V1JEL0",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WD6LJ8K",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCR0FK226R12NJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.81,
+      "widthInCms": 19.81,
+      "heightInCms": 60.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

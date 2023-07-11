@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCBBH88XLFB7LV.jpg": {
+      "referenceImageId": "REFIMGCBBH88XLFB7LV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5GZ4HJJQ0F3A.jpg": {
+      "referenceImageId": "REFIMGC5GZ4HJJQ0F3A",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "2-Light Vanity Lights Over Mirror Wall Sconce with White Etched Glass Globe"
+    },
+    "REFIMGCEHQK0BWK7M1A.jpg": {
+      "referenceImageId": "REFIMGCEHQK0BWK7M1A",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX8H15FZV649W.jpg": {
+      "referenceImageId": "REFIMGCX8H15FZV649W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimensions are taken from this image"
+    },
+    "REFIMGCZ8Q6MFHK0DMR.jpg": {
+      "referenceImageId": "REFIMGCZ8Q6MFHK0DMR",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9HKU52BFA9GM.jpg": {
+      "referenceImageId": "REFIMGC9HKU52BFA9GM",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW58M4HWG6EAX.jpg": {
+      "referenceImageId": "REFIMGCW58M4HWG6EAX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09TK9S8H7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCK3Y2XUV3EG56",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.05,
+      "widthInCms": 36.83,
+      "heightInCms": 24.13
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

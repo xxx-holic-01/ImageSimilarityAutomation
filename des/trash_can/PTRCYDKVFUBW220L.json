@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCP5CN62ELJD27.jpg": {
+      "referenceImageId": "REFIMGCP5CN62ELJD27",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGCGHCW7R5KLJ.jpg": {
+      "referenceImageId": "REFIMGCGCGHCW7R5KLJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKQ6LZVJZNX64.jpg": {
+      "referenceImageId": "REFIMGCKQ6LZVJZNX64",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Trash Can with Slim Lid, Tower, White, model only one"
+    },
+    "REFIMGCZJVUL08CFYXQ.jpg": {
+      "referenceImageId": "REFIMGCZJVUL08CFYXQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJQCKEW1YNQQN.jpg": {
+      "referenceImageId": "REFIMGCJQCKEW1YNQQN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWD6F8LDEP67R.jpg": {
+      "referenceImageId": "REFIMGCWD6F8LDEP67R",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHGMB1QJ77H91.jpg": {
+      "referenceImageId": "REFIMGCHGMB1QJ77H91",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B091PT8W2F",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCYDKVFUBW220L",
+  "productDimensionList": [
+    {
+      "productCategory": "Cocktail Table",
+      "lengthInCms": 40.0,
+      "widthInCms": 19.0,
+      "heightInCms": 54.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TRASH_CAN",
+  "focalLength": 60.0
+}

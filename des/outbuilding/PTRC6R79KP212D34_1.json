@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCWHY5Y3YKK8EX.jpg": {
+      "referenceImageId": "REFIMGCWHY5Y3YKK8EX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3FUR379AACYY.jpg": {
+      "referenceImageId": "REFIMGC3FUR379AACYY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG6GZLBDE0K8N.jpg": {
+      "referenceImageId": "REFIMGCG6GZLBDE0K8N",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV0DUWTZE9CEU.jpg": {
+      "referenceImageId": "REFIMGCV0DUWTZE9CEU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMVZL4F44LXV4.jpg": {
+      "referenceImageId": "REFIMGCMVZL4F44LXV4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - Patiomore Outdoor Storage Shed Tool House Garden Steel Shed Walk-in (Grey) Gray "
+    },
+    "REFIMGCJFGXR6CFDZH1.jpg": {
+      "referenceImageId": "REFIMGCJFGXR6CFDZH1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCP4GE1U43VWMQ.jpg": {
+      "referenceImageId": "REFIMGCP4GE1U43VWMQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09Z6MK15C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC6R79KP212D34",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 192.0,
+      "widthInCms": 191.69,
+      "heightInCms": 180.49
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 50.0
+}

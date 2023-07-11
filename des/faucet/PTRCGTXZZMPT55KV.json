@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGC3L4VYTHYGJAK.jpg": {
+      "referenceImageId": "REFIMGC3L4VYTHYGJAK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Sink Faucet Oil Rubbed Bronze Lavatory Faucet 3 Hole 360° Swivel Spout Vanity Sink Basin Faucets,    (Pop Up Drain Assembly and cUPC Water Supply Hoses NOT INCLUDED)"
+    },
+    "REFIMGCGE4E6FRU1MNK.jpg": {
+      "referenceImageId": "REFIMGCGE4E6FRU1MNK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWVDY6L7GXKBN.jpg": {
+      "referenceImageId": "REFIMGCWVDY6L7GXKBN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimensions are taken from this image"
+    },
+    "REFIMGCVVXE20BZJDM6.jpg": {
+      "referenceImageId": "REFIMGCVVXE20BZJDM6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYXRRUQJ5TZ0L.jpg": {
+      "referenceImageId": "REFIMGCYXRRUQJ5TZ0L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVACXTDG2VBWT.jpg": {
+      "referenceImageId": "REFIMGCVACXTDG2VBWT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B095LJGJF8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGTXZZMPT55KV",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 15.9,
+      "widthInCms": 30.6,
+      "heightInCms": 19.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

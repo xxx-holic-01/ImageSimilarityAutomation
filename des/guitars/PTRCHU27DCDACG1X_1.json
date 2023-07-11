@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCRWE3AM5CJ42E.jpg": {
+      "referenceImageId": "REFIMGCRWE3AM5CJ42E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1L9U84AULM9L.jpg": {
+      "referenceImageId": "REFIMGC1L9U84AULM9L",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFMWGUP0K01GU.jpg": {
+      "referenceImageId": "REFIMGCFMWGUP0K01GU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1MP5WHH5BUN7.jpg": {
+      "referenceImageId": "REFIMGC1MP5WHH5BUN7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7GZN10MG1CD6.jpg": {
+      "referenceImageId": "REFIMGC7GZN10MG1CD6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRG7FRLWB352K.jpg": {
+      "referenceImageId": "REFIMGCRG7FRLWB352K",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Guitar"
+    }
+  },
+  "asin": "B007SQZJ64",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCHU27DCDACG1X",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 8.6,
+      "widthInCms": 33.7,
+      "heightInCms": 93.82
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 69.0
+}

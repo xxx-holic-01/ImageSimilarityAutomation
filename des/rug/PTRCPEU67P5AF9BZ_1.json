@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGCLPGG0EAH7GR1.jpg": {
+      "referenceImageId": "REFIMGCLPGG0EAH7GR1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0H5LGGYXMW8L.jpg": {
+      "referenceImageId": "REFIMGC0H5LGGYXMW8L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ82T0LPQGZUM.jpg": {
+      "referenceImageId": "REFIMGCJ82T0LPQGZUM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2HX878W6AFFK.jpg": {
+      "referenceImageId": "REFIMGC2HX878W6AFFK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC80KMGNFQER9H.jpg": {
+      "referenceImageId": "REFIMGC80KMGNFQER9H",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Magimate Extra-Large Picnic Blanket Outdoor Waterproof Camping Mat, Cute Beach Blankets Padded and Oversized (79 Inch x 79 Inch) Lawn Blanket, Foldable and Portable Picnic Accessories "
+    }
+  },
+  "asin": "B0974S9V25",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPEU67P5AF9BZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 180.0,
+      "widthInCms": 200.0,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 32.0
+}

@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCW8T2Y6YJA4KE.jpg": {
+      "referenceImageId": "REFIMGCW8T2Y6YJA4KE",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVT77ZF9EYV65.jpg": {
+      "referenceImageId": "REFIMGCVT77ZF9EYV65",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0PK53G72X2LR.jpg": {
+      "referenceImageId": "REFIMGC0PK53G72X2LR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHYJNQ5JGTY1X.jpg": {
+      "referenceImageId": "REFIMGCHYJNQ5JGTY1X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD0RPBV9C8WV7.jpg": {
+      "referenceImageId": "REFIMGCD0RPBV9C8WV7",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9TH0N3TEN309.jpg": {
+      "referenceImageId": "REFIMGC9TH0N3TEN309",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B08FTKHL9V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH7X8RJAW2XYQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 19.0,
+      "widthInCms": 19.0,
+      "heightInCms": 33.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HUMIDIFIER",
+  "focalLength": 70.0
+}

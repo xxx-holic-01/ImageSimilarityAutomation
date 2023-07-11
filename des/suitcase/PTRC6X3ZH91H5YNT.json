@@ -1,0 +1,98 @@
+{
+  "images": {
+    "REFIMGCZL3VFWYL1UHR.jpg": {
+      "referenceImageId": "REFIMGCZL3VFWYL1UHR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFUAZ9L7QYKMY.jpg": {
+      "referenceImageId": "REFIMGCFUAZ9L7QYKMY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2XFJ93BQRXNB.jpg": {
+      "referenceImageId": "REFIMGC2XFJ93BQRXNB",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJJWWPTRFRACJ.jpg": {
+      "referenceImageId": "REFIMGCJJWWPTRFRACJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBNA99MTP7B7K.jpg": {
+      "referenceImageId": "REFIMGCBNA99MTP7B7K",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Aerolite Reinforced Super Strong and Light 4 Wheel Lightweight Carry On Hand Cabin Luggage Suitcase 55x35x20 cm , Grey "
+    },
+    "REFIMGC2WGQPPLCW4QU.jpg": {
+      "referenceImageId": "REFIMGC2WGQPPLCW4QU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ80EN694Y2BR.jpg": {
+      "referenceImageId": "REFIMGCZ80EN694Y2BR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B073S8JDQN",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC6X3ZH91H5YNT",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 35.0,
+      "widthInCms": 20.0,
+      "heightInCms": 81.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 50.0
+}

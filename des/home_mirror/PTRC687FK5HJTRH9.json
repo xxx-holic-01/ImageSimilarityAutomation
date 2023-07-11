@@ -1,0 +1,66 @@
+{
+  "images": {
+    "REFIMGCDW7X71WA8CR3.jpg": {
+      "referenceImageId": "REFIMGCDW7X71WA8CR3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6QTV112WCF6X.jpg": {
+      "referenceImageId": "REFIMGC6QTV112WCF6X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2KQJ181TVPMK.jpg": {
+      "referenceImageId": "REFIMGC2KQJ181TVPMK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZG0V1U03K3CQ.jpg": {
+      "referenceImageId": "REFIMGCZG0V1U03K3CQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Asymmetrical Wall Mirror for Decor,   Dimensions are taken from this image"
+    },
+    "REFIMGCKQ1L05P2N284.jpg": {
+      "referenceImageId": "REFIMGCKQ1L05P2N284",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09N16NDBY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC687FK5HJTRH9",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.01,
+      "widthInCms": 58.42,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

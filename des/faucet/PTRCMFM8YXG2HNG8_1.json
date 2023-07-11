@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCLFUHRWTDJTXW.jpg": {
+      "referenceImageId": "REFIMGCLFUHRWTDJTXW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCETYKR1UVBQUZ.jpg": {
+      "referenceImageId": "REFIMGCETYKR1UVBQUZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC14KMTXQG9Z0K.jpg": {
+      "referenceImageId": "REFIMGC14KMTXQG9Z0K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD1KUJQXZ70XQ.jpg": {
+      "referenceImageId": "REFIMGCD1KUJQXZ70XQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-BULUXE Waterfall Widespread Gold Bathroom Sink Faucet Modern High Arc Vanity Basin Mixer Tap 3 Hole Double Handles "
+    },
+    "REFIMGCQ35RPE1GHDQL.jpg": {
+      "referenceImageId": "REFIMGCQ35RPE1GHDQL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG8WLN8CVRPXP.jpg": {
+      "referenceImageId": "REFIMGCG8WLN8CVRPXP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGF1HNLC4TD15.jpg": {
+      "referenceImageId": "REFIMGCGF1HNLC4TD15",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B08RBQZ1HK",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMFM8YXG2HNG8",
+  "productDimensionList": [
+    {
+      "productCategory": "Exercise Equipment",
+      "lengthInCms": 14.0,
+      "widthInCms": 32.0,
+      "heightInCms": 16.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

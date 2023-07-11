@@ -1,0 +1,61 @@
+{
+  "images": {
+    "REFIMGCML0NYXNTBAQZ.jpg": {
+      "referenceImageId": "REFIMGCML0NYXNTBAQZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX1XRCCT84LW8.jpg": {
+      "referenceImageId": "REFIMGCX1XRCCT84LW8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Brightify Black Bathroom Mirror for Wall, 20\" x 28\" Rectangluar Black Metal Framed Mirror, Modern Wall Mounted Vanity Mirror for Bathroom, Vertical or Horizontal"
+    },
+    "REFIMGCRYKAA9QL56AF.jpg": {
+      "referenceImageId": "REFIMGCRYKAA9QL56AF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRPXMNWZMKNJA.jpg": {
+      "referenceImageId": "REFIMGCRPXMNWZMKNJA",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09V19RPCP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC5LKJPX0UKQAF",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.49,
+      "widthInCms": 47.0,
+      "heightInCms": 71.12
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

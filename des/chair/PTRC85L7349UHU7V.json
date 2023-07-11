@@ -1,0 +1,115 @@
+{
+  "images": {
+    "REFIMGC7QX0NX292RAD.jpg": {
+      "referenceImageId": "REFIMGC7QX0NX292RAD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGULG26DKW5ZD.jpg": {
+      "referenceImageId": "REFIMGCGULG26DKW5ZD",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVF6G9NPE69ND.jpg": {
+      "referenceImageId": "REFIMGCVF6G9NPE69ND",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNXEAQKV6UX7K.jpg": {
+      "referenceImageId": "REFIMGCNXEAQKV6UX7K",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV97ZX9506MWH.jpg": {
+      "referenceImageId": "REFIMGCV97ZX9506MWH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5VQ39J0FWMZJ.jpg": {
+      "referenceImageId": "REFIMGC5VQ39J0FWMZJ",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCZHGJGFQACY7.jpg": {
+      "referenceImageId": "REFIMGCCZHGJGFQACY7",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH5647CN6EQLJ.jpg": {
+      "referenceImageId": "REFIMGCH5647CN6EQLJ",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWZLD7T1CFLER.jpg": {
+      "referenceImageId": "REFIMGCWZLD7T1CFLER",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "QHITTY Chesterfield Chair with Ottoman"
+    }
+  },
+  "asin": "B0BKGM9KCG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC85L7349UHU7V",
+  "productDimensionList": [
+    {
+      "productCategory": "Cushion",
+      "lengthInCms": 53.34,
+      "widthInCms": 84.83,
+      "heightInCms": 67.81
+    },
+    {
+      "productCategory": "Stool",
+      "lengthInCms": 37.84,
+      "widthInCms": 47.75,
+      "heightInCms": 38.98
+    }
+  ],
+  "multiDimensionProduct": true,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 45.0
+}

@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGCRE1ZRFQ5Y4BK.jpg": {
+      "referenceImageId": "REFIMGCRE1ZRFQ5Y4BK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wall clock"
+    },
+    "REFIMGCXR43M57WXTMH.jpg": {
+      "referenceImageId": "REFIMGCXR43M57WXTMH",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC285XWWLZN6K3.jpg": {
+      "referenceImageId": "REFIMGC285XWWLZN6K3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXD38GC7VYQ88.jpg": {
+      "referenceImageId": "REFIMGCXD38GC7VYQ88",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTFKYWE815ZMJ.jpg": {
+      "referenceImageId": "REFIMGCTFKYWE815ZMJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWEQEL910E3CA.jpg": {
+      "referenceImageId": "REFIMGCWEQEL910E3CA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08X4C945X",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCF8RUZXKPERAW",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 2.54,
+      "widthInCms": 40.64,
+      "heightInCms": 40.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "CLOCK",
+  "focalLength": 50.0
+}

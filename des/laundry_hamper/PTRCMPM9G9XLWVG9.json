@@ -1,0 +1,70 @@
+{
+  "images": {
+    "REFIMGCF6W8E3AT2CB7.jpg": {
+      "referenceImageId": "REFIMGCF6W8E3AT2CB7",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJUEJ92RRKKP9.jpg": {
+      "referenceImageId": "REFIMGCJUEJ92RRKKP9",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYCUP4X1KXU34.jpg": {
+      "referenceImageId": "REFIMGCYCUP4X1KXU34",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Naturoom 93L Laundry Basket, Bamboo Frame Laundry Basket with Lid, Fabric Shelf Basket, Large Cube Organiser, Perfect for Bathroom and Bedroom, for Storing Toys, Towels and Blankets, ( make doors closed position)"
+    },
+    "REFIMGC1CALFE5A8U2F.jpg": {
+      "referenceImageId": "REFIMGC1CALFE5A8U2F",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYEPAKAN3F6A8.jpg": {
+      "referenceImageId": "REFIMGCYEPAKAN3F6A8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4NWR26G",
+  "marketplace": 4,
+  "partnerOrderId": "PTRCMPM9G9XLWVG9",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 33.02,
+      "widthInCms": 40.64,
+      "heightInCms": 70.61
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LAUNDRY_HAMPER",
+  "focalLength": 32.0
+}

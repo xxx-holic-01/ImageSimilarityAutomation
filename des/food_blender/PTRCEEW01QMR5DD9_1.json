@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGC9B4NXZ1L140G.jpg": {
+      "referenceImageId": "REFIMGC9B4NXZ1L140G",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8JQRGG6XLRKN.jpg": {
+      "referenceImageId": "REFIMGC8JQRGG6XLRKN",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPX9QK9150BM3.jpg": {
+      "referenceImageId": "REFIMGCPX9QK9150BM3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC49WE4ETL8DZF.jpg": {
+      "referenceImageId": "REFIMGC49WE4ETL8DZF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BFQWYP3J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEEW01QMR5DD9",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 8.38,
+      "widthInCms": 8.38,
+      "heightInCms": 24.1
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_BLENDER",
+  "focalLength": 55.0
+}

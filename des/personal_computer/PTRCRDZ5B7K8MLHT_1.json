@@ -1,0 +1,70 @@
+{
+  "images": {
+    "REFIMGCEQE6K8714V1Y.jpg": {
+      "referenceImageId": "REFIMGCEQE6K8714V1Y",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN19WFTAYD8KQ.jpg": {
+      "referenceImageId": "REFIMGCN19WFTAYD8KQ",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBXBHWV3Y69CR.jpg": {
+      "referenceImageId": "REFIMGCBXBHWV3Y69CR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HP EliteDesk 800 G2 Mini Desktop PC for Business Intel Quad-Core i3-6100T up to 3.2G, 16 GB DDR4, 256 GB SSD, VGA, DP port, Windows 10 Professional 64-bit, multilingual/English (refurbished)"
+    },
+    "REFIMGCCXVJGFY56RZ7.jpg": {
+      "referenceImageId": "REFIMGCCXVJGFY56RZ7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6HFT8V6PH0BA.jpg": {
+      "referenceImageId": "REFIMGC6HFT8V6PH0BA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08CBMB1PP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRDZ5B7K8MLHT",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 36.0,
+      "widthInCms": 50.0,
+      "heightInCms": 10.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PERSONAL_COMPUTER",
+  "focalLength": 70.0
+}

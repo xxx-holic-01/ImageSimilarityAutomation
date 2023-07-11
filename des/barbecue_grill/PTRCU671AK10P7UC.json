@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGCDLQXXPULX62E.jpg": {
+      "referenceImageId": "REFIMGCDLQXXPULX62E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SuperGift Essential - Stainless Steel BBQ Grill with Stand Charcoal Barbecue Folding and Portable Outdoor Garden And Park Use"
+    },
+    "REFIMGCM0CZLBQ1ZB1Q.jpg": {
+      "referenceImageId": "REFIMGCM0CZLBQ1ZB1Q",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPW7XKX0ND3QG.jpg": {
+      "referenceImageId": "REFIMGCPW7XKX0ND3QG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHZNKERYAD1PE.jpg": {
+      "referenceImageId": "REFIMGCHZNKERYAD1PE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY0C7E9GJXKV4.jpg": {
+      "referenceImageId": "REFIMGCY0C7E9GJXKV4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TT3BRT8",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCU671AK10P7UC",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 28.0,
+      "widthInCms": 77.0,
+      "heightInCms": 57.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 45.0
+}

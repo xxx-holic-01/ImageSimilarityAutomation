@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGCFT41TJP5QC0E.jpg": {
+      "referenceImageId": "REFIMGCFT41TJP5QC0E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Pearl Metal Style Basic Double Wall Stainless Steel Bottle"
+    },
+    "REFIMGCGCQ4Q473QHMJ.jpg": {
+      "referenceImageId": "REFIMGCGCQ4Q473QHMJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ1NX0LDCZUUK.jpg": {
+      "referenceImageId": "REFIMGCQ1NX0LDCZUUK",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B000EZOHXC",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCVP15HE99HY12",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 7.0,
+      "widthInCms": 9.0,
+      "heightInCms": 20.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BOTTLE",
+  "focalLength": 90.0
+}

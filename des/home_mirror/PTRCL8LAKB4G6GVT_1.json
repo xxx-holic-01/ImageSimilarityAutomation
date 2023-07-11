@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCHUL3YEQ1RRCU.jpg": {
+      "referenceImageId": "REFIMGCHUL3YEQ1RRCU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hamilton Hills 24x36 inch Brushed Gold Metal Frame Full Length Mirror | Commercial Industrial Contemporary Rectangle Mirrors | Wall Mounted Mirror for Bathroom Vanity | Hangs Horizontal \u0026 Vertical"
+    },
+    "REFIMGCB6DTC270TLMG.jpg": {
+      "referenceImageId": "REFIMGCB6DTC270TLMG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Back details."
+    },
+    "REFIMGCFALMT4BDRNQ2.jpg": {
+      "referenceImageId": "REFIMGCFALMT4BDRNQ2",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCUU43750Y7WL.jpg": {
+      "referenceImageId": "REFIMGCCUU43750Y7WL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Wall aligned (Vertical)"
+    },
+    "REFIMGC521Q5NMZ2VCA.jpg": {
+      "referenceImageId": "REFIMGC521Q5NMZ2VCA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B076ZX6NTZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCL8LAKB4G6GVT",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.54,
+      "widthInCms": 61.0,
+      "heightInCms": 91.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 90.0
+}

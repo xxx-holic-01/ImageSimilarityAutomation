@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC5P2DMGUEV39Y.jpg": {
+      "referenceImageId": "REFIMGC5P2DMGUEV39Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Super Sparrow Water Bottle Vacuum Insulated Sports Bottle, back reff is plain no texture,handle can be model in rest state "
+    },
+    "REFIMGC36WQ0KBZYV7F.jpg": {
+      "referenceImageId": "REFIMGC36WQ0KBZYV7F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3YTP3KUHRHBB.jpg": {
+      "referenceImageId": "REFIMGC3YTP3KUHRHBB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5EE81V18FZMA.jpg": {
+      "referenceImageId": "REFIMGC5EE81V18FZMA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1CN6D8NLM8FG.jpg": {
+      "referenceImageId": "REFIMGC1CN6D8NLM8FG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKVB8MFPH8XE9.jpg": {
+      "referenceImageId": "REFIMGCKVB8MFPH8XE9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09G9WKR81",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCKLZ9K0XGT2F0",
+  "productDimensionList": [
+    {
+      "productCategory": "Exercise Equipment",
+      "lengthInCms": 7.0,
+      "widthInCms": 7.0,
+      "heightInCms": 23.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "THERMOS",
+  "focalLength": 100.0
+}

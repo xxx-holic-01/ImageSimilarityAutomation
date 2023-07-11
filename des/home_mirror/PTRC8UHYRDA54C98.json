@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGC252WGV8RM4DG.jpg": {
+      "referenceImageId": "REFIMGC252WGV8RM4DG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC25762PUUQ5DG.jpg": {
+      "referenceImageId": "REFIMGC25762PUUQ5DG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7B5E6NMDK7RJ.jpg": {
+      "referenceImageId": "REFIMGC7B5E6NMDK7RJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "has to be done in lights off and clear state and can take more details from detail page video"
+    },
+    "REFIMGCDQCA7AT4509F.jpg": {
+      "referenceImageId": "REFIMGCDQCA7AT4509F",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDP7AZWRXEQDZ.jpg": {
+      "referenceImageId": "REFIMGCDP7AZWRXEQDZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7DZ1UK44HE1M.jpg": {
+      "referenceImageId": "REFIMGC7DZ1UK44HE1M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH5EE026TJN0J.jpg": {
+      "referenceImageId": "REFIMGCH5EE026TJN0J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQTRPXB32T88B.jpg": {
+      "referenceImageId": "REFIMGCQTRPXB32T88B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCQ4QA9ZL7G82.jpg": {
+      "referenceImageId": "REFIMGCCQ4QA9ZL7G82",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B71JK13F",
+  "marketplace": 4,
+  "partnerOrderId": "PTRC8UHYRDA54C98",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 34.5,
+      "widthInCms": 40.0,
+      "heightInCms": 141.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 40.0
+}

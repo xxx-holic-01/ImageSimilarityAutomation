@@ -1,0 +1,61 @@
+{
+  "images": {
+    "REFIMGCUYHW5Y11HUAB.jpg": {
+      "referenceImageId": "REFIMGCUYHW5Y11HUAB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0XA53H9LT8FG.jpg": {
+      "referenceImageId": "REFIMGC0XA53H9LT8FG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": "Smeg Cream hand blender HBF01 CRUS"
+    },
+    "REFIMGCCDFD8XL61MZB.jpg": {
+      "referenceImageId": "REFIMGCCDFD8XL61MZB",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCPTRBMG1L87TZ.jpg": {
+      "referenceImageId": "REFIMGCPTRBMG1L87TZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC3VFUV7RVC09P.jpg": {
+      "referenceImageId": "REFIMGC3VFUV7RVC09P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07KPNX8W8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPKNVY8F90YTQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 5.08,
+      "widthInCms": 5.08,
+      "heightInCms": 31.75
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_BLENDER",
+  "focalLength": 70.0
+}

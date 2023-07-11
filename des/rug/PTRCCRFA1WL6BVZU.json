@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCARXPDLGT6RWQ.jpg": {
+      "referenceImageId": "REFIMGCARXPDLGT6RWQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1Z4L44FJTDHZ.jpg": {
+      "referenceImageId": "REFIMGC1Z4L44FJTDHZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTG8K7VE10ZN2.jpg": {
+      "referenceImageId": "REFIMGCTG8K7VE10ZN2",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNZF7MD1LQKJM.jpg": {
+      "referenceImageId": "REFIMGCNZF7MD1LQKJM",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLEFDFPYY5D3C.jpg": {
+      "referenceImageId": "REFIMGCLEFDFPYY5D3C",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Apfity Sand Proof Beach Blanket, 83 x 79 Inch Waterproof Beach Blanket, Lightweight Picnic Beach Mat for 4-7 Adults, Sand Free Blanket for Outdoor Travel Camping Hiking "
+    }
+  },
+  "asin": "B08TM94RGH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCCRFA1WL6BVZU",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 230.0,
+      "widthInCms": 210.82,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

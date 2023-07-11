@@ -1,0 +1,66 @@
+{
+  "images": {
+    "REFIMGCE4J3BGY3YH5P.jpg": {
+      "referenceImageId": "REFIMGCE4J3BGY3YH5P",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Fortec House Office Mug "
+    },
+    "REFIMGC6A34U00E2DZM.jpg": {
+      "referenceImageId": "REFIMGC6A34U00E2DZM",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2QJMK06A9R76.jpg": {
+      "referenceImageId": "REFIMGC2QJMK06A9R76",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXD01VFK55908.jpg": {
+      "referenceImageId": "REFIMGCXD01VFK55908",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQXGQVMJKCQ4F.jpg": {
+      "referenceImageId": "REFIMGCQXGQVMJKCQ4F",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B074M8C31T",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCEWGQH4RL3LJB",
+  "productDimensionList": [
+    {
+      "productCategory": "Table Big",
+      "lengthInCms": 9.0,
+      "widthInCms": 12.2,
+      "heightInCms": 11.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "DRINKING_CUP",
+  "focalLength": 10.0
+}

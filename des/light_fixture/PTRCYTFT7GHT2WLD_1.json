@@ -1,0 +1,61 @@
+{
+  "images": {
+    "REFIMGC9MG1RTUC31WQ.jpg": {
+      "referenceImageId": "REFIMGC9MG1RTUC31WQ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRYRNEZY1CFJF.jpg": {
+      "referenceImageId": "REFIMGCRYRNEZY1CFJF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LIANGMH 12-Light Modern Kitchen Island Black Gold Ceiling Pendant Light Dimmable LED 72W Staircase Large Chandelier Lobby Living Room Bedroom Foyer High Ceiling Chandelier"
+    },
+    "REFIMGC90TVFV78VEL0.jpg": {
+      "referenceImageId": "REFIMGC90TVFV78VEL0",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": "model in unlit state"
+    },
+    "REFIMGCT4KYFF2QCNG2.jpg": {
+      "referenceImageId": "REFIMGCT4KYFF2QCNG2",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4GX61QT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYTFT7GHT2WLD",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 39.97,
+      "widthInCms": 39.97,
+      "heightInCms": 118.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 35.0
+}

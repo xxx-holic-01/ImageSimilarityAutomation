@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCUAATT3R4JX69.jpg": {
+      "referenceImageId": "REFIMGCUAATT3R4JX69",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJNZGFL6C54HM.jpg": {
+      "referenceImageId": "REFIMGCJNZGFL6C54HM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX3UDZ43PJKN8.jpg": {
+      "referenceImageId": "REFIMGCX3UDZ43PJKN8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4N7VELX4KPF1.jpg": {
+      "referenceImageId": "REFIMGC4N7VELX4KPF1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8F56T6212C63.jpg": {
+      "referenceImageId": "REFIMGC8F56T6212C63",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKVT58QUTYZB8.jpg": {
+      "referenceImageId": "REFIMGCKVT58QUTYZB8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD5XPXX9M5QDU.jpg": {
+      "referenceImageId": "REFIMGCD5XPXX9M5QDU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Dimensions Adjusted       Senfot Full Size Bed Frame Velvet Upholstered Platform Bed with Button Tufted Headboard Heavy Duty Mattress Foundation with Solid Wood Slats Support No Box Spring Needed Gold and Blue"
+    }
+  },
+  "asin": "B0BPLDXC83",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQRP7BG80KERE",
+  "productDimensionList": [
+    {
+      "productCategory": "Bed",
+      "lengthInCms": 197.1,
+      "widthInCms": 138.4,
+      "heightInCms": 96.51
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BED_FRAME",
+  "focalLength": 70.0
+}

@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCD7RX3FTYB6VV.jpg": {
+      "referenceImageId": "REFIMGCD7RX3FTYB6VV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Safavieh Natura Collection  Natural NAT215A Handmade Wool Area Rug "
+    },
+    "REFIMGCXEET6F1MB6YR.jpg": {
+      "referenceImageId": "REFIMGCXEET6F1MB6YR",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6YQ7JHX88E8M.jpg": {
+      "referenceImageId": "REFIMGC6YQ7JHX88E8M",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00OHYOF24",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLZ8WGRZUZXQH",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 230.0,
+      "widthInCms": 274.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 90.0
+}

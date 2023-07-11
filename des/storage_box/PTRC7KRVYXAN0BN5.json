@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCACBQBFL1P5QW.jpg": {
+      "referenceImageId": "REFIMGCACBQBFL1P5QW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK23RWQ4QEM6W.jpg": {
+      "referenceImageId": "REFIMGCK23RWQ4QEM6W",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Really Useful Products 43 Litre Box, Nestable Clear, Pack of 3 in Card"
+    },
+    "REFIMGC6YUVZFU87AXM.jpg": {
+      "referenceImageId": "REFIMGC6YUVZFU87AXM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07VDR4SHX",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC7KRVYXAN0BN5",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 44.0,
+      "widthInCms": 69.5,
+      "heightInCms": 23.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 60.0
+}

@@ -1,0 +1,78 @@
+{
+  "images": {
+    "REFIMGC3GLXXR33VPKF.jpg": {
+      "referenceImageId": "REFIMGC3GLXXR33VPKF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "COULDSTONE Air Fryer 6 Quart 100-400℉ Electric Oilless Cooker LCD Touch Panel with 7 Presets Nonstick Frying Pot Easy Clean Adjustable Time Temperature \u0026 Overheating Protection"
+    },
+    "REFIMGCTRDQKPDNZXVT.jpg": {
+      "referenceImageId": "REFIMGCTRDQKPDNZXVT",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4T6T9W3Z2JH3.jpg": {
+      "referenceImageId": "REFIMGC4T6T9W3Z2JH3",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRPEMC2WJTJRA.jpg": {
+      "referenceImageId": "REFIMGCRPEMC2WJTJRA",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ2UQYFJ0M1N3.jpg": {
+      "referenceImageId": "REFIMGCQ2UQYFJ0M1N3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNE976WCKG3H8.jpg": {
+      "referenceImageId": "REFIMGCNE976WCKG3H8",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09B9S9RKP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW3MC094Z8P1W",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 34.29,
+      "widthInCms": 34.29,
+      "heightInCms": 45.72
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_FRYER",
+  "focalLength": 65.0
+}

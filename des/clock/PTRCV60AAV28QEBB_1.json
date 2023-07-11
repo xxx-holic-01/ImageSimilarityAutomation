@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGCQHR6Z90LCA5P.jpg": {
+      "referenceImageId": "REFIMGCQHR6Z90LCA5P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHVHG2Q2FMPTD.jpg": {
+      "referenceImageId": "REFIMGCHVHG2Q2FMPTD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6Z3QMCAEFFY5.jpg": {
+      "referenceImageId": "REFIMGC6Z3QMCAEFFY5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4WQJZV8Q0ZEP.jpg": {
+      "referenceImageId": "REFIMGC4WQJZV8Q0ZEP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCTL1DGZ3PTV85.jpg": {
+      "referenceImageId": "REFIMGCTL1DGZ3PTV85",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07DDL1MMB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCV60AAV28QEBB",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 7.62,
+      "widthInCms": 12.7,
+      "heightInCms": 7.62
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 80.0
+}

@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGCGLUPQC5UTKEP.jpg": {
+      "referenceImageId": "REFIMGCGLUPQC5UTKEP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK9YUC3XUGZ7H.jpg": {
+      "referenceImageId": "REFIMGCK9YUC3XUGZ7H",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1YJH25C06UBF.jpg": {
+      "referenceImageId": "REFIMGC1YJH25C06UBF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFEMLHQEPZ675.jpg": {
+      "referenceImageId": "REFIMGCFEMLHQEPZ675",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC08TM403B7RV7.jpg": {
+      "referenceImageId": "REFIMGC08TM403B7RV7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTJR9U4EJC6V2.jpg": {
+      "referenceImageId": "REFIMGCTJR9U4EJC6V2",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHLPHLR4FMC15.jpg": {
+      "referenceImageId": "REFIMGCHLPHLR4FMC15",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVDUZXPDDW1FD.jpg": {
+      "referenceImageId": "REFIMGCVDUZXPDDW1FD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VEVOR LED Lighted Liquor Bottle Display Shelf 40-inch LED Bar Shelves for Liquor 2-Step Lighted Liquor Bottle Shelf for Home/Commercial Bar Acrylic Lighted Bottle Display with Remote \u0026 App Control"
+    },
+    "REFIMGCRN38QTBC4E3P.jpg": {
+      "referenceImageId": "REFIMGCRN38QTBC4E3P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0928KTYLM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFT5FBACUA7XR",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 30.47,
+      "widthInCms": 106.6,
+      "heightInCms": 26.54
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BOTTLE_RACK",
+  "focalLength": 100.0
+}

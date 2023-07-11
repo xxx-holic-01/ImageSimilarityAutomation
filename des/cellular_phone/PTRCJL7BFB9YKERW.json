@@ -1,0 +1,131 @@
+{
+  "images": {
+    "REFIMGCMV2TLNEEFHE4.jpg": {
+      "referenceImageId": "REFIMGCMV2TLNEEFHE4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCXAGPBXHGV2YM.jpg": {
+      "referenceImageId": "REFIMGCXAGPBXHGV2YM",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE0UV6740B30N.jpg": {
+      "referenceImageId": "REFIMGCE0UV6740B30N",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMK1ZEZFFT18C.jpg": {
+      "referenceImageId": "REFIMGCMK1ZEZFFT18C",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJG4R08BR82QH.jpg": {
+      "referenceImageId": "REFIMGCJG4R08BR82QH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV7EDXVVMCTLH.jpg": {
+      "referenceImageId": "REFIMGCV7EDXVVMCTLH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP29P68FZJJNP.jpg": {
+      "referenceImageId": "REFIMGCP29P68FZJJNP",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXFW89E2YK8C9.jpg": {
+      "referenceImageId": "REFIMGCXFW89E2YK8C9",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1M2D3F0VP6B7.jpg": {
+      "referenceImageId": "REFIMGC1M2D3F0VP6B7",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBUT41KRFFEN7.jpg": {
+      "referenceImageId": "REFIMGCBUT41KRFFEN7",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B097TPHRQ1",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCJL7BFB9YKERW",
+  "productDimensionList": [
+    {
+      "productCategory": "Photo Frame",
+      "lengthInCms": 0.69,
+      "widthInCms": 12.8,
+      "heightInCms": 15.81
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 55.0
+}

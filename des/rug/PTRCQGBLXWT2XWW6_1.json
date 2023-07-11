@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGCYHQV0ZY818VR.jpg": {
+      "referenceImageId": "REFIMGCYHQV0ZY818VR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TIDYTIDE Buffalo Plaid Rugs 23.5\"x35.4\" Black/White Cherkered Outdoor Rug Washable Layered Door Mats for Porch/Kitchen/Laundry/Bathroom/Bedroom2\u0027x3\u0027"
+    },
+    "REFIMGCQ176PPLT2F3K.jpg": {
+      "referenceImageId": "REFIMGCQ176PPLT2F3K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGL8ZVG3QPYQP.jpg": {
+      "referenceImageId": "REFIMGCGL8ZVG3QPYQP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ9MMFUTPC5G5.jpg": {
+      "referenceImageId": "REFIMGCJ9MMFUTPC5G5",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5HTQNKHLHNUU.jpg": {
+      "referenceImageId": "REFIMGC5HTQNKHLHNUU",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0RH2YHPG6QWV.jpg": {
+      "referenceImageId": "REFIMGC0RH2YHPG6QWV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWKYQQAH2LA2X.jpg": {
+      "referenceImageId": "REFIMGCWKYQQAH2LA2X",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08QTSK9ZR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQGBLXWT2XWW6",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 59.94,
+      "widthInCms": 89.92,
+      "heightInCms": 1.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 45.0
+}

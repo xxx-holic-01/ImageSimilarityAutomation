@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCEDDG15ZFB566.jpg": {
+      "referenceImageId": "REFIMGCEDDG15ZFB566",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC356CXKARDG9Y.jpg": {
+      "referenceImageId": "REFIMGC356CXKARDG9Y",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYAYYLP5GM5U4.jpg": {
+      "referenceImageId": "REFIMGCYAYYLP5GM5U4",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC95U0XVDF74AM.jpg": {
+      "referenceImageId": "REFIMGC95U0XVDF74AM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMGFBRG5V384V.jpg": {
+      "referenceImageId": "REFIMGCMGFBRG5V384V",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09N6D9Q28",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8D98D174W9AD",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 19.99,
+      "widthInCms": 17.0,
+      "heightInCms": 21.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RICE_COOKERS",
+  "focalLength": 61.0
+}

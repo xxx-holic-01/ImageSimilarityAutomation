@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCG8LWK2N4PXEP.jpg": {
+      "referenceImageId": "REFIMGCG8LWK2N4PXEP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "we should do combine together with all object whille modelling,we should exclude wax"
+    },
+    "REFIMGCJ0Y22AR28F1D.jpg": {
+      "referenceImageId": "REFIMGCJ0Y22AR28F1D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNFKPB6JZQA1Q.jpg": {
+      "referenceImageId": "REFIMGCNFKPB6JZQA1Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR54KAAJ1ZCB3.jpg": {
+      "referenceImageId": "REFIMGCR54KAAJ1ZCB3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCBNZ9QAZAXA8.jpg": {
+      "referenceImageId": "REFIMGCCBNZ9QAZAXA8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC861EZWPZMV1M.jpg": {
+      "referenceImageId": "REFIMGC861EZWPZMV1M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY62BV9BEK978.jpg": {
+      "referenceImageId": "REFIMGCY62BV9BEK978",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B087RDJ9NY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCBVUVVGF0WNY7",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 10.0,
+      "widthInCms": 10.0,
+      "heightInCms": 8.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AROMA_DIFFUSER",
+  "focalLength": 90.0
+}

@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGCUC13TA50Z22D.jpg": {
+      "referenceImageId": "REFIMGCUC13TA50Z22D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8968NQ9BXAY8.jpg": {
+      "referenceImageId": "REFIMGC8968NQ9BXAY8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6DP5NGPJZKC6.jpg": {
+      "referenceImageId": "REFIMGC6DP5NGPJZKC6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6MVATKGW62KD.jpg": {
+      "referenceImageId": "REFIMGC6MVATKGW62KD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Kai Corporation KHS Lightweight, High Efficiency Frying Pan "
+    },
+    "REFIMGCRN9JQDGT012P.jpg": {
+      "referenceImageId": "REFIMGCRN9JQDGT012P",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWMMFZ48DGGQ0.jpg": {
+      "referenceImageId": "REFIMGCWMMFZ48DGGQ0",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01CODB5PE",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCW5DWFXTW1LU4",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 24.0,
+      "widthInCms": 37.0,
+      "heightInCms": 12.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 60.0
+}

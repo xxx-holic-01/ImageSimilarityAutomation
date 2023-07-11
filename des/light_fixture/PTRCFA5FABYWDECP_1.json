@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGCTXH09CU01V0B.jpg": {
+      "referenceImageId": "REFIMGCTXH09CU01V0B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Cawabien 4 Light Linen Drum Rustic Chandelier,Pendant Lighting Fixture with Black Metal Rod Adjustable Hanging Chain Ceiling Lights for Kitchen Island Dining Table Entryway - Model should be in lightsoff state , Bulb not included"
+    },
+    "REFIMGC12TMR39DAQWG.jpg": {
+      "referenceImageId": "REFIMGC12TMR39DAQWG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC413LLHWJEH7A.jpg": {
+      "referenceImageId": "REFIMGC413LLHWJEH7A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5C3JJAV1KED7.jpg": {
+      "referenceImageId": "REFIMGC5C3JJAV1KED7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPQ9DP5ACLATW.jpg": {
+      "referenceImageId": "REFIMGCPQ9DP5ACLATW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHAPPJNU0M7AY.jpg": {
+      "referenceImageId": "REFIMGCHAPPJNU0M7AY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCLJ7D495Q02Z.jpg": {
+      "referenceImageId": "REFIMGCCLJ7D495Q02Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9WKNX4T3FRXW.jpg": {
+      "referenceImageId": "REFIMGC9WKNX4T3FRXW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLU4GRH2VC9M5.jpg": {
+      "referenceImageId": "REFIMGCLU4GRH2VC9M5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B45LKYVD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFA5FABYWDECP",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 44.02,
+      "widthInCms": 44.02,
+      "heightInCms": 78.47
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 75.0
+}

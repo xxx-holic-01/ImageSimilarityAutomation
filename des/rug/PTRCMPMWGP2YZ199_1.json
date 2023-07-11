@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCKEYY2EK1BAMX.jpg": {
+      "referenceImageId": "REFIMGCKEYY2EK1BAMX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Champion Rugs Modern Rugs for Living Room Abstract Soft Plush Red Grey Black Area Rug"
+    },
+    "REFIMGCP54JWN3ZEDC8.jpg": {
+      "referenceImageId": "REFIMGCP54JWN3ZEDC8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKC77HA9DF9VW.jpg": {
+      "referenceImageId": "REFIMGCKC77HA9DF9VW",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ5MVYBLB7DTP.jpg": {
+      "referenceImageId": "REFIMGCQ5MVYBLB7DTP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08S478VTG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCMPMWGP2YZ199",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 73.05,
+      "widthInCms": 217.95,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 40.0
+}

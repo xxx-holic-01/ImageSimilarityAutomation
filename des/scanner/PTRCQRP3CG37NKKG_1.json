@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGCFU6L33FH9A2Y.jpg": {
+      "referenceImageId": "REFIMGCFU6L33FH9A2Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC1J5D7JCDEDRL.jpg": {
+      "referenceImageId": "REFIMGC1J5D7JCDEDRL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVN7Y1E1CEQL2.jpg": {
+      "referenceImageId": "REFIMGCVN7Y1E1CEQL2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCA6ABHR2VTNE1.jpg": {
+      "referenceImageId": "REFIMGCA6ABHR2VTNE1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKTYAXBPD0PC6.jpg": {
+      "referenceImageId": "REFIMGCKTYAXBPD0PC6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0K59MXWYQ5MQ.jpg": {
+      "referenceImageId": "REFIMGC0K59MXWYQ5MQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMTLWAUWHYXC4.jpg": {
+      "referenceImageId": "REFIMGCMTLWAUWHYXC4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFF00EP9P2YJP.jpg": {
+      "referenceImageId": "REFIMGCFF00EP9P2YJP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B5G5PHF8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQRP3CG37NKKG",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 21.15,
+      "widthInCms": 15.8,
+      "heightInCms": 34.18
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SCANNER",
+  "focalLength": 60.0
+}

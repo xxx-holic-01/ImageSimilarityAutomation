@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCNEDF8HKN23Q8.jpg": {
+      "referenceImageId": "REFIMGCNEDF8HKN23Q8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCW4K439TH0QQD.jpg": {
+      "referenceImageId": "REFIMGCW4K439TH0QQD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCRGYF7YRXW16K.jpg": {
+      "referenceImageId": "REFIMGCRGYF7YRXW16K",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Like-It FBS-3 Divided Trash Can, Drawer Station, Super-Slim, 3 Tiers, White"
+    }
+  },
+  "asin": "B07J3P6K8H",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC7KRXF1ZMV076",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 46.5,
+      "widthInCms": 14.0,
+      "heightInCms": 79.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "TRASH_CAN",
+  "focalLength": 45.0
+}

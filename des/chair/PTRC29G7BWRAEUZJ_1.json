@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCB8BT4UX0EZPG.jpg": {
+      "referenceImageId": "REFIMGCB8BT4UX0EZPG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "AFO Ergonomic Home Office Chair"
+    },
+    "REFIMGC9H804AFZAPUL.jpg": {
+      "referenceImageId": "REFIMGC9H804AFZAPUL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7UEKEEFJFZMX.jpg": {
+      "referenceImageId": "REFIMGC7UEKEEFJFZMX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP38JR2YWU456.jpg": {
+      "referenceImageId": "REFIMGCP38JR2YWU456",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTN1D17XF1BA6.jpg": {
+      "referenceImageId": "REFIMGCTN1D17XF1BA6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BNH79YRY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC29G7BWRAEUZJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 32.0,
+      "widthInCms": 32.0,
+      "heightInCms": 45.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 90.0
+}

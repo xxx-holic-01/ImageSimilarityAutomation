@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCNWART88GNNV3.jpg": {
+      "referenceImageId": "REFIMGCNWART88GNNV3",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7D8MLKPVXX1M.jpg": {
+      "referenceImageId": "REFIMGC7D8MLKPVXX1M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC50NRM7479J26.jpg": {
+      "referenceImageId": "REFIMGC50NRM7479J26",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC28N3W140AZD3.jpg": {
+      "referenceImageId": "REFIMGC28N3W140AZD3",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQPNC5VKQ0R0U.jpg": {
+      "referenceImageId": "REFIMGCQPNC5VKQ0R0U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8X5TALT1QWD0.jpg": {
+      "referenceImageId": "REFIMGC8X5TALT1QWD0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE1FXWKAB74X6.jpg": {
+      "referenceImageId": "REFIMGCE1FXWKAB74X6",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAD7VB73YN7BD.jpg": {
+      "referenceImageId": "REFIMGCAD7VB73YN7BD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "FANYUSHOW Large Wall Mirror Door Mirror Baroque Style Wall Mirror Rectangular with Patterned Full Length Mirror Hallway Mirror for Living Room, Bedroom and Dressing Room Decorative Wall Mirror ,White"
+    },
+    "REFIMGCLE7JLR016QTC.jpg": {
+      "referenceImageId": "REFIMGCLE7JLR016QTC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08QVD4NSX",
+  "marketplace": 4,
+  "partnerOrderId": "PTRC7TCGNRU53DN6",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.54,
+      "widthInCms": 37.6,
+      "heightInCms": 127.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 100.0
+}

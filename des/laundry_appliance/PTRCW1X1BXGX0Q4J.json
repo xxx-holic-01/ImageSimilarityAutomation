@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC1X6XQTXPXFHW.jpg": {
+      "referenceImageId": "REFIMGC1X6XQTXPXFHW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCU5XQHNQDYEV1.jpg": {
+      "referenceImageId": "REFIMGCU5XQHNQDYEV1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC577WKDN2DE1X.jpg": {
+      "referenceImageId": "REFIMGC577WKDN2DE1X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC91GZ3RKBN9PH.jpg": {
+      "referenceImageId": "REFIMGC91GZ3RKBN9PH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCYA8ABCMF2N04.jpg": {
+      "referenceImageId": "REFIMGCYA8ABCMF2N04",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5L5F0382MNUE.jpg": {
+      "referenceImageId": "REFIMGC5L5F0382MNUE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJEAVZH094MVH.jpg": {
+      "referenceImageId": "REFIMGCJEAVZH094MVH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCC8ET7N2AWNXZ.jpg": {
+      "referenceImageId": "REFIMGCC8ET7N2AWNXZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B68LGLTZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW1X1BXGX0Q4J",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 20.0,
+      "widthInCms": 20.0,
+      "heightInCms": 7.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAUNDRY_APPLIANCE",
+  "focalLength": 50.0
+}

@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGCE5EBRFVKZTJA.jpg": {
+      "referenceImageId": "REFIMGCE5EBRFVKZTJA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Oypla Wooden Outdoor Triangle Rabbit Guinea Pig Pet Hutch Run Cage"
+    },
+    "REFIMGC04DPNYY1R723.jpg": {
+      "referenceImageId": "REFIMGC04DPNYY1R723",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC62UT26ZLYPVN.jpg": {
+      "referenceImageId": "REFIMGC62UT26ZLYPVN",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDCG8JJNEU2J7.jpg": {
+      "referenceImageId": "REFIMGCDCG8JJNEU2J7",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC4UJDNYR4QQV.jpg": {
+      "referenceImageId": "REFIMGCC4UJDNYR4QQV",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0LW0RLPUYWT7.jpg": {
+      "referenceImageId": "REFIMGC0LW0RLPUYWT7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B074SZB7HK",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCQPYGX0AFL5C5",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 118.0,
+      "widthInCms": 45.0,
+      "heightInCms": 42.29
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ANIMAL_CAGE",
+  "focalLength": 39.0
+}

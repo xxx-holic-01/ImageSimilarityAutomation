@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCW3JEUVFEVBAU.jpg": {
+      "referenceImageId": "REFIMGCW3JEUVFEVBAU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8FE7G5RBVJ54.jpg": {
+      "referenceImageId": "REFIMGC8FE7G5RBVJ54",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8QM8GZ25N6GW.jpg": {
+      "referenceImageId": "REFIMGC8QM8GZ25N6GW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLZVCNCKN0W0R.jpg": {
+      "referenceImageId": "REFIMGCLZVCNCKN0W0R",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3V5QRQ111M6P.jpg": {
+      "referenceImageId": "REFIMGC3V5QRQ111M6P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUUCM8LPMDMC7.jpg": {
+      "referenceImageId": "REFIMGCUUCM8LPMDMC7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimension taken from this Image"
+    },
+    "REFIMGCLLHV6QBJH4CH.jpg": {
+      "referenceImageId": "REFIMGCLLHV6QBJH4CH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Globe Electric 51849 LED Integrated Plug-In or Hardwire Wall Sconce, DA done in second light image, model only one, cable not included in DA process but model cable also"
+    },
+    "REFIMGC3NL285LTH3UK.jpg": {
+      "referenceImageId": "REFIMGC3NL285LTH3UK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFABGYWCDHFU2.jpg": {
+      "referenceImageId": "REFIMGCFABGYWCDHFU2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFMXG7EKZTLGU.jpg": {
+      "referenceImageId": "REFIMGCFMXG7EKZTLGU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09W7ZP4PD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUNWB5MNJM8HZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 8.0,
+      "widthInCms": 12.0,
+      "heightInCms": 12.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 100.0
+}

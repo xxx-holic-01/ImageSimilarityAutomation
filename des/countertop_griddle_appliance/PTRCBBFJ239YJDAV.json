@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCA4B6WBC2QL8Z.jpg": {
+      "referenceImageId": "REFIMGCA4B6WBC2QL8Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1WJAUG1N8U1B.jpg": {
+      "referenceImageId": "REFIMGC1WJAUG1N8U1B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC4EH55YGN47JU.jpg": {
+      "referenceImageId": "REFIMGC4EH55YGN47JU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNJ147Q9E6UXB.jpg": {
+      "referenceImageId": "REFIMGCNJ147Q9E6UXB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08WJGLLNJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCBBFJ239YJDAV",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 16.2,
+      "widthInCms": 12.7,
+      "heightInCms": 8.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COUNTERTOP_GRIDDLE_APPLIANCE",
+  "focalLength": 55.0
+}

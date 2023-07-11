@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCAU5GTDHW04MR.jpg": {
+      "referenceImageId": "REFIMGCAU5GTDHW04MR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3YGTAPY9F98A.jpg": {
+      "referenceImageId": "REFIMGC3YGTAPY9F98A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC37D4QJPF3LUZ.jpg": {
+      "referenceImageId": "REFIMGC37D4QJPF3LUZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVLJP7HF883X1.jpg": {
+      "referenceImageId": "REFIMGCVLJP7HF883X1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6U2MBF67EDFJ.jpg": {
+      "referenceImageId": "REFIMGC6U2MBF67EDFJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Meeting Owl 3 Premium Pack: 360-Degree, 1080p HD Smart Video Conference Camera, Microphone, and Speaker (Automatic Speaker Focus \u0026 Smart Zooming and Noise Equalizing) "
+    }
+  },
+  "asin": "B0B1JPMLKW",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVF1H0MPD3J80",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 14.6,
+      "widthInCms": 14.6,
+      "heightInCms": 35.56
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CAMCORDER",
+  "focalLength": 75.0
+}

@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCFC7H29ZLWA52.jpg": {
+      "referenceImageId": "REFIMGCFC7H29ZLWA52",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC46X97W5X238X.jpg": {
+      "referenceImageId": "REFIMGC46X97W5X238X",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCAHV9VYD1ML4G.jpg": {
+      "referenceImageId": "REFIMGCAHV9VYD1ML4G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZUEWBPCTWD4F.jpg": {
+      "referenceImageId": "REFIMGCZUEWBPCTWD4F",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B088GWFWCW",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCBHPBMT095PNQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 117.0,
+      "widthInCms": 117.0,
+      "heightInCms": 120.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "SANDBOX",
+  "focalLength": 50.0
+}

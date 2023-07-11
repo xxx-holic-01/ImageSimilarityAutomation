@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGC4TUTJ19DGQN3.jpg": {
+      "referenceImageId": "REFIMGC4TUTJ19DGQN3",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "closed state image"
+    },
+    "REFIMGCC53BX2LCMEZC.jpg": {
+      "referenceImageId": "REFIMGCC53BX2LCMEZC",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8H7L7KGK8HU5.jpg": {
+      "referenceImageId": "REFIMGC8H7L7KGK8HU5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNV768M869ZFL.jpg": {
+      "referenceImageId": "REFIMGCNV768M869ZFL",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN6GXZM1UG96B.jpg": {
+      "referenceImageId": "REFIMGCN6GXZM1UG96B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF4QKJP4UA1Z6.jpg": {
+      "referenceImageId": "REFIMGCF4QKJP4UA1Z6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXA4W2PMGMZCN.jpg": {
+      "referenceImageId": "REFIMGCXA4W2PMGMZCN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Bluetooth Vinyl Record Player, with Built-in Speakers, Vinyl Record to USB, 3-Speed ​​Turntable (Walnut) Visit the Eikosch store[Model should be in closed state]"
+    }
+  },
+  "asin": "B09Q2ZKS73",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEF94KZJYUBXB",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 37.0,
+      "widthInCms": 44.0,
+      "heightInCms": 13.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TURNTABLE",
+  "focalLength": 50.0
+}

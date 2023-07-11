@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCP58ML452B437.jpg": {
+      "referenceImageId": "REFIMGCP58ML452B437",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF3FPWTMN3WYN.jpg": {
+      "referenceImageId": "REFIMGCF3FPWTMN3WYN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEEHTGEX0QVQP.jpg": {
+      "referenceImageId": "REFIMGCEEHTGEX0QVQP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN5421WAJWAFR.jpg": {
+      "referenceImageId": "REFIMGCN5421WAJWAFR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWPLMKYPTXBG1.jpg": {
+      "referenceImageId": "REFIMGCWPLMKYPTXBG1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8M6H0LC4H938.jpg": {
+      "referenceImageId": "REFIMGC8M6H0LC4H938",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRF66FZDHFZ22.jpg": {
+      "referenceImageId": "REFIMGCRF66FZDHFZ22",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "only rug has to be modelled"
+    }
+  },
+  "asin": "B081YPHDLM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCA31HYA5DRN4D",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 61.0,
+      "widthInCms": 131.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

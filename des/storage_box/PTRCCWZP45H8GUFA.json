@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGCUZ1E7W0N3FHU.jpg": {
+      "referenceImageId": "REFIMGCUZ1E7W0N3FHU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Ikea Dröna Storage Box Shelf Insert 33 x 38 x 33 cm Black More Detail Vailable In Detail Page Video"
+    }
+  },
+  "asin": "B013T8ANLU",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCCWZP45H8GUFA",
+  "productDimensionList": [
+    {
+      "productCategory": "Bookshelf",
+      "lengthInCms": 33.0,
+      "widthInCms": 38.0,
+      "heightInCms": 33.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "STORAGE_BOX",
+  "focalLength": 60.0
+}

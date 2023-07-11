@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCCA06TEKVCNXQ.jpg": {
+      "referenceImageId": "REFIMGCCA06TEKVCNXQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Diyel Dusk to Dawn Outdoor Gooseneck Barn Light Outdoor Wall Sconce, Model should be in light off state, bulb not included"
+    },
+    "REFIMGCRGFTHP5HKX1K.jpg": {
+      "referenceImageId": "REFIMGCRGFTHP5HKX1K",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2T7WDXRFEDX7.jpg": {
+      "referenceImageId": "REFIMGC2T7WDXRFEDX7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLGD2KX57ATHD.jpg": {
+      "referenceImageId": "REFIMGCLGD2KX57ATHD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9KE6GX4EZQXM.jpg": {
+      "referenceImageId": "REFIMGC9KE6GX4EZQXM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimension taken from this Image"
+    },
+    "REFIMGCQNDFGKC0DVDB.jpg": {
+      "referenceImageId": "REFIMGCQNDFGKC0DVDB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDBZ2987G217P.jpg": {
+      "referenceImageId": "REFIMGCDBZ2987G217P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4FZ147V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZXP0D11JAGZ0",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 36.0,
+      "widthInCms": 33.0,
+      "heightInCms": 34.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

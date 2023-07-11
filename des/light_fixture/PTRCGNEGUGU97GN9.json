@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC1XT87Q0F01AW.jpg": {
+      "referenceImageId": "REFIMGC1XT87Q0F01AW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRK5CWR9LF3V6.jpg": {
+      "referenceImageId": "REFIMGCRK5CWR9LF3V6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Anzid Solar Street Lights Outdoor,LED Security Flood Lights Motion Sensor Waterproof,Dusk to Dawn Solar Lamp"
+    },
+    "REFIMGCL9VD64TPCTZ0.jpg": {
+      "referenceImageId": "REFIMGCL9VD64TPCTZ0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT7LK2L5FN6UK.jpg": {
+      "referenceImageId": "REFIMGCT7LK2L5FN6UK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4AZTZHZQW6ZP.jpg": {
+      "referenceImageId": "REFIMGC4AZTZHZQW6ZP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BQ27B58C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGNEGUGU97GN9",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 111.98,
+      "widthInCms": 34.04,
+      "heightInCms": 15.94
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

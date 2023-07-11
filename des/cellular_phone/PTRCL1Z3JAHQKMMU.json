@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCKNBNDPAPU2M4.jpg": {
+      "referenceImageId": "REFIMGCKNBNDPAPU2M4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ7MNN73H6N11.jpg": {
+      "referenceImageId": "REFIMGCJ7MNN73H6N11",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "phone has to be modelled in black screen and can take more views from detail page video"
+    },
+    "REFIMGC5J4H2WB3C7XD.jpg": {
+      "referenceImageId": "REFIMGC5J4H2WB3C7XD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYP5DMDZZP8TW.jpg": {
+      "referenceImageId": "REFIMGCYP5DMDZZP8TW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B098P5VMK9",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCL1Z3JAHQKMMU",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 1.09,
+      "widthInCms": 7.82,
+      "heightInCms": 17.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 40.0
+}

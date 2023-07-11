@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC2GEM67UYWY0Z.jpg": {
+      "referenceImageId": "REFIMGC2GEM67UYWY0Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXRRTA4N67RQH.jpg": {
+      "referenceImageId": "REFIMGCXRRTA4N67RQH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTURLPYGVP0CU.jpg": {
+      "referenceImageId": "REFIMGCTURLPYGVP0CU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC30E5UQEEJFMB.jpg": {
+      "referenceImageId": "REFIMGC30E5UQEEJFMB",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Bellman \u0026 Symfon ALARM CLOCK PRO"
+    },
+    "REFIMGCKW8UZPCJ5U4R.jpg": {
+      "referenceImageId": "REFIMGCKW8UZPCJ5U4R",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0889PQKKY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLPW1BWHA3XZ9",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 9.14,
+      "widthInCms": 12.0,
+      "heightInCms": 11.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 25.0
+}

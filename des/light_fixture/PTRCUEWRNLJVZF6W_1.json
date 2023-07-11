@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCFGE07RDC0CB7.jpg": {
+      "referenceImageId": "REFIMGCFGE07RDC0CB7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6Q8QT81F9QLY.jpg": {
+      "referenceImageId": "REFIMGC6Q8QT81F9QLY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJYUFQR6GMBXD.jpg": {
+      "referenceImageId": "REFIMGCJYUFQR6GMBXD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9FZUGPAN4DAJ.jpg": {
+      "referenceImageId": "REFIMGC9FZUGPAN4DAJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCP1ML8C8HL4L4.jpg": {
+      "referenceImageId": "REFIMGCP1ML8C8HL4L4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Galental Ring Pendant Light Black and Gold Hanging Ceiling Chandelier Adjustable Kitchen Island Light Fixture for Dinning Room Living Room Bedroom Foyer Entryway(9.8inch)"
+    }
+  },
+  "asin": "B09SYQMP31",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCUEWRNLJVZF6W",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 24.89,
+      "widthInCms": 24.89,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 55.0
+}

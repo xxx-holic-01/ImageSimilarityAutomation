@@ -1,0 +1,121 @@
+{
+  "images": {
+    "REFIMGC2NJD6LHKCY82.jpg": {
+      "referenceImageId": "REFIMGC2NJD6LHKCY82",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": true
+    },
+    "REFIMGCJFWHZUMUDPD0.jpg": {
+      "referenceImageId": "REFIMGCJFWHZUMUDPD0",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGC5KP61T818EXW.jpg": {
+      "referenceImageId": "REFIMGC5KP61T818EXW",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCYPBPFATZM04V.jpg": {
+      "referenceImageId": "REFIMGCYPBPFATZM04V",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCJJUDVVPJ21LH.jpg": {
+      "referenceImageId": "REFIMGCJJUDVVPJ21LH",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGC6AEKY6HX138L.jpg": {
+      "referenceImageId": "REFIMGC6AEKY6HX138L",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGC4J8731EAFAKX.jpg": {
+      "referenceImageId": "REFIMGC4J8731EAFAKX",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCTQ9RGN3D37H6.jpg": {
+      "referenceImageId": "REFIMGCTQ9RGN3D37H6",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGC3M17MNYY2V21.jpg": {
+      "referenceImageId": "REFIMGC3M17MNYY2V21",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCT9XDBQ20761M.jpg": {
+      "referenceImageId": "REFIMGCT9XDBQ20761M",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGC0HXL68T0N98K.jpg": {
+      "referenceImageId": "REFIMGC0HXL68T0N98K",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCL5CU5T5HDAFW.jpg": {
+      "referenceImageId": "REFIMGCL5CU5T5HDAFW",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCTTD8RCDD01L9.jpg": {
+      "referenceImageId": "REFIMGCTTD8RCDD01L9",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCAEURENVEFB5Y.jpg": {
+      "referenceImageId": "REFIMGCAEURENVEFB5Y",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCWCLLMQZ0V5W8.jpg": {
+      "referenceImageId": "REFIMGCWCLLMQZ0V5W8",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    },
+    "REFIMGCLD3JLC8RA67U.jpg": {
+      "referenceImageId": "REFIMGCLD3JLC8RA67U",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07884L31D",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPRX56KQV274G",
+  "modelWorkflowType": "Texture",
+  "productType": "SHOES"
+}

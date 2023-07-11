@@ -1,0 +1,28 @@
+{
+  "images": {
+    "REFIMGCKHF44PEPNK0G.jpg": {
+      "referenceImageId": "REFIMGCKHF44PEPNK0G",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3U9DAPB42MW6.jpg": {
+      "referenceImageId": "REFIMGC3U9DAPB42MW6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09QWDHCBQ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLBD95RGN5ULK",
+  "modelWorkflowType": "Texture",
+  "productType": "SHOES"
+}

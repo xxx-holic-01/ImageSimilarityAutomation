@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGC739A8WH3JERN.jpg": {
+      "referenceImageId": "REFIMGC739A8WH3JERN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCCTHZK4PRT6F4.jpg": {
+      "referenceImageId": "REFIMGCCTHZK4PRT6F4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEDHJR7A0V2C7.jpg": {
+      "referenceImageId": "REFIMGCEDHJR7A0V2C7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5KCW8TVKY12X.jpg": {
+      "referenceImageId": "REFIMGC5KCW8TVKY12X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKL9A7M9F6N01.jpg": {
+      "referenceImageId": "REFIMGCKL9A7M9F6N01",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNP5Y8DP2E9YZ.jpg": {
+      "referenceImageId": "REFIMGCNP5Y8DP2E9YZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH8YQH8GXG3G6.jpg": {
+      "referenceImageId": "REFIMGCH8YQH8GXG3G6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2FUYMW1589CG.jpg": {
+      "referenceImageId": "REFIMGC2FUYMW1589CG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCJCD948",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJZPEVUZ5KMKM",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 55.88,
+      "widthInCms": 116.84,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "SPORT_TABLE_GAME",
+  "focalLength": 45.0
+}

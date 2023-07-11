@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCPG0VBWQX4LMQ.jpg": {
+      "referenceImageId": "REFIMGCPG0VBWQX4LMQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXDETXB4R7XE9.jpg": {
+      "referenceImageId": "REFIMGCXDETXB4R7XE9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTXULF4Y37X0B.jpg": {
+      "referenceImageId": "REFIMGCTXULF4Y37X0B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-VEVOR Commercial Ice Maker Machine-Ice Maker Machine only"
+    },
+    "REFIMGCHDLUQRKGLADJ.jpg": {
+      "referenceImageId": "REFIMGCHDLUQRKGLADJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUK9MGQ86HYP2.jpg": {
+      "referenceImageId": "REFIMGCUK9MGQ86HYP2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC95K0RYVDUKEM.jpg": {
+      "referenceImageId": "REFIMGC95K0RYVDUKEM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6HLVCN3LVGHA.jpg": {
+      "referenceImageId": "REFIMGC6HLVCN3LVGHA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07T3JVB7B",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVD9Y0XCHF0WQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 67.0,
+      "widthInCms": 72.0,
+      "heightInCms": 98.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ICE_MAKER",
+  "focalLength": 35.0
+}

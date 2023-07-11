@@ -1,0 +1,94 @@
+{
+  "images": {
+    "REFIMGCBLKQZ223ZG5G.jpg": {
+      "referenceImageId": "REFIMGCBLKQZ223ZG5G",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8NUWA58JGH3R.jpg": {
+      "referenceImageId": "REFIMGC8NUWA58JGH3R",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6WNB5XWW69KJ.jpg": {
+      "referenceImageId": "REFIMGC6WNB5XWW69KJ",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFACZ8R91U3F2.jpg": {
+      "referenceImageId": "REFIMGCFACZ8R91U3F2",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRAUBA0P9D6JF.jpg": {
+      "referenceImageId": "REFIMGCRAUBA0P9D6JF",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEZRX1ZJDMKR3.jpg": {
+      "referenceImageId": "REFIMGCEZRX1ZJDMKR3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0G010PFEQ773.jpg": {
+      "referenceImageId": "REFIMGC0G010PFEQ773",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL49PJZQY5W5C.jpg": {
+      "referenceImageId": "REFIMGCL49PJZQY5W5C",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB62YBXKZE8CG.jpg": {
+      "referenceImageId": "REFIMGCB62YBXKZE8CG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ELEGANT 600x500mm Bathroom Mirror With Lights, Horizontal Vertical/Sensor Switch LED Illuminated Bath Vanity Wall-Mounted Mirrors "
+    }
+  },
+  "asin": "B01MATKX5U",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC7H0K14XQRJ2W",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 4.0,
+      "widthInCms": 60.0,
+      "heightInCms": 50.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

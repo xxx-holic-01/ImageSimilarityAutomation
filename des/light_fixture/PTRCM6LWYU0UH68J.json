@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCLEVL1Z8FYJ6C.jpg": {
+      "referenceImageId": "REFIMGCLEVL1Z8FYJ6C",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ceiling light- bulb not included, model in light off state, model only one lamp, DA done with first image"
+    },
+    "REFIMGC3XW1L82GHZDU.jpg": {
+      "referenceImageId": "REFIMGC3XW1L82GHZDU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCL73BMPF066K0.jpg": {
+      "referenceImageId": "REFIMGCL73BMPF066K0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFDBXXCK5YEXN.jpg": {
+      "referenceImageId": "REFIMGCFDBXXCK5YEXN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF5VV0JAUBYYP.jpg": {
+      "referenceImageId": "REFIMGCF5VV0JAUBYYP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCR7V0F0PG4Z06.jpg": {
+      "referenceImageId": "REFIMGCR7V0F0PG4Z06",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCXCDW1ZGCK57.jpg": {
+      "referenceImageId": "REFIMGCCXCDW1ZGCK57",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFJYMVMNAZRY7.jpg": {
+      "referenceImageId": "REFIMGCFJYMVMNAZRY7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09CY8THVY",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCM6LWYU0UH68J",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 46.48,
+      "widthInCms": 46.48,
+      "heightInCms": 100.18
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 68.0
+}

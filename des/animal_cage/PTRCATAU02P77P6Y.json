@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCHU1MJ12MUF3T.jpg": {
+      "referenceImageId": "REFIMGCHU1MJ12MUF3T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "BUNNY BUSINESS The Grove Grey Double Decker Rabbit/Guinea Pig Hutch and Run EXTRA DEPTH "
+    },
+    "REFIMGCY6W6582JQR98.jpg": {
+      "referenceImageId": "REFIMGCY6W6582JQR98",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHC9PUP1ZDA40.jpg": {
+      "referenceImageId": "REFIMGCHC9PUP1ZDA40",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "This image is used for dimension assessment."
+    },
+    "REFIMGC7GY5JEEDRW25.jpg": {
+      "referenceImageId": "REFIMGC7GY5JEEDRW25",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Back details."
+    },
+    "REFIMGCDE67D5DCDMQA.jpg": {
+      "referenceImageId": "REFIMGCDE67D5DCDMQA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTV17Q2ZE7QXA.jpg": {
+      "referenceImageId": "REFIMGCTV17Q2ZE7QXA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08FDMMG94",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCATAU02P77P6Y",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 63.0,
+      "widthInCms": 147.0,
+      "heightInCms": 88.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ANIMAL_CAGE",
+  "focalLength": 85.0
+}

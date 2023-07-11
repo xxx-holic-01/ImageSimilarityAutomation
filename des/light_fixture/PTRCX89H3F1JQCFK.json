@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGC0MBZY1M992ZQ.jpg": {
+      "referenceImageId": "REFIMGC0MBZY1M992ZQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDGPY63QAPNKB.jpg": {
+      "referenceImageId": "REFIMGCDGPY63QAPNKB",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJJXTY1H9UEJJ.jpg": {
+      "referenceImageId": "REFIMGCJJXTY1H9UEJJ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC398Y88DQLYW2.jpg": {
+      "referenceImageId": "REFIMGC398Y88DQLYW2",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCR100Y6XMEAL.jpg": {
+      "referenceImageId": "REFIMGCCR100Y6XMEAL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Malibu Low Voltage Floodlight Outdoor Landscape Lighting 176 Lumen 20W Halogen Warm White Skyline 12V Spotlight for Garden Yard Driveway Light 8308-9603-01"
+    },
+    "REFIMGCNLFVUGX825TC.jpg": {
+      "referenceImageId": "REFIMGCNLFVUGX825TC",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRKMA13J5HRV6.jpg": {
+      "referenceImageId": "REFIMGCRKMA13J5HRV6",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B071HGRGXF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCX89H3F1JQCFK",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 14.22,
+      "widthInCms": 5.08,
+      "heightInCms": 40.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

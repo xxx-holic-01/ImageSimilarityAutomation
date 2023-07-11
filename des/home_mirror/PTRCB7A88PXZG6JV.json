@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCBHQ3QBDNGDQZ.jpg": {
+      "referenceImageId": "REFIMGCBHQ3QBDNGDQZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYJ1LREWTDNE9.jpg": {
+      "referenceImageId": "REFIMGCYJ1LREWTDNE9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8AZEAF6H4GGH.jpg": {
+      "referenceImageId": "REFIMGC8AZEAF6H4GGH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9VPDL655UDVC.jpg": {
+      "referenceImageId": "REFIMGC9VPDL655UDVC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJELBV20CNEDH.jpg": {
+      "referenceImageId": "REFIMGCJELBV20CNEDH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "FUNTOUCH Rechargeable Portable Makeup Mirror with 72 LED Lights, Travel Lighted Makeup Mirror 1X/5X Magnification, 3 Color Lighting,Dimmable Touch Screen, Tabletop Folding Cosmetic Mirror with Lights, Decoration not Needed."
+    },
+    "REFIMGC3F38J1Q10JGY.jpg": {
+      "referenceImageId": "REFIMGC3F38J1Q10JGY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9X5KHUPM2CDD.jpg": {
+      "referenceImageId": "REFIMGC9X5KHUPM2CDD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B68KD24C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCB7A88PXZG6JV",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 21.58,
+      "widthInCms": 12.95,
+      "heightInCms": 19.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 90.0
+}

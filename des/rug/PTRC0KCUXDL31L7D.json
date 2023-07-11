@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCKPWJL8W97AKM.jpg": {
+      "referenceImageId": "REFIMGCKPWJL8W97AKM",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4C4PKQEUQV5T.jpg": {
+      "referenceImageId": "REFIMGC4C4PKQEUQV5T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ1WAG3AMCZ63.jpg": {
+      "referenceImageId": "REFIMGCZ1WAG3AMCZ63",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2DVJKDN7EPCF.jpg": {
+      "referenceImageId": "REFIMGC2DVJKDN7EPCF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ubdyo - Front Door Mat - Door Mats Indoor - Indoor Door Mat - 30x17 - Door Mats Outdoor - Outdoor Mat - Doormat - Entryway Rug - Door Mat Indoor Entrance - Front Door Mat Outdoor - Outdoor Door Mat "
+    },
+    "REFIMGCG3NM5RDH2FW2.jpg": {
+      "referenceImageId": "REFIMGCG3NM5RDH2FW2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08BCKLY6Y",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0KCUXDL31L7D",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 43.18,
+      "widthInCms": 76.2,
+      "heightInCms": 0.99
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 22.0
+}

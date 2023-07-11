@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGC25GG84XUMNTG.jpg": {
+      "referenceImageId": "REFIMGC25GG84XUMNTG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXZQ74NJYX705.jpg": {
+      "referenceImageId": "REFIMGCXZQ74NJYX705",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7E25K4V5PNZ5.jpg": {
+      "referenceImageId": "REFIMGC7E25K4V5PNZ5",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG0TEFN0UH9ZJ.jpg": {
+      "referenceImageId": "REFIMGCG0TEFN0UH9ZJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN0GRM8G5UWY7.jpg": {
+      "referenceImageId": "REFIMGCN0GRM8G5UWY7",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2A9RGA7GBXWV.jpg": {
+      "referenceImageId": "REFIMGC2A9RGA7GBXWV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8167VHFYBZ31.jpg": {
+      "referenceImageId": "REFIMGC8167VHFYBZ31",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJN6TZ8F2DCLN.jpg": {
+      "referenceImageId": "REFIMGCJN6TZ8F2DCLN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title  -Arrow Sheds Galvanized Steel Pad-Lockable Outdoor Utility Storage Shed with Pent Roof, Eggshell/Green "
+    },
+    "REFIMGCZ9QP0E35KKG9.jpg": {
+      "referenceImageId": "REFIMGCZ9QP0E35KKG9",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFRNKPKNVGAKY.jpg": {
+      "referenceImageId": "REFIMGCFRNKPKNVGAKY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B5VVWP77",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2TH7TG90ZT8D",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 121.92,
+      "widthInCms": 182.88,
+      "heightInCms": 158.46
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 60.0
+}

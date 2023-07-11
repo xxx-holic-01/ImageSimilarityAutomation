@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGC28H52EC4MRP3.jpg": {
+      "referenceImageId": "REFIMGC28H52EC4MRP3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF262UN52K5D6.jpg": {
+      "referenceImageId": "REFIMGCF262UN52K5D6",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2LDUK1P2W2T3.jpg": {
+      "referenceImageId": "REFIMGC2LDUK1P2W2T3",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZEP0L1R427GM.jpg": {
+      "referenceImageId": "REFIMGCZEP0L1R427GM",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXLV2BEMNVUGX.jpg": {
+      "referenceImageId": "REFIMGCXLV2BEMNVUGX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGAUNFBHTRFFJ.jpg": {
+      "referenceImageId": "REFIMGCGAUNFBHTRFFJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "nuLOOM Charter Striped Tribal Indoor/Outdoor Area Rug Grey"
+    },
+    "REFIMGCL467ELPH83HD.jpg": {
+      "referenceImageId": "REFIMGCL467ELPH83HD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B083TCRCZG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCY36YHZQ1MZLV",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 176.78,
+      "widthInCms": 274.32,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 65.0
+}

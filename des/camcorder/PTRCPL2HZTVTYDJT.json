@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGCZ4Y72RZA6E1M.jpg": {
+      "referenceImageId": "REFIMGCZ4Y72RZA6E1M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVX4P7YQYE129.jpg": {
+      "referenceImageId": "REFIMGCVX4P7YQYE129",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCU80Z4ME60FAK.jpg": {
+      "referenceImageId": "REFIMGCU80Z4ME60FAK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFMQYRRRD5FNU.jpg": {
+      "referenceImageId": "REFIMGCFMQYRRRD5FNU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPF7J7Q2JH6Y7.jpg": {
+      "referenceImageId": "REFIMGCPF7J7Q2JH6Y7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG04BMAFFL31J.jpg": {
+      "referenceImageId": "REFIMGCG04BMAFFL31J",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGC5QMWJ5P8L7MJ.jpg": {
+      "referenceImageId": "REFIMGC5QMWJ5P8L7MJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5UZK8TJT8232.jpg": {
+      "referenceImageId": "REFIMGC5UZK8TJT8232",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6JX7BFGFD96T.jpg": {
+      "referenceImageId": "REFIMGC6JX7BFGFD96T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BF2Q1LJP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPL2HZTVTYDJT",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 3.81,
+      "widthInCms": 4.2,
+      "heightInCms": 11.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CAMCORDER",
+  "focalLength": 55.0
+}

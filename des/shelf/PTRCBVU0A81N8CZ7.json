@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCQ0D8TDVR4E22.jpg": {
+      "referenceImageId": "REFIMGCQ0D8TDVR4E22",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNYHBBMTMAQC4.jpg": {
+      "referenceImageId": "REFIMGCNYHBBMTMAQC4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC9G3VKXUL5GB4.jpg": {
+      "referenceImageId": "REFIMGC9G3VKXUL5GB4",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08P7JLQ5W",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCBVU0A81N8CZ7",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 17.0,
+      "widthInCms": 25.0,
+      "heightInCms": 17.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SHELF",
+  "focalLength": 50.0
+}

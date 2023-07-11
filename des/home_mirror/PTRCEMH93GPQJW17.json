@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGC3UKA36FTZ3C7.jpg": {
+      "referenceImageId": "REFIMGC3UKA36FTZ3C7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTHVQNZUHTXDK.jpg": {
+      "referenceImageId": "REFIMGCTHVQNZUHTXDK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN43X2EZPXDX8.jpg": {
+      "referenceImageId": "REFIMGCN43X2EZPXDX8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC08L0HVG7U677.jpg": {
+      "referenceImageId": "REFIMGC08L0HVG7U677",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9K0JR7PUKDZM.jpg": {
+      "referenceImageId": "REFIMGC9K0JR7PUKDZM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Eviva Black Mirror for Bathroom Vanity Mirror \u0026 Living Spaces - Long Mirrors for Bedroom \u0026 Edge Sealing Technology - Black Bathroom Mirror with HD Glass - Bathroom Mirrors for Wall - 72\" x 30\""
+    },
+    "REFIMGC46LGR6DPF5MY.jpg": {
+      "referenceImageId": "REFIMGC46LGR6DPF5MY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08YNHSDM1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEMH93GPQJW17",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 11.43,
+      "widthInCms": 208.58,
+      "heightInCms": 87.63
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 49.0
+}

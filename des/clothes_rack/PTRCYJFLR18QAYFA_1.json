@@ -1,0 +1,92 @@
+{
+  "images": {
+    "REFIMGCAQ6292WL4EF7.jpg": {
+      "referenceImageId": "REFIMGCAQ6292WL4EF7",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "back ref is same as translucent material"
+    },
+    "REFIMGC3YK53VVPQREA.jpg": {
+      "referenceImageId": "REFIMGC3YK53VVPQREA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "UNZIPE Shoe Rack Cabinet 6 Tier Shoe Storage Organizer for Entryway 24 Pair Plastic Shoe Shelves DIY Freestanding Shoes Tower Rack for Closet Bedroom Hallway Portable Storage Cubes with DoorsGrey"
+    },
+    "REFIMGCZ7E1Z1FF9A47.jpg": {
+      "referenceImageId": "REFIMGCZ7E1Z1FF9A47",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRTY0M92T5TDU.jpg": {
+      "referenceImageId": "REFIMGCRTY0M92T5TDU",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCEHNR02HXCWU.jpg": {
+      "referenceImageId": "REFIMGCCEHNR02HXCWU",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYA7RP22XUB13.jpg": {
+      "referenceImageId": "REFIMGCYA7RP22XUB13",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": "model with covers on"
+    },
+    "REFIMGC09FELBVF508P.jpg": {
+      "referenceImageId": "REFIMGC09FELBVF508P",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "e\\xclude decoration and model in closed state"
+    }
+  },
+  "asin": "B0B2JRWQ8X",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYJFLR18QAYFA",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 29.96,
+      "widthInCms": 83.99,
+      "heightInCms": 93.75
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 75.0
+}

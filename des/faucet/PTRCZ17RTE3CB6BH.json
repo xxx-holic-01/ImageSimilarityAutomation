@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCXZGA58TF83X5.jpg": {
+      "referenceImageId": "REFIMGCXZGA58TF83X5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3DJ8NQ3E21NV.jpg": {
+      "referenceImageId": "REFIMGC3DJ8NQ3E21NV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXU4EZ9376AEJ.jpg": {
+      "referenceImageId": "REFIMGCXU4EZ9376AEJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXL170EXHPBFX.jpg": {
+      "referenceImageId": "REFIMGCXL170EXHPBFX",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Faucet"
+    },
+    "REFIMGCEKYLFG0E0ZMB.jpg": {
+      "referenceImageId": "REFIMGCEKYLFG0E0ZMB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHE73GFVJEB51.jpg": {
+      "referenceImageId": "REFIMGCHE73GFVJEB51",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0932DJ14S",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZ17RTE3CB6BH",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 22.86,
+      "widthInCms": 25.4,
+      "heightInCms": 46.39
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 45.0
+}

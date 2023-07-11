@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGC78VCG1T4L3R9.jpg": {
+      "referenceImageId": "REFIMGC78VCG1T4L3R9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXG42DHXQN56R.jpg": {
+      "referenceImageId": "REFIMGCXG42DHXQN56R",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3ZJBFJD71CNU.jpg": {
+      "referenceImageId": "REFIMGC3ZJBFJD71CNU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTR2Q8YW1JFKT.jpg": {
+      "referenceImageId": "REFIMGCTR2Q8YW1JFKT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTBPF2NBYFDRE.jpg": {
+      "referenceImageId": "REFIMGCTBPF2NBYFDRE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFQ20A4D7YWAE.jpg": {
+      "referenceImageId": "REFIMGCFQ20A4D7YWAE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC94DL7DENH803.jpg": {
+      "referenceImageId": "REFIMGC94DL7DENH803",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC13ZBTGWE468Z.jpg": {
+      "referenceImageId": "REFIMGC13ZBTGWE468Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WF3TY95",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCXYJRTKNZ13M3",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 60.0,
+      "widthInCms": 46.0,
+      "heightInCms": 92.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FURNITURE_CART",
+  "focalLength": 62.0
+}

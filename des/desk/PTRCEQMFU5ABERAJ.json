@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCJW6BCFFB0L89.jpg": {
+      "referenceImageId": "REFIMGCJW6BCFFB0L89",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXTRGZ2VX8U60.jpg": {
+      "referenceImageId": "REFIMGCXTRGZ2VX8U60",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HOMIDEC Computer Desk, Computer Desk with Bookshelf, Study Computer Laptop Table with 4 Tier DIY Storage Shelves Writing Table for Home Office Bedroom"
+    },
+    "REFIMGC73QZCQ8M448M.jpg": {
+      "referenceImageId": "REFIMGC73QZCQ8M448M",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTC7KBK19ULHY.jpg": {
+      "referenceImageId": "REFIMGCTC7KBK19ULHY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3HY2UL4QUA0Y.jpg": {
+      "referenceImageId": "REFIMGC3HY2UL4QUA0Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWBNK5NFBZ8RR.jpg": {
+      "referenceImageId": "REFIMGCWBNK5NFBZ8RR",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF417PU0GWWJ6.jpg": {
+      "referenceImageId": "REFIMGCF417PU0GWWJ6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B089NV1FZD",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCEQMFU5ABERAJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Computer Desk with Storage Shelf",
+      "lengthInCms": 60.0,
+      "widthInCms": 140.0,
+      "heightInCms": 90.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DESK",
+  "focalLength": 90.0
+}

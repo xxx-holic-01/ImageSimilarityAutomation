@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCYDYT4G1JYTCM.jpg": {
+      "referenceImageId": "REFIMGCYDYT4G1JYTCM",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0XD2ZYKBXFJF.jpg": {
+      "referenceImageId": "REFIMGC0XD2ZYKBXFJF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZWEQKCBZ2T4F.jpg": {
+      "referenceImageId": "REFIMGCZWEQKCBZ2T4F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " JIKUGO Small Bamboo Folding Coffee Table, Small Bamboo Folding No Assembly Required for Floating Window Tatami Tea Room Balcony Living Room Outdoor "
+    }
+  },
+  "asin": "B0BKG5R6H6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWJXRUZ4A2XDD",
+  "productDimensionList": [
+    {
+      "productCategory": "Table Small",
+      "lengthInCms": 39.87,
+      "widthInCms": 59.94,
+      "heightInCms": 24.89
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "TABLE",
+  "focalLength": 75.0
+}

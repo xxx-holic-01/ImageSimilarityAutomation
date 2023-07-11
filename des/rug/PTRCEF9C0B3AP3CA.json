@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGCTLZBJDXYV215.jpg": {
+      "referenceImageId": "REFIMGCTLZBJDXYV215",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC99DEEDZR8L4M.jpg": {
+      "referenceImageId": "REFIMGC99DEEDZR8L4M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMV8D7EA0EAG4.jpg": {
+      "referenceImageId": "REFIMGCMV8D7EA0EAG4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "MTOUOCK Durable Welcome Door Mats 24\"x36\" Heavy-Duty Large Welcome Mat for Front Door with Non-Slip Rubber Backing Door Mats for Outside Entry Outdoor Mat for Garage Patio High Traffic Area"
+    },
+    "REFIMGCM49NAXVN81QV.jpg": {
+      "referenceImageId": "REFIMGCM49NAXVN81QV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNWYZHF42UCV3.jpg": {
+      "referenceImageId": "REFIMGCNWYZHF42UCV3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX6P890W3JRBW.jpg": {
+      "referenceImageId": "REFIMGCX6P890W3JRBW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ88WQVEXGXBR.jpg": {
+      "referenceImageId": "REFIMGCZ88WQVEXGXBR",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8EAY19KCUM6L.jpg": {
+      "referenceImageId": "REFIMGC8EAY19KCUM6L",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBX3ZM3W6AU5Q.jpg": {
+      "referenceImageId": "REFIMGCBX3ZM3W6AU5Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B093PHQ5BL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEF9C0B3AP3CA",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 60.96,
+      "widthInCms": 91.44,
+      "heightInCms": 1.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 35.0
+}

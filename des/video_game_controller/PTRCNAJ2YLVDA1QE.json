@@ -1,0 +1,79 @@
+{
+  "images": {
+    "REFIMGC27HU1EDNGGFK.jpg": {
+      "referenceImageId": "REFIMGC27HU1EDNGGFK",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0NFEQWEDRWJ8.jpg": {
+      "referenceImageId": "REFIMGC0NFEQWEDRWJ8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC2QZE8N5NZ5U.jpg": {
+      "referenceImageId": "REFIMGCC2QZE8N5NZ5U",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHW1VTPEZRFDX.jpg": {
+      "referenceImageId": "REFIMGCHW1VTPEZRFDX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXPF8KX6FKUUG.jpg": {
+      "referenceImageId": "REFIMGCXPF8KX6FKUUG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCVFGBX3R3Q3YD.jpg": {
+      "referenceImageId": "REFIMGCVFGBX3R3Q3YD",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09LYQ2H6K",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCNAJ2YLVDA1QE",
+  "productDimensionList": [
+    {
+      "productCategory": "Console Table",
+      "lengthInCms": 11.4,
+      "widthInCms": 15.49,
+      "heightInCms": 5.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "VIDEO_GAME_CONTROLLER",
+  "focalLength": 70.0
+}

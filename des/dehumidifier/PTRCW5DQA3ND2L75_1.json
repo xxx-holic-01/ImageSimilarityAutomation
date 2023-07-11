@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCUZLBJ28R61WU.jpg": {
+      "referenceImageId": "REFIMGCUZLBJ28R61WU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5KMWTFZ045YX.jpg": {
+      "referenceImageId": "REFIMGC5KMWTFZ045YX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVA9WL6RXFMXT.jpg": {
+      "referenceImageId": "REFIMGCVA9WL6RXFMXT",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "more details can be taken from vedio in detail page "
+    },
+    "REFIMGC6GDQ1522FZLT.jpg": {
+      "referenceImageId": "REFIMGC6GDQ1522FZLT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B082B2PCN6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW5DQA3ND2L75",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.0,
+      "widthInCms": 20.0,
+      "heightInCms": 35.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DEHUMIDIFIER",
+  "focalLength": 50.0
+}

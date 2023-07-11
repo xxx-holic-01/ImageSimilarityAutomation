@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGCMRKR30N901DH.jpg": {
+      "referenceImageId": "REFIMGCMRKR30N901DH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE6DJ3H4MN7BU.jpg": {
+      "referenceImageId": "REFIMGCE6DJ3H4MN7BU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZFY5BN3LM4Y4.jpg": {
+      "referenceImageId": "REFIMGCZFY5BN3LM4Y4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYEVFVKCKH497.jpg": {
+      "referenceImageId": "REFIMGCYEVFVKCKH497",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ZMYCZ Floor Full Length Mirror, Black Arched-Top Mirror Full Length, Large Window Pane Mirror, Wall Mounted Mirror,  Standing Mirror Hanging or Leaning, Body Mirrors for Bedroom, No Stand "
+    },
+    "REFIMGC2XC8FQXE90MB.jpg": {
+      "referenceImageId": "REFIMGC2XC8FQXE90MB",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL8319MMQ781G.jpg": {
+      "referenceImageId": "REFIMGCL8319MMQ781G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09YHK5BBD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKQGY3MCYTTEE",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.0,
+      "widthInCms": 55.88,
+      "heightInCms": 159.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

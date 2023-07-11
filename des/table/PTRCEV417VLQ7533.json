@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCXEV15WM49NLR.jpg": {
+      "referenceImageId": "REFIMGCXEV15WM49NLR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6D674DVM3BD6.jpg": {
+      "referenceImageId": "REFIMGC6D674DVM3BD6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4PJB4X8R7H1J.jpg": {
+      "referenceImageId": "REFIMGC4PJB4X8R7H1J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX6A60AF5UP9V.jpg": {
+      "referenceImageId": "REFIMGCX6A60AF5UP9V",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Soomloom Table FREE ZONE Table S-20 Full Mesh Iron Hole Top Folding Bonfire Stand Ultra Lightweight Infinitely Expandable Camping/Outdoor"
+    },
+    "REFIMGCCPD5BFQW30FK.jpg": {
+      "referenceImageId": "REFIMGCCPD5BFQW30FK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B5CYPYNC",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCEV417VLQ7533",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 31.0,
+      "widthInCms": 50.0,
+      "heightInCms": 20.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TABLE",
+  "focalLength": 40.0
+}

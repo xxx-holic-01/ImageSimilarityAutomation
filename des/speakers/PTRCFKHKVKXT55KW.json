@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGC1CKRAN4AG2ZF.jpg": {
+      "referenceImageId": "REFIMGC1CKRAN4AG2ZF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8DQ06V3UW8P1.jpg": {
+      "referenceImageId": "REFIMGC8DQ06V3UW8P1",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK6ZQMMC5MAR0.jpg": {
+      "referenceImageId": "REFIMGCK6ZQMMC5MAR0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAK1YDURBJAFL.jpg": {
+      "referenceImageId": "REFIMGCAK1YDURBJAFL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUMNK03MBFDT2.jpg": {
+      "referenceImageId": "REFIMGCUMNK03MBFDT2",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMA2K2HHH8WGQ.jpg": {
+      "referenceImageId": "REFIMGCMA2K2HHH8WGQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " JBL Flip 5 20W Portable Stereo Speaker Sand "
+    },
+    "REFIMGCYMGFEN4ZMU6V.jpg": {
+      "referenceImageId": "REFIMGCYMGFEN4ZMU6V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9CKABJYGBAG0.jpg": {
+      "referenceImageId": "REFIMGC9CKABJYGBAG0",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07VPH2943",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCFKHKVKXT55KW",
+  "productDimensionList": [
+    {
+      "productCategory": "Table Big",
+      "lengthInCms": 7.4,
+      "widthInCms": 7.4,
+      "heightInCms": 18.1
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 80.0
+}

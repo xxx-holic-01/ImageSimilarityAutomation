@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCNLPD2MVKBFLC.jpg": {
+      "referenceImageId": "REFIMGCNLPD2MVKBFLC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC0X20MELKQD4F.jpg": {
+      "referenceImageId": "REFIMGC0X20MELKQD4F",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLPQKAVM4AHF1.jpg": {
+      "referenceImageId": "REFIMGCLPQKAVM4AHF1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3TQMDBWHBPEP.jpg": {
+      "referenceImageId": "REFIMGC3TQMDBWHBPEP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1HFL6TQFQQP3.jpg": {
+      "referenceImageId": "REFIMGC1HFL6TQFQQP3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTFWTH8193KGJ.jpg": {
+      "referenceImageId": "REFIMGCTFWTH8193KGJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07R21M1F2",
+  "marketplace": 4,
+  "partnerOrderId": "PTRCLVQVXAGJ9WLZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 20.0,
+      "widthInCms": 39.0,
+      "heightInCms": 83.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 40.0
+}

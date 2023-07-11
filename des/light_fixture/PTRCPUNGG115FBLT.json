@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGC1A6H63Z1FEVF.jpg": {
+      "referenceImageId": "REFIMGC1A6H63Z1FEVF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBD16GZLJDTAW.jpg": {
+      "referenceImageId": "REFIMGCBD16GZLJDTAW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBP9ZPKQGDPB4.jpg": {
+      "referenceImageId": "REFIMGCBP9ZPKQGDPB4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Rechargeable Motion Sensor Light with Remote Wireless Ceiling Light Battery Operated Closet Lights Motion Sensored Battery Powered Ceiling Light for Closets Shower Stair Shed Pantry Hallway Porch "
+    },
+    "REFIMGCL1U4KJRW017V.jpg": {
+      "referenceImageId": "REFIMGCL1U4KJRW017V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT47FUUMFMJJ2.jpg": {
+      "referenceImageId": "REFIMGCT47FUUMFMJJ2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFAJYLUYR8PU2.jpg": {
+      "referenceImageId": "REFIMGCFAJYLUYR8PU2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV8LK0PCU9CR1.jpg": {
+      "referenceImageId": "REFIMGCV8LK0PCU9CR1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BKGV5T3P",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPUNGG115FBLT",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.05,
+      "widthInCms": 19.05,
+      "heightInCms": 2.48
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

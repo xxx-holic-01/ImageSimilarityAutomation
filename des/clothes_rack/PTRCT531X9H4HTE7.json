@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGC3R7QKHVAQ0G6.jpg": {
+      "referenceImageId": "REFIMGC3R7QKHVAQ0G6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK2MV44DL5H6W.jpg": {
+      "referenceImageId": "REFIMGCK2MV44DL5H6W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRF4W2AJLRM12.jpg": {
+      "referenceImageId": "REFIMGCRF4W2AJLRM12",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCALG61P4G1U13.jpg": {
+      "referenceImageId": "REFIMGCALG61P4G1U13",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "GISSAR Hanger Rack, Pipe, Clothes Drying Stand"
+    },
+    "REFIMGCK39NCUMBMVUD.jpg": {
+      "referenceImageId": "REFIMGCK39NCUMBMVUD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNH77FJKEKF4U.jpg": {
+      "referenceImageId": "REFIMGCNH77FJKEKF4U",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09LYK4SPW",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCT531X9H4HTE7",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 33.0,
+      "widthInCms": 118.0,
+      "heightInCms": 153.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 90.0
+}

@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGCRL8U8VGC4AFP.jpg": {
+      "referenceImageId": "REFIMGCRL8U8VGC4AFP",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ953BU5ALNKQ.jpg": {
+      "referenceImageId": "REFIMGCQ953BU5ALNKQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFB7FM20QEEDK.jpg": {
+      "referenceImageId": "REFIMGCFB7FM20QEEDK",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMREA7J8MWXCH.jpg": {
+      "referenceImageId": "REFIMGCMREA7J8MWXCH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCY8J6L483GRFC.jpg": {
+      "referenceImageId": "REFIMGCY8J6L483GRFC",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPU36X5A43M5F.jpg": {
+      "referenceImageId": "REFIMGCPU36X5A43M5F",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPVHGBE6W48ZZ.jpg": {
+      "referenceImageId": "REFIMGCPVHGBE6W48ZZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Morphy Richards 108268 Jug Kettle Dune, Plastic, 1.5 liters, Green"
+    },
+    "REFIMGCKVHEBWPYF8Y8.jpg": {
+      "referenceImageId": "REFIMGCKVHEBWPYF8Y8",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07PYBZLQ8",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC5U7WDDHA4H0A",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 16.0,
+      "widthInCms": 19.99,
+      "heightInCms": 24.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 50.0
+}

@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGC5VTRFGNH0TAK.jpg": {
+      "referenceImageId": "REFIMGC5VTRFGNH0TAK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9HCVDA4B325L.jpg": {
+      "referenceImageId": "REFIMGC9HCVDA4B325L",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Samsonite Luggage Winfield 2 Fashion HS Spinner 20, Purple 2, Winfield 2 Fashion Hardside Spinner"
+    },
+    "REFIMGC7DQEFB4TYG0M.jpg": {
+      "referenceImageId": "REFIMGC7DQEFB4TYG0M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT7DXX0MHJ6JK.jpg": {
+      "referenceImageId": "REFIMGCT7DXX0MHJ6JK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQCQNR019KR42.jpg": {
+      "referenceImageId": "REFIMGCQCQNR019KR42",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01BH59GUG",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC22WXQBEW3AFJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 22.9,
+      "widthInCms": 34.3,
+      "heightInCms": 50.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 55.0
+}

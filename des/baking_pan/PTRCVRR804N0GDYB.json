@@ -1,0 +1,41 @@
+{
+  "images": {
+    "REFIMGC6VZQKV6HWCU1.jpg": {
+      "referenceImageId": "REFIMGC6VZQKV6HWCU1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Shimomura Kihan 34161 Tsubamesanjo Grill Pan, Pizza Grill Tray, Made in Japan, Fluorine Treatment, Round Grill, Easy Care"
+    },
+    "REFIMGC4VCHU56VB2D6.jpg": {
+      "referenceImageId": "REFIMGC4VCHU56VB2D6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00BEQLT90",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCVRR804N0GDYB",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.8,
+      "widthInCms": 20.8,
+      "heightInCms": 2.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "BAKING_PAN",
+  "focalLength": 90.0
+}

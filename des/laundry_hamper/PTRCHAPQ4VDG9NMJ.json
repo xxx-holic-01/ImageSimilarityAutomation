@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGC9PQA3Q6QEGBR.jpg": {
+      "referenceImageId": "REFIMGC9PQA3Q6QEGBR",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXQCLF36BQ6N0.jpg": {
+      "referenceImageId": "REFIMGCXQCLF36BQ6N0",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7VY809450NAH.jpg": {
+      "referenceImageId": "REFIMGC7VY809450NAH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYMRXW2U4Z75V.jpg": {
+      "referenceImageId": "REFIMGCYMRXW2U4Z75V",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1BUA9N5RL38Y.jpg": {
+      "referenceImageId": "REFIMGC1BUA9N5RL38Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Addis Faux Rattan 40 Litre Family Slim Laundry Clothes Washing Hamper Bin with Lid, Beige, Calico/Cream"
+    }
+  },
+  "asin": "B0821SKVDF",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCHAPQ4VDG9NMJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 26.5,
+      "widthInCms": 46.5,
+      "heightInCms": 64.33
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAUNDRY_HAMPER",
+  "focalLength": 60.0
+}

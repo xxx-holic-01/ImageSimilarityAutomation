@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCHY3ECD46DNZX.jpg": {
+      "referenceImageId": "REFIMGCHY3ECD46DNZX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJETPZR7TWNLH.jpg": {
+      "referenceImageId": "REFIMGCJETPZR7TWNLH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDTHQWCXXGLTK.jpg": {
+      "referenceImageId": "REFIMGCDTHQWCXXGLTK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC057Y6DF7TE6L.jpg": {
+      "referenceImageId": "REFIMGC057Y6DF7TE6L",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDVNAM999HHBL.jpg": {
+      "referenceImageId": "REFIMGCDVNAM999HHBL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPGCW2QJGQFGQ.jpg": {
+      "referenceImageId": "REFIMGCPGCW2QJGQFGQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Signature Loom Olivia Moroccan Boho Area Rug, 5x8 - Soft \u0026 Smooth Area Rugs for Living Room - Gorgeous Turkish Carpets and Rugs for Bedroom - Easy Cleaning \u0026 Non-Shedding, Grey"
+    },
+    "REFIMGC2011WQDQQCRY.jpg": {
+      "referenceImageId": "REFIMGC2011WQDQQCRY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09LNS22SM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFT5Y1TV54U4T",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 184.4,
+      "widthInCms": 152.4,
+      "heightInCms": 1.82
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 35.0
+}

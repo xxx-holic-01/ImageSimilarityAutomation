@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGCYA9QG5F41NE4.jpg": {
+      "referenceImageId": "REFIMGCYA9QG5F41NE4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "only one shelf has to be modelled"
+    }
+  },
+  "asin": "B0194OLR9U",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC733MNAK7AT8K",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 10.0,
+      "widthInCms": 40.0,
+      "heightInCms": 9.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_RACK",
+  "focalLength": 50.0
+}

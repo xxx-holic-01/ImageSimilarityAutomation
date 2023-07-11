@@ -1,0 +1,69 @@
+{
+  "images": {
+    "REFIMGC4D5QDA8GLHBB.jpg": {
+      "referenceImageId": "REFIMGC4D5QDA8GLHBB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC79CGRHRXLHZT.jpg": {
+      "referenceImageId": "REFIMGC79CGRHRXLHZT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTMWUPR1UNQCP.jpg": {
+      "referenceImageId": "REFIMGCTMWUPR1UNQCP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6A3DFT00RTFN.jpg": {
+      "referenceImageId": "REFIMGC6A3DFT00RTFN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SHARDOR 2 in 1 Coffee Grinder and Milk Frother Coffee Grinder Electric Coffee Bean "
+    },
+    "REFIMGCXZ7EX6JL3225.jpg": {
+      "referenceImageId": "REFIMGCXZ7EX6JL3225",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMVUFV6DNKZW4.jpg": {
+      "referenceImageId": "REFIMGCMVUFV6DNKZW4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09ZTW9324",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYWKLVPYDJWMV",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 12.7,
+      "widthInCms": 12.7,
+      "heightInCms": 30.48
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ELECTRIC_FOOD_MILL_GRINDER",
+  "focalLength": 60.0
+}

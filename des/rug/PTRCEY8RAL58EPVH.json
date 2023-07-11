@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGC5G77UYWB4FTA.jpg": {
+      "referenceImageId": "REFIMGC5G77UYWB4FTA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB66DVLF7RTEG.jpg": {
+      "referenceImageId": "REFIMGCB66DVLF7RTEG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "we should take first image as a primary while modelling"
+    },
+    "REFIMGC3KKXK5VBRM51.jpg": {
+      "referenceImageId": "REFIMGC3KKXK5VBRM51",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Memory Foam Bath Mat for Bathroom Non Slip Bath Rug Velvet Thick Soft and Comfortable Water Absorbent Machine Washable Easier to Dry Floor Rug Mats Waved Pattern, 24x17 Inches, Taupe"
+    },
+    "REFIMGCJR2BJNYERA48.jpg": {
+      "referenceImageId": "REFIMGCJR2BJNYERA48",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWBYGJVR6EYVR.jpg": {
+      "referenceImageId": "REFIMGCWBYGJVR6EYVR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07R4Y7KKG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEY8RAL58EPVH",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 43.18,
+      "widthInCms": 60.96,
+      "heightInCms": 1.58
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 25.0
+}

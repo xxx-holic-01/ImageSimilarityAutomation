@@ -1,0 +1,90 @@
+{
+  "images": {
+    "REFIMGCML1DQW8KEG7Y.jpg": {
+      "referenceImageId": "REFIMGCML1DQW8KEG7Y",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " SunsGrove Dresser for Bedroom with 5 Drawers White Chest of Drawers Storage Drawer Organizer for Closet, Nursey, Living Room Brand: SunsGrove,Size: 5 drawer-white,Material:Engineered Wood,Number of Drawers \t5 Color \tWhite"
+    },
+    "REFIMGCR0TCRTL1ABHF.jpg": {
+      "referenceImageId": "REFIMGCR0TCRTL1ABHF",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL3F5DBHM1G0V.jpg": {
+      "referenceImageId": "REFIMGCL3F5DBHM1G0V",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD7BU9AF6VP5U.jpg": {
+      "referenceImageId": "REFIMGCD7BU9AF6VP5U",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC69ZQEGYGN79C.jpg": {
+      "referenceImageId": "REFIMGC69ZQEGYGN79C",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ8U5QBGDFRB7.jpg": {
+      "referenceImageId": "REFIMGCQ8U5QBGDFRB7",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGWX0LPKVK97D.jpg": {
+      "referenceImageId": "REFIMGCGWX0LPKVK97D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BNKKM6RG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9M1ALA14W3CE",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 39.9,
+      "widthInCms": 100.0,
+      "heightInCms": 85.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DRESSER",
+  "focalLength": 90.0
+}

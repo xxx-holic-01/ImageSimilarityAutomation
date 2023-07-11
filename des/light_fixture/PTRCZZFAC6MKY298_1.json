@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCGQPJBDV3X0LU.jpg": {
+      "referenceImageId": "REFIMGCGQPJBDV3X0LU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCQRG4AHXV4J3.jpg": {
+      "referenceImageId": "REFIMGCCQRG4AHXV4J3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZYEVK4VKJMQH.jpg": {
+      "referenceImageId": "REFIMGCZYEVK4VKJMQH",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGGY4ZV14PAQN.jpg": {
+      "referenceImageId": "REFIMGCGGY4ZV14PAQN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCRF6J876MWTC3.jpg": {
+      "referenceImageId": "REFIMGCRF6J876MWTC3",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0919CCRLR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZZFAC6MKY298",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 12.1,
+      "widthInCms": 86.4,
+      "heightInCms": 95.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGC002JPCBCHXN0.jpg": {
+      "referenceImageId": "REFIMGC002JPCBCHXN0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "EUHOMY 10000 BTU Portable Air Conditioner Dehumidifier Portable Ac Unit With Remote Control Floor Air Conditioner With Window Installation Kit For Room Office Dorm Bedroom White"
+    },
+    "REFIMGC2L4MQTQ2MVW3.jpg": {
+      "referenceImageId": "REFIMGC2L4MQTQ2MVW3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCA5864YW7D0FH.jpg": {
+      "referenceImageId": "REFIMGCA5864YW7D0FH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXPKN37A5HKAH.jpg": {
+      "referenceImageId": "REFIMGCXPKN37A5HKAH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCR6Q3RDBNHXBP.jpg": {
+      "referenceImageId": "REFIMGCR6Q3RDBNHXBP",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC54X51B2BWJ0A.jpg": {
+      "referenceImageId": "REFIMGC54X51B2BWJ0A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0A9A5AXA1ED0.jpg": {
+      "referenceImageId": "REFIMGC0A9A5AXA1ED0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09T6V4SPZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCP4DU87V3D4L8",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 25.39,
+      "widthInCms": 38.09,
+      "heightInCms": 70.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_CONDITIONER",
+  "focalLength": 90.0
+}

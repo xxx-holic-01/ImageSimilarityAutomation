@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCRECUTLC7AHLK.jpg": {
+      "referenceImageId": "REFIMGCRECUTLC7AHLK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCVF84E7LXXMFE.jpg": {
+      "referenceImageId": "REFIMGCVF84E7LXXMFE",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "EXCITED WORK 31.5 inch Workbench with peg Board Multipurpose Tool Organizer and Workbench with Double Storage Platform Workbench in Garage Workshop"
+    },
+    "REFIMGC7CJEURTM1UJ5.jpg": {
+      "referenceImageId": "REFIMGC7CJEURTM1UJ5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2DBL1X2Q6MUF.jpg": {
+      "referenceImageId": "REFIMGC2DBL1X2Q6MUF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAP3LUJNRPGZM.jpg": {
+      "referenceImageId": "REFIMGCAP3LUJNRPGZM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCB2M4T9Z9VD3C.jpg": {
+      "referenceImageId": "REFIMGCB2M4T9Z9VD3C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLEXXEM4CMW7C.jpg": {
+      "referenceImageId": "REFIMGCLEXXEM4CMW7C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQ32RH7AC4NRL.jpg": {
+      "referenceImageId": "REFIMGCQ32RH7AC4NRL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5RRVDV52JYJ2.jpg": {
+      "referenceImageId": "REFIMGC5RRVDV52JYJ2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BD4833ZL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9Q5B7BQEKF0X",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 40.64,
+      "widthInCms": 81.28,
+      "heightInCms": 146.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WORKBENCH",
+  "focalLength": 25.0
+}

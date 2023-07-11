@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCZ6B2ND6VP79Q.jpg": {
+      "referenceImageId": "REFIMGCZ6B2ND6VP79Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJT2UW8RFZNDT.jpg": {
+      "referenceImageId": "REFIMGCJT2UW8RFZNDT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV3K3X4PXFPDE.jpg": {
+      "referenceImageId": "REFIMGCV3K3X4PXFPDE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJ093J5AP0KJE.jpg": {
+      "referenceImageId": "REFIMGCJ093J5AP0KJE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC237WX98XDGAG.jpg": {
+      "referenceImageId": "REFIMGC237WX98XDGAG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "AAZZKANG Wall Mirror Black Rectangle Rustic Wood Mirror Decorative Hanging Mirror for Bathroom Bedroom Farmhouse"
+    },
+    "REFIMGCN619U71UAC9B.jpg": {
+      "referenceImageId": "REFIMGCN619U71UAC9B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDT9AZTU59D1K.jpg": {
+      "referenceImageId": "REFIMGCDT9AZTU59D1K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BHHMB4BL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0FWEB3URR79V",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.54,
+      "widthInCms": 30.48,
+      "heightInCms": 40.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 80.0
+}

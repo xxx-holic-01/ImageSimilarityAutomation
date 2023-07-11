@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCD2P75FM3B687.jpg": {
+      "referenceImageId": "REFIMGCD2P75FM3B687",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC93CQL0FEYYZH.jpg": {
+      "referenceImageId": "REFIMGC93CQL0FEYYZH",
+      "labels": [
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Unique Loom Versailles Collection Traditional Classic Medallion Floral Motif Area Rug (6\u0027 0 x 6\u0027 0 Round, Brown/ Ivory) "
+    },
+    "REFIMGCB583QTYY5GUZ.jpg": {
+      "referenceImageId": "REFIMGCB583QTYY5GUZ",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNVZEKUCANZDL.jpg": {
+      "referenceImageId": "REFIMGCNVZEKUCANZDL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCFTNQ3NPTTCC.jpg": {
+      "referenceImageId": "REFIMGCCFTNQ3NPTTCC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2E0Q9GL0JQHZ.jpg": {
+      "referenceImageId": "REFIMGC2E0Q9GL0JQHZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1W6GJA5N1QFC.jpg": {
+      "referenceImageId": "REFIMGC1W6GJA5N1QFC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC924GQ92X1DA1.jpg": {
+      "referenceImageId": "REFIMGC924GQ92X1DA1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP3EXWCERNKU7.jpg": {
+      "referenceImageId": "REFIMGCP3EXWCERNKU7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00XIWHP0K",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEDHRD9H1A0P3",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 185.0,
+      "widthInCms": 185.0,
+      "heightInCms": 0.83
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 30.0
+}

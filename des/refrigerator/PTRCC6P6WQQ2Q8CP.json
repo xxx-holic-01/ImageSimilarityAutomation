@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCKPQT3LQH00FM.jpg": {
+      "referenceImageId": "REFIMGCKPQT3LQH00FM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU3XF4WA3MTAY.jpg": {
+      "referenceImageId": "REFIMGCU3XF4WA3MTAY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7WZRR094DE50.jpg": {
+      "referenceImageId": "REFIMGC7WZRR094DE50",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hieght adjusted with recharted method. Back reference in detail page video : https://www.amazon.com/gp/product/B07LGH5YFL/"
+    },
+    "REFIMGCKU8Q4M5BMV6Q.jpg": {
+      "referenceImageId": "REFIMGCKU8Q4M5BMV6Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGAATXMDF901H.jpg": {
+      "referenceImageId": "REFIMGCGAATXMDF901H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07LGH5YFL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCC6P6WQQ2Q8CP",
+  "productDimensionList": [
+    {
+      "productCategory": "Cupboard",
+      "lengthInCms": 71.0,
+      "widthInCms": 183.0,
+      "heightInCms": 185.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "REFRIGERATOR",
+  "focalLength": 25.0
+}

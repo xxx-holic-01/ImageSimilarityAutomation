@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCN161K5FC2LNQ.jpg": {
+      "referenceImageId": "REFIMGCN161K5FC2LNQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV0UZPQTBHF9T.jpg": {
+      "referenceImageId": "REFIMGCV0UZPQTBHF9T",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBA0VHZ8Y6E1B.jpg": {
+      "referenceImageId": "REFIMGCBA0VHZ8Y6E1B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3BX4J5Y8Q30U.jpg": {
+      "referenceImageId": "REFIMGC3BX4J5Y8Q30U",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMQ813X8B7P30.jpg": {
+      "referenceImageId": "REFIMGCMQ813X8B7P30",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-METWET 2-Light Gold Bathroom Vanity Light Fixtures, Modern Bedside Wall Sconces"
+    },
+    "REFIMGCXVCLYM1P3ZV4.jpg": {
+      "referenceImageId": "REFIMGCXVCLYM1P3ZV4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6EN9V251YJCP.jpg": {
+      "referenceImageId": "REFIMGC6EN9V251YJCP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B4MQ5RJL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0W3TEVHCHG2U",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.99,
+      "widthInCms": 47.5,
+      "heightInCms": 34.01
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

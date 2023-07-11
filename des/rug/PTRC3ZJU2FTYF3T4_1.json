@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGCE659FJXFH4LU.jpg": {
+      "referenceImageId": "REFIMGCE659FJXFH4LU",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMZMK46CW8KH8.jpg": {
+      "referenceImageId": "REFIMGCMZMK46CW8KH8",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRVCP8LZ1NBQV.jpg": {
+      "referenceImageId": "REFIMGCRVCP8LZ1NBQV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Gertmenian Indoor Outdoor Area Rug Classic Flatweave Washable Stain \u0026 UV Resistant Carpet Deck Patio Poolside \u0026 Mudroom 6x9 Ft Medium Sand Dollar Starfish Navy Blue 22905"
+    },
+    "REFIMGC87T0A2TH6375.jpg": {
+      "referenceImageId": "REFIMGC87T0A2TH6375",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ23M988Q47BM.jpg": {
+      "referenceImageId": "REFIMGCZ23M988Q47BM",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WXFF3CD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3ZJU2FTYF3T4",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 198.12,
+      "widthInCms": 289.56,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 20.0
+}

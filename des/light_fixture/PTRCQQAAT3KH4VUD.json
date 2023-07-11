@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCAXY3APB490EC.jpg": {
+      "referenceImageId": "REFIMGCAXY3APB490EC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "CLOUDY BAY 7.5 inch 3 Color LED Mini Flush Mount Ceiling Light 3000K/4000K/5000K Adjustable,120V 12W 840LM CRI90+,Brushed Nickel"
+    },
+    "REFIMGCEWUTPWUH7NPK.jpg": {
+      "referenceImageId": "REFIMGCEWUTPWUH7NPK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Ceiling aligned"
+    },
+    "REFIMGCA2830RR5RR0Z.jpg": {
+      "referenceImageId": "REFIMGCA2830RR5RR0Z",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Produce in unlight mode."
+    },
+    "REFIMGCLHEWYT1BUPEX.jpg": {
+      "referenceImageId": "REFIMGCLHEWYT1BUPEX",
+      "labels": [
+        "COLOR",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Back \u0026 unlight details"
+    }
+  },
+  "asin": "B07WW4H493",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQQAAT3KH4VUD",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.05,
+      "widthInCms": 19.05,
+      "heightInCms": 2.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

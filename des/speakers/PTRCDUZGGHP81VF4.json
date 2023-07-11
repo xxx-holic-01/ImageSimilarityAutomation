@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC5QEUMWNKPKHJ.jpg": {
+      "referenceImageId": "REFIMGC5QEUMWNKPKHJ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE40H6XAZPJGQ.jpg": {
+      "referenceImageId": "REFIMGCE40H6XAZPJGQ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNN2EQ7DBFD5F.jpg": {
+      "referenceImageId": "REFIMGCNN2EQ7DBFD5F",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWF55X9GHLZAU.jpg": {
+      "referenceImageId": "REFIMGCWF55X9GHLZAU",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZW2Q06UUEUYG.jpg": {
+      "referenceImageId": "REFIMGCZW2Q06UUEUYG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJMXNV9AREPQ5.jpg": {
+      "referenceImageId": "REFIMGCJMXNV9AREPQ5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - iHome IHSI-W650BT-PR-WHT Bluetooth Indoor/Outdoor All Weather Weatherproof 6.5 Inch Small 300W Watt Wall/Ceiling Mounted Surround Sound Powered Patio Speakers System Pair in Home Party Enclosur"
+    }
+  },
+  "asin": "B09MJGM6NB",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDUZGGHP81VF4",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 18.92,
+      "widthInCms": 19.0,
+      "heightInCms": 29.49
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 40.0
+}

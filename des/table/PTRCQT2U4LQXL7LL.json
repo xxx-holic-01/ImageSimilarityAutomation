@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGC02VB9GVV3EJ3.jpg": {
+      "referenceImageId": "REFIMGC02VB9GVV3EJ3",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6GE7B2ZQTL9R.jpg": {
+      "referenceImageId": "REFIMGC6GE7B2ZQTL9R",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Coleman Table Compact Trekking Table 2000021986"
+    },
+    "REFIMGCEV57HYE424F2.jpg": {
+      "referenceImageId": "REFIMGCEV57HYE424F2",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW2D3T5M2N739.jpg": {
+      "referenceImageId": "REFIMGCW2D3T5M2N739",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBQT74Y7DGCXL.jpg": {
+      "referenceImageId": "REFIMGCBQT74Y7DGCXL",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00SLOAB10",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCQT2U4LQXL7LL",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 21.0,
+      "widthInCms": 32.5,
+      "heightInCms": 14.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TABLE",
+  "focalLength": 120.0
+}

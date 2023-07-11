@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCWW72DXKN9GZ5.jpg": {
+      "referenceImageId": "REFIMGCWW72DXKN9GZ5",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUFEWEJ6AJQQY.jpg": {
+      "referenceImageId": "REFIMGCUFEWEJ6AJQQY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Alarm Clock"
+    },
+    "REFIMGCPZZM1MDJJP03.jpg": {
+      "referenceImageId": "REFIMGCPZZM1MDJJP03",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1UY2XRXQM7ZB.jpg": {
+      "referenceImageId": "REFIMGC1UY2XRXQM7ZB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAZ9Z16VX7HZC.jpg": {
+      "referenceImageId": "REFIMGCAZ9Z16VX7HZC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0RAL9K43EGWV.jpg": {
+      "referenceImageId": "REFIMGC0RAL9K43EGWV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09TTCRRQG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCM8C9Z294B6QT",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 9.97,
+      "widthInCms": 11.14,
+      "heightInCms": 6.35
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 70.0
+}

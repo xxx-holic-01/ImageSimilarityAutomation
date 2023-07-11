@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGC22BE5MPEDDZY.jpg": {
+      "referenceImageId": "REFIMGC22BE5MPEDDZY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Stratton Home Decor Maddie Wood Mirror Light Natural Wood 20.00 W X 2.25 D X 20.00 H (S13562)"
+    },
+    "REFIMGCQU2DREJL5RKY.jpg": {
+      "referenceImageId": "REFIMGCQU2DREJL5RKY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFYKAYDM8ZGB2.jpg": {
+      "referenceImageId": "REFIMGCFYKAYDM8ZGB2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCYAQZVXXDEZG4.jpg": {
+      "referenceImageId": "REFIMGCYAQZVXXDEZG4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF75DU6TMRLRT.jpg": {
+      "referenceImageId": "REFIMGCF75DU6TMRLRT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B07FQHKQ9M",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGTX333K6QCGU",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 50.8,
+      "widthInCms": 50.8,
+      "heightInCms": 50.79
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 90.0
+}

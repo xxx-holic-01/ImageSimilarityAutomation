@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCCLCEC27KR9AZ.jpg": {
+      "referenceImageId": "REFIMGCCLCEC27KR9AZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC73RF4ADD4EF.jpg": {
+      "referenceImageId": "REFIMGCC73RF4ADD4EF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCP0L2BZR48H4K.jpg": {
+      "referenceImageId": "REFIMGCP0L2BZR48H4K",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BDFLDNZL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC64P7F8ZCYEYQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Reclining Sofa",
+      "lengthInCms": 91.4,
+      "widthInCms": 84.1,
+      "heightInCms": 101.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 45.0
+}

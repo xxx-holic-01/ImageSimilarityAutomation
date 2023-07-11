@@ -1,0 +1,102 @@
+{
+  "images": {
+    "REFIMGCF9J50KLM857T.jpg": {
+      "referenceImageId": "REFIMGCF9J50KLM857T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVPDXHX9H0QUJ.jpg": {
+      "referenceImageId": "REFIMGCVPDXHX9H0QUJ",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6CWT0HDU7XFN.jpg": {
+      "referenceImageId": "REFIMGC6CWT0HDU7XFN",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK7RYL97XJAMH.jpg": {
+      "referenceImageId": "REFIMGCK7RYL97XJAMH",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAG2N4M0HYZC0.jpg": {
+      "referenceImageId": "REFIMGCAG2N4M0HYZC0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1K1G27TA2T43.jpg": {
+      "referenceImageId": "REFIMGC1K1G27TA2T43",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC5QUXXZV3TE5H.jpg": {
+      "referenceImageId": "REFIMGC5QUXXZV3TE5H",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCT62DW0P35Z3.jpg": {
+      "referenceImageId": "REFIMGCCT62DW0P35Z3",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07DPK9HGT",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC9FTGFMAHY1DL",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 8.8,
+      "widthInCms": 8.8,
+      "heightInCms": 29.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "THERMOS",
+  "focalLength": 100.0
+}

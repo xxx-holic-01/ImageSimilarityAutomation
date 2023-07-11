@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGC65Q4PZNN9H69.jpg": {
+      "referenceImageId": "REFIMGC65Q4PZNN9H69",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN7RBQTX9J44V.jpg": {
+      "referenceImageId": "REFIMGCN7RBQTX9J44V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4TLG6NKLTJP3.jpg": {
+      "referenceImageId": "REFIMGC4TLG6NKLTJP3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAZKCRVBWM24C.jpg": {
+      "referenceImageId": "REFIMGCAZKCRVBWM24C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLAVW56DP94G9.jpg": {
+      "referenceImageId": "REFIMGCLAVW56DP94G9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Aoozi Portable Blenders, Personal Size Blender Smoothies and Shakes,Mini Blender USB Rechargeable, Handheld Blender Sports,Travel and Home (Orange)"
+    },
+    "REFIMGCD36Q20WR27WU.jpg": {
+      "referenceImageId": "REFIMGCD36Q20WR27WU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4Y0BRDV7LX6P.jpg": {
+      "referenceImageId": "REFIMGC4Y0BRDV7LX6P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Avoid Accessories"
+    },
+    "REFIMGC9N59AKGM4D28.jpg": {
+      "referenceImageId": "REFIMGC9N59AKGM4D28",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BFPT33P4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLPW0AHA7N489",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 8.38,
+      "widthInCms": 8.38,
+      "heightInCms": 24.13
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "FOOD_BLENDER",
+  "focalLength": 60.0
+}

@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCHMEMME2X7R4N.jpg": {
+      "referenceImageId": "REFIMGCHMEMME2X7R4N",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWTQCRJX7MTKM.jpg": {
+      "referenceImageId": "REFIMGCWTQCRJX7MTKM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVY0PX4CAC0MT.jpg": {
+      "referenceImageId": "REFIMGCVY0PX4CAC0MT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8KGPPB3QBKZ8.jpg": {
+      "referenceImageId": "REFIMGC8KGPPB3QBKZ8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQXZ52UGUXAFG.jpg": {
+      "referenceImageId": "REFIMGCQXZ52UGUXAFG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mahli Robotic 3-in-1 Vacuum Cleaner, for Hardwood Floors, Tiles, Carpet, Home and Office, Black "
+    },
+    "REFIMGC34AQUZ43YGBF.jpg": {
+      "referenceImageId": "REFIMGC34AQUZ43YGBF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAETA9F962H5Z.jpg": {
+      "referenceImageId": "REFIMGCAETA9F962H5Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0947H5W7C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRG3DGQBEG9K9",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 25.0,
+      "widthInCms": 25.0,
+      "heightInCms": 6.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ROBOTIC_VACUUM_CLEANER",
+  "focalLength": 80.0
+}

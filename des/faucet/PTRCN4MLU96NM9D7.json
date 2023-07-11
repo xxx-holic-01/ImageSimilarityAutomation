@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCU1W18H2TV8QX.jpg": {
+      "referenceImageId": "REFIMGCU1W18H2TV8QX",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVP2E90EM26VJ.jpg": {
+      "referenceImageId": "REFIMGCVP2E90EM26VJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "KENES Black Waterfall Bathroom Faucet, Single Handle Black Bathroom Sink Faucet with Faucet Escutcheons, Pop Up Drain Stopper \u0026 Lead-Free Water Supply Hoses LJ-9035-2 "
+    },
+    "REFIMGC4CKG1Q9CZV4T.jpg": {
+      "referenceImageId": "REFIMGC4CKG1Q9CZV4T",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX74LVRJFAUZC.jpg": {
+      "referenceImageId": "REFIMGCX74LVRJFAUZC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTKRYGPWP0ERK.jpg": {
+      "referenceImageId": "REFIMGCTKRYGPWP0ERK",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQA0H72VD6HYZ.jpg": {
+      "referenceImageId": "REFIMGCQA0H72VD6HYZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08MVMVV3C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCN4MLU96NM9D7",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 14.0,
+      "widthInCms": 16.0,
+      "heightInCms": 18.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCWUERVYN0KZ34.jpg": {
+      "referenceImageId": "REFIMGCWUERVYN0KZ34",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Decorations not included"
+    },
+    "REFIMGCL3Z1Y0LZHYDW.jpg": {
+      "referenceImageId": "REFIMGCL3Z1Y0LZHYDW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL74C1URYCK5Z.jpg": {
+      "referenceImageId": "REFIMGCL74C1URYCK5Z",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Fratelli Guzzini Ninfea Home laundry basket"
+    },
+    "REFIMGC07VE6NDNAY1P.jpg": {
+      "referenceImageId": "REFIMGC07VE6NDNAY1P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3570H22ZR7YY.jpg": {
+      "referenceImageId": "REFIMGC3570H22ZR7YY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC72379HUGC9D5.jpg": {
+      "referenceImageId": "REFIMGC72379HUGC9D5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01L9DKEBQ",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCV143AGW42QDL",
+  "productDimensionList": [
+    {
+      "productCategory": "Cupboard",
+      "lengthInCms": 43.0,
+      "widthInCms": 43.0,
+      "heightInCms": 67.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAUNDRY_HAMPER",
+  "focalLength": 85.0
+}

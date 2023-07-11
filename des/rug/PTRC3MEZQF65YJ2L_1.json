@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCG7LKPR13GGV6.jpg": {
+      "referenceImageId": "REFIMGCG7LKPR13GGV6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMPJ5XNUVTL8G.jpg": {
+      "referenceImageId": "REFIMGCMPJ5XNUVTL8G",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Gertmenian Indoor Outdoor Rug High Low Textured Outside Patio Textural Area Carpet, 6x9 Medium, Multicolor Rainbow Modern Floral, 35504 "
+    },
+    "REFIMGC34C17L00MUCF.jpg": {
+      "referenceImageId": "REFIMGC34C17L00MUCF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDCMCVEMBG7Y7.jpg": {
+      "referenceImageId": "REFIMGCDCMCVEMBG7Y7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09XY34K3C",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3MEZQF65YJ2L",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 286.78,
+      "widthInCms": 224.6,
+      "heightInCms": 42.86
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGCWVWB93UAHB0M.jpg": {
+      "referenceImageId": "REFIMGCWVWB93UAHB0M",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRQLBDFGKL14T.jpg": {
+      "referenceImageId": "REFIMGCRQLBDFGKL14T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TecTake Workshop shelf garage storage cabinet - different models - (with 8 shelves | no. 402171)"
+    },
+    "REFIMGCA75NNWY33L7K.jpg": {
+      "referenceImageId": "REFIMGCA75NNWY33L7K",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0RQ0JLL5E3JV.jpg": {
+      "referenceImageId": "REFIMGC0RQ0JLL5E3JV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXAGJ1ANXTZXM.jpg": {
+      "referenceImageId": "REFIMGCXAGJ1ANXTZXM",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01LNSDD74",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCBGBCE2M1KV6G",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 40.0,
+      "widthInCms": 160.0,
+      "heightInCms": 157.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WORKBENCH",
+  "focalLength": 45.0
+}

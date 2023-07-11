@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCXEWB6TYM6ENR.jpg": {
+      "referenceImageId": "REFIMGCXEWB6TYM6ENR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRP2Y8QJPNPJA.jpg": {
+      "referenceImageId": "REFIMGCRP2Y8QJPNPJA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Eanpet Braided Rug Cotton Area Rug Pure Tassels Floor Rug Hand Woven Reversible Throw Rugs Door Mat Laundry Room Rug Indoor Runner Bathroom Tablecloth (2x6 FT Grey) - Second image has been taken for DA, Model 2*6 ft product only , Decorations not included, Recharted and tassel included"
+    },
+    "REFIMGCB3ZCWLUGJFAW.jpg": {
+      "referenceImageId": "REFIMGCB3ZCWLUGJFAW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC218324B9R8DF.jpg": {
+      "referenceImageId": "REFIMGC218324B9R8DF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9FL8HWRCQ0WH.jpg": {
+      "referenceImageId": "REFIMGC9FL8HWRCQ0WH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVWH4KC5Q618N.jpg": {
+      "referenceImageId": "REFIMGCVWH4KC5Q618N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07JMN4CWF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCLM4JF8VPMRTZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 60.96,
+      "widthInCms": 213.0,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 65.0
+}

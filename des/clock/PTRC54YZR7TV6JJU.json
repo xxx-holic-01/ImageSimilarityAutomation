@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGC8L663XZHY1YR.jpg": {
+      "referenceImageId": "REFIMGC8L663XZHY1YR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNZQ9B5618BNM.jpg": {
+      "referenceImageId": "REFIMGCNZQ9B5618BNM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN3VP6PK70V7Q.jpg": {
+      "referenceImageId": "REFIMGCN3VP6PK70V7Q",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Lumuasky Wood Wall Clock, 12 Inch Silent Non-Ticking Battery Operated Round Clock for Living Room Bedroom Kitchen Home Office "
+    },
+    "REFIMGCT9T8KGHTJW5N.jpg": {
+      "referenceImageId": "REFIMGCT9T8KGHTJW5N",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC90122EPWMQR0.jpg": {
+      "referenceImageId": "REFIMGC90122EPWMQR0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6E6TMGG805FP.jpg": {
+      "referenceImageId": "REFIMGC6E6TMGG805FP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTLGYFX948AD6.jpg": {
+      "referenceImageId": "REFIMGCTLGYFX948AD6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFZZ55VMC13QK.jpg": {
+      "referenceImageId": "REFIMGCFZZ55VMC13QK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B5X2QS19",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC54YZR7TV6JJU",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 5.21,
+      "widthInCms": 30.0,
+      "heightInCms": 30.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 80.0
+}

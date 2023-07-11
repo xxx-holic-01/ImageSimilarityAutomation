@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCC1NHFW1TUAKB.jpg": {
+      "referenceImageId": "REFIMGCC1NHFW1TUAKB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6JKJMWPZ2ZZT.jpg": {
+      "referenceImageId": "REFIMGC6JKJMWPZ2ZZT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDY76LUAMH196.jpg": {
+      "referenceImageId": "REFIMGCDY76LUAMH196",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2J9L0HETFC42.jpg": {
+      "referenceImageId": "REFIMGC2J9L0HETFC42",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHN223ERYWFX6.jpg": {
+      "referenceImageId": "REFIMGCHN223ERYWFX6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA1E1PVV0DQLD.jpg": {
+      "referenceImageId": "REFIMGCA1E1PVV0DQLD",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "White Noise Machine for Sleeping Sound Machine Baby Kid Adult 26 HiFi Smoothing Sound Auto-Off Timer Memory Function Sleep Therapy for Home Nursery Office Privacy (Black-Blue) "
+    }
+  },
+  "asin": "B07V8GV8NG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCVNM4XU9TC2ZY",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 8.47,
+      "widthInCms": 10.69,
+      "heightInCms": 9.98
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "NOISE_MACHINE",
+  "focalLength": 80.0
+}

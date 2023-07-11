@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGC1DE3CZ8VMGA0.jpg": {
+      "referenceImageId": "REFIMGC1DE3CZ8VMGA0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGKXLGZ4HCL26.jpg": {
+      "referenceImageId": "REFIMGCGKXLGZ4HCL26",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2MDG8K57HBPL.jpg": {
+      "referenceImageId": "REFIMGC2MDG8K57HBPL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCKJTZKPA231E1.jpg": {
+      "referenceImageId": "REFIMGCKJTZKPA231E1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDJAUFWMZEHEC.jpg": {
+      "referenceImageId": "REFIMGCDJAUFWMZEHEC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCNCCQR0K85C47.jpg": {
+      "referenceImageId": "REFIMGCNCCQR0K85C47",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEWYJUREXMEUK.jpg": {
+      "referenceImageId": "REFIMGCEWYJUREXMEUK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM9TZCY8Y15PG.jpg": {
+      "referenceImageId": "REFIMGCM9TZCY8Y15PG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09S2YK2DV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1G00CHRP9AC1",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 31.0,
+      "widthInCms": 28.4,
+      "heightInCms": 30.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOILET",
+  "focalLength": 55.0
+}

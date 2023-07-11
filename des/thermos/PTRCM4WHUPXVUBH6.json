@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC4RWEA4P5HTUK.jpg": {
+      "referenceImageId": "REFIMGC4RWEA4P5HTUK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF2Q522EYA2D6.jpg": {
+      "referenceImageId": "REFIMGCF2Q522EYA2D6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Doshisha ON°C ZONE Sub-zero Water Bottle"
+    },
+    "REFIMGCKW2NAP3NAB6R.jpg": {
+      "referenceImageId": "REFIMGCKW2NAP3NAB6R",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCGV1JZHGY05V.jpg": {
+      "referenceImageId": "REFIMGCCGV1JZHGY05V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5WBCAL4YMM55.jpg": {
+      "referenceImageId": "REFIMGC5WBCAL4YMM55",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B085LHBYVV",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCM4WHUPXVUBH6",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 8.0,
+      "widthInCms": 8.0,
+      "heightInCms": 19.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "THERMOS",
+  "focalLength": 70.0
+}

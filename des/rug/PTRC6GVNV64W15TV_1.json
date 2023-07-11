@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCV5G142RHZU8D.jpg": {
+      "referenceImageId": "REFIMGCV5G142RHZU8D",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKH2EMNHFR5TG.jpg": {
+      "referenceImageId": "REFIMGCKH2EMNHFR5TG",
+      "labels": [
+        "COLOR",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRAE2JLBRAD8E.jpg": {
+      "referenceImageId": "REFIMGCRAE2JLBRAD8E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B0BLHY2BCD",
+  "marketplace": 44571,
+  "partnerOrderId": "PTRC6GVNV64W15TV",
+  "productDimensionList": [
+    {
+      "productCategory": "Mattress",
+      "lengthInCms": 41.0,
+      "widthInCms": 61.0,
+      "heightInCms": 2.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 55.0
+}

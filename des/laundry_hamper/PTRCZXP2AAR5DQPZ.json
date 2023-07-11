@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGC8XEZ5UR1Z3A0.jpg": {
+      "referenceImageId": "REFIMGC8XEZ5UR1Z3A0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2ZX98Z9FVL4B.jpg": {
+      "referenceImageId": "REFIMGC2ZX98Z9FVL4B",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPGEUP4L8ZY7P.jpg": {
+      "referenceImageId": "REFIMGCPGEUP4L8ZY7P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH3BJEG710PCJ.jpg": {
+      "referenceImageId": "REFIMGCH3BJEG710PCJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC155D30RFUHF3.jpg": {
+      "referenceImageId": "REFIMGC155D30RFUHF3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCQ15NVCUA0DTK.jpg": {
+      "referenceImageId": "REFIMGCQ15NVCUA0DTK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9YT1ZUDNQ25W.jpg": {
+      "referenceImageId": "REFIMGC9YT1ZUDNQ25W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVMM8Q4FJMTAJ.jpg": {
+      "referenceImageId": "REFIMGCVMM8Q4FJMTAJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEM8EM5WVT9YB.jpg": {
+      "referenceImageId": "REFIMGCEM8EM5WVT9YB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0862SV81Y",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCZXP2AAR5DQPZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 15.0,
+      "widthInCms": 25.4,
+      "heightInCms": 26.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAUNDRY_HAMPER",
+  "focalLength": 50.0
+}

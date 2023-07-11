@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCGB1TTUHB5ZB2.jpg": {
+      "referenceImageId": "REFIMGCGB1TTUHB5ZB2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNEHL42PRAGQ8.jpg": {
+      "referenceImageId": "REFIMGCNEHL42PRAGQ8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX2FW1KAEYL2R.jpg": {
+      "referenceImageId": "REFIMGCX2FW1KAEYL2R",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Woolmug 2 Pack Dusk to Dawn Porch Lights with Outlet,Waterproof Outdoor Light with Plug Outlets Built-in, Anti-Rust Exterior Wall Lantern Light for House Porch Garage(Not Included Bulb)"
+    }
+  },
+  "asin": "B0BD5CXWZS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGW121KWWWPU8",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 18.5,
+      "widthInCms": 15.0,
+      "heightInCms": 24.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

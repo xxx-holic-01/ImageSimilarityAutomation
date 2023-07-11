@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCP91RGDKX75QB.jpg": {
+      "referenceImageId": "REFIMGCP91RGDKX75QB",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "The Tickle Toe Kids Storage Chest of Drawer (Model should be in closed state)"
+    },
+    "REFIMGCTXKG009152MB.jpg": {
+      "referenceImageId": "REFIMGCTXKG009152MB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWWNY0D8T7YQ5.jpg": {
+      "referenceImageId": "REFIMGCWWNY0D8T7YQ5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC08PT8C9RV5X7.jpg": {
+      "referenceImageId": "REFIMGC08PT8C9RV5X7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WYWDXQS",
+  "marketplace": 44571,
+  "partnerOrderId": "PTRCM4W4BRUDWF64",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 33.0,
+      "widthInCms": 60.0,
+      "heightInCms": 110.52
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DRESSER",
+  "focalLength": 39.0
+}

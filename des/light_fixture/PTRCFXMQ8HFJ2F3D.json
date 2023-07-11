@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCJ2VV4ZHZ9JYE.jpg": {
+      "referenceImageId": "REFIMGCJ2VV4ZHZ9JYE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW2CRTVLZDNGA.jpg": {
+      "referenceImageId": "REFIMGCW2CRTVLZDNGA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCDH8PUWCLPXB.jpg": {
+      "referenceImageId": "REFIMGCCDH8PUWCLPXB",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Tangkula Bathroom Vanity Lamp Brushed Nickel Wall Mounted Vanity Lighting Fixture with White Glass Shade Wall Sconce Pendant Lamp (Nickel, 3), bulbs not included "
+    },
+    "REFIMGC9HBC3D7NREHM.jpg": {
+      "referenceImageId": "REFIMGC9HBC3D7NREHM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC8KGK752RBTZ.jpg": {
+      "referenceImageId": "REFIMGCC8KGK752RBTZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNLB0J4GAYZWC.jpg": {
+      "referenceImageId": "REFIMGCNLB0J4GAYZWC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNW4M9A2M5T43.jpg": {
+      "referenceImageId": "REFIMGCNW4M9A2M5T43",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNF4QK6382DFR.jpg": {
+      "referenceImageId": "REFIMGCNF4QK6382DFR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01N3Z7ZTS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFXMQ8HFJ2F3D",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 23.5,
+      "widthInCms": 61.0,
+      "heightInCms": 21.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

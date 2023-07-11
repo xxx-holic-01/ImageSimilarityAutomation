@@ -1,0 +1,94 @@
+{
+  "images": {
+    "REFIMGC180KD0V65BTL.jpg": {
+      "referenceImageId": "REFIMGC180KD0V65BTL",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0BDW2MG06NRG.jpg": {
+      "referenceImageId": "REFIMGC0BDW2MG06NRG",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDRK55RD35XN2.jpg": {
+      "referenceImageId": "REFIMGCDRK55RD35XN2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWMLR6JE6R3T0.jpg": {
+      "referenceImageId": "REFIMGCWMLR6JE6R3T0",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3FJ6AMF69MGY.jpg": {
+      "referenceImageId": "REFIMGC3FJ6AMF69MGY",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6KKP7KGE8AJA.jpg": {
+      "referenceImageId": "REFIMGC6KKP7KGE8AJA",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLAUXRVKWVC38.jpg": {
+      "referenceImageId": "REFIMGCLAUXRVKWVC38",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B08R8KKHN2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCDQVGXU71RAKL",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 51.29,
+      "widthInCms": 55.88,
+      "heightInCms": 163.32
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

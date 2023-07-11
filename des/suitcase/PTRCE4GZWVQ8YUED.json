@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGCR7V1FDF2GTK6.jpg": {
+      "referenceImageId": "REFIMGCR7V1FDF2GTK6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCZ3P9MH0HE8Q4.jpg": {
+      "referenceImageId": "REFIMGCZ3P9MH0HE8Q4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZVH8JATYU6WZ.jpg": {
+      "referenceImageId": "REFIMGCZVH8JATYU6WZ",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09GRL3SDJ",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCE4GZWVQ8YUED",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 31.0,
+      "widthInCms": 52.0,
+      "heightInCms": 83.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 38.0
+}

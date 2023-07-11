@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGC2F7QAUGJ9YYF.jpg": {
+      "referenceImageId": "REFIMGC2F7QAUGJ9YYF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Stylish Camping 119183 9-feet by 18-feet Reversible Mat, Plastic Straw Rug, Large Floor Mat for Outdoors, RV, Patio, Backyard, Picnic, Beach, Camping (Blue/Light-Green)"
+    },
+    "REFIMGC1L45W0YL3RZL.jpg": {
+      "referenceImageId": "REFIMGC1L45W0YL3RZL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC24BAJ1Z1HMMZ.jpg": {
+      "referenceImageId": "REFIMGC24BAJ1Z1HMMZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP8GYEY1A5J2U.jpg": {
+      "referenceImageId": "REFIMGCP8GYEY1A5J2U",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0042Z307E",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCG9WRFYC0GYZ2",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 22.86,
+      "widthInCms": 45.72,
+      "heightInCms": 1.27
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

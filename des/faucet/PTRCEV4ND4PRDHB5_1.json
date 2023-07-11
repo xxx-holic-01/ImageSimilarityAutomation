@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCHDF274DQC09H.jpg": {
+      "referenceImageId": "REFIMGCHDF274DQC09H",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEMB9GD0VR3AC.jpg": {
+      "referenceImageId": "REFIMGCEMB9GD0VR3AC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVV5W4NGQ37L6.jpg": {
+      "referenceImageId": "REFIMGCVV5W4NGQ37L6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCCCTB5UWGD12U.jpg": {
+      "referenceImageId": "REFIMGCCCTB5UWGD12U",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ3AG2Y48D2KL.jpg": {
+      "referenceImageId": "REFIMGCQ3AG2Y48D2KL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07GC1D5MJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEV4ND4PRDHB5",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 20.0,
+      "widthInCms": 17.0,
+      "heightInCms": 47.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 50.0
+}

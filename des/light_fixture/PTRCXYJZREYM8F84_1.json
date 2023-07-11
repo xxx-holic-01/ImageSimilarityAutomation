@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCFRXBDEJR4AMY.jpg": {
+      "referenceImageId": "REFIMGCFRXBDEJR4AMY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLNDWAR76G64H.jpg": {
+      "referenceImageId": "REFIMGCLNDWAR76G64H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4XFR50ZRAVB7.jpg": {
+      "referenceImageId": "REFIMGC4XFR50ZRAVB7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title - AmeriTop Solar Lights Outdoor, 392 LED 6500K High Brightness Cordless LED Motion Sensor Flood Light and back side ref image : https://m.media-amazon.com/images/S/aplus-media-library-service-media/98d35db9-85d8-4f88-9822-a160457ad641.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    },
+    "REFIMGC0C9KACQMZAY0.jpg": {
+      "referenceImageId": "REFIMGC0C9KACQMZAY0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6RGUCDKD468E.jpg": {
+      "referenceImageId": "REFIMGC6RGUCDKD468E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAUR1Q1H7FFQR.jpg": {
+      "referenceImageId": "REFIMGCAUR1Q1H7FFQR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV06GHF9LK7EU.jpg": {
+      "referenceImageId": "REFIMGCV06GHF9LK7EU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BDT2632J",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCXYJZREYM8F84",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 20.21,
+      "widthInCms": 28.45,
+      "heightInCms": 14.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGC4Z51LTFVZKKA.jpg": {
+      "referenceImageId": "REFIMGC4Z51LTFVZKKA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN0YNDV793ZY7.jpg": {
+      "referenceImageId": "REFIMGCN0YNDV793ZY7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKFCDT99CE0GE.jpg": {
+      "referenceImageId": "REFIMGCKFCDT99CE0GE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCERP284P7B02F.jpg": {
+      "referenceImageId": "REFIMGCERP284P7B02F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Shine SJX-1 Easy Cold Press Juicer with XL Feed Chute and Compact Body, Gray"
+    },
+    "REFIMGC86KMHG4U11GN.jpg": {
+      "referenceImageId": "REFIMGC86KMHG4U11GN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BDG8ZQVZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRK7M0D46JHVN",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 17.78,
+      "widthInCms": 14.73,
+      "heightInCms": 43.94
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "JUICER",
+  "focalLength": 60.0
+}

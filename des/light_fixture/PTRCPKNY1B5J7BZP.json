@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCAGPEYPHUKLP0.jpg": {
+      "referenceImageId": "REFIMGCAGPEYPHUKLP0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2NU38DGQ1X53.jpg": {
+      "referenceImageId": "REFIMGC2NU38DGQ1X53",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFBNLVBNF38MK.jpg": {
+      "referenceImageId": "REFIMGCFBNLVBNF38MK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH1EGXB1EV91H.jpg": {
+      "referenceImageId": "REFIMGCH1EGXB1EV91H",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC26KWPWNJA142.jpg": {
+      "referenceImageId": "REFIMGC26KWPWNJA142",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "63\" Solar Lamp Post Lights Outdoor ,Aluminum Floor Lamp,Waterproof Solar Powered Street Lights for Garden, Lawn, Pathway, Driveway, Front/ Back Door, Warm White Solar Post Light,Replaceable Bulb "
+    },
+    "REFIMGCBQK479E65X6L.jpg": {
+      "referenceImageId": "REFIMGCBQK479E65X6L",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCAVN64HLH82A9.jpg": {
+      "referenceImageId": "REFIMGCAVN64HLH82A9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B2WBFYKH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPKNY1B5J7BZP",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 17.78,
+      "widthInCms": 17.78,
+      "heightInCms": 160.02
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 49.0
+}

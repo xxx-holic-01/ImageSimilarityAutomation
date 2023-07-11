@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCJ7JH6DJUQW11.jpg": {
+      "referenceImageId": "REFIMGCJ7JH6DJUQW11",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7JQRUKBRXHB9.jpg": {
+      "referenceImageId": "REFIMGC7JQRUKBRXHB9",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXNDVHX04P1FX.jpg": {
+      "referenceImageId": "REFIMGCXNDVHX04P1FX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWX3RGXGW39FN.jpg": {
+      "referenceImageId": "REFIMGCWX3RGXGW39FN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Glorious GWR-87 Tenkeyless Size Slim Keyboard Wrist Rest - Stealth Black"
+    },
+    "REFIMGC55B6UUXJ6RBU.jpg": {
+      "referenceImageId": "REFIMGC55B6UUXJ6RBU",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5JMLXJ2JAJYD.jpg": {
+      "referenceImageId": "REFIMGC5JMLXJ2JAJYD",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07C7WJSQL",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCNUX3PEAKMBCT",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 10.15,
+      "widthInCms": 36.66,
+      "heightInCms": 2.54
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "KEYBOARDS",
+  "focalLength": 60.0
+}

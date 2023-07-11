@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCMNN67WX28E8Z.jpg": {
+      "referenceImageId": "REFIMGCMNN67WX28E8Z",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "use 45 * 35 * 24 cm dimension and image "
+    },
+    "REFIMGCZ69XKQX3ETVQ.jpg": {
+      "referenceImageId": "REFIMGCZ69XKQX3ETVQ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "use this model and color "
+    },
+    "REFIMGC2HDULBDKZ94J.jpg": {
+      "referenceImageId": "REFIMGC2HDULBDKZ94J",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYUJNPMVE8ZM0.jpg": {
+      "referenceImageId": "REFIMGCYUJNPMVE8ZM0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TTC7T6Q",
+  "marketplace": 4,
+  "partnerOrderId": "PTRCNCAGB5U0WHCP",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 35.0,
+      "widthInCms": 42.0,
+      "heightInCms": 24.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 25.0
+}

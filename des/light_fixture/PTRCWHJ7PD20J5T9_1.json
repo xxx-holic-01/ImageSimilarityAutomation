@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCB2FNH3Z9XP2C.jpg": {
+      "referenceImageId": "REFIMGCB2FNH3Z9XP2C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCB3H9T1G7UFPW.jpg": {
+      "referenceImageId": "REFIMGCB3H9T1G7UFPW",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1TL3AXG83G6U.jpg": {
+      "referenceImageId": "REFIMGC1TL3AXG83G6U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCARJJC5TMJV0Q.jpg": {
+      "referenceImageId": "REFIMGCARJJC5TMJV0Q",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG3NFVTTCMK92.jpg": {
+      "referenceImageId": "REFIMGCG3NFVTTCMK92",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCE38NCAUP1YW7.jpg": {
+      "referenceImageId": "REFIMGCE38NCAUP1YW7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B8HM7V7G",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWHJ7PD20J5T9",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 30.48,
+      "widthInCms": 30.48,
+      "heightInCms": 86.36
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

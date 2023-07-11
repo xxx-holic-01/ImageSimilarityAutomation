@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCTC6P80KXPB0Y.jpg": {
+      "referenceImageId": "REFIMGCTC6P80KXPB0Y",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNUQWUTX3YN30.jpg": {
+      "referenceImageId": "REFIMGCNUQWUTX3YN30",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC63PLP4LURJU9.jpg": {
+      "referenceImageId": "REFIMGC63PLP4LURJU9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Pearl Metal Wacoat Trading HB-8043 Frying Pan"
+    }
+  },
+  "asin": "B07DX3BM48",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC3DED4YAWLE0H",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 18.0,
+      "widthInCms": 34.0,
+      "heightInCms": 5.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 90.0
+}

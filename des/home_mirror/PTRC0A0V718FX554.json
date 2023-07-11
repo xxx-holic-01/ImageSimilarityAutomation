@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCTXMGTGEUR7LB.jpg": {
+      "referenceImageId": "REFIMGCTXMGTGEUR7LB",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCTMYVGMX5MNXN.jpg": {
+      "referenceImageId": "REFIMGCTMYVGMX5MNXN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUB7BCPAKETAX.jpg": {
+      "referenceImageId": "REFIMGCUB7BCPAKETAX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWDW5N2ZFLAAT.jpg": {
+      "referenceImageId": "REFIMGCWDW5N2ZFLAAT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC968P35HHE6K4.jpg": {
+      "referenceImageId": "REFIMGC968P35HHE6K4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWH2G5LPU8G1W.jpg": {
+      "referenceImageId": "REFIMGCWH2G5LPU8G1W",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7YWKU2TLUAM1.jpg": {
+      "referenceImageId": "REFIMGC7YWKU2TLUAM1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B087F5671L",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0A0V718FX554",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 6.35,
+      "widthInCms": 52.29,
+      "heightInCms": 74.57
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

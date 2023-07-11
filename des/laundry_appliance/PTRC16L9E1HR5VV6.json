@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGC2VU3HZQUZZCB.jpg": {
+      "referenceImageId": "REFIMGC2VU3HZQUZZCB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPYZQX0974W9K.jpg": {
+      "referenceImageId": "REFIMGCPYZQX0974W9K",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ivation | Wooden Laundry Pedestal for Washer \u0026 Dryer Made to Fit All Machines - Whirlpool LG GE Samsung and More Made of Durable Solid Wood Material 33.86” x 29.92” 2 Pack"
+    },
+    "REFIMGCPFZYUG27X8X7.jpg": {
+      "referenceImageId": "REFIMGCPFZYUG27X8X7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BF82VZNF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC16L9E1HR5VV6",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 83.82,
+      "widthInCms": 73.66,
+      "heightInCms": 40.64
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LAUNDRY_APPLIANCE",
+  "focalLength": 35.0
+}

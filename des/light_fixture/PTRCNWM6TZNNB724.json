@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGCP5TYA7CHFRC8.jpg": {
+      "referenceImageId": "REFIMGCP5TYA7CHFRC8",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ0UN83M82WD3.jpg": {
+      "referenceImageId": "REFIMGCQ0UN83M82WD3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC41ET87ZA9V3A.jpg": {
+      "referenceImageId": "REFIMGC41ET87ZA9V3A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLUGNTZQ006H5.jpg": {
+      "referenceImageId": "REFIMGCLUGNTZQ006H5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYQ1ZJHB2ETYD.jpg": {
+      "referenceImageId": "REFIMGCYQ1ZJHB2ETYD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJNTKDZ5HM7GN.jpg": {
+      "referenceImageId": "REFIMGCJNTKDZ5HM7GN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wire is excluded.   AizzKry Outdoor Spotlight with Ground Stake Durable Floodlight Fixture Weather Resistant Heavy Duty for Yard Flag Holiday Decor 120V 6FT Power Cord PAR38 Bulb Base Green ETL Listed"
+    }
+  },
+  "asin": "B097PJV42M",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNWM6TZNNB724",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 5.0,
+      "widthInCms": 10.0,
+      "heightInCms": 18.92
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 35.0
+}

@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCAPMGL9011MPM.jpg": {
+      "referenceImageId": "REFIMGCAPMGL9011MPM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY5XWNP0XAXNR.jpg": {
+      "referenceImageId": "REFIMGCY5XWNP0XAXNR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCWME5YXLU82P.jpg": {
+      "referenceImageId": "REFIMGCCWME5YXLU82P",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B08CKMZH64",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRDZ0WF0JAXGT",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 27.0,
+      "widthInCms": 41.0,
+      "heightInCms": 24.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

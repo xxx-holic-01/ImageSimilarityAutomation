@@ -1,0 +1,70 @@
+{
+  "images": {
+    "REFIMGCRJEKF92AZVUN.jpg": {
+      "referenceImageId": "REFIMGCRJEKF92AZVUN",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7L8YHP0ZQMV9.jpg": {
+      "referenceImageId": "REFIMGC7L8YHP0ZQMV9",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4ZM0RHGYE249.jpg": {
+      "referenceImageId": "REFIMGC4ZM0RHGYE249",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN1QR29Y2BPCQ.jpg": {
+      "referenceImageId": "REFIMGCN1QR29Y2BPCQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Tower T14028COP Copper Cerasure+ Indoor/Outdoor Electric BBQ Grill Stainless Steel Easy Clean 2200W Black"
+    },
+    "REFIMGCE1P2B3PYMTV6.jpg": {
+      "referenceImageId": "REFIMGCE1P2B3PYMTV6",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0983DSQLN",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCQ7AF9TL4CCEG",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 52.0,
+      "widthInCms": 109.0,
+      "heightInCms": 102.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 45.0
+}

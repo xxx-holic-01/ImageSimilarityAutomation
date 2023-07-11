@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCAPLTUP6TB9RM.jpg": {
+      "referenceImageId": "REFIMGCAPLTUP6TB9RM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Fujifilm X-T100 Mirrorless Digital Camera, Black (Body Only)"
+    },
+    "REFIMGCELJ5N8XMKJ8U.jpg": {
+      "referenceImageId": "REFIMGCELJ5N8XMKJ8U",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNG7Q1HQ9KCY8.jpg": {
+      "referenceImageId": "REFIMGCNG7Q1HQ9KCY8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0Y7QETYMP55Z.jpg": {
+      "referenceImageId": "REFIMGC0Y7QETYMP55Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGA8960XD5TDJ.jpg": {
+      "referenceImageId": "REFIMGCGA8960XD5TDJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWH5V3363219W.jpg": {
+      "referenceImageId": "REFIMGCWH5V3363219W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07D7BVHRT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZP3V3RJ7MBRZ",
+  "productDimensionList": [
+    {
+      "productCategory": "Printer",
+      "lengthInCms": 4.7,
+      "widthInCms": 12.1,
+      "heightInCms": 8.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CAMERA_DIGITAL",
+  "focalLength": 120.0
+}

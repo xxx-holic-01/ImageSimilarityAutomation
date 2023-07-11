@@ -1,0 +1,92 @@
+{
+  "images": {
+    "REFIMGC1A95K2W1EAHF.jpg": {
+      "referenceImageId": "REFIMGC1A95K2W1EAHF",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT1P59MBCP41E.jpg": {
+      "referenceImageId": "REFIMGCT1P59MBCP41E",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLZFYLDBKV0MR.jpg": {
+      "referenceImageId": "REFIMGCLZFYLDBKV0MR",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2591JL3096BG.jpg": {
+      "referenceImageId": "REFIMGC2591JL3096BG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Swan Nordic 4 Slice Toaster Blue 1500W Scandi Style Independent Browning Controls ST14620BLUN"
+    },
+    "REFIMGCL0WCB81XXPH9.jpg": {
+      "referenceImageId": "REFIMGCL0WCB81XXPH9",
+      "labels": [
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM78V6U7XT50C.jpg": {
+      "referenceImageId": "REFIMGCM78V6U7XT50C",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0F1CRWKMWHBL.jpg": {
+      "referenceImageId": "REFIMGC0F1CRWKMWHBL",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08KJBZLFS",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCEKRBP6GGC82W",
+  "productDimensionList": [
+    {
+      "productCategory": "Chest Drawer",
+      "lengthInCms": 31.44,
+      "widthInCms": 33.0,
+      "heightInCms": 20.78
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TOASTER",
+  "focalLength": 90.0
+}

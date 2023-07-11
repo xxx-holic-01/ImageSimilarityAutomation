@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCFRV9EVB06HEY.jpg": {
+      "referenceImageId": "REFIMGCFRV9EVB06HEY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRYYZDK3F91HF.jpg": {
+      "referenceImageId": "REFIMGCRYYZDK3F91HF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDY61XGWNNC96.jpg": {
+      "referenceImageId": "REFIMGCDY61XGWNNC96",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCK0A6VAUCLRXW.jpg": {
+      "referenceImageId": "REFIMGCK0A6VAUCLRXW",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV2FCJHY79GBX.jpg": {
+      "referenceImageId": "REFIMGCV2FCJHY79GBX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8MTUG6PA81B9.jpg": {
+      "referenceImageId": "REFIMGC8MTUG6PA81B9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mini fridge- model in closed state"
+    }
+  },
+  "asin": "B096HX4V45",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQFY26L9LNTF4",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 27.23,
+      "widthInCms": 19.06,
+      "heightInCms": 26.41
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "REFRIGERATOR",
+  "focalLength": 80.0
+}

@@ -1,0 +1,103 @@
+{
+  "images": {
+    "REFIMGCPVQY0BR9VH0Z.jpg": {
+      "referenceImageId": "REFIMGCPVQY0BR9VH0Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNTC1Z2FCQMNG.jpg": {
+      "referenceImageId": "REFIMGCNTC1Z2FCQMNG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV9DNN53KH35H.jpg": {
+      "referenceImageId": "REFIMGCV9DNN53KH35H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX92B52UQTUMD.jpg": {
+      "referenceImageId": "REFIMGCX92B52UQTUMD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC91ZRYXQV2M8G.jpg": {
+      "referenceImageId": "REFIMGC91ZRYXQV2M8G",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTYDH5U466FUX.jpg": {
+      "referenceImageId": "REFIMGCTYDH5U466FUX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWTJJP332988L.jpg": {
+      "referenceImageId": "REFIMGCWTJJP332988L",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Outsunny Charcoal Trolley BBQ Barbecue Grill Patio Camping Picnic Garden Party Outdoor Cooking with Lid, Wheels and Storage Shelf, Black and Red"
+    },
+    "REFIMGCG42MT89AXW7M.jpg": {
+      "referenceImageId": "REFIMGCG42MT89AXW7M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5FQBEWEHACVT.jpg": {
+      "referenceImageId": "REFIMGC5FQBEWEHACVT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00W789NN8",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCBUF2ETDQE1L1",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 55.78,
+      "widthInCms": 47.09,
+      "heightInCms": 87.92
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 70.0
+}

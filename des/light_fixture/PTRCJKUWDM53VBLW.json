@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGCDX3QL8XHQFQL.jpg": {
+      "referenceImageId": "REFIMGCDX3QL8XHQFQL",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Pathson Retro Pendant Lighting Industrial Small Hanging Light with Clear Glass and Textile Cord Adjustable Kitchen Lamp for Hotels Hallway Shops Cafe Bar Flush Mount Ceiling Light Fixtures"
+    },
+    "REFIMGC4ZQNB6PCCTFA.jpg": {
+      "referenceImageId": "REFIMGC4ZQNB6PCCTFA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJUP765DGAQY9.jpg": {
+      "referenceImageId": "REFIMGCJUP765DGAQY9",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR05FTFU16M8F.jpg": {
+      "referenceImageId": "REFIMGCR05FTFU16M8F",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCNFKJE7X0LF0.jpg": {
+      "referenceImageId": "REFIMGCCNFKJE7X0LF0",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGTQV49JCD1PX.jpg": {
+      "referenceImageId": "REFIMGCGTQV49JCD1PX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ9KYGUXDC9C9.jpg": {
+      "referenceImageId": "REFIMGCZ9KYGUXDC9C9",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4NN635QV8FE2.jpg": {
+      "referenceImageId": "REFIMGC4NN635QV8FE2",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDUZVCTFH9NK3.jpg": {
+      "referenceImageId": "REFIMGCDUZVCTFH9NK3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B06X9TLRVN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJKUWDM53VBLW",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 14.22,
+      "widthInCms": 14.22,
+      "heightInCms": 91.44
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 54.0
+}

@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGC9GCHCA5WXTX3.jpg": {
+      "referenceImageId": "REFIMGC9GCHCA5WXTX3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "CASAMUDO Oak Wood Leaning Shelf, Oak and White Triangle Shelves"
+    },
+    "REFIMGC4VDDXPM8FBY5.jpg": {
+      "referenceImageId": "REFIMGC4VDDXPM8FBY5",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUDZ6EFQP7LEX.jpg": {
+      "referenceImageId": "REFIMGCUDZ6EFQP7LEX",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0NDAM75LGF47.jpg": {
+      "referenceImageId": "REFIMGC0NDAM75LGF47",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BH5B6D9D",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFF1Z4Y46Z1C9",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 25.5,
+      "widthInCms": 102.0,
+      "heightInCms": 165.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SHELF",
+  "focalLength": 80.0
+}

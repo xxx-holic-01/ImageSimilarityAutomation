@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGCNLEFN3T5FZYC.jpg": {
+      "referenceImageId": "REFIMGCNLEFN3T5FZYC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKC7URMQPMM0W.jpg": {
+      "referenceImageId": "REFIMGCKC7URMQPMM0W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNP4M8GDJJHXZ.jpg": {
+      "referenceImageId": "REFIMGCNP4M8GDJJHXZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "OEM Lenovo ThinkCentre M75s Gen 2 SFF AMD Ryzen 5 Pro 5650G (Beats Intel i7-12700T), 16GB RAM, 512GB NVMe, W10P, WiFi, 3Y, Desktop"
+    },
+    "REFIMGCG7R6WTBAPPX6.jpg": {
+      "referenceImageId": "REFIMGCG7R6WTBAPPX6",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRLKEUYF9P5VP.jpg": {
+      "referenceImageId": "REFIMGCRLKEUYF9P5VP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B082XL4LPH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1CH30Y1UCPTF",
+  "productDimensionList": [
+    {
+      "productCategory": "Computer Desk with Storage Shelf",
+      "lengthInCms": 25.0,
+      "widthInCms": 10.0,
+      "heightInCms": 35.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PERSONAL_COMPUTER",
+  "focalLength": 45.0
+}

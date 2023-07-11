@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGCEYPTN6CR8WTK.jpg": {
+      "referenceImageId": "REFIMGCEYPTN6CR8WTK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Sophie Nordinn® Goteborg Basket (Black Large) "
+    },
+    "REFIMGCA8ACA575QQ13.jpg": {
+      "referenceImageId": "REFIMGCA8ACA575QQ13",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL5LFPRGAY24W.jpg": {
+      "referenceImageId": "REFIMGCL5LFPRGAY24W",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08ZQ1W4QR",
+  "marketplace": 4,
+  "partnerOrderId": "PTRC1E9DPJDR1CEN",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 38.0,
+      "widthInCms": 38.0,
+      "heightInCms": 35.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAUNDRY_HAMPER",
+  "focalLength": 50.0
+}

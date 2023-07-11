@@ -1,0 +1,62 @@
+{
+  "images": {
+    "REFIMGC5PEKNYGKG15Y.jpg": {
+      "referenceImageId": "REFIMGC5PEKNYGKG15Y",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWAWMTUK4RMD9.jpg": {
+      "referenceImageId": "REFIMGCWAWMTUK4RMD9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLABHPCZ28LE9.jpg": {
+      "referenceImageId": "REFIMGCLABHPCZ28LE9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "All Things Shared Personalized Bridesmaid Gift Simple Metal Compact Makeup Mirror - Decorative Acrylic Asymmetrical Irregular Mirror with Stand -Aesthetic Desk Decor Wavy Pond Funky Abstract Mirror"
+    },
+    "REFIMGCQ2U6V74PTAT3.jpg": {
+      "referenceImageId": "REFIMGCQ2U6V74PTAT3",
+      "labels": [],
+      "primary": false
+    },
+    "REFIMGC3DYAZEJDT3QV.jpg": {
+      "referenceImageId": "REFIMGC3DYAZEJDT3QV",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08G7YNYCH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC2CAD1KA6TP0D",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 6.98,
+      "widthInCms": 19.99,
+      "heightInCms": 23.98
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "HOME_MIRROR",
+  "focalLength": 90.0
+}

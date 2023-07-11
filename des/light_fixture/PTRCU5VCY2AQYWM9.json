@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC6F6MVR4HE3Y9.jpg": {
+      "referenceImageId": "REFIMGC6F6MVR4HE3Y9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SYOUOZ 34W LED Ceiling Light, Flush Mount Ceiling Light, Ceiling Light Fixture for Bedroom, Living Room, Kitchen, Dining Room, Hallway, Staircase, White, 6000K (Model without light effect)"
+    },
+    "REFIMGC5K9JFEEAF51X.jpg": {
+      "referenceImageId": "REFIMGC5K9JFEEAF51X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC21C8Y9QTMUUF.jpg": {
+      "referenceImageId": "REFIMGC21C8Y9QTMUUF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEC0MYDAT8CFP.jpg": {
+      "referenceImageId": "REFIMGCEC0MYDAT8CFP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC6KY95D1PMQYA.jpg": {
+      "referenceImageId": "REFIMGC6KY95D1PMQYA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCX2X0WPZ7K67.jpg": {
+      "referenceImageId": "REFIMGCCX2X0WPZ7K67",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BFGSY917",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCU5VCY2AQYWM9",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 50.0,
+      "widthInCms": 42.0,
+      "heightInCms": 8.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGC9DYVJ3M3F5UH.jpg": {
+      "referenceImageId": "REFIMGC9DYVJ3M3F5UH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNEDAYYP300P8.jpg": {
+      "referenceImageId": "REFIMGCNEDAYYP300P8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "VASSILLIAS Food Dehydrator, 5 BPA-Free Trays, Dehydrator for Food and Jerky, Dryer for Fruit, Dog Treats"
+    },
+    "REFIMGCPDHWZA2R1TV4.jpg": {
+      "referenceImageId": "REFIMGCPDHWZA2R1TV4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09YH4FN55",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9ND010XLFXHN",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 32.0,
+      "widthInCms": 40.6,
+      "heightInCms": 25.1
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_DEHYDRATOR",
+  "focalLength": 30.0
+}

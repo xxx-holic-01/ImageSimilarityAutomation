@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGC2WQQVL5D9NMU.jpg": {
+      "referenceImageId": "REFIMGC2WQQVL5D9NMU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYG4K8NERL1N8.jpg": {
+      "referenceImageId": "REFIMGCYG4K8NERL1N8",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC14Z948AA8JJK.jpg": {
+      "referenceImageId": "REFIMGC14Z948AA8JJK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B07SG8MPW7",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQA34QEQ0FVDC",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 9.02,
+      "widthInCms": 9.02,
+      "heightInCms": 18.52
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "MICROPHONE",
+  "focalLength": 67.0
+}

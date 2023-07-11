@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC1QALH2FJFEHQ.jpg": {
+      "referenceImageId": "REFIMGC1QALH2FJFEHQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Orpington Rabbit Guinea Pig Hutches (3ft Fully Asssembled) "
+    },
+    "REFIMGC6BQKA1PFQ3Q5.jpg": {
+      "referenceImageId": "REFIMGC6BQKA1PFQ3Q5",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRJXBA1G9ZETN.jpg": {
+      "referenceImageId": "REFIMGCRJXBA1G9ZETN",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAFEY1FKC63HG.jpg": {
+      "referenceImageId": "REFIMGCAFEY1FKC63HG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVNBP0LABXL21.jpg": {
+      "referenceImageId": "REFIMGCVNBP0LABXL21",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTX53PDJKJ9HB.jpg": {
+      "referenceImageId": "REFIMGCTX53PDJKJ9HB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07415YJVC",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCFD9RKUNNXJM1",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 42.0,
+      "widthInCms": 90.0,
+      "heightInCms": 52.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ANIMAL_CAGE",
+  "focalLength": 65.0
+}

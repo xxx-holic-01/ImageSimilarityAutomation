@@ -1,0 +1,69 @@
+{
+  "images": {
+    "REFIMGCKCRY0ER4QBKW.jpg": {
+      "referenceImageId": "REFIMGCKCRY0ER4QBKW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVHRC5P1P4JJE.jpg": {
+      "referenceImageId": "REFIMGCVHRC5P1P4JJE",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBBT1BXTA5K8U.jpg": {
+      "referenceImageId": "REFIMGCBBT1BXTA5K8U",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC19H2H6L8BB66.jpg": {
+      "referenceImageId": "REFIMGC19H2H6L8BB66",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL0AAP36ND8H9.jpg": {
+      "referenceImageId": "REFIMGCL0AAP36ND8H9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B086KP6QYG",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCHB220WX3ZV6P",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 40.0,
+      "widthInCms": 40.0,
+      "heightInCms": 182.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 60.0
+}

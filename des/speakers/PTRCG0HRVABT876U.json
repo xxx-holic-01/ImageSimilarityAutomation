@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCAMUE9BJK9XBM.jpg": {
+      "referenceImageId": "REFIMGCAMUE9BJK9XBM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCNT9CK4JCRR0G.jpg": {
+      "referenceImageId": "REFIMGCNT9CK4JCRR0G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC311WH696GRGV.jpg": {
+      "referenceImageId": "REFIMGC311WH696GRGV",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2ZE6TNDUB2HC.jpg": {
+      "referenceImageId": "REFIMGC2ZE6TNDUB2HC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00LMDYM6W",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCG0HRVABT876U",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 34.29,
+      "widthInCms": 25.2,
+      "heightInCms": 99.06
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 50.0
+}

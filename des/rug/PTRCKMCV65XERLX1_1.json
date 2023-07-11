@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCBJJR1FEJB8NG.jpg": {
+      "referenceImageId": "REFIMGCBJJR1FEJB8NG",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Am Blessed Coming in and Going Out Doormat Entrance Floor Mat Funny Doormat Door Mat Decorative Indoor Outdoor Doormat Non-Woven 23.6 by 15.7 Inch Machine Washable Fabric Top"
+    },
+    "REFIMGCXGHX74NJMNET.jpg": {
+      "referenceImageId": "REFIMGCXGHX74NJMNET",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Dimensions are taken from this image"
+    },
+    "REFIMGCAAY4EMNL9NAW.jpg": {
+      "referenceImageId": "REFIMGCAAY4EMNL9NAW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9KBQDYUKERVM.jpg": {
+      "referenceImageId": "REFIMGC9KBQDYUKERVM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07B9Z47C6",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCKMCV65XERLX1",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 39.88,
+      "widthInCms": 59.94,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 55.0
+}

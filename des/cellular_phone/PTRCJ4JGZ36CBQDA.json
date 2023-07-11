@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCWR07FRM7BUX1.jpg": {
+      "referenceImageId": "REFIMGCWR07FRM7BUX1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "has to be done in black screen"
+    },
+    "REFIMGCLVQHXEBCGXXM.jpg": {
+      "referenceImageId": "REFIMGCLVQHXEBCGXXM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3BXF6PEZ72MU.jpg": {
+      "referenceImageId": "REFIMGC3BXF6PEZ72MU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUHREMX8HRZH1.jpg": {
+      "referenceImageId": "REFIMGCUHREMX8HRZH1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B093QLBNK5",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCJ4JGZ36CBQDA",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 0.89,
+      "widthInCms": 7.53,
+      "heightInCms": 16.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CELLULAR_PHONE",
+  "focalLength": 40.0
+}

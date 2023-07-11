@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCLU9VB6317WT4.jpg": {
+      "referenceImageId": "REFIMGCLU9VB6317WT4",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "MUUEGM Futon Sofa BedModern Futon CouchConvertible Loveseat Sleeper Daybed Memory Foam Futon Sets with Adjustable Armrests for Living RoomOfficesApartmentsDormStudio/Black"
+    },
+    "REFIMGC39XAJ3CUNF81.jpg": {
+      "referenceImageId": "REFIMGC39XAJ3CUNF81",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD32GWNC8HC1T.jpg": {
+      "referenceImageId": "REFIMGCD32GWNC8HC1T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEKG7LEC5LRWA.jpg": {
+      "referenceImageId": "REFIMGCEKG7LEC5LRWA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0468ZD47DRM3.jpg": {
+      "referenceImageId": "REFIMGC0468ZD47DRM3",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCE5X9W6VNE939.jpg": {
+      "referenceImageId": "REFIMGCE5X9W6VNE939",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNETZ9N1FCDU7.jpg": {
+      "referenceImageId": "REFIMGCNETZ9N1FCDU7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BNG4ZTFZ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCZMBAEZPHDGUQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Seat",
+      "lengthInCms": 80.01,
+      "widthInCms": 175.2,
+      "heightInCms": 83.81
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 45.0
+}

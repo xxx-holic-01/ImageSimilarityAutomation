@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCZV49KTF0REA0.jpg": {
+      "referenceImageId": "REFIMGCZV49KTF0REA0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR7WP8JJQUCY6.jpg": {
+      "referenceImageId": "REFIMGCR7WP8JJQUCY6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCD66A4BC47H1B.jpg": {
+      "referenceImageId": "REFIMGCD66A4BC47H1B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEM98PXV35YBC.jpg": {
+      "referenceImageId": "REFIMGCEM98PXV35YBC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00MNORH9S",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRPPABD46F6C7",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 0.0,
+      "widthInCms": 0.0,
+      "heightInCms": 0.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "REFRIGERATOR",
+  "focalLength": 124.0
+}

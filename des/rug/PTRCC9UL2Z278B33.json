@@ -1,0 +1,52 @@
+{
+  "images": {
+    "REFIMGCAN5EWLPM6EQ4.jpg": {
+      "referenceImageId": "REFIMGCAN5EWLPM6EQ4",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPZ6W8W1BX7Q3.jpg": {
+      "referenceImageId": "REFIMGCPZ6W8W1BX7Q3",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG69UJZ9QQAWN.jpg": {
+      "referenceImageId": "REFIMGCG69UJZ9QQAWN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Pilgrim Home and Hearth Pilgrim 19637-1 Fireplace Hearth Rug"
+    }
+  },
+  "asin": "B07HL4PLMP",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCC9UL2Z278B33",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 68.6,
+      "widthInCms": 107.0,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 40.0
+}

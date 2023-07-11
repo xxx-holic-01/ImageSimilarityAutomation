@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCMWA5TKYX0BKM.jpg": {
+      "referenceImageId": "REFIMGCMWA5TKYX0BKM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1UQXV02G041B.jpg": {
+      "referenceImageId": "REFIMGC1UQXV02G041B",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC14AK35J2Q7WK.jpg": {
+      "referenceImageId": "REFIMGC14AK35J2Q7WK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B000FUX6H4",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCM70LWM3YJWQK",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 5.08,
+      "widthInCms": 19.0,
+      "heightInCms": 17.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 60.0
+}

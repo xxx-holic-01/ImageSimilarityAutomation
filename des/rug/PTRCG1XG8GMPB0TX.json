@@ -1,0 +1,98 @@
+{
+  "images": {
+    "REFIMGCWZP4XJBUPZZR.jpg": {
+      "referenceImageId": "REFIMGCWZP4XJBUPZZR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3AA8J47WQP4A.jpg": {
+      "referenceImageId": "REFIMGC3AA8J47WQP4A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMHR5M14DTAYC.jpg": {
+      "referenceImageId": "REFIMGCMHR5M14DTAYC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5NYHY955LU6E.jpg": {
+      "referenceImageId": "REFIMGC5NYHY955LU6E",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMA4YL9EE9VRQ.jpg": {
+      "referenceImageId": "REFIMGCMA4YL9EE9VRQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJNGNL299BZEN.jpg": {
+      "referenceImageId": "REFIMGCJNGNL299BZEN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWL1BE0KCBMNE.jpg": {
+      "referenceImageId": "REFIMGCWL1BE0KCBMNE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6LC0KFRR6H7W.jpg": {
+      "referenceImageId": "REFIMGC6LC0KFRR6H7W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUX79PGQMLACU.jpg": {
+      "referenceImageId": "REFIMGCUX79PGQMLACU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Monolia Machine Washable Area Rugs Perfect for Living Room Rugs,Bathroom Runner, Kitchen Rug, Bedroom Rugs, Entryway Rug, Persian Home Decor, Floor Decoration"
+    }
+  },
+  "asin": "B0BBRYP324",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCG1XG8GMPB0TX",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 100.7,
+      "widthInCms": 152.3,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 35.0
+}

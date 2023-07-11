@@ -1,0 +1,40 @@
+{
+  "images": {
+    "REFIMGCZ8HKNY2L71KR.jpg": {
+      "referenceImageId": "REFIMGCZ8HKNY2L71KR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "SAFAVIEH Adirondack Collection 4\u0027 Round Black / Silver, Rug"
+    },
+    "REFIMGCKCH00L92NEXW.jpg": {
+      "referenceImageId": "REFIMGCKCH00L92NEXW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B01N4DTFGN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEH0E7ZZXNH3N",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 122.0,
+      "widthInCms": 122.0,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

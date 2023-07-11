@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGCP5KMYVNPRKD8.jpg": {
+      "referenceImageId": "REFIMGCP5KMYVNPRKD8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9GRXDWMEPWP4.jpg": {
+      "referenceImageId": "REFIMGC9GRXDWMEPWP4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRBLRQAHMPXPZ.jpg": {
+      "referenceImageId": "REFIMGCRBLRQAHMPXPZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "12 Volt LED Ceiling Dome Light, Dimmable Panel Light for RV Boat Camper Van Caravan Truck Motorhome Interior Lighting, Surface Mount Down Light with Blue Light, Touch Switch, 9W, DC12-24V (Cool White) "
+    },
+    "REFIMGC9CLZ3P15MWU0.jpg": {
+      "referenceImageId": "REFIMGC9CLZ3P15MWU0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDCZU3AG8DRX7.jpg": {
+      "referenceImageId": "REFIMGCDCZU3AG8DRX7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZRHTKEVL0D8C.jpg": {
+      "referenceImageId": "REFIMGCZRHTKEVL0D8C",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ4P5RRC9E8WM.jpg": {
+      "referenceImageId": "REFIMGCZ4P5RRC9E8WM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7KA9M7Y0AQCT.jpg": {
+      "referenceImageId": "REFIMGC7KA9M7Y0AQCT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0991TVHS3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQCUCAQPTHE5P",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.5,
+      "widthInCms": 19.5,
+      "heightInCms": 2.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 40.0
+}

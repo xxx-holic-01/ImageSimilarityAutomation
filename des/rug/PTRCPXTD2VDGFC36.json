@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGC57ZFH48V8CLX.jpg": {
+      "referenceImageId": "REFIMGC57ZFH48V8CLX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQFKJFUDWVDDL.jpg": {
+      "referenceImageId": "REFIMGCQFKJFUDWVDDL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "Depth value is re-chartered."
+    },
+    "REFIMGC2E6NGVY90G7Y.jpg": {
+      "referenceImageId": "REFIMGC2E6NGVY90G7Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMCFYG9RTXU3Q.jpg": {
+      "referenceImageId": "REFIMGCMCFYG9RTXU3Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYVWTL34GUTGH.jpg": {
+      "referenceImageId": "REFIMGCYVWTL34GUTGH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD99CHTFWMDTY.jpg": {
+      "referenceImageId": "REFIMGCD99CHTFWMDTY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "NFECO Reversible Rugs Plastic Rug Outdoor Rug Lightweight Outside Mats Modern Outdoor Rug for Patio Portable Mats for RV Backyard Deck Picnic Beach, Gray "
+    },
+    "REFIMGCNLUJY6ZNKUKC.jpg": {
+      "referenceImageId": "REFIMGCNLUJY6ZNKUKC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B096NL626R",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPXTD2VDGFC36",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 132.0,
+      "widthInCms": 213.36,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 80.0
+}

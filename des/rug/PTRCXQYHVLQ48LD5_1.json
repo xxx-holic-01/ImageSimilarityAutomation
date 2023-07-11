@@ -1,0 +1,50 @@
+{
+  "images": {
+    "REFIMGC8MP3REEWZNT8.jpg": {
+      "referenceImageId": "REFIMGC8MP3REEWZNT8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ76C5BL8FRQ1.jpg": {
+      "referenceImageId": "REFIMGCJ76C5BL8FRQ1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCA5RY7QJ499QG.jpg": {
+      "referenceImageId": "REFIMGCA5RY7QJ499QG",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B35ZXMD1",
+  "marketplace": 44571,
+  "partnerOrderId": "PTRCXQYHVLQ48LD5",
+  "productDimensionList": [
+    {
+      "productCategory": "Mattress",
+      "lengthInCms": 50.8,
+      "widthInCms": 50.8,
+      "heightInCms": 1.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 54.0
+}

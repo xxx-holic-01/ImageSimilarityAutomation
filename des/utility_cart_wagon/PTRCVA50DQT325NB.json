@@ -1,0 +1,97 @@
+{
+  "images": {
+    "REFIMGCUKD4ZE4EWGR2.jpg": {
+      "referenceImageId": "REFIMGCUKD4ZE4EWGR2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "PD-5 Tool Wagon, Plastic Tool Cart, 3 Tiers, Multi-functional, Resin, Lightweight, Dolly, Carrying Dolly"
+    },
+    "REFIMGC4D3KA875Y9AB.jpg": {
+      "referenceImageId": "REFIMGC4D3KA875Y9AB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCN1B4PYC9C4UQ.jpg": {
+      "referenceImageId": "REFIMGCN1B4PYC9C4UQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC336PZWYPMZVY.jpg": {
+      "referenceImageId": "REFIMGC336PZWYPMZVY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC20WM5C13XWYY.jpg": {
+      "referenceImageId": "REFIMGC20WM5C13XWYY",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCU49PQ99HPFLF.jpg": {
+      "referenceImageId": "REFIMGCU49PQ99HPFLF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCK73Z33TJAE5H.jpg": {
+      "referenceImageId": "REFIMGCK73Z33TJAE5H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC58KEN817KEQE.jpg": {
+      "referenceImageId": "REFIMGC58KEN817KEQE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEPP3P9L1GALF.jpg": {
+      "referenceImageId": "REFIMGCEPP3P9L1GALF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BCHNP4NB",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCVA50DQT325NB",
+  "productDimensionList": [
+    {
+      "productCategory": "Cart",
+      "lengthInCms": 51.0,
+      "widthInCms": 57.0,
+      "heightInCms": 86.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "UTILITY_CART_WAGON",
+  "focalLength": 60.0
+}

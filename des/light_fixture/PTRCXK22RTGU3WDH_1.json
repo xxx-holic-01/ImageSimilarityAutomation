@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCVCWD4NWETMFU.jpg": {
+      "referenceImageId": "REFIMGCVCWD4NWETMFU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWJ4HCY2WXQ6D.jpg": {
+      "referenceImageId": "REFIMGCWJ4HCY2WXQ6D",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC80BBQK6HY0AJ.jpg": {
+      "referenceImageId": "REFIMGC80BBQK6HY0AJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCV3A17CJGYX9D.jpg": {
+      "referenceImageId": "REFIMGCV3A17CJGYX9D",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Kira Home Ellie 8\" Adjustable Mini Pendant Light w/Frosted Glass Shade \u0026 Brushed Nickel Finish "
+    },
+    "REFIMGC7HG20PLZGXZR.jpg": {
+      "referenceImageId": "REFIMGC7HG20PLZGXZR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF677RUUDGVL7.jpg": {
+      "referenceImageId": "REFIMGCF677RUUDGVL7",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCE1V1ADU98U76.jpg": {
+      "referenceImageId": "REFIMGCE1V1ADU98U76",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B01IDVE9TU",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCXK22RTGU3WDH",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.05,
+      "widthInCms": 19.05,
+      "heightInCms": 71.62
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

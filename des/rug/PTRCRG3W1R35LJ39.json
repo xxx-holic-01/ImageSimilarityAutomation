@@ -1,0 +1,71 @@
+{
+  "images": {
+    "REFIMGC1PJW0L39E4C8.jpg": {
+      "referenceImageId": "REFIMGC1PJW0L39E4C8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM4WQBDJQ694V.jpg": {
+      "referenceImageId": "REFIMGCM4WQBDJQ694V",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCQ0EN4G99NGK3.jpg": {
+      "referenceImageId": "REFIMGCQ0EN4G99NGK3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC8LHZZZJKZRZR.jpg": {
+      "referenceImageId": "REFIMGC8LHZZZJKZRZR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCMHYHTQBV0J5C.jpg": {
+      "referenceImageId": "REFIMGCMHYHTQBV0J5C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX9B378HFVL4D.jpg": {
+      "referenceImageId": "REFIMGCX9B378HFVL4D",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BF72BYK3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCRG3W1R35LJ39",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 217.71,
+      "widthInCms": 304.8,
+      "heightInCms": 1.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 100.0
+}

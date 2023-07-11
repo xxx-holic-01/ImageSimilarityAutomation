@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC8JW22BRZPTKN.jpg": {
+      "referenceImageId": "REFIMGC8JW22BRZPTKN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC43W9R18XK1PB.jpg": {
+      "referenceImageId": "REFIMGC43W9R18XK1PB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR90EXA893TH7.jpg": {
+      "referenceImageId": "REFIMGCR90EXA893TH7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC4HKYP6LBL6XE.jpg": {
+      "referenceImageId": "REFIMGC4HKYP6LBL6XE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH8JN8H2YR1E6.jpg": {
+      "referenceImageId": "REFIMGCH8JN8H2YR1E6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPFBKTPB3PFX7.jpg": {
+      "referenceImageId": "REFIMGCPFBKTPB3PFX7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BFC2683Y",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQRP8U7NX19KG",
+  "productDimensionList": [
+    {
+      "productCategory": "Clocks",
+      "lengthInCms": 9.0,
+      "widthInCms": 9.0,
+      "heightInCms": 12.95
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOCK",
+  "focalLength": 50.0
+}

@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGC2FZGPU9B4V7F.jpg": {
+      "referenceImageId": "REFIMGC2FZGPU9B4V7F",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B00Y4KQYES",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCE5VVJ46DA8LK",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 19.81,
+      "widthInCms": 47.24,
+      "heightInCms": 23.12
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "PRESSURE_COOKER",
+  "focalLength": 100.0
+}

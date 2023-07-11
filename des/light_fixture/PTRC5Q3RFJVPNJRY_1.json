@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGCHX7KZTBEJTEE.jpg": {
+      "referenceImageId": "REFIMGCHX7KZTBEJTEE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG12B4Y7J46K2.jpg": {
+      "referenceImageId": "REFIMGCG12B4Y7J46K2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2QVRUK04XRJ7.jpg": {
+      "referenceImageId": "REFIMGC2QVRUK04XRJ7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTM7U1W90F07N.jpg": {
+      "referenceImageId": "REFIMGCTM7U1W90F07N",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Flush Mount Dimmable LED Disk Light, 15W (120W Equivalent), 120V, 2700K Warm White, White Trim, ETL Listed - Suitable for Wet Locations - 4/6\" J-Box-Lunabode LED Store"
+    },
+    "REFIMGC9MRY5Y47JQZQ.jpg": {
+      "referenceImageId": "REFIMGC9MRY5Y47JQZQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07NBVNHD3",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC5Q3RFJVPNJRY",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.5,
+      "widthInCms": 19.5,
+      "heightInCms": 2.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 50.0
+}

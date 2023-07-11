@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCBW5E36PTYZP8.jpg": {
+      "referenceImageId": "REFIMGCBW5E36PTYZP8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Lahome Collection Modern Floral Round Rug - 4\u0027 Diameter Non-Slip Distressed Area Rug Small Accent Throw Rugs Floor Carpet for Door Mat Entryway Bedrooms Laundry Room Decor (Paisley)"
+    },
+    "REFIMGCA0DN9PKL22TW.jpg": {
+      "referenceImageId": "REFIMGCA0DN9PKL22TW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCH1Q3225H1B2H.jpg": {
+      "referenceImageId": "REFIMGCH1Q3225H1B2H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBVDPE203ZUXQ.jpg": {
+      "referenceImageId": "REFIMGCBVDPE203ZUXQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09Z2LS8BM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH7XHH7HJP6JQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 51.0,
+      "widthInCms": 51.0,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 140.0
+}

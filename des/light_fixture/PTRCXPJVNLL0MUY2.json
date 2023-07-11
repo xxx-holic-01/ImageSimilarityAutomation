@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCM94UDGMKTBJG.jpg": {
+      "referenceImageId": "REFIMGCM94UDGMKTBJG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF4B7MUYQGTV6.jpg": {
+      "referenceImageId": "REFIMGCF4B7MUYQGTV6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LED step light, model only one product"
+    },
+    "REFIMGCV5YUQTYH5NWE.jpg": {
+      "referenceImageId": "REFIMGCV5YUQTYH5NWE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLRDT7CR8F8W4.jpg": {
+      "referenceImageId": "REFIMGCLRDT7CR8F8W4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHYD7UP4VMU0X.jpg": {
+      "referenceImageId": "REFIMGCHYD7UP4VMU0X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGR3HQQDC2VDB.jpg": {
+      "referenceImageId": "REFIMGCGR3HQQDC2VDB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B087N6Q4SJ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCXPJVNLL0MUY2",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 11.17,
+      "widthInCms": 17.78,
+      "heightInCms": 2.54
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 45.0
+}

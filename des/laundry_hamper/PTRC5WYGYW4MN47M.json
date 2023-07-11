@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGCQDUWN1KWGFWK.jpg": {
+      "referenceImageId": "REFIMGCQDUWN1KWGFWK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA2ZZ5XHQXBNZ.jpg": {
+      "referenceImageId": "REFIMGCA2ZZ5XHQXBNZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Amazon Brand – Eono Single Laundry Bag, Large Foldable Laundry Basket, Collapisable Laundry Hamper, Folding Washing Storage Bin- Dark Grey"
+    },
+    "REFIMGCH06V07G8TBHY.jpg": {
+      "referenceImageId": "REFIMGCH06V07G8TBHY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW0R4Z5CFECG9.jpg": {
+      "referenceImageId": "REFIMGCW0R4Z5CFECG9",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TLCG5HF",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC5WYGYW4MN47M",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 23.0,
+      "widthInCms": 33.0,
+      "heightInCms": 53.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LAUNDRY_HAMPER",
+  "focalLength": 75.0
+}

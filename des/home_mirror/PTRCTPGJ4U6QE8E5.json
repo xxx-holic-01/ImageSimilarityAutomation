@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGCRNYAY6JFF8CQ.jpg": {
+      "referenceImageId": "REFIMGCRNYAY6JFF8CQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPUGBCZU25BFG.jpg": {
+      "referenceImageId": "REFIMGCPUGBCZU25BFG",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHTTWK29V26GA.jpg": {
+      "referenceImageId": "REFIMGCHTTWK29V26GA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Kate and Laurel Arendahl Traditional Arch Mirror 19 x 30.75 Antique Black Baroque Inspired Wall Decor"
+    },
+    "REFIMGC3VC242QVQU5P.jpg": {
+      "referenceImageId": "REFIMGC3VC242QVQU5P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC085R521XFX57.jpg": {
+      "referenceImageId": "REFIMGC085R521XFX57",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6EENGU5PCMBP.jpg": {
+      "referenceImageId": "REFIMGC6EENGU5PCMBP",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1DHGBVGQVU4Z.jpg": {
+      "referenceImageId": "REFIMGC1DHGBVGQVU4Z",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGBUQWJGN7B71.jpg": {
+      "referenceImageId": "REFIMGCGBUQWJGN7B71",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BPTT4974",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCTPGJ4U6QE8E5",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 3.81,
+      "widthInCms": 59.69,
+      "heightInCms": 104.14
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

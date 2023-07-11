@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGCFAUW0C0636F2.jpg": {
+      "referenceImageId": "REFIMGCFAUW0C0636F2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGC242HFFJR31KZ.jpg": {
+      "referenceImageId": "REFIMGC242HFFJR31KZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGCPRVADWGFKVKF.jpg": {
+      "referenceImageId": "REFIMGCPRVADWGFKVKF",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC361RZNXEBHQF.jpg": {
+      "referenceImageId": "REFIMGC361RZNXEBHQF",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC131GWJWRRE9Z.jpg": {
+      "referenceImageId": "REFIMGC131GWJWRRE9Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    },
+    "REFIMGCJPA7K065HHY5.jpg": {
+      "referenceImageId": "REFIMGCJPA7K065HHY5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Trash Can with Slim Lid, Tower, Black, Set of 3, Can Be Cut Trash Can, Trash Can, 9.8 gal (35 L), Trash Bags, 10.9 gal (45 L) Bags, Sorting, Slim, Lightweight, Lid Included 775340"
+    },
+    "REFIMGCHYWXHCGUBRQX.jpg": {
+      "referenceImageId": "REFIMGCHYWXHCGUBRQX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1HEA6WEYUZM3.jpg": {
+      "referenceImageId": "REFIMGC1HEA6WEYUZM3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": "For shape detail purpose only, follow primary texture color only"
+    }
+  },
+  "asin": "B094CGXQ3W",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCP4DFUM0QV106",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 40.0,
+      "widthInCms": 19.0,
+      "heightInCms": 58.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TRASH_CAN",
+  "focalLength": 70.0
+}

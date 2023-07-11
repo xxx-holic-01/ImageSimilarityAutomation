@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCLFZ0MQZK2PHW.jpg": {
+      "referenceImageId": "REFIMGCLFZ0MQZK2PHW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF92HGE288NAU.jpg": {
+      "referenceImageId": "REFIMGCF92HGE288NAU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTJH4CM1XXHY2.jpg": {
+      "referenceImageId": "REFIMGCTJH4CM1XXHY2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCA547JDC9KH3G.jpg": {
+      "referenceImageId": "REFIMGCA547JDC9KH3G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9VDTEF12MBVC.jpg": {
+      "referenceImageId": "REFIMGC9VDTEF12MBVC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "GOYLSER Navy Blue Bathroom Rugs Super Absorbent Bath Mat Thin Bathroom Rugs Mat Quick Dry Door Mat Indoor Machine Washable Home Floor Mats Navy Bathroom Sink Mat Rugs (Navy)"
+    },
+    "REFIMGCRDZLYKWCUXJ2.jpg": {
+      "referenceImageId": "REFIMGCRDZLYKWCUXJ2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4163PWXZBAVA.jpg": {
+      "referenceImageId": "REFIMGC4163PWXZBAVA",
+      "labels": [
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B093BPGG9M",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3ME3VX2JJRYK",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 36.97,
+      "widthInCms": 58.42,
+      "heightInCms": 0.43
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 70.0
+}

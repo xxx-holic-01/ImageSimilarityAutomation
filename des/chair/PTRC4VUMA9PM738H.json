@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGC7VXQJPX2Q6ZG.jpg": {
+      "referenceImageId": "REFIMGC7VXQJPX2Q6ZG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC21T20BH4UVYE.jpg": {
+      "referenceImageId": "REFIMGC21T20BH4UVYE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC95JC05GAWTML.jpg": {
+      "referenceImageId": "REFIMGC95JC05GAWTML",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQD695JY5WXKK.jpg": {
+      "referenceImageId": "REFIMGCQD695JY5WXKK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWB1UBMY1AMFR.jpg": {
+      "referenceImageId": "REFIMGCWB1UBMY1AMFR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "This image is used for Dimension Assessment."
+    },
+    "REFIMGCRDCKX36AWN51.jpg": {
+      "referenceImageId": "REFIMGCRDCKX36AWN51",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "AVAWING Office Chairs, Executive Office Chair with Heated, PU Leather Adjustable Modern Ergonomic Office Chair, Adjustable Height Massage Chair with 6-Point Vibration, Swivel 360° Desk Chair, Black "
+    }
+  },
+  "asin": "B0BN8QNNVS",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4VUMA9PM738H",
+  "productDimensionList": [
+    {
+      "productCategory": "Chair",
+      "lengthInCms": 66.04,
+      "widthInCms": 66.04,
+      "heightInCms": 110.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 50.0
+}

@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC1TTEAXC8CXQU.jpg": {
+      "referenceImageId": "REFIMGC1TTEAXC8CXQU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC81F1YGMT5BQ1.jpg": {
+      "referenceImageId": "REFIMGC81F1YGMT5BQ1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBBR1Y57XB18U.jpg": {
+      "referenceImageId": "REFIMGCBBR1Y57XB18U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC0NYG6TKGWMK8.jpg": {
+      "referenceImageId": "REFIMGC0NYG6TKGWMK8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ0VTQC6MZ7BL.jpg": {
+      "referenceImageId": "REFIMGCZ0VTQC6MZ7BL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5YZB4Z4499B6.jpg": {
+      "referenceImageId": "REFIMGC5YZB4Z4499B6",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCB2XFZGKEJHLC.jpg": {
+      "referenceImageId": "REFIMGCB2XFZGKEJHLC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09F74WPHH",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCYNYV2ED3ATTV",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 35.0,
+      "widthInCms": 49.5,
+      "heightInCms": 5.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAP_DESK",
+  "focalLength": 50.0
+}

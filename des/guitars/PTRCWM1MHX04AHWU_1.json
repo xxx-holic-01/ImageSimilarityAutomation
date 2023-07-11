@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCJ343MKUDP850.jpg": {
+      "referenceImageId": "REFIMGCJ343MKUDP850",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXZWLW1XJQPU5.jpg": {
+      "referenceImageId": "REFIMGCXZWLW1XJQPU5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN4TPNCCBJZR8.jpg": {
+      "referenceImageId": "REFIMGCN4TPNCCBJZR8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUWNP43V697GA.jpg": {
+      "referenceImageId": "REFIMGCUWNP43V697GA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQPP42HGZ1T5U.jpg": {
+      "referenceImageId": "REFIMGCQPP42HGZ1T5U",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJV21W6HTKXPT.jpg": {
+      "referenceImageId": "REFIMGCJV21W6HTKXPT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPPN5XVTV52KC.jpg": {
+      "referenceImageId": "REFIMGCPPN5XVTV52KC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09GVGL7YF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCWM1MHX04AHWU",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 8.89,
+      "widthInCms": 29.21,
+      "heightInCms": 81.28
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "GUITARS",
+  "focalLength": 44.0
+}

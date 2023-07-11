@@ -1,0 +1,85 @@
+{
+  "images": {
+    "REFIMGCMGCZT0MK9PWV.jpg": {
+      "referenceImageId": "REFIMGCMGCZT0MK9PWV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Leica Q2 Digital Camera Black (19051) (Black)"
+    },
+    "REFIMGC817P6DCLNLR1.jpg": {
+      "referenceImageId": "REFIMGC817P6DCLNLR1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2DTDGBNWTFCF.jpg": {
+      "referenceImageId": "REFIMGC2DTDGBNWTFCF",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXP0LFG7FDXWG.jpg": {
+      "referenceImageId": "REFIMGCXP0LFG7FDXWG",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJX26ZRU368RW.jpg": {
+      "referenceImageId": "REFIMGCJX26ZRU368RW",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2JYTZCTQ3ZV2.jpg": {
+      "referenceImageId": "REFIMGC2JYTZCTQ3ZV2",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCE24145UKK7LP.jpg": {
+      "referenceImageId": "REFIMGCE24145UKK7LP",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07T9NT4NV",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4T2HJAF7YA97",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 9.15,
+      "widthInCms": 13.0,
+      "heightInCms": 7.9
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CAMERA_DIGITAL",
+  "focalLength": 120.0
+}

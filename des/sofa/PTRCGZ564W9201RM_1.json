@@ -1,0 +1,40 @@
+{
+  "images": {
+    "REFIMGC14LFQC4V2LAK.jpg": {
+      "referenceImageId": "REFIMGC14LFQC4V2LAK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Bahamas Beige Linen Fabric Loveseat "
+    },
+    "REFIMGCEHCTKVDQEHCA.jpg": {
+      "referenceImageId": "REFIMGCEHCTKVDQEHCA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BM49H4K9",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGZ564W9201RM",
+  "productDimensionList": [
+    {
+      "productCategory": "2 Seater Cushion",
+      "lengthInCms": 66.0,
+      "widthInCms": 114.0,
+      "heightInCms": 76.2
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SOFA",
+  "focalLength": 50.0
+}

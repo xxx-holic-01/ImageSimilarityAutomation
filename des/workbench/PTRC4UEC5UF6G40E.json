@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCP7R82WC1ZVG8.jpg": {
+      "referenceImageId": "REFIMGCP7R82WC1ZVG8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ACORN Wooden Workbench - Handmade Heavy Duty Work Table - Made From Construction Grade Timber (5ft)  UK"
+    },
+    "REFIMGC9T9V7Z4CL8M9.jpg": {
+      "referenceImageId": "REFIMGC9T9V7Z4CL8M9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2J4TBU60WDT2.jpg": {
+      "referenceImageId": "REFIMGC2J4TBU60WDT2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBAQWZPW3C4PB.jpg": {
+      "referenceImageId": "REFIMGCBAQWZPW3C4PB",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZTKYYLRURWRW.jpg": {
+      "referenceImageId": "REFIMGCZTKYYLRURWRW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7APTLEE3A7M1.jpg": {
+      "referenceImageId": "REFIMGC7APTLEE3A7M1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B074FBJ6MG",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC4UEC5UF6G40E",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 63.0,
+      "widthInCms": 150.0,
+      "heightInCms": 67.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WORKBENCH",
+  "focalLength": 26.0
+}

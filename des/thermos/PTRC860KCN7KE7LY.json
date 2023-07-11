@@ -1,0 +1,40 @@
+{
+  "images": {
+    "REFIMGCY1E9MZL6YLKM.jpg": {
+      "referenceImageId": "REFIMGCY1E9MZL6YLKM",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC7QNR2XV3XNKD.jpg": {
+      "referenceImageId": "REFIMGC7QNR2XV3XNKD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08Z7743G1",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC860KCN7KE7LY",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 7.4,
+      "widthInCms": 7.4,
+      "heightInCms": 26.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "THERMOS",
+  "focalLength": 65.0
+}

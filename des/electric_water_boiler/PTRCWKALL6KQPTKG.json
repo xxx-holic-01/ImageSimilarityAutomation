@@ -1,0 +1,115 @@
+{
+  "images": {
+    "REFIMGC4K7XHKMH8U4E.jpg": {
+      "referenceImageId": "REFIMGC4K7XHKMH8U4E",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "for more ref :- https://www.amazon.co.uk/gp/product/B07FJBYCHK?th\u003d1"
+    },
+    "REFIMGCRVW80E1T4QDV.jpg": {
+      "referenceImageId": "REFIMGCRVW80E1T4QDV",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0LPPT0JD29T7.jpg": {
+      "referenceImageId": "REFIMGC0LPPT0JD29T7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGHX95U862295.jpg": {
+      "referenceImageId": "REFIMGCGHX95U862295",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFLVURD01J7LA.jpg": {
+      "referenceImageId": "REFIMGCFLVURD01J7LA",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6TJJ2Y7EFZ80.jpg": {
+      "referenceImageId": "REFIMGC6TJJ2Y7EFZ80",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF7483VCPXYQT.jpg": {
+      "referenceImageId": "REFIMGCF7483VCPXYQT",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAED1H3WNZQUZ.jpg": {
+      "referenceImageId": "REFIMGCAED1H3WNZQUZ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNQREB3J9N6AG.jpg": {
+      "referenceImageId": "REFIMGCNQREB3J9N6AG",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWF0GK54A330T.jpg": {
+      "referenceImageId": "REFIMGCWF0GK54A330T",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07FJBYCHK",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCWKALL6KQPTKG",
+  "productDimensionList": [
+    {
+      "productCategory": "Teenagers Storage Cube Organizer",
+      "lengthInCms": 22.5,
+      "widthInCms": 15.8,
+      "heightInCms": 24.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 95.0
+}

@@ -1,0 +1,74 @@
+{
+  "images": {
+    "REFIMGC8A0M5VNGAUQH.jpg": {
+      "referenceImageId": "REFIMGC8A0M5VNGAUQH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "ASOFTY Motion Sensor Outdoor Light Battery Operated 6 LED 1000 Lumen Wireless Spotlights with Remote Control IP65 Waterproof 6000K Motion Security Light for Garage Yard Porch and Patio"
+    },
+    "REFIMGCEKJJ6RJG9XKB.jpg": {
+      "referenceImageId": "REFIMGCEKJJ6RJG9XKB",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9EJ8F9PQ0LD1.jpg": {
+      "referenceImageId": "REFIMGC9EJ8F9PQ0LD1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPM8PYW5LZ46B.jpg": {
+      "referenceImageId": "REFIMGCPM8PYW5LZ46B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAZ6N8TEMQMYC.jpg": {
+      "referenceImageId": "REFIMGCAZ6N8TEMQMYC",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKAC3DEU0URQT.jpg": {
+      "referenceImageId": "REFIMGCKAC3DEU0URQT",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B5CBRJNN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCN7RC3UPXYYKM",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 0.0,
+      "widthInCms": 0.0,
+      "heightInCms": 0.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 53.0
+}

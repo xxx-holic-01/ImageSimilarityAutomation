@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGCEHGFJ86H5TNA.jpg": {
+      "referenceImageId": "REFIMGCEHGFJ86H5TNA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVVY2NG46X4A6.jpg": {
+      "referenceImageId": "REFIMGCVVY2NG46X4A6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC684A48Z80L9T.jpg": {
+      "referenceImageId": "REFIMGC684A48Z80L9T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "DORIS 15840 Hanger Rack, Tension Rod, Tension Shelf, Storage, Telescopic, Tension Pole, With Shelf, Indoor Drying, Pole, Height 12.6 inches (320 cm), Width 27.6 - 70.9 inches (70 - 180 cm), Arc Twin "
+    },
+    "REFIMGCCPFAFHQ7Q8FK.jpg": {
+      "referenceImageId": "REFIMGCCPFAFHQ7Q8FK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8696MQKW9V3M.jpg": {
+      "referenceImageId": "REFIMGC8696MQKW9V3M",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPL17U4BY5R0U.jpg": {
+      "referenceImageId": "REFIMGCPL17U4BY5R0U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW4QADZ8JEG9C.jpg": {
+      "referenceImageId": "REFIMGCW4QADZ8JEG9C",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCM0MKDBARCV1Q.jpg": {
+      "referenceImageId": "REFIMGCM0MKDBARCV1Q",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07KWLK9WZ",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCZ4BUM62NKREX",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 10.0,
+      "widthInCms": 75.0,
+      "heightInCms": 110.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 60.0
+}

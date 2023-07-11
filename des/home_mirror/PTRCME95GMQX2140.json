@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGC595GKHUB847X.jpg": {
+      "referenceImageId": "REFIMGC595GKHUB847X",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMME2GNB52BCG.jpg": {
+      "referenceImageId": "REFIMGCMME2GNB52BCG",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1BK0GLWK4BAZ.jpg": {
+      "referenceImageId": "REFIMGC1BK0GLWK4BAZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZP7NTZYLGQEC.jpg": {
+      "referenceImageId": "REFIMGCZP7NTZYLGQEC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-BEAUTYPEAK 18 Inch Round Mirror, Black Metal Frame Circle Mirror"
+    }
+  },
+  "asin": "B08KXXFBF5",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCME95GMQX2140",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 1.27,
+      "widthInCms": 45.7,
+      "heightInCms": 40.7
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

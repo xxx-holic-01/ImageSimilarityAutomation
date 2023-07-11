@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGCTMYRB53KY73N.jpg": {
+      "referenceImageId": "REFIMGCTMYRB53KY73N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ2YDDFMDJ0TE.jpg": {
+      "referenceImageId": "REFIMGCJ2YDDFMDJ0TE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ7C9BXFD6X91.jpg": {
+      "referenceImageId": "REFIMGCJ7C9BXFD6X91",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8FQCR4AQWB24.jpg": {
+      "referenceImageId": "REFIMGC8FQCR4AQWB24",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-KRAUS Oletto Single Handle Kitchen Bar Faucet with QuickDock Top Mount Assembly in Brushed Brass, KPF-2600BB"
+    },
+    "REFIMGCQA5WY1GFL75Z.jpg": {
+      "referenceImageId": "REFIMGCQA5WY1GFL75Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGHFEKBL24LH6.jpg": {
+      "referenceImageId": "REFIMGCGHFEKBL24LH6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09B7ZN44Y",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJC7FH65N99FW",
+  "productDimensionList": [
+    {
+      "productCategory": "Exercise Equipment",
+      "lengthInCms": 17.5,
+      "widthInCms": 12.0,
+      "heightInCms": 31.1
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

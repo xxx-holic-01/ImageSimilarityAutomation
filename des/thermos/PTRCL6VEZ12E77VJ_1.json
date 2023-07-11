@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCDU4XGKCEL6Q3.jpg": {
+      "referenceImageId": "REFIMGCDU4XGKCEL6Q3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCU3FUZ2KH32TY.jpg": {
+      "referenceImageId": "REFIMGCU3FUZ2KH32TY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCG2YPKDN2F0FK.jpg": {
+      "referenceImageId": "REFIMGCG2YPKDN2F0FK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "cores B FLASK GRANDE 900ml C520BK |, model the flask only"
+    },
+    "REFIMGCTJ7F7G58BNC3.jpg": {
+      "referenceImageId": "REFIMGCTJ7F7G58BNC3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "back no nexture , its same as front  as front "
+    }
+  },
+  "asin": "B089KL1Q7P",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCL6VEZ12E77VJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Exercise Equipment",
+      "lengthInCms": 12.0,
+      "widthInCms": 12.0,
+      "heightInCms": 27.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "THERMOS",
+  "focalLength": 95.0
+}

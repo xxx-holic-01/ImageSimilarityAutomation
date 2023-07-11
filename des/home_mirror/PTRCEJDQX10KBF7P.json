@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCDRRF5CJH2HN2.jpg": {
+      "referenceImageId": "REFIMGCDRRF5CJH2HN2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LYYYXGYP Round Wood Mirror 24 Inch Farmhouse Wall Mirror Wooden Framed Brown Circle Mirror for Bathroom"
+    },
+    "REFIMGCGAT0N5D4EW3H.jpg": {
+      "referenceImageId": "REFIMGCGAT0N5D4EW3H",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKEDNCCCL8MCX.jpg": {
+      "referenceImageId": "REFIMGCKEDNCCCL8MCX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV356JNAQCZYD.jpg": {
+      "referenceImageId": "REFIMGCV356JNAQCZYD",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": "Dimensions are taken from this image"
+    },
+    "REFIMGC1MPT48P0XZC7.jpg": {
+      "referenceImageId": "REFIMGC1MPT48P0XZC7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMCM8FWX7TE3Q.jpg": {
+      "referenceImageId": "REFIMGCMCM8FWX7TE3Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEFFA2XBVQWL7.jpg": {
+      "referenceImageId": "REFIMGCEFFA2XBVQWL7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B092TCHWFN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEJDQX10KBF7P",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 4.06,
+      "widthInCms": 60.96,
+      "heightInCms": 60.96
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 45.0
+}

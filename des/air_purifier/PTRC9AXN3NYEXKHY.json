@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGC7CAJUQTQQH14.jpg": {
+      "referenceImageId": "REFIMGC7CAJUQTQQH14",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCCJGNVUBHGL2Y.jpg": {
+      "referenceImageId": "REFIMGCCJGNVUBHGL2Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2XH8EERB9VKB.jpg": {
+      "referenceImageId": "REFIMGC2XH8EERB9VKB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7B64Y8FM9KPJ.jpg": {
+      "referenceImageId": "REFIMGC7B64Y8FM9KPJ",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8ABRMGQ8THDH.jpg": {
+      "referenceImageId": "REFIMGC8ABRMGQ8THDH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPALZBB8Z75YK.jpg": {
+      "referenceImageId": "REFIMGCPALZBB8Z75YK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0B5TBJM16",
+  "marketplace": 3,
+  "partnerOrderId": "PTRC9AXN3NYEXKHY",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 29.1,
+      "widthInCms": 29.1,
+      "heightInCms": 50.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AIR_PURIFIER",
+  "focalLength": 70.0
+}

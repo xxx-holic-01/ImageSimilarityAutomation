@@ -1,0 +1,104 @@
+{
+  "images": {
+    "REFIMGCABAXZJQX77UC.jpg": {
+      "referenceImageId": "REFIMGCABAXZJQX77UC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC35P89J3MY20Y.jpg": {
+      "referenceImageId": "REFIMGC35P89J3MY20Y",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRA33CK5JVRLF.jpg": {
+      "referenceImageId": "REFIMGCRA33CK5JVRLF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "nuLOOM Moroccan Blythe Machine Washable Area Rug 3 ft x 5 ft"
+    },
+    "REFIMGC868BKKW2HD5M.jpg": {
+      "referenceImageId": "REFIMGC868BKKW2HD5M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC6872EV4D0YY.jpg": {
+      "referenceImageId": "REFIMGCC6872EV4D0YY",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5BQ7RE20UAAP.jpg": {
+      "referenceImageId": "REFIMGC5BQ7RE20UAAP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6ER2KLYLZH2N.jpg": {
+      "referenceImageId": "REFIMGC6ER2KLYLZH2N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBRA73816TGM4.jpg": {
+      "referenceImageId": "REFIMGCBRA73816TGM4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8V5GXEM52EAX.jpg": {
+      "referenceImageId": "REFIMGC8V5GXEM52EAX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCC7J79JP844RF.jpg": {
+      "referenceImageId": "REFIMGCC7J79JP844RF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08V4HGD9B",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC0M43P3FH0VUM",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 152.3,
+      "widthInCms": 105.4,
+      "heightInCms": 0.25
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 34.0
+}

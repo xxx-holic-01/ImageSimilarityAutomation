@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGCE5YXNZ7RC2WA.jpg": {
+      "referenceImageId": "REFIMGCE5YXNZ7RC2WA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "OSD Two Sources, Six Pair Stereo Speaker Select Box with Volume Control SSVC6"
+    },
+    "REFIMGC2DFA0PL49QPF.jpg": {
+      "referenceImageId": "REFIMGC2DFA0PL49QPF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAEQAG04EGD6Z.jpg": {
+      "referenceImageId": "REFIMGCAEQAG04EGD6Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1ZB83MXGKRJZ.jpg": {
+      "referenceImageId": "REFIMGC1ZB83MXGKRJZ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B00E5NZP3U",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCAUNAHAK4ZYF5",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 15.88,
+      "widthInCms": 43.18,
+      "heightInCms": 6.35
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 80.0
+}

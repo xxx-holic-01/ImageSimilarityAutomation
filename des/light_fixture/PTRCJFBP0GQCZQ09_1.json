@@ -1,0 +1,57 @@
+{
+  "images": {
+    "REFIMGCXANNPY668NAN.jpg": {
+      "referenceImageId": "REFIMGCXANNPY668NAN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " CORAMDEO Outdoor 8” Round LED Bulkhead Light, Flush Mount for Wall or Ceiling, Wet Location, 75W (900 lumens) of Light from 11.5W of Power, 3K, Nickel Cast Aluminum with Frosted Glass Lens "
+    },
+    "REFIMGC6XEFKBDQK9N2.jpg": {
+      "referenceImageId": "REFIMGC6XEFKBDQK9N2",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC16PCFNE2JELL.jpg": {
+      "referenceImageId": "REFIMGC16PCFNE2JELL",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCP8UXRNJYJ1BV.jpg": {
+      "referenceImageId": "REFIMGCP8UXRNJYJ1BV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B082LRHZ8V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJFBP0GQCZQ09",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 13.2,
+      "widthInCms": 20.32,
+      "heightInCms": 20.32
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 90.0
+}

@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGC9CURD728V4F0.jpg": {
+      "referenceImageId": "REFIMGC9CURD728V4F0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNJ4KBQKAQUZB.jpg": {
+      "referenceImageId": "REFIMGCNJ4KBQKAQUZB",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDMQE9ND7GCYY.jpg": {
+      "referenceImageId": "REFIMGCDMQE9ND7GCYY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Adops ot-100-wh Computer Desk, Simple Desk"
+    },
+    "REFIMGC1Q9QEXRQPYJQ.jpg": {
+      "referenceImageId": "REFIMGC1Q9QEXRQPYJQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG8K1GXZAZEGP.jpg": {
+      "referenceImageId": "REFIMGCG8K1GXZAZEGP",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2Z71QAA52R5B.jpg": {
+      "referenceImageId": "REFIMGC2Z71QAA52R5B",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B098PSMBRG",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCWHJV9T6M0267",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 50.0,
+      "widthInCms": 105.0,
+      "heightInCms": 74.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DESK",
+  "focalLength": 50.0
+}

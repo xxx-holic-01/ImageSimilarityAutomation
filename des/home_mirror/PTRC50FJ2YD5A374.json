@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGC4ZZXY5XJHW69.jpg": {
+      "referenceImageId": "REFIMGC4ZZXY5XJHW69",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5G52QWW0F8RA.jpg": {
+      "referenceImageId": "REFIMGC5G52QWW0F8RA",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCDC6X0Z8FQ6L7.jpg": {
+      "referenceImageId": "REFIMGCDC6X0Z8FQ6L7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCE8J4UEH1P4WU.jpg": {
+      "referenceImageId": "REFIMGCE8J4UEH1P4WU",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLJRH1H08L5GG.jpg": {
+      "referenceImageId": "REFIMGCLJRH1H08L5GG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTX8P4YP04BMB.jpg": {
+      "referenceImageId": "REFIMGCTX8P4YP04BMB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08DBYYC36",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC50FJ2YD5A374",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 3.81,
+      "widthInCms": 40.98,
+      "heightInCms": 121.92
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 200.0
+}

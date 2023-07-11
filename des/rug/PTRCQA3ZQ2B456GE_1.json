@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCHG6NWXUMNUR2.jpg": {
+      "referenceImageId": "REFIMGCHG6NWXUMNUR2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFM2JB8FW43MU.jpg": {
+      "referenceImageId": "REFIMGCFM2JB8FW43MU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCD3LNEW1HJRXU.jpg": {
+      "referenceImageId": "REFIMGCD3LNEW1HJRXU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX62U8UEDZ5QW.jpg": {
+      "referenceImageId": "REFIMGCX62U8UEDZ5QW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWL9PB6XJ50VE.jpg": {
+      "referenceImageId": "REFIMGCWL9PB6XJ50VE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDTVDLYNDUW0K.jpg": {
+      "referenceImageId": "REFIMGCDTVDLYNDUW0K",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTDFJRU02KUTF.jpg": {
+      "referenceImageId": "REFIMGCTDFJRU02KUTF",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Loloi Angela Rose x Aubrey Collection AUB-04 Traditional Decorative Area Rug"
+    }
+  },
+  "asin": "B0BF6ZMCND",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCQA3ZQ2B456GE",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 91.44,
+      "widthInCms": 118.87,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

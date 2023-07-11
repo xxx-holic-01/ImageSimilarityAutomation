@@ -1,0 +1,48 @@
+{
+  "images": {
+    "REFIMGCHAQ80MTNAH7X.jpg": {
+      "referenceImageId": "REFIMGCHAQ80MTNAH7X",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBWX9LPA6GBT8.jpg": {
+      "referenceImageId": "REFIMGCBWX9LPA6GBT8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUU455YJWVTC7.jpg": {
+      "referenceImageId": "REFIMGCUU455YJWVTC7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B09WX3PVSD",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFW98711HR3M9",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 230.0,
+      "widthInCms": 289.56,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

@@ -1,0 +1,82 @@
+{
+  "images": {
+    "REFIMGCGHPGWB73VUM6.jpg": {
+      "referenceImageId": "REFIMGCGHPGWB73VUM6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJLPV4Y1B5BXM.jpg": {
+      "referenceImageId": "REFIMGCJLPV4Y1B5BXM",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGW0GWC7423YE.jpg": {
+      "referenceImageId": "REFIMGCGW0GWC7423YE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWAEQ17VZGJD9.jpg": {
+      "referenceImageId": "REFIMGCWAEQ17VZGJD9",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "TURS Black Kitchen Faucet with Pull Down Sprayer Brass High Arc Kitchen Faucets Touch on Single Handle Kitchen Taps. FK002BK FK002BK"
+    },
+    "REFIMGCJZ2UX2EKKZLX.jpg": {
+      "referenceImageId": "REFIMGCJZ2UX2EKKZLX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCADBD0016BEMD.jpg": {
+      "referenceImageId": "REFIMGCADBD0016BEMD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0B1LWP09UA3G.jpg": {
+      "referenceImageId": "REFIMGC0B1LWP09UA3G",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07SZ7ZG6T",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNFEWLGPNP614",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 26.0,
+      "widthInCms": 12.5,
+      "heightInCms": 43.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FAUCET",
+  "focalLength": 60.0
+}

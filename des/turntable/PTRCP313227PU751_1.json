@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGCL65Y4MJ6HP6D.jpg": {
+      "referenceImageId": "REFIMGCL65Y4MJ6HP6D",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9M1VJ4E31D2Q.jpg": {
+      "referenceImageId": "REFIMGC9M1VJ4E31D2Q",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9J7Y0XABWR74.jpg": {
+      "referenceImageId": "REFIMGC9J7Y0XABWR74",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCFKJCM4TMA04T.jpg": {
+      "referenceImageId": "REFIMGCFKJCM4TMA04T",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Retro Gramophone Vintage Vinyl Record Player 3-Speed Turntable with AM/FM Radio can be Operated by Remote Control. (Black)"
+    },
+    "REFIMGC91YQJTEXW9NH.jpg": {
+      "referenceImageId": "REFIMGC91YQJTEXW9NH",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0BD4K22GR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCP313227PU751",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 34.0,
+      "widthInCms": 26.0,
+      "heightInCms": 55.3
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "TURNTABLE",
+  "focalLength": 54.0
+}

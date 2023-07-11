@@ -1,0 +1,40 @@
+{
+  "images": {
+    "REFIMGCQA0CXG0U4EXZ.jpg": {
+      "referenceImageId": "REFIMGCQA0CXG0U4EXZ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC4ED09DCKWVKU.jpg": {
+      "referenceImageId": "REFIMGC4ED09DCKWVKU",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B071FKYRYM",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCX55X46CE31K4",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 0.5,
+      "widthInCms": 29.5,
+      "heightInCms": 17.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WALL_ART",
+  "focalLength": 50.0
+}

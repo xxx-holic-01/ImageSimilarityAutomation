@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCHB4FW2026WUE.jpg": {
+      "referenceImageId": "REFIMGCHB4FW2026WUE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC76TMLR8AYT58.jpg": {
+      "referenceImageId": "REFIMGC76TMLR8AYT58",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCCLV56DXZD2PZ.jpg": {
+      "referenceImageId": "REFIMGCCLV56DXZD2PZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY4076B9W2BR8.jpg": {
+      "referenceImageId": "REFIMGCY4076B9W2BR8",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6LV56VPE1Q1W.jpg": {
+      "referenceImageId": "REFIMGC6LV56VPE1Q1W",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHL2KGQ01JV35.jpg": {
+      "referenceImageId": "REFIMGCHL2KGQ01JV35",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09MF8N8YR",
+  "marketplace": 44571,
+  "partnerOrderId": "PTRCMMW1LVRT1VL0",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 43.0,
+      "widthInCms": 35.5,
+      "heightInCms": 62.18
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "DRESSER",
+  "focalLength": 110.0
+}

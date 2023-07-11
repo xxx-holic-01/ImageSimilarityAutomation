@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGC539G4MERU4YT.jpg": {
+      "referenceImageId": "REFIMGC539G4MERU4YT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW9F34AZTBNU0.jpg": {
+      "referenceImageId": "REFIMGCW9F34AZTBNU0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX2PE9Q8Q6WVR.jpg": {
+      "referenceImageId": "REFIMGCX2PE9Q8Q6WVR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTTHYWFHMN6KA.jpg": {
+      "referenceImageId": "REFIMGCTTHYWFHMN6KA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Kitchen Rugs Christmas Tree with Coffee Beans Design Non-Slip Soft Kitchen Mats Bath Rug Runner Doormats Carpet for Home Decor-senya Store"
+    },
+    "REFIMGCQFB5H8A4M7LL.jpg": {
+      "referenceImageId": "REFIMGCQFB5H8A4M7LL",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAJ0FK2BURM90.jpg": {
+      "referenceImageId": "REFIMGCAJ0FK2BURM90",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09F3D4MZT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCPAAVQTFN1U6D",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 50.5,
+      "widthInCms": 99.0,
+      "heightInCms": 0.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 40.0
+}

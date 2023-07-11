@@ -1,0 +1,65 @@
+{
+  "images": {
+    "REFIMGCPLN83M9XYQQU.jpg": {
+      "referenceImageId": "REFIMGCPLN83M9XYQQU",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "model needs to be in rest position"
+    },
+    "REFIMGCWXLMWW9RMW7M.jpg": {
+      "referenceImageId": "REFIMGCWXLMWW9RMW7M",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ314QEZ85WZK.jpg": {
+      "referenceImageId": "REFIMGCQ314QEZ85WZK",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLXB5TJK07XUQ.jpg": {
+      "referenceImageId": "REFIMGCLXB5TJK07XUQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD90DZH30U2FY.jpg": {
+      "referenceImageId": "REFIMGCD90DZH30U2FY",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BN3G954L",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCFVWFBR2LUNG5",
+  "productDimensionList": [
+    {
+      "productCategory": "Reclining Sofa",
+      "lengthInCms": 97.36,
+      "widthInCms": 81.28,
+      "heightInCms": 107.95
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CHAIR",
+  "focalLength": 54.0
+}

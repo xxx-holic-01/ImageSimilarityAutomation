@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCXD1AWZ43N8G9.jpg": {
+      "referenceImageId": "REFIMGCXD1AWZ43N8G9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLTPHZEY7EVWM.jpg": {
+      "referenceImageId": "REFIMGCLTPHZEY7EVWM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEE74AA1B6Z5P.jpg": {
+      "referenceImageId": "REFIMGCEE74AA1B6Z5P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2YRQYX4DWTRV.jpg": {
+      "referenceImageId": "REFIMGC2YRQYX4DWTRV",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "POWERTEC MT4006V Deluxe Bamboo Workbench Top "
+    },
+    "REFIMGC234QEGP7YNAG.jpg": {
+      "referenceImageId": "REFIMGC234QEGP7YNAG",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC7UM7JM7X65BY.jpg": {
+      "referenceImageId": "REFIMGC7UM7JM7X65BY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNZ46A9REYAPM.jpg": {
+      "referenceImageId": "REFIMGCNZ46A9REYAPM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B09XQW63SG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCP65VBMQY4WBG",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 70.0,
+      "widthInCms": 60.96,
+      "heightInCms": 81.28
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WORKBENCH",
+  "focalLength": 40.0
+}

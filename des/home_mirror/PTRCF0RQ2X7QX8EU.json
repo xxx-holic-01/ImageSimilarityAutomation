@@ -1,0 +1,83 @@
+{
+  "images": {
+    "REFIMGCZTCTWVXK4TUW.jpg": {
+      "referenceImageId": "REFIMGCZTCTWVXK4TUW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJH7QF776C8M1.jpg": {
+      "referenceImageId": "REFIMGCJH7QF776C8M1",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "LED Bathroom Vanity Mirror, GmhehlyWall Mounted Timing Function Smart Mirror with Anti-Fog , Memory and Dimmable Light"
+    },
+    "REFIMGCWGQNVB5WRW8C.jpg": {
+      "referenceImageId": "REFIMGCWGQNVB5WRW8C",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCWHRWZWJQ2E1W.jpg": {
+      "referenceImageId": "REFIMGCWHRWZWJQ2E1W",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDC92GTU65ZL7.jpg": {
+      "referenceImageId": "REFIMGCDC92GTU65ZL7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQEUD105F3LQ3.jpg": {
+      "referenceImageId": "REFIMGCQEUD105F3LQ3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH7YT8W254E4M.jpg": {
+      "referenceImageId": "REFIMGCH7YT8W254E4M",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCM1LY1ZED4BW8.jpg": {
+      "referenceImageId": "REFIMGCM1LY1ZED4BW8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B095HGX877",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCF0RQ2X7QX8EU",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.54,
+      "widthInCms": 60.96,
+      "heightInCms": 84.42
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 67.0
+}

@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCCCZ8BTG7F06U.jpg": {
+      "referenceImageId": "REFIMGCCCZ8BTG7F06U",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCJYM0EK6GPMWD.jpg": {
+      "referenceImageId": "REFIMGCJYM0EK6GPMWD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2X0E7H1E2X2B.jpg": {
+      "referenceImageId": "REFIMGC2X0E7H1E2X2B",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC68UHMJ80DNNU.jpg": {
+      "referenceImageId": "REFIMGC68UHMJ80DNNU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDB99NBVWEGCQ.jpg": {
+      "referenceImageId": "REFIMGCDB99NBVWEGCQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCXJX3K1N8K9ZW.jpg": {
+      "referenceImageId": "REFIMGCXJX3K1N8K9ZW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCF5RPHRQ3W4YP.jpg": {
+      "referenceImageId": "REFIMGCF5RPHRQ3W4YP",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "4 in 1 Vegetable Chopper Handheld Electric Vegetable Cutter Set, Food Chopper Portable Wireless Chopper Vegetable Cutter Food Processor for Garlic Pepper Chili Onion Celery Ginger Meat with Brush x "
+    },
+    "REFIMGCAX4V7128AXHC.jpg": {
+      "referenceImageId": "REFIMGCAX4V7128AXHC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B9BW7MWR",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC974Y12U8FCY4",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 23.0,
+      "widthInCms": 8.0,
+      "heightInCms": 20.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_PROCESSOR",
+  "focalLength": 60.0
+}

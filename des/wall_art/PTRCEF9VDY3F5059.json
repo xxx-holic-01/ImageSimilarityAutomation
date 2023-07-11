@@ -1,0 +1,39 @@
+{
+  "images": {
+    "REFIMGCBX0HJ4KBTU3Q.jpg": {
+      "referenceImageId": "REFIMGCBX0HJ4KBTU3Q",
+      "labels": [
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVBYN3GH1DWAA.jpg": {
+      "referenceImageId": "REFIMGCVBYN3GH1DWAA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": ""
+    }
+  },
+  "asin": "B08X1KZB3L",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCEF9VDY3F5059",
+  "productDimensionList": [
+    {
+      "productCategory": "Photo Frame",
+      "lengthInCms": 4.02,
+      "widthInCms": 40.0,
+      "heightInCms": 40.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WALL_ART",
+  "focalLength": 30.0
+}

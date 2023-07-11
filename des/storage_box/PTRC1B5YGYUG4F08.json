@@ -1,0 +1,86 @@
+{
+  "images": {
+    "REFIMGCE36PK7DHULG7.jpg": {
+      "referenceImageId": "REFIMGCE36PK7DHULG7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVYB40X56YWCT.jpg": {
+      "referenceImageId": "REFIMGCVYB40X56YWCT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRP43BUJ1AYJA.jpg": {
+      "referenceImageId": "REFIMGCRP43BUJ1AYJA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNEN30XWYUDB8.jpg": {
+      "referenceImageId": "REFIMGCNEN30XWYUDB8",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC0PP8UY95UTCR.jpg": {
+      "referenceImageId": "REFIMGC0PP8UY95UTCR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPLHFLMCLBM2U.jpg": {
+      "referenceImageId": "REFIMGCPLHFLMCLBM2U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Amazon Brand Umi 49L Large Storage Bag Clothes Storage with Reinforced Handle Sturdy Zip Foldable Underbed Storage for Duvets Clothes Blanket Pillows -Dark Blue, L "
+    },
+    "REFIMGCTU30TQ9QAX3T.jpg": {
+      "referenceImageId": "REFIMGCTU30TQ9QAX3T",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B096KB9YZX",
+  "marketplace": 4,
+  "partnerOrderId": "PTRC1B5YGYUG4F08",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 35.0,
+      "widthInCms": 56.0,
+      "heightInCms": 24.21
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STORAGE_BOX",
+  "focalLength": 70.0
+}

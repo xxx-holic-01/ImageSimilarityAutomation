@@ -1,0 +1,98 @@
+{
+  "images": {
+    "REFIMGCPK6XXHJUY6BB.jpg": {
+      "referenceImageId": "REFIMGCPK6XXHJUY6BB",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Outsunny 7ft x 4ft Lockable Garden Metal Storage Shed Large Patio Roofed Tool Storage Building Foundation Sheds Box Outdoor Furniture Yellow"
+    },
+    "REFIMGCFEV26M02PF85.jpg": {
+      "referenceImageId": "REFIMGCFEV26M02PF85",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCVCXQ4ZXH262T.jpg": {
+      "referenceImageId": "REFIMGCVCXQ4ZXH262T",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLHZ9TRTX0K2W.jpg": {
+      "referenceImageId": "REFIMGCLHZ9TRTX0K2W",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ53DYNHB2NGP.jpg": {
+      "referenceImageId": "REFIMGCQ53DYNHB2NGP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC8K3DZYP77RM8.jpg": {
+      "referenceImageId": "REFIMGC8K3DZYP77RM8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC571A00H2TEJX.jpg": {
+      "referenceImageId": "REFIMGC571A00H2TEJX",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEHRX0MXNG7MA.jpg": {
+      "referenceImageId": "REFIMGCEHRX0MXNG7MA",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZQJ25GXUU23V.jpg": {
+      "referenceImageId": "REFIMGCZQJ25GXUU23V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07SGBFWSF",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCVA5EA748NEX9",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 213.0,
+      "widthInCms": 130.0,
+      "heightInCms": 190.6
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 70.0
+}

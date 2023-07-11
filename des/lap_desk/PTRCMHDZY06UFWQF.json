@@ -1,0 +1,84 @@
+{
+  "images": {
+    "REFIMGCW0VETJUQX8G9.jpg": {
+      "referenceImageId": "REFIMGCW0VETJUQX8G9",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQU9P4R8DVYJY.jpg": {
+      "referenceImageId": "REFIMGCQU9P4R8DVYJY",
+      "labels": [
+        "SHAPE",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCNJC9YZG1K5Z.jpg": {
+      "referenceImageId": "REFIMGCCNJC9YZG1K5Z",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCZ8CVBJQDT87.jpg": {
+      "referenceImageId": "REFIMGCCZ8CVBJQDT87",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " Rainsworth Bathtub Tray, Bamboo Bathtub Shelf, Expandable Bathtub Shelf, Bath Tray with Soap Dish and Bath Brush, Rosewood Color "
+    },
+    "REFIMGCT6NF9R8BGTU2.jpg": {
+      "referenceImageId": "REFIMGCT6NF9R8BGTU2",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCME09WPWZKLMR.jpg": {
+      "referenceImageId": "REFIMGCME09WPWZKLMR",
+      "labels": [
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHDKP1UW34EYH.jpg": {
+      "referenceImageId": "REFIMGCHDKP1UW34EYH",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0972B8DK6",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCMHDZY06UFWQF",
+  "productDimensionList": [
+    {
+      "productCategory": "Table Big",
+      "lengthInCms": 23.0,
+      "widthInCms": 115.0,
+      "heightInCms": 32.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LAP_DESK",
+  "focalLength": 30.0
+}

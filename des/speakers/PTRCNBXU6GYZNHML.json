@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGCQJG9V8LM0VK7.jpg": {
+      "referenceImageId": "REFIMGCQJG9V8LM0VK7",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Bestisan Sound Bars for TV 16\u0027/50W Small Soundbar for TV Sound Bar with Depths Sound Enhanced/DSP/Bass+/3EQ Surround Sound Speakers for TV Works with HDMI ARC/CECOptical/BT/PC"
+    },
+    "REFIMGCXDW3ELCMANA9.jpg": {
+      "referenceImageId": "REFIMGCXDW3ELCMANA9",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQNZH4P77XADB.jpg": {
+      "referenceImageId": "REFIMGCQNZH4P77XADB",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9GZ2FMGNBZM4.jpg": {
+      "referenceImageId": "REFIMGC9GZ2FMGNBZM4",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHMLTAFBT292N.jpg": {
+      "referenceImageId": "REFIMGCHMLTAFBT292N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BRX7KCLF",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNBXU6GYZNHML",
+  "productDimensionList": [
+    {
+      "productCategory": "Speaker",
+      "lengthInCms": 10.9,
+      "widthInCms": 43.55,
+      "heightInCms": 7.11
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SPEAKERS",
+  "focalLength": 31.0
+}

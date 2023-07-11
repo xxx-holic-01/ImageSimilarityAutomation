@@ -1,0 +1,58 @@
+{
+  "images": {
+    "REFIMGCF1AGNEFF51PK.jpg": {
+      "referenceImageId": "REFIMGCF1AGNEFF51PK",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZYPGCH6VAYAH.jpg": {
+      "referenceImageId": "REFIMGCZYPGCH6VAYAH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "F+Tres CD Case, Rack, Storage Box, Large, Transparent Acrylic"
+    },
+    "REFIMGCZ7NF2AWMECJ8.jpg": {
+      "referenceImageId": "REFIMGCZ7NF2AWMECJ8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWRBV17BPBFX1.jpg": {
+      "referenceImageId": "REFIMGCWRBV17BPBFX1",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08NX6LLKH",
+  "marketplace": 6,
+  "partnerOrderId": "PTRC69KR8ZVC1ZXE",
+  "productDimensionList": [
+    {
+      "productCategory": "Bookshelf",
+      "lengthInCms": 15.7,
+      "widthInCms": 30.8,
+      "heightInCms": 15.4
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME",
+  "focalLength": 120.0
+}

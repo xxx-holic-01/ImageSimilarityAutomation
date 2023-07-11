@@ -1,0 +1,53 @@
+{
+  "images": {
+    "REFIMGC61HKD0FCF165.jpg": {
+      "referenceImageId": "REFIMGC61HKD0FCF165",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCH5M0UKF8APC.jpg": {
+      "referenceImageId": "REFIMGCCH5M0UKF8APC",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Tefal egg baker IH compatible \"IH Ruby Excellence Egg Roaster\" Titanium Reinforced 2-layer coating with handle T-fal G60118"
+    },
+    "REFIMGCEUM8JMLBR0QJ.jpg": {
+      "referenceImageId": "REFIMGCEUM8JMLBR0QJ",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07B2YTXJS",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCU0Z9250ZVDLH",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 16.26,
+      "widthInCms": 35.0,
+      "heightInCms": 8.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SAUTE_FRY_PAN",
+  "focalLength": 90.0
+}

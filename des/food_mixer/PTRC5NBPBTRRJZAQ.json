@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGCCFU41KVTQMFC.jpg": {
+      "referenceImageId": "REFIMGCCFU41KVTQMFC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGAZ9MCUZYNHJ.jpg": {
+      "referenceImageId": "REFIMGCGAZ9MCUZYNHJ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCEXEPPXJW72K3.jpg": {
+      "referenceImageId": "REFIMGCEXEPPXJW72K3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4CQRL73VN3JU.jpg": {
+      "referenceImageId": "REFIMGC4CQRL73VN3JU",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCLPZV2H6QEFV1.jpg": {
+      "referenceImageId": "REFIMGCLPZV2H6QEFV1",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCGYGNYUBG07V.jpg": {
+      "referenceImageId": "REFIMGCCGYGNYUBG07V",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPGRD96K5KTMQ.jpg": {
+      "referenceImageId": "REFIMGCPGRD96K5KTMQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCDWFCABAHDE63.jpg": {
+      "referenceImageId": "REFIMGCDWFCABAHDE63",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCLANEW0DPBFG9.jpg": {
+      "referenceImageId": "REFIMGCLANEW0DPBFG9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B002NY6PVO",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC5NBPBTRRJZAQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 11.43,
+      "widthInCms": 13.2,
+      "heightInCms": 40.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "FOOD_MIXER",
+  "focalLength": 40.0
+}

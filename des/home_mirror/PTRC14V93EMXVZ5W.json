@@ -1,0 +1,87 @@
+{
+  "images": {
+    "REFIMGCL6L267VF8NTD.jpg": {
+      "referenceImageId": "REFIMGCL6L267VF8NTD",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFTWQ1FEZ8L1E.jpg": {
+      "referenceImageId": "REFIMGCFTWQ1FEZ8L1E",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHDEJRJ6L3GZH.jpg": {
+      "referenceImageId": "REFIMGCHDEJRJ6L3GZH",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4VP9N7RXCTE6.jpg": {
+      "referenceImageId": "REFIMGC4VP9N7RXCTE6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCF9V2TGGWHEAU.jpg": {
+      "referenceImageId": "REFIMGCF9V2TGGWHEAU",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUETNEL5EMKTE.jpg": {
+      "referenceImageId": "REFIMGCUETNEL5EMKTE",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT7MHA9MV43KK.jpg": {
+      "referenceImageId": "REFIMGCT7MHA9MV43KK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": " self Full Length Floor Mirror 65\"×22\" Metal Aluminum Alloy Frame Floor Mirror with Standing Holde Standing Hanging or Leaning Against Wall Mirror "
+    }
+  },
+  "asin": "B07Y1SH917",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC14V93EMXVZ5W",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 2.5,
+      "widthInCms": 64.5,
+      "heightInCms": 165.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

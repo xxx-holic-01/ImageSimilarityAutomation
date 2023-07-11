@@ -1,0 +1,49 @@
+{
+  "images": {
+    "REFIMGCVA7QH4RKUDXT.jpg": {
+      "referenceImageId": "REFIMGCVA7QH4RKUDXT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV2REM0N1LVEX.jpg": {
+      "referenceImageId": "REFIMGCV2REM0N1LVEX",
+      "labels": [
+        "SHAPE",
+        "MATERIAL"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD6VPJWMM8W1B.jpg": {
+      "referenceImageId": "REFIMGCD6VPJWMM8W1B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Avkobow Smart Automatic Multi-function Electric Hot Pot 1.8L Shabu Shabu Mini Non-Stick Hot Pot with Multi-Power Control Electric Cooker with Tempered Glass Lid for Family Party and Friends Gathering (Green), (pick green color image)"
+    }
+  },
+  "asin": "B0BN5DZMKC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1ARVZ24DVB75",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 19.99,
+      "widthInCms": 17.98,
+      "heightInCms": 16.83
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RICE_COOKERS",
+  "focalLength": 55.0
+}

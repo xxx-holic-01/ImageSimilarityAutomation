@@ -1,0 +1,60 @@
+{
+  "images": {
+    "REFIMGCCR43BNPMRK2K.jpg": {
+      "referenceImageId": "REFIMGCCR43BNPMRK2K",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Abstract Picasso Famous Painting Modern Posters and Prints Canvas Painting Print Wall Art for Living Room Home Decor 80x160cm Frameless"
+    },
+    "REFIMGCKJNJ3C6C59Y0.jpg": {
+      "referenceImageId": "REFIMGCKJNJ3C6C59Y0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAB49CTVB8ETC.jpg": {
+      "referenceImageId": "REFIMGCAB49CTVB8ETC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXPYA2UBKPKVG.jpg": {
+      "referenceImageId": "REFIMGCXPYA2UBKPKVG",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08ZLR7GS3",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCFF1B9LHC6DK9",
+  "productDimensionList": [
+    {
+      "productCategory": "Wall Art",
+      "lengthInCms": 2.0,
+      "widthInCms": 159.0,
+      "heightInCms": 80.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WALL_ART",
+  "focalLength": 35.0
+}

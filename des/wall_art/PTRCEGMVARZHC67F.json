@@ -1,0 +1,32 @@
+{
+  "images": {
+    "REFIMGC5GA3PKQXF3PA.jpg": {
+      "referenceImageId": "REFIMGC5GA3PKQXF3PA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "HWC Trading Winnie the Pooh Spell Feel Love A4 Printed Quote Nursery Print Baby Shower Room Gifts New Born Bedroom Gift Print Photo Picture Display "
+    }
+  },
+  "asin": "B07X35YLQ1",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCEGMVARZHC67F",
+  "productDimensionList": [
+    {
+      "productCategory": "Photo Frame",
+      "lengthInCms": 0.5,
+      "widthInCms": 21.0,
+      "heightInCms": 30.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WALL_ART",
+  "focalLength": 45.0
+}

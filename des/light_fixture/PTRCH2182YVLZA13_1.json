@@ -1,0 +1,76 @@
+{
+  "images": {
+    "REFIMGCCA3GLU04VJYQ.jpg": {
+      "referenceImageId": "REFIMGCCA3GLU04VJYQ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW2AFD7Q2PBFA.jpg": {
+      "referenceImageId": "REFIMGCW2AFD7Q2PBFA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC19U6RRE20AH7.jpg": {
+      "referenceImageId": "REFIMGC19U6RRE20AH7",
+      "labels": [
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZZMFVR7DF890.jpg": {
+      "referenceImageId": "REFIMGCZZMFVR7DF890",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Zinnze Solar Lamp Post Light Outdoor Waterproof，Solar Outdoor Post Light with 3.5in Pier Mount Base，Matte Black"
+    },
+    "REFIMGCZFZHHNF5VH84.jpg": {
+      "referenceImageId": "REFIMGCZFZHHNF5VH84",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEWZYZ5H08LNK.jpg": {
+      "referenceImageId": "REFIMGCEWZYZ5H08LNK",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09Y8KW3D2",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH2182YVLZA13",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 19.3,
+      "widthInCms": 19.3,
+      "heightInCms": 42.42
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

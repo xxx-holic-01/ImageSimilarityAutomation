@@ -1,0 +1,81 @@
+{
+  "images": {
+    "REFIMGCE5WFZQGAMMUA.jpg": {
+      "referenceImageId": "REFIMGCE5WFZQGAMMUA",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGY95KF9KCH8H.jpg": {
+      "referenceImageId": "REFIMGCGY95KF9KCH8H",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHUPDRU5A9MDU.jpg": {
+      "referenceImageId": "REFIMGCHUPDRU5A9MDU",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRVYLK6YP5PNV.jpg": {
+      "referenceImageId": "REFIMGCRVYLK6YP5PNV",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZ9MTZP6KXAB9.jpg": {
+      "referenceImageId": "REFIMGCZ9MTZP6KXAB9",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCEV04DRTMCVQ2.jpg": {
+      "referenceImageId": "REFIMGCEV04DRTMCVQ2",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Ibanez Performance Series PF12MHCEOPN Mahogany Dreadnought Acoustic-Electric Guitar Satin Natural"
+    }
+  },
+  "asin": "B06XP2WCXH",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNL9VZYYW0CVV",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 15.9,
+      "widthInCms": 53.97,
+      "heightInCms": 143.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "GUITARS",
+  "focalLength": 90.0
+}

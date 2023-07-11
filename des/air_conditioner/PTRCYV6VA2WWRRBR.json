@@ -1,0 +1,88 @@
+{
+  "images": {
+    "REFIMGCCG1M5QD2XT7V.jpg": {
+      "referenceImageId": "REFIMGCCG1M5QD2XT7V",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3WB45J5BD5X7.jpg": {
+      "referenceImageId": "REFIMGC3WB45J5BD5X7",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUQWUET7L2F6N.jpg": {
+      "referenceImageId": "REFIMGCUQWUET7L2F6N",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCTA64FU1EN9CY.jpg": {
+      "referenceImageId": "REFIMGCTA64FU1EN9CY",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6TQNQKRQXNM1.jpg": {
+      "referenceImageId": "REFIMGC6TQNQKRQXNM1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCL3K8925KH9UW.jpg": {
+      "referenceImageId": "REFIMGCL3K8925KH9UW",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCHFWPNTZHYNYJ.jpg": {
+      "referenceImageId": "REFIMGCHFWPNTZHYNYJ",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKN45PC0QP024.jpg": {
+      "referenceImageId": "REFIMGCKN45PC0QP024",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BD56GYJ1",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCYV6VA2WWRRBR",
+  "productDimensionList": [
+    {
+      "productCategory": "Espresso Machine",
+      "lengthInCms": 14.0,
+      "widthInCms": 14.0,
+      "heightInCms": 21.8
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "AIR_CONDITIONER",
+  "focalLength": 55.0
+}

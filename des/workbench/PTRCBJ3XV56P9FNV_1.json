@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCH03UUL2H1UZY.jpg": {
+      "referenceImageId": "REFIMGCH03UUL2H1UZY",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCCVWWYG5G8UJ7.jpg": {
+      "referenceImageId": "REFIMGCCVWWYG5G8UJ7",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGDKFUECNXYY2.jpg": {
+      "referenceImageId": "REFIMGCGDKFUECNXYY2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUG0R1UBARJMF.jpg": {
+      "referenceImageId": "REFIMGCUG0R1UBARJMF",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCQCE1KW5L1WJ3.jpg": {
+      "referenceImageId": "REFIMGCQCE1KW5L1WJ3",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCUA8LVBCNGQ9A.jpg": {
+      "referenceImageId": "REFIMGCUA8LVBCNGQ9A",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC9HWQYZ7NKHKM.jpg": {
+      "referenceImageId": "REFIMGC9HWQYZ7NKHKM",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B00M87WHIQ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCBJ3XV56P9FNV",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 76.2,
+      "widthInCms": 183.0,
+      "heightInCms": 85.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "WORKBENCH",
+  "focalLength": 50.0
+}

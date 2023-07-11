@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGCZBBXRZUGV563.jpg": {
+      "referenceImageId": "REFIMGCZBBXRZUGV563",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0PCANX3ZC6QR.jpg": {
+      "referenceImageId": "REFIMGC0PCANX3ZC6QR",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC1DBTKKUK5K9Z.jpg": {
+      "referenceImageId": "REFIMGC1DBTKKUK5K9Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC0ZZ3A93LVN3G.jpg": {
+      "referenceImageId": "REFIMGC0ZZ3A93LVN3G",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-HUADEEC Outdoor Wall Lantern,Exterior Waterproof Wall Sconce Light Fixture with E26 Base Socket-Bulb Not Include"
+    },
+    "REFIMGC3EQ8J10KAG4E.jpg": {
+      "referenceImageId": "REFIMGC3EQ8J10KAG4E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCH4YYGCL4G1K2.jpg": {
+      "referenceImageId": "REFIMGCH4YYGCL4G1K2",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC249TUDH0DE0Z.jpg": {
+      "referenceImageId": "REFIMGC249TUDH0DE0Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B0B4FRTCWG",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC83WPZMUZHBKJ",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 17.0,
+      "widthInCms": 13.0,
+      "heightInCms": 33.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 60.0
+}

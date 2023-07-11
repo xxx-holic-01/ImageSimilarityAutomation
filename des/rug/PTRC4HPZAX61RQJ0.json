@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCFT7BLY4E880E.jpg": {
+      "referenceImageId": "REFIMGCFT7BLY4E880E",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRRPAVDC1Q61A.jpg": {
+      "referenceImageId": "REFIMGCRRPAVDC1Q61A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9CW2TVY5JFH0.jpg": {
+      "referenceImageId": "REFIMGC9CW2TVY5JFH0",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT9R964NZ43QN.jpg": {
+      "referenceImageId": "REFIMGCT9R964NZ43QN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCXRCNWA6752EH.jpg": {
+      "referenceImageId": "REFIMGCXRCNWA6752EH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Home Dynamix Premium Sakarya Traditional Medallion Border Area Rug"
+    }
+  },
+  "asin": "B07FK9P2CN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC4HPZAX61RQJ0",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 139.0,
+      "widthInCms": 97.2,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 50.0
+}

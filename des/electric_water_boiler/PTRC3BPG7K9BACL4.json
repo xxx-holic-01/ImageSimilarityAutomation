@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCPN8P702G3CQV.jpg": {
+      "referenceImageId": "REFIMGCPN8P702G3CQV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCCTDJ3TK3UE03.jpg": {
+      "referenceImageId": "REFIMGCCTDJ3TK3UE03",
+      "labels": [
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC57DYY7TXKMHX.jpg": {
+      "referenceImageId": "REFIMGC57DYY7TXKMHX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZAKA6NDDLBFH.jpg": {
+      "referenceImageId": "REFIMGCZAKA6NDDLBFH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Breville Mostra Electric Kettle, 2400 W, 1.7 Liter Capacity, Up to 8 Cups, Silver"
+    },
+    "REFIMGCRGR1X5GGB5QK.jpg": {
+      "referenceImageId": "REFIMGCRGR1X5GGB5QK",
+      "labels": [
+        "SHAPE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TCGPJYQ",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRC3BPG7K9BACL4",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 22.0,
+      "widthInCms": 22.0,
+      "heightInCms": 30.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 95.0
+}

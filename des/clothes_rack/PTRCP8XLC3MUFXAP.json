@@ -1,0 +1,63 @@
+{
+  "images": {
+    "REFIMGC1R5MZKLHXFB8.jpg": {
+      "referenceImageId": "REFIMGC1R5MZKLHXFB8",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCWV6YEVZDPD0M.jpg": {
+      "referenceImageId": "REFIMGCWV6YEVZDPD0M",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL"
+      ],
+      "primary": true,
+      "comment": " Tomaino - Beech Wood Chamber Valet Stand - Chamber Clothes Hanger with Wheels - Ambrogio (Walnut) "
+    },
+    "REFIMGCQRY1L716YDAV.jpg": {
+      "referenceImageId": "REFIMGCQRY1L716YDAV",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC450XCQ51XQDE.jpg": {
+      "referenceImageId": "REFIMGC450XCQ51XQDE",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC6GAX5XZ2G58R.jpg": {
+      "referenceImageId": "REFIMGC6GAX5XZ2G58R",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08DP1SWT4",
+  "marketplace": 35691,
+  "partnerOrderId": "PTRCP8XLC3MUFXAP",
+  "productDimensionList": [
+    {
+      "productCategory": "Shelving Rack",
+      "lengthInCms": 29.0,
+      "widthInCms": 44.0,
+      "heightInCms": 98.06
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "CLOTHES_RACK",
+  "focalLength": 100.0
+}

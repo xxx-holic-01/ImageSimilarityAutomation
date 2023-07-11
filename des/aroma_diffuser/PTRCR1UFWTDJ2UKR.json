@@ -1,0 +1,80 @@
+{
+  "images": {
+    "REFIMGC5D38E0LRY8UT.jpg": {
+      "referenceImageId": "REFIMGC5D38E0LRY8UT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGJ4518KLP2BP.jpg": {
+      "referenceImageId": "REFIMGCGJ4518KLP2BP",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCCXCPG7PMFR77.jpg": {
+      "referenceImageId": "REFIMGCCXCPG7PMFR77",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCBECTB6GB4V8C.jpg": {
+      "referenceImageId": "REFIMGCBECTB6GB4V8C",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true
+    },
+    "REFIMGCEBRWZEH0G4V6.jpg": {
+      "referenceImageId": "REFIMGCEBRWZEH0G4V6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCP2Y2LD1X633P.jpg": {
+      "referenceImageId": "REFIMGCP2Y2LD1X633P",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPGG33CRKAGPQ.jpg": {
+      "referenceImageId": "REFIMGCPGG33CRKAGPQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": "without light effect"
+    }
+  },
+  "asin": "B0BCWVCD8B",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCR1UFWTDJ2UKR",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 13.46,
+      "widthInCms": 13.46,
+      "heightInCms": 7.5
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "AROMA_DIFFUSER",
+  "focalLength": 82.0
+}

@@ -1,0 +1,95 @@
+{
+  "images": {
+    "REFIMGC76N884E3XWB9.jpg": {
+      "referenceImageId": "REFIMGC76N884E3XWB9",
+      "labels": [],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKUZMEH8BQ9GR.jpg": {
+      "referenceImageId": "REFIMGCKUZMEH8BQ9GR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMPNVWFC8WP4G.jpg": {
+      "referenceImageId": "REFIMGCMPNVWFC8WP4G",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "KEESFU 3-Light Track Lighting Kit,Black Semi Flush Mount Ceiling"
+    },
+    "REFIMGCHVE68BM64TRD.jpg": {
+      "referenceImageId": "REFIMGCHVE68BM64TRD",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC2979PRFRUDDL.jpg": {
+      "referenceImageId": "REFIMGC2979PRFRUDDL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCYQN2Z4A2JDXD.jpg": {
+      "referenceImageId": "REFIMGCYQN2Z4A2JDXD",
+      "labels": [
+        "SHAPE",
+        "DIMENSION",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG5GD48QU2R55.jpg": {
+      "referenceImageId": "REFIMGCG5GD48QU2R55",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCD2RXBT1PV457.jpg": {
+      "referenceImageId": "REFIMGCD2RXBT1PV457",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5RTTMGNF1VA2.jpg": {
+      "referenceImageId": "REFIMGC5RTTMGNF1VA2",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09NS8XJXM",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCW9WKRCPNV01R",
+  "productDimensionList": [
+    {
+      "productCategory": "Ceiling Fan",
+      "lengthInCms": 20.0,
+      "widthInCms": 46.0,
+      "heightInCms": 21.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 100.0
+}

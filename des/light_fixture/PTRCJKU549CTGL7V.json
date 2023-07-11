@@ -1,0 +1,73 @@
+{
+  "images": {
+    "REFIMGCFLQQ1YXYMGWA.jpg": {
+      "referenceImageId": "REFIMGCFLQQ1YXYMGWA",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Dusk to Dawn Flood Light Outdoor,35W LED Flood Light, Outdoor Security Lights with Photocell"
+    },
+    "REFIMGCDVBP2TKUJWBL.jpg": {
+      "referenceImageId": "REFIMGCDVBP2TKUJWBL",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCHE1GXNZZEJ31.jpg": {
+      "referenceImageId": "REFIMGCHE1GXNZZEJ31",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJ5LRWPHZV2T1.jpg": {
+      "referenceImageId": "REFIMGCJ5LRWPHZV2T1",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFD4NPHNXZPQN.jpg": {
+      "referenceImageId": "REFIMGCFD4NPHNXZPQN",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG4HMPY2FHMFN.jpg": {
+      "referenceImageId": "REFIMGCG4HMPY2FHMFN",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08PCYG8QN",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCJKU549CTGL7V",
+  "productDimensionList": [
+    {
+      "productCategory": "Lamp",
+      "lengthInCms": 13.46,
+      "widthInCms": 35.56,
+      "heightInCms": 15.49
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "LIGHT_FIXTURE",
+  "focalLength": 80.0
+}

@@ -1,0 +1,89 @@
+{
+  "images": {
+    "REFIMGC9Y98QBEBXX7W.jpg": {
+      "referenceImageId": "REFIMGC9Y98QBEBXX7W",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCN3WQKVW567RQ.jpg": {
+      "referenceImageId": "REFIMGCN3WQKVW567RQ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Clavie Bathroom Mirror, Black Round Mirror 24 x 24 inch Modern Metal Frame Circle Mirror Wall Mounted Decorative Mirror for Bedroom Living Room Entryway "
+    },
+    "REFIMGCF2VTWRXA3G25.jpg": {
+      "referenceImageId": "REFIMGCF2VTWRXA3G25",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUDRV2P9A5MWX.jpg": {
+      "referenceImageId": "REFIMGCUDRV2P9A5MWX",
+      "labels": [
+        "SHAPE",
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZC8Z0CVT94JL.jpg": {
+      "referenceImageId": "REFIMGCZC8Z0CVT94JL",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCR9K0FLEU5B66.jpg": {
+      "referenceImageId": "REFIMGCR9K0FLEU5B66",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC21A4VLG1CDDF.jpg": {
+      "referenceImageId": "REFIMGC21A4VLG1CDDF",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCY683QM3JL5A9.jpg": {
+      "referenceImageId": "REFIMGCY683QM3JL5A9",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B08ZS1WRGQ",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC8RRFB5VBR960",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 61.0,
+      "widthInCms": 61.0,
+      "heightInCms": 0.99
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 50.0
+}

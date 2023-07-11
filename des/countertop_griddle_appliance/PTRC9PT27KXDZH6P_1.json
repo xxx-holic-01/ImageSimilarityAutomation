@@ -1,0 +1,67 @@
+{
+  "images": {
+    "REFIMGC90Q59HUMCGP0.jpg": {
+      "referenceImageId": "REFIMGC90Q59HUMCGP0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCNJQG2LDTLZBC.jpg": {
+      "referenceImageId": "REFIMGCNJQG2LDTLZBC",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC09Y4EAT9D02Q.jpg": {
+      "referenceImageId": "REFIMGC09Y4EAT9D02Q",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCPQ8YCN58MFPW.jpg": {
+      "referenceImageId": "REFIMGCPQ8YCN58MFPW",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCTR4JQFENQPYT.jpg": {
+      "referenceImageId": "REFIMGCTR4JQFENQPYT",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCHN6NXQGR93Z6.jpg": {
+      "referenceImageId": "REFIMGCHN6NXQGR93Z6",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "MAOPINER Bubble Waffle Maker Pan Waffle Cake Mold Pot Non-stick Double Side Egg Waffle Maker for Breakfast Lunch Household Cafe Restaurant Cake Shop ,Color : Silver \u0026 Black,DA done in 1st pan(top)"
+    }
+  },
+  "asin": "B093FD6MJC",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC9PT27KXDZH6P",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 20.39,
+      "widthInCms": 40.0,
+      "heightInCms": 4.62
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "COUNTERTOP_GRIDDLE_APPLIANCE",
+  "focalLength": 33.0
+}

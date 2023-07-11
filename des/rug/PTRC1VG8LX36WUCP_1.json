@@ -1,0 +1,59 @@
+{
+  "images": {
+    "REFIMGCYJYU1W37CPQ9.jpg": {
+      "referenceImageId": "REFIMGCYJYU1W37CPQ9",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3A170F4FJK8A.jpg": {
+      "referenceImageId": "REFIMGC3A170F4FJK8A",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCAYEP4K2T0YAW.jpg": {
+      "referenceImageId": "REFIMGCAYEP4K2T0YAW",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Title-Gertmenian Indoor Outdoor Area Rug Nut Brown Black"
+    },
+    "REFIMGCWY0BUREBMDL6.jpg": {
+      "referenceImageId": "REFIMGCWY0BUREBMDL6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09WXPKR4V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC1VG8LX36WUCP",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 215.0,
+      "widthInCms": 274.32,
+      "heightInCms": 1.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

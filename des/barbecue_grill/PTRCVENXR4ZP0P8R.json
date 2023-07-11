@@ -1,0 +1,120 @@
+{
+  "images": {
+    "REFIMGC21G9HMRW7WBF.jpg": {
+      "referenceImageId": "REFIMGC21G9HMRW7WBF",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCV0GV2DE51WYT.jpg": {
+      "referenceImageId": "REFIMGCV0GV2DE51WYT",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCPMRE192YFMXB.jpg": {
+      "referenceImageId": "REFIMGCPMRE192YFMXB",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC830VHUN8NZX4.jpg": {
+      "referenceImageId": "REFIMGC830VHUN8NZX4",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLZ8L81LR5UNR.jpg": {
+      "referenceImageId": "REFIMGCLZ8L81LR5UNR",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC1K2MRJ88WF53.jpg": {
+      "referenceImageId": "REFIMGC1K2MRJ88WF53",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCQC047DREY532.jpg": {
+      "referenceImageId": "REFIMGCQC047DREY532",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQ5PM94THEUGP.jpg": {
+      "referenceImageId": "REFIMGCQ5PM94THEUGP",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCGRAGBUA1A72A.jpg": {
+      "referenceImageId": "REFIMGCGRAGBUA1A72A",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07TN7H7FC",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCVENXR4ZP0P8R",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 55.0,
+      "widthInCms": 147.93,
+      "heightInCms": 110.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BARBECUE_GRILL",
+  "focalLength": 90.0
+}

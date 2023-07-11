@@ -1,0 +1,77 @@
+{
+  "images": {
+    "REFIMGCVVG0LAJGLY95.jpg": {
+      "referenceImageId": "REFIMGCVVG0LAJGLY95",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5XBFQ7UDGBGN.jpg": {
+      "referenceImageId": "REFIMGC5XBFQ7UDGBGN",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGC84D8NUR7LFKM.jpg": {
+      "referenceImageId": "REFIMGC84D8NUR7LFKM",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBG0M33ZGE0ZF.jpg": {
+      "referenceImageId": "REFIMGCBG0M33ZGE0ZF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCT43MJVZ2V561.jpg": {
+      "referenceImageId": "REFIMGCT43MJVZ2V561",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNLHM593EAKHC.jpg": {
+      "referenceImageId": "REFIMGCNLHM593EAKHC",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B009BMOMX4",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCBHP651DLU0MQ",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 6.89,
+      "widthInCms": 3.15,
+      "heightInCms": 6.69
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "ELECTRIC_WATER_BOILER",
+  "focalLength": 55.0
+}

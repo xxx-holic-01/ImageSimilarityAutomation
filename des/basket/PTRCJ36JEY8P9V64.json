@@ -1,0 +1,64 @@
+{
+  "images": {
+    "REFIMGC159P94R43ZF3.jpg": {
+      "referenceImageId": "REFIMGC159P94R43ZF3",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCU5P07Y5EGTB1.jpg": {
+      "referenceImageId": "REFIMGCU5P07Y5EGTB1",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCJT4VN4MTYLYR.jpg": {
+      "referenceImageId": "REFIMGCJT4VN4MTYLYR",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFPF0XFJQHG2U.jpg": {
+      "referenceImageId": "REFIMGCFPF0XFJQHG2U",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Wire Basket"
+    },
+    "REFIMGC241CR43T8CKZ.jpg": {
+      "referenceImageId": "REFIMGC241CR43T8CKZ",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B07Z1WKHFD",
+  "marketplace": 6,
+  "partnerOrderId": "PTRCJ36JEY8P9V64",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 26.0,
+      "widthInCms": 28.0,
+      "heightInCms": 18.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "BASKET",
+  "focalLength": 100.0
+}

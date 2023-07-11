@@ -1,0 +1,72 @@
+{
+  "images": {
+    "REFIMGCDYLX48YEU816.jpg": {
+      "referenceImageId": "REFIMGCDYLX48YEU816",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCW9WYB31JGJL0.jpg": {
+      "referenceImageId": "REFIMGCW9WYB31JGJL0",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Fnleon Full Length Mirror, Wall Mirror, Door Mirror, Full Length Mirror, Hanging Mirror for Bedroom, Living Room, Locker Room, Aluminum Alloy Frame, white"
+    },
+    "REFIMGC88X3JCDGJVGR.jpg": {
+      "referenceImageId": "REFIMGC88X3JCDGJVGR",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCBRKNKNRB5WL4.jpg": {
+      "referenceImageId": "REFIMGCBRKNKNRB5WL4",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCLJDRRQVUTVGG.jpg": {
+      "referenceImageId": "REFIMGCLJDRRQVUTVGG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC3XQ2MYZ5WX1T.jpg": {
+      "referenceImageId": "REFIMGC3XQ2MYZ5WX1T",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09KRLCMRT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNMNRUWVGFVFY",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 4.0,
+      "widthInCms": 38.32,
+      "heightInCms": 119.38
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 60.0
+}

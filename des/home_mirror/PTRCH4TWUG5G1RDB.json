@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCGUEXL4VEV7KE.jpg": {
+      "referenceImageId": "REFIMGCGUEXL4VEV7KE",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCMX2KVJXFWAA5.jpg": {
+      "referenceImageId": "REFIMGCMX2KVJXFWAA5",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4Z7E6X4ADCEA.jpg": {
+      "referenceImageId": "REFIMGC4Z7E6X4ADCEA",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCUJX28RT109RJ.jpg": {
+      "referenceImageId": "REFIMGCUJX28RT109RJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Mirror"
+    }
+  },
+  "asin": "B0B56KYB3V",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCH4TWUG5G1RDB",
+  "productDimensionList": [
+    {
+      "productCategory": "Mirror",
+      "lengthInCms": 39.48,
+      "widthInCms": 69.29,
+      "heightInCms": 149.08
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "HOME_MIRROR",
+  "focalLength": 55.0
+}

@@ -1,0 +1,56 @@
+{
+  "images": {
+    "REFIMGCYU7PHLN8RC10.jpg": {
+      "referenceImageId": "REFIMGCYU7PHLN8RC10",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCQA4M378X13B0.jpg": {
+      "referenceImageId": "REFIMGCQA4M378X13B0",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC4A70K4ECNG5P.jpg": {
+      "referenceImageId": "REFIMGC4A70K4ECNG5P",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC12K625P1JFWG.jpg": {
+      "referenceImageId": "REFIMGC12K625P1JFWG",
+      "labels": [
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BCYR8FN8",
+  "marketplace": 1,
+  "partnerOrderId": "PTRC3GJ7Q5QG3D1Z",
+  "productDimensionList": [
+    {
+      "productCategory": "Toddler Furniture/Crib",
+      "lengthInCms": 14.0,
+      "widthInCms": 47.5,
+      "heightInCms": 164.75
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STRINGED_INSTRUMENTS",
+  "focalLength": 75.0
+}

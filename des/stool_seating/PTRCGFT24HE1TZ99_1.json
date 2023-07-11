@@ -1,0 +1,51 @@
+{
+  "images": {
+    "REFIMGCNU7Y4DGBHD1Z.jpg": {
+      "referenceImageId": "REFIMGCNU7Y4DGBHD1Z",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCU306NB1MB4RX.jpg": {
+      "referenceImageId": "REFIMGCU306NB1MB4RX",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCQU8Z6G3Q6PZX.jpg": {
+      "referenceImageId": "REFIMGCQU8Z6G3Q6PZX",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BK87Y4Z5",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCGFT24HE1TZ99",
+  "productDimensionList": [
+    {
+      "productCategory": "Stool",
+      "lengthInCms": 39.0,
+      "widthInCms": 48.0,
+      "heightInCms": 83.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "STOOL_SEATING",
+  "focalLength": 45.0
+}

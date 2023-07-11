@@ -1,0 +1,91 @@
+{
+  "images": {
+    "REFIMGCQRH6DFZEUHHV.jpg": {
+      "referenceImageId": "REFIMGCQRH6DFZEUHHV",
+      "labels": [
+        "SHAPE",
+        "TEXTURE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC7XT9QJFF752H.jpg": {
+      "referenceImageId": "REFIMGC7XT9QJFF752H",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC5UW79A2GEJV2.jpg": {
+      "referenceImageId": "REFIMGC5UW79A2GEJV2",
+      "labels": [
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCRRAF1CVMDW8A.jpg": {
+      "referenceImageId": "REFIMGCRRAF1CVMDW8A",
+      "labels": [
+        "DIMENSION"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC9XK9DL68RCKD.jpg": {
+      "referenceImageId": "REFIMGC9XK9DL68RCKD",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCG2XM1J1NBT8J.jpg": {
+      "referenceImageId": "REFIMGCG2XM1J1NBT8J",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC91CLRJHN15FH.jpg": {
+      "referenceImageId": "REFIMGC91CLRJHN15FH",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "TEXTURE",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCB6QDYHYGT8LG.jpg": {
+      "referenceImageId": "REFIMGCB6QDYHYGT8LG",
+      "labels": [
+        "SHAPE"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B0BJPV8WGT",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCEP8KAH40QTUG",
+  "productDimensionList": [
+    {
+      "productCategory": "Rug/Mat",
+      "lengthInCms": 121.92,
+      "widthInCms": 167.64,
+      "heightInCms": 0.25
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "RUG",
+  "focalLength": 60.0
+}

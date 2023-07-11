@@ -1,0 +1,68 @@
+{
+  "images": {
+    "REFIMGCHPGWNZ9J5PZR.jpg": {
+      "referenceImageId": "REFIMGCHPGWNZ9J5PZR",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": ""
+    },
+    "REFIMGCUF5WW9TFQDEY.jpg": {
+      "referenceImageId": "REFIMGCUF5WW9TFQDEY",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGC23LDZ1Z5AZTF.jpg": {
+      "referenceImageId": "REFIMGC23LDZ1Z5AZTF",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCZDYKKFJ5K2B4.jpg": {
+      "referenceImageId": "REFIMGCZDYKKFJ5K2B4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCKYGXUZTB4HAT.jpg": {
+      "referenceImageId": "REFIMGCKYGXUZTB4HAT",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09NNPSC4F",
+  "marketplace": 3,
+  "partnerOrderId": "PTRCHPJY92L13BQD",
+  "productDimensionList": [
+    {
+      "productCategory": "Vase",
+      "lengthInCms": 36.5,
+      "widthInCms": 33.8,
+      "heightInCms": 31.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Regular",
+  "productType": "BABY_SEAT",
+  "focalLength": 55.0
+}

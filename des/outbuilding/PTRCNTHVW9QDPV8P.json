@@ -1,0 +1,96 @@
+{
+  "images": {
+    "REFIMGC2GQVKAFB9C5Z.jpg": {
+      "referenceImageId": "REFIMGC2GQVKAFB9C5Z",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCGE76WLTUNUTK.jpg": {
+      "referenceImageId": "REFIMGCGE76WLTUNUTK",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Outsunny 6\u0027 x 4\u0027 x 7\u0027 Hobby Greenhouse Walk-in Lean-to Polycarbonate Hot House Kit with Aluminum Frame Sliding Door Roof Vent Green"
+    },
+    "REFIMGCKQZEXPZ5M1N5.jpg": {
+      "referenceImageId": "REFIMGCKQZEXPZ5M1N5",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC5AX2J5NVFDN6.jpg": {
+      "referenceImageId": "REFIMGC5AX2J5NVFDN6",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCX6T7FVVNKNQW.jpg": {
+      "referenceImageId": "REFIMGCX6T7FVVNKNQW",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGCZ1W453PGY2K4.jpg": {
+      "referenceImageId": "REFIMGCZ1W453PGY2K4",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4BJTZ1H947NA.jpg": {
+      "referenceImageId": "REFIMGC4BJTZ1H947NA",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC4Q791H6W5P42.jpg": {
+      "referenceImageId": "REFIMGC4Q791H6W5P42",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    },
+    "REFIMGC2RX9Y1PG42CQ.jpg": {
+      "referenceImageId": "REFIMGC2RX9Y1PG42CQ",
+      "labels": [
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false
+    }
+  },
+  "asin": "B08Q62CGHL",
+  "marketplace": 1,
+  "partnerOrderId": "PTRCNTHVW9QDPV8P",
+  "productDimensionList": [
+    {
+      "productCategory": "Table",
+      "lengthInCms": 127.0,
+      "widthInCms": 191.77,
+      "heightInCms": 219.71
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "OUTBUILDING",
+  "focalLength": 90.0
+}

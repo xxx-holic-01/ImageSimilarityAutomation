@@ -1,0 +1,75 @@
+{
+  "images": {
+    "REFIMGCQTTVLNH1MX9B.jpg": {
+      "referenceImageId": "REFIMGCQTTVLNH1MX9B",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCNWH7F6UWDYV3.jpg": {
+      "referenceImageId": "REFIMGCNWH7F6UWDYV3",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DIMENSION",
+        "TEXTURE",
+        "MATERIAL",
+        "DETAILS"
+      ],
+      "primary": true,
+      "comment": "Hauptstadtkoffer Alex Hard Shell Trolley Suitcase, Travel Suitcase, 4 Double Wheels, Expansion, Avocado, Koffer-Set "
+    },
+    "REFIMGC5W7UMT6PZEW5.jpg": {
+      "referenceImageId": "REFIMGC5W7UMT6PZEW5",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCFXPA87ZW2HRJ.jpg": {
+      "referenceImageId": "REFIMGCFXPA87ZW2HRJ",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    },
+    "REFIMGCX1MAXY23T7W8.jpg": {
+      "referenceImageId": "REFIMGCX1MAXY23T7W8",
+      "labels": [
+        "COLOR",
+        "SHAPE",
+        "DETAILS"
+      ],
+      "primary": false,
+      "comment": ""
+    }
+  },
+  "asin": "B09B7BQB5M",
+  "marketplace": 4,
+  "partnerOrderId": "PTRC1LH159AX5R7F",
+  "productDimensionList": [
+    {
+      "productCategory": "Cabinet",
+      "lengthInCms": 30.0,
+      "widthInCms": 50.0,
+      "heightInCms": 105.0
+    }
+  ],
+  "multiDimensionProduct": false,
+  "dimensionWorkflowType": "Re-Charter",
+  "productType": "SUITCASE",
+  "focalLength": 50.0
+}
